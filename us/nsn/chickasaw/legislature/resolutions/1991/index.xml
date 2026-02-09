@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="1991">
+  <heading>1991 Resolutions</heading>
+  <xi:include href="./TL9-001.xml"/>
+  <xi:include href="./GR8-79.xml"/>
+  <xi:include href="./PR8-05.xml"/>
+  <xi:include href="./GR8-58.xml"/>
+</collection>

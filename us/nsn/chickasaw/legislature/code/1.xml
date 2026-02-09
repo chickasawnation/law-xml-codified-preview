@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>1</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>DEFINITIONS, INTERPRETATION, APPLICABILITY</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-101.1</num>
+      <heading>CITATION OF CODE.</heading>
+      <text>The Enactments embraced in this and the following Chapters and sections shall constitute and be designated as "The Code of the Chickasaw Nation" or "Chickasaw Nation Code" and may be so cited. The Code may also be cited as the "Chickasaw Code" or the "Tribal Code" or, in the provisions which follow, as this "Code."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-101.2</num>
+      <heading>DEFINITIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>In the construction of this Code and all Enactments, the following rules of construction and definitions shall be observed unless inconsistent with the manifest intent of the Legislature or the context clearly requires otherwise:</text>
+        <para>
+          <num>1.</num>
+          <text>"And/or" means either or both of. When expression "and/or" is used, that word may be taken as will best effect the purposes of the parties as gathered from the contract taken as a whole, or, in other words, as will best accord with the equity of the situation;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"Chairman" or "Chairperson" means the duly elected Chairperson of the Tribal Legislature unless otherwise designated in the context of the section, article or chapter;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>"Chickasaw Nation" or "Nation" means the Tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, being duly recognized by the Secretary of Interior of the United States of America, as a self governing, sovereign government. "Chickasaw Nation" shall be used to describe the lands and people of the Chickasaw Tribe;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>"Citizen" or "Chickasaw Citizen" means any Chickasaw Indian by blood, whose name appears on the final rolls of the Chickasaw Nation approved pursuant to Section 2 of the Act of April 26, 1906 (34 Stat. 137) and their lineal descendants;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>"Constitution" means the Constitution of the Chickasaw Nation as ratified by the Voters of the Chickasaw Nation on August 27, 1983, and amendments thereto;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>"Court" or "Tribal Court" means the Judicial Department of the Nation as established by the Constitution and legislation enacted pursuant to Amendment V;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>"Definitions" given within a chapter or article apply only to words or phrases used in such chapter or article unless otherwise provided;</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>"District" means any of the Legislative Districts of the Nation as defined in the Constitution of the Nation;</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>"Enactments" or "Acts" mean the Enactments of the Nation and all amendments and supplements thereto;</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>"Gender." Words importing the masculine gender include the feminine and neuter as well as the masculine;</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>"Governor" means the chief magistrate of the Nation in whom the supreme executive power of the Nation is vested in accordance with the constitution;</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>"Legislator" means a duly elected member of the Tribal Legislature who has been properly sworn and seated in the Legislature;</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>"Legislature" or "Tribal Legislature" means the Legislative Department of the Chickasaw Nation as created and empowered by Article V, VI, VII, VIII and IX of the Constitution;</text>
+        </para>
+        <para>
+          <num>14.</num>
+          <text>"May." The word may is permissive and discretionary;</text>
+        </para>
+        <para>
+          <num>15.</num>
+          <text>"Month" means a calendar month;</text>
+        </para>
+        <para>
+          <num>16.</num>
+          <text>"Nation," see "Chickasaw Nation;"</text>
+        </para>
+        <para>
+          <num>17.</num>
+          <text>"Number" means words used in the singular include the plural and the plural includes the singular;</text>
+        </para>
+        <para>
+          <num>18.</num>
+          <text>"Person" means any individual, natural person, joint stock company, partnership, voluntary association, club, firm, company, corporation, business trust, organization, or any other bodies corporate or politic or group acting as a unit, or the manager, lessee, agent, servant, partner, member, director, officer or employee of any of them including an executor, administrator, trustee, receiver, or other representative appointed according to law;</text>
+        </para>
+        <para>
+          <num>19.</num>
+          <text>"Preceding" and "Following" means next before and next after, respectively;</text>
+        </para>
+        <para>
+          <num>20.</num>
+          <text>"Registered Voter" or "Voter" means a Chickasaw Citizen who has met the necessary requirements and has completed an acceptable Voter registration form and submitted such to the proper authority as established by the Nation;</text>
+        </para>
+        <para>
+          <num>21.</num>
+          <text>"Shall." The word "Shall" is mandatory;</text>
+        </para>
+        <para>
+          <num>22.</num>
+          <text>"Signature" and "Subscription" means the name of a Person, mark or symbol appended by him to a writing with intent to authenticate the instrument as one made or put into effect by him;</text>
+        </para>
+        <para>
+          <num>23.</num>
+          <text>"State" means the State of Oklahoma;</text>
+        </para>
+        <para>
+          <num>24.</num>
+          <text>"Supreme Court Justice" or "Justice" means a Person elected to serve as a Justice of the Judicial Department as provided in Amendment V to the Constitution;</text>
+        </para>
+        <para>
+          <num>25.</num>
+          <text>"Tense" Words used in the past or present tense include the future, past and present where applicable unless the context clearly indicates otherwise;</text>
+        </para>
+        <para>
+          <num>26.</num>
+          <text>"Territorial Limits" means within the properties of the Nation and includes not only the corporate limits of the Nation but also any property which it owns or which is under its jurisdiction;</text>
+        </para>
+        <para>
+          <num>27.</num>
+          <text>"Time" means the hour of the day according to the official time of the day;</text>
+        </para>
+        <para>
+          <num>28.</num>
+          <text>"Time of Performance" means the time within which an act is to be done as provided in any section or any order issued pursuant to any section, when expressed in days, and is computed by excluding the first and including the last day. If the last day is a Sunday or legal holiday, that day shall not be counted in the computation. When the time is expressed in hours, the whole of Sunday or a legal holiday from midnight to midnight is excluded;</text>
+        </para>
+        <para>
+          <num>29.</num>
+          <text>"Tribal Court" see "Court";</text>
+        </para>
+        <para>
+          <num>30.</num>
+          <text>"Tribal District Judge" or "Judge" means a Person appointed to serve as a District Court Judge of the Judicial Department as provided in Amendment V to the Constitution and legislation enacted pursuant to Amendment V;</text>
+        </para>
+        <para>
+          <num>31.</num>
+          <text>"Tribal Government" or "Tribe" see "Chickasaw Nation";</text>
+        </para>
+        <para>
+          <num>32.</num>
+          <text>"Tribal Legislature" see "Legislature";</text>
+        </para>
+        <para>
+          <num>33.</num>
+          <text>"Voter" see "Registered Voter;"</text>
+        </para>
+        <para>
+          <num>34.</num>
+          <text>"Week" means seven (7) consecutive days;</text>
+        </para>
+        <para>
+          <num>35.</num>
+          <text>"Writing" and "Written" means any representation of words, letters or figures, whether by printing or otherwise, capable of comprehension by ordinary visual means; and</text>
+        </para>
+        <para>
+          <num>36.</num>
+          <text>"Year" means a calendar year or a fiscal year as determined by the context.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-101.3</num>
+      <heading>CONFLICTING PROVISIONS.</heading>
+      <text>If the provisions of different parts, chapters, articles or sections of this Code conflict with or contravene each other, the provisions of the current Enactment shall prevail as to all matters and questions growing out of the subject matter of that part, chapter, article or section when such Enactment indicates that its provisions shall prevail over previous provisions, except where such provisions state that they apply only to the particular part, chapter, article or section in question and not intended to affect all applicable areas of law within the Code. Otherwise, the original Enactment shall prevail.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-101.4</num>
+      <heading>CATCHLINES AND HEADINGS.</heading>
+      <text>All designations and headings of parts, chapters, articles and sections are intended only for convenience in arrangement and as mere catchwords to indicate the contents of such parts, chapters, articles or sections. They shall not be deemed or taken to be any part or title of such parts, chapters, articles or sections; nor, unless expressly so provided, shall they be so deemed upon amendment or reenactment; nor shall they be construed to govern, limit, modify, alter or in any other manner affect the scope, meaning or intent of any of the provisions of this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-101.5</num>
+      <heading>TERRITORIAL APPLICABILITY.</heading>
+      <text>Except as provided otherwise, this Code refers only to the commission or omission of acts within the territorial limits of the Nation and territories over which the Nation has the power to govern in accordance with federal law and the Constitution. This Code also applies to that territory outside the boundaries of this Nation over which the Nation has jurisdiction, ownership or control by virtue of any constitutional or legal provision, or any law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-101.6</num>
+      <heading>CODE SEVERABILITY.</heading>
+      <text>It is declared to be the intention of the Legislature that the sections, subsections, paragraphs, sentences, clauses and words of this Code are severable. If any section, subsection, paragraph, sentence, clause or word is declared unconstitutional or otherwise invalid by the judgment or decree of any court of competent jurisdiction, its unconstitutionality or invalidity shall not affect the validity of any of the remaining sections, subsections, paragraphs, sentences, clauses and words of this Code, since the sections or parts of sections would have been enacted by the Legislature without and irrespective of any unconstitutional or otherwise invalid section, subsection, paragraph, sentence, clause or word being incorporated into this Code.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>STANDARD RULES AND PROVISIONS</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>DISTRICTS OF THE NATION AND APPORTIONMENT</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-301.1</num>
+      <heading>SHORT TITLE.</heading>
+      <text>This Title 1, Chapter 3 of the Chickasaw Nation Code shall be called the "Chickasaw Nation Apportionment Plan" ("Plan").</text>
+      <annotations>
+        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL 5-002, 1/18/88</annotation>
+        <annotation type="History" effective="2013-01-17" doc="PR30-006">PR30-006, 1/17/13</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-301.2</num>
+      <heading>FINDINGS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Pursuant to Article VI, Section 3 of the Chickasaw Constitution, "[t]he Tribal Legislature shall consist of thirteen (13) members to be elected from the following districts according to an apportionment plan prescribed by the Tribal Legislature: Panola, Pickens, Tishomingo, Pontotoc."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Pursuant to Article VI, Section 5 of the Chickasaw Constitution, such plan must be based on registered voters of the Chickasaw Nation "until such time a more reliable means can be established pursuant to legislative action.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Chickasaw Constitution was ratified by the Chickasaw voters in 1983, a time when it was not anticipated that tribal membership would grow to the extent that it has and that most of the Chickasaw voters would be living outside the Nation's boundaries.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Chickasaw Tribal Legislature finds that the number of registered voters affiliated with each of the four (4) voting districts of the Chickasaw Nation is no longer a reliable means for equitable distribution of the legislative function of tribal government among the four (4) districts.</text>
+        <para>
+          <num>E.</num>
+          <text>The Chickasaw Tribal Legislature finds that it is in the best interest of the Chickasaw Nation that the current apportionment be maintained.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL 5-002, 1/18/88</annotation>
+        <annotation type="History" effective="2013-01-17" doc="PR30-006">PR30-006, 1/17/13</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-301.3</num>
+      <heading>APPORTIONMENT.</heading>
+      <text>The districts of the Chickasaw Nation shall contain the following designated number of Legislative seats for each district in accordance with the Chickasaw Constitution and this Plan:</text>
+      <para>
+        <num>1.</num>
+        <text>Panola District - one (1) seat in the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Pickens District - four (4) seats in the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Pontotoc District - five (5) seats in the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Tishomingo District - three (3) seats in the Tribal Legislature.</text>
+      </para>
+      <text>This apportionment shall remain in effect until changed in accordance with the provisions of the Constitution and Code of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL 5-002, 1/18/88</annotation>
+        <annotation type="History" effective="2013-01-17" doc="PR30-006">PR30-006, 1/17/13</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>SEAL OF THE NATION</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.1</num>
+      <heading>LEGAL AUTHORITY FOR USE OF THE SEAL.</heading>
+      <text>The purpose of this Chapter is to afford adequate and safe protections of and for the Great Seal of the Nation and to regulate the uses to and for which the Great Seal of the Nation may be put. The Official Seal of the Nation was officially returned to the Nation after being in the possession of the United States Government since Oklahoma statehood in 1907. The official Seal is reserved for the use of the Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/02/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.2</num>
+      <heading>SEAL RECOGNIZED, DEFINED.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Legislature reaffirms and affords recognition to the Great Seal of the Chickasaw Nation as adopted by the Chickasaw people on March 4, 1856.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Great Seal of the Chickasaw Nation, also referred to as "Great Seal" or "Seal", means any representation of the Seal adopted by the first Tribal Legislature held after formation of the Nation in its present location, as created by that Legislature on March 4, 1856, and any amendments officially made by the Legislature, and any other likeness or reproduction thereof, including but not limited to the one impression Seal in the possession of the Governor. The Great Seal consists of a likeness of Chief Tishomingo holding a shield and bow, with four (4) swan feathers in his headband and swan mantle across his chest and a quiver of arrows at his side, standing in front of the Mississippi River with trees and shrubs from that area appearing in the background and foreground, surrounded by the words, "The Great Seal of the Chickasaw Nation", whether the Seal be in full color, any combination of colors or in one color.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/2/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.3</num>
+      <heading>OTHER DEFINITIONS.</heading>
+      <text>For the purpose of this Chapter, the following terms shall have the meanings respectively ascribed to them unless the context clearly requires another meaning:</text>
+      <para>
+        <num>1.</num>
+        <text>"Governmental Activity" means a function of the Tribal Government in providing for its own support, in providing services to the public or during the course of its operations of business entities which are wholly or partially owned by the Chickasaw Nation; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Reproduce" or "Reproduction" means any sort or form of copying, reproducing, enlarging, shrinking or imprinting in monochromatic color schemes or in full color, including xerography, printing, and any other means, either manual or mechanical.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/2/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.4</num>
+      <heading>SEAL TO BE AFFIXED ON OFFICIAL DOCUMENTS.</heading>
+      <text>The Great Seal of the Chickasaw Nation shall be affixed to all official government documents of the Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/2/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.5</num>
+      <heading>ORIGINAL SEAL KEPT, USED BY GOVERNOR.</heading>
+      <text>The original impression of the Great Seal of the Chickasaw Nation shall be kept by the Governor and used by him officially in the performance of his duties.</text>
+      <annotations>
+        <annotation type="History" effective="1986-11-21" doc="TL4-002">TL4-002, 11/21/86</annotation>
+        <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/2/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.6</num>
+      <heading>USE OF SEAL RESTRICTED TO GOVERNMENTAL ACTIVITIES; EXCEPTIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any and all rights of the use of the Great Seal of the Chickasaw Nation are reserved to the Nation, as established in the Constitution, in the course of Governmental Activities.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Approval for the use of any sort of reproduction of the Seal may be granted by the Legislature to an entity, Person or organization which is outside or not a part of the Tribal Government upon being petitioned for such use. Such approval shall be obtained before the Seal is put to any use by any such entity, Person or organization.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Former elected and appointed officials of the Chickasaw Nation may display a likeness of the Great Seal on their own cemetery headstones and other similar items to be used as personal memorials. The purpose for the use of a likeness of the Great Seal in this context must be only to show that Person's pride in being Chickasaw and for no other purpose.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1997-04-16" doc="PR14-011">PR14-011, 4/16/97</annotation>
+        <annotation type="History" effective="2010-07-16" doc="PR27-009">PR27-009, 7/16/10</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.7</num>
+      <heading>SEAL NOT TO BE REPRODUCED OR USED WITHOUT APPROVAL.</heading>
+      <text>The use of the Seal in any manner whatsoever, or the Reproduction or display thereof, by any entity, Person or organization outside the Tribal Government, without the express written approval and permission of the Legislature, is prohibited.</text>
+      <annotations>
+        <annotation type="History" effective="1997-04-16" doc="PR14-011">PR14-011, 4/16/97</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.8</num>
+      <heading>UNAUTHORIZED DISPLAY, USE OF SEAL.</heading>
+      <text>Any unauthorized display or representation of the Seal shall constitute an offense punishable upon determination of guilt by the Court.</text>
+      <annotations>
+        <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/2/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.9</num>
+      <heading>ORDER TO DISCONTINUE USE OF SEAL.</heading>
+      <text>The Governor, Lieutenant Governor, or any member of the Legislature may direct any Person found to be violating the terms of this Chapter to halt the use of the Seal and may present such alleged violation to the Court in accordance with the rules and procedures of the Court for filing petitions.</text>
+      <annotations>
+        <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/2/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-401.10</num>
+      <heading>AUTHORITY TO PROTECT SEAL OF THE CHICKASAW NATION.</heading>
+      <text>The Governor, Lieutenant Governor, or any member of the Legislature may take appropriate actions to accomplish the protection of the Seal of the Chickasaw Nation. Such actions may include, but will not be limited to, hiring an attorney to file Trademark and or Servicemark Applications with both State and Federal agencies and authorizing protective action as necessary to enforce rights to the mark. As well, activities necessary to expand use of the mark(s) for the general benefit of the Nation are also hereby authorized.</text>
+      <annotations>
+        <annotation type="History" effective="1997-08-15" doc="PR14-014">PR14-014, 8/15/97</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>COMMUNITY COUNCILS &amp; YOUTH COUNCILS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-501.1</num>
+      <heading>COMMUNITY COUNCILS.</heading>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-501.2</num>
+      <heading>YOUTH COUNCILS.</heading>
+      <text>The Chickasaw Nation Youth Services Department has overseen the establishment of Youth Councils consisting of Chickasaw youth in all four (4) Districts of the Chickasaw Nation and includes a Youth Executive Council and whose officers have been duly elected and installed. The Chickasaw Nation recognizes that the members of those councils are representative of the youth of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1993-11-19" doc="GR11-09">GR11-09, 11/19/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-501.3</num>
+      <heading>COUNCIL OF ELDERS.</heading>
+      <text>The Chickasaw Tribal Legislature authorizes a Council of Elders to be developed and placed under the authority of the Cultural Resources Division. The Council of Elders will provide advice regarding language preservation, repatriation, gravesite identification, and other concerns the council may desire to express.</text>
+      <annotations>
+        <annotation type="History" effective="2001-03-16" doc="PR18-018">PR18-018, 3/16/01</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-501.4</num>
+      <heading>DUTIES OF COUNCIL.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Chickasaw Nation is committed to protecting and preserving its culture; and</text>
+        <para>
+          <num>B.</num>
+          <text>a need exists to develop and implement a Chickasaw Nation Council of Elders in order to serve in an advisory capacity.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2001-03-16" doc="PR18-018">PR18-018, 3/16/01</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>1-501.5</num>
+      <heading>GUIDELINES.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Council of Elders shall consist of one (1) member per senior citizen site and four (4) at large members, and each member shall be sixty (60) years of age or older.</text>
+        <para>
+          <num>B.</num>
+          <text>Each member shall be eligible to receive a stipend of fifty dollars ($50) per meeting attended, up to a maximum of twelve (12) meetings per year.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2002-02-15" doc="PR19-013">PR19-013, 2/15/02</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="1988">
+  <heading>1988 Resolutions</heading>
+  <xi:include href="./GR6-28.xml"/>
+  <xi:include href="./GR6-27.xml"/>
+  <xi:include href="./TL5-004.xml"/>
+  <xi:include href="./GR5-85.xml"/>
+  <xi:include href="./GR5-36.xml"/>
+  <xi:include href="./TL5-001.xml"/>
+  <xi:include href="./TL5-002.xml"/>
+</collection>
