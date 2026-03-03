@@ -1,0 +1,1998 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>3</num>
+  <heading>BUSINESS REGULATIONS AND LICENSING</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>ALCOHOLIC BEVERAGE LICENSING AND REGULATIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.1</num>
+      <heading>TITLE</heading>
+      <text>Be it enacted by the Tribal Legislature of the Chickasaw Nation assembled, that this Act may be cited as the "Beverage Control Act of 2007" (hereinafter "Act"), as amended. This Act is enacted by the Chickasaw Tribal Legislature under the authority of Article VI, Section 1 and Article VII, Section 4 of the Constitution of the Chickasaw Nation, wherein the Legislature is required to prescribe procedures and regulations pertaining to the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="2006-10-20" doc="PR24-001">PR24-001, 10/20/06</annotation>
+        <annotation type="History" effective="2015-09-21" doc="PR32-008">PR32-008, 9/21/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.2</num>
+      <heading>FINDINGS.</heading>
+      <text>The Legislature finds that:</text>
+      <para>
+        <num>1.</num>
+        <text>it is necessary to adopt strict controls over the operation of certain beverage sales conducted in Indian Country which is under the jurisdiction of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>it is necessary to establish legal authority for the Chickasaw Nation, its agents, servants, employees, and licensees to engage in Alcoholic Beverage sales on tribal lands within the legal boundaries of the Chickasaw Nation, provided that such locations are in compliance with the laws of the State of Oklahoma.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2006-12-15" doc="PR24-003">PR24-003, 12/15/06</annotation>
+        <annotation type="History" effective="2015-09-21" doc="PR32-008">PR32-008, 9/21/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.3</num>
+      <heading>DEFINITIONS.</heading>
+      <text>As used in this Act, the following words shall have the following meanings unless the context in which they appear clearly requires otherwise:</text>
+      <para>
+        <num>1.</num>
+        <text>"Alcohol" means and includes hydrated oxide of ethyl, ethyl Alcohol, Alcohol, ethanol, or Spirits of Wine, from whatever source and by whatever process produced;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Alcoholic Beverage" means Alcohol, Spirits, Beer and Wine as those terms are defined herein and also includes every liquid or solid, patented or not, containing Alcohol, Spirits, Wine or Beer and capable of being consumed as a beverage by human beings, but does not include Low-Point Beer;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Bar" means any establishment with special space and accommodations for the Sale of alcoholic beverages and for consumption on-premises as defined herein;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Beer" means any beverage containing more than three and two-tenths percent (3.2%) of Alcohol by weight and obtained by the alcoholic fermentation of an infusion or decoction of barley or other grain, malt or similar products. "Beer" may or may not contain hops or other vegetable products. "Beer" includes, among other things, Beer, ale, stout, lager Beer, porter and other malt or brewed liquors, but does not include sake, known as Japanese rice Wine;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Chickasaw Nation Tax Commission" means the commission created by the Legislature as found in <cite path="PROOF 2|10||2-1071">Section 2-1071</cite> in the Code of Laws of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Light Wine" means any Wine containing not more than fourteen percent (14%) Alcohol measured by volume at sixty (60) degrees Fahrenheit;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Liquor Store" means any store at which Alcoholic Beverages are sold and, for the purpose of this Act, includes stores only a portion of which are devoted to the Sale of Alcoholic Beverages;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Low-Point Beer" or "Light Beer" means and includes beverages containing more than one-half of one percent (½ of 1 %) Alcohol by volume, and not more than three and two-tenths percent (3.2%) Alcohol by weight, including but not</text>
+      </para>
+      <text>limited to Beer or cereal malt beverages obtained by the alcoholic fermentation of an infusion of barley or other grain, malt or similar products;</text>
+      <para>
+        <num>9.</num>
+        <text>"Mixed Beverage" means one or more servings of a beverage composed in whole or part of an Alcoholic Beverage in a sealed or unsealed container of any legal size for consumption on the premises where served or sold by the holder of a license;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Original Package" means any container or receptacle used for holding Alcoholic Beverages filled and stamped or sealed by the manufacturer;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Public Place" means federal, state, county or tribal highways and roads; buildings and grounds used for school purposes; public dance halls and grounds adjacent thereto; soft drink establishments, public buildings, public meeting halls, lobbies, halls and dining rooms of hotels, restaurants, theaters, gaming facilities, entertainment centers, stores, garages and filling stations which are open to and/or generally used by the public and to which the public has right to access; public conveyances of all kinds and character; and all other places of like or similar nature to which the general public has right to access, and which are generally used by the public;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Sale" and "Sell" mean the exchange, barter and traffic, including the selling or supplying or distributing, by any means whatsoever, by any person to any person;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Spirits" means any beverage other than Wine, Beer or Light Beer, which contains more than one-half of one percent (½ of 1%) Alcohol measured by volume and obtained by distillation, whether or not mixed with other substances in solution and includes those products known as whiskey, brandy, rum, gin, vodka, liqueurs, cordials and fortified wines and similar compounds; but shall not include any Alcohol liquid completely denatured in accordance with the Acts of Congress and regulations pursuant thereto;</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Tribal Court" means the Chickasaw Nation Tribal District Court;</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Tribal Lands" means any or all land over which the Chickasaw Nation exercises governmental powers and that is either held in trust by the United States for the benefit of the Chickasaw Nation or individual citizens of the Chickasaw Nation subject to restrictions by the United States against alienation, and dependent Indian communities, as contained in Title 18 § 1151 of the United States Code;</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Wine" means and includes any beverage containing more than one-half of one percent (½ of 1 %) Alcohol by volume and not more than twenty-four percent (24%) Alcohol by volume at sixty (60) degrees Fahrenheit obtained by the fermentation of the natural contents of fruits, vegetables, honey, milk or other products containing sugar, whether or not other ingredients are added, and includes vermouth and sake, known as Japanese rice Wine.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2007-12-15" doc="PR24-003">PR24-003, 12/15/07</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.4</num>
+      <heading>CHICKASAW NATION TAX COMMISSION POWERS AND DUTIES.</heading>
+      <text>In furtherance of this Act, the Chickasaw Nation Tax Commission shall have the following powers and duties:</text>
+      <para>
+        <num>1.</num>
+        <text>publish and enforce rules and regulations adopted by the Chickasaw Nation Tax Commission governing the Sale, distribution and possession of Alcoholic Beverages on Tribal Lands;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>employ such persons as shall be reasonably necessary to allow the Chickasaw Nation Tax Commission to perform its functions;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>issue licenses permitting the Sale or distribution of Alcoholic Beverages on Tribal Lands;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>hold hearings on violations of this Act or for the issuance of revocation of licenses hereunder;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>bring suit in Tribal Court or other appropriate court to enforce this Act as necessary;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>determine and seek damages for violation of this Act;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>make such reports as may be requested or required by the Governor of the Chickasaw Nation, who may share those reports with the Chickasaw Tribal Legislature;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>collect taxes and fees levied or set by the Chickasaw Tribal Legislature and keep accurate records, books and accounts;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>adopt procedures which supplement this Act and regulations promulgated by the Chickasaw Nation Tax Commission and facilitate their enforcement. Such</text>
+      </para>
+      <text>procedures shall include limitations on sales to minors, places where liquor may be consumed, identity of persons not permitted to purchase alcoholic beverages, hours and days when outlets may be open for business, and other appropriate matters and controls; and</text>
+      <para>
+        <num>10.</num>
+        <text>request amendments to this Act to address future changes in the way the Chickasaw Nation sells, distributes or possesses Alcoholic Beverages in order to ensure that this Act remains consistent with state Alcoholic Beverage laws.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.5</num>
+      <heading>INSPECTION RIGHTS.</heading>
+      <text>The premises on which beverages defined in this Act are sold or distributed shall be open for inspection by the Chickasaw Nation Tax Commission and/or its agents at all reasonable times for the purposes of ascertaining compliance with the rules and regulations of the Chickasaw Nation Tax Commission and this Act.</text>
+      <annotations>
+        <annotation type="History" effective="2015-09-21" doc="PR32-008">PR32-008, 9/21/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.6</num>
+      <heading>SALES OF ALCOHOL.</heading>
+      <para>
+        <num>A.</num>
+        <text>A person or entity who is licensed by the Chickasaw Nation Tax Commission may make retail sales of beverages as defined in this Act in their facility and the patrons of the facility may consume such liquor within any facility, other than a convenience store location. The introduction and possession of beverages as defined in this Act consistent with this Act shall also be allowed. All other purchases and sales of beverages as defined in this Act on Tribal Lands shall be prohibited. Sales of beverages as defined in this Act on Tribal Lands may only be made at businesses that hold a license from the Chickasaw Nation Tax Commission.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All sales of beverages as defined in this Act on Tribal Lands shall be on a cash only basis and no credit shall be extended to any person, organization or entity, except that this provision does not prevent the payment for purchases with use of credit cards such as Visa, Master Card, American Express, etc.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All sales of beverages as defined in this Act shall be for the personal use and consumption of the purchaser. Resale of any beverage as defined in this Act on Tribal Lands is prohibited. Any person who is not licensed pursuant to this Act who purchases beverages as defined in this Act on Tribal Lands and sells it, whether in the original container or not, shall be guilty of a violation of this Act and shall be subjected to paying damages to the Chickasaw Nation as set forth herein.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.7</num>
+      <heading>LICENSING AND APPLICATION.</heading>
+      <para>
+        <num>A.</num>
+        <text>In order to control the proliferation of establishments on Tribal Lands that Sell or serve liquor by the bottle or by the drink, all persons or entities that desire to Sell beverages as defined in this Act on Tribal Lands must apply for and receive from the Chickasaw Nation Tax Commission a license under this Act. A person desiring to serve Alcoholic Beverages as defined by this Act on Tribal Lands must apply for and receive from the Chickasaw Nation Tax Commission a license under this Act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person or entity applying for a license to Sell or serve beverages as defined in this Act on Tribal Lands must fill in the application provided for this purpose by the Chickasaw Nation Tax Commission and pay such application fee as may be set by the Chickasaw Tax Commission. Said applications must be filled out completely in order to be considered.</text>
+        <para>
+          <num>1.</num>
+          <text>Any person 21 years of age or older or entity that is owned or controlled by an individual 21 years of age or older may apply to the Chickasaw Nation Tax Commission for a license to Sell beverages as defined in this Act on Tribal Lands. A separate application and license will be required for each location where the applicant intends to Sell beverages as defined by this Act.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Any person 18 years of age or older, may apply to the Chickasaw Nation Tax Commission for a license to serve Alcoholic Beverages as defined in this Act. Provided, no person under 21 years of age may be employed in the selling or handling of Alcoholic Beverages or serve in designated bar or lounge areas.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any person who holds a license pursuant to <cite path="3|2|3-201.7">Section 3-201.7(b)</cite>(1) or (2) of this Act must at a minimum make a showing once every two years, and must satisfy the Chickasaw Nation Tax Commission, that he is a person of good character, having never been convicted of violating any of the state Alcoholic Beverage laws or the laws promulgated under this Act; that he has never been convicted of violating any of the gambling laws of Oklahoma, or any other state of the United States, or of this or any other tribe; that he has not had, preceding the date of his application for a license, a felony conviction of any of the laws commonly called prohibition laws; and that he has not had any permit or license to Sell any intoxicating liquors revoked in any county of Oklahoma, or any other state, or of any tribe; and that at the time of his application for a license, he is not the holder of a retail liquor dealer's permit or license from the United States government to engage in the Sale of beverages as defined in this Act.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Chickasaw Nation Tax Commission shall receive and process applications</text>
+      </para>
+      <text>and related matters. All actions relating to applications by the Chickasaw Nation Tax Commission shall be by majority vote. The Chickasaw Nation Tax Commission may, by resolution, authorize one of its members or agent to issue licenses for the Sale of beverages as defined in this Act.</text>
+      <para>
+        <num>E.</num>
+        <text>Each license shall be issued for a period not to exceed two (2) years from the date of issuance.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A licensee may renew its license if the licensee has complied in full with this Act; provided, however, that the Chickasaw Nation Tax Commission or its agent may refuse to renew a license if it finds that doing so would not be in the best interests of health and safety of the residents of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Chickasaw Nation Tax Commission or its agent may suspend or revoke a license due to one or more violations of this Act upon notice and hearing at which the licensee is given an opportunity to respond to any charges against it and to demonstrate why the license should not be suspended or revoked.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Within 15 days after a licensee is mailed written notice of a proposed suspension or revocation of the license, of the imposition of fines or of other adverse action proposed by the Chickasaw Nation Tax Commission under this Act, the licensee may deliver to the Chickasaw Nation Tax Commission a written request for a hearing on whether the proposed action should be taken. A hearing on the issues shall be held before a person or persons appointed by the Chickasaw Nation Tax Commission and a written decision will be issued. Such decisions will be considered final unless an appeal is filed in accordance with <cite path="5|2|G">Title 5, Chapter 2, Article G of the Chickasaw Nation Code.</cite> All proceedings conducted under all sections of this Act shall be in accord with due process of law.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Licenses issued by the Chickasaw Nation Tax Commission shall not be transferable and may only be used by the person or entity in whose name it is issued.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2015-09-21" doc="PR32-008">PR32-008, 9/21/15</annotation>
+        <annotation type="History" effective="2007-12-15" doc="PR24-003">PR24-003, 12/15/07</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.8</num>
+      <heading>TAXES.</heading>
+      <para>
+        <num>A.</num>
+        <text>As a condition precedent to the conduct of any operations pursuant to a license issued by the Chickasaw Nation Tax Commission, the licensee must obtain from the Chickasaw Nation Tax Commission such licenses, permits, tax stamps, tags, receipts or other documents or things evidencing receipt of any license or payment of any tax or fee administered by the Chickasaw Nation Tax Commission or otherwise showing compliance with the tax laws of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In addition to any other remedies provided in this Act, the Chickasaw Nation Tax Commission may suspend or revoke any licenses issued by it upon the failure of the licensee to comply with the obligations imposed upon the licensee by the Chickasaw Nation Tax Commission, by the Chickasaw Nation, or any rule, regulation or order of the Chickasaw Nation Tax Commission.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.9</num>
+      <heading>RULES, REGULATIONS AND ENFORCEMENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>In any proceeding under this Act, conviction of one unlawful Sale or distribution of beverages as defined in this Act shall establish prima facie intent of unlawfully keeping, selling, or distributing beverages as defined in this Act in violation of this Act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person who shall in any manner Sell or offer for Sale or distribution or transport beverages as defined in this Act in violation of this Act shall be subject to civil damages assessed by the Chickasaw Nation Tax Commission.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any person within the boundaries of Tribal Lands who buys beverages as defined in this Act from any person other than a properly licensed facility shall be guilty of a violation of this Act.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any person who keeps or possesses beverages as defined in this Act upon his person or in any place or on premises conducted or maintained by his principal or agent with the intent to Sell or distribute it contrary to the provisions of this Act, shall be guilty of a violation of this Act.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any person who knowingly sells beverages as defined in this Act to a person who is obviously intoxicated or appears to be intoxicated shall be guilty of a violation of this Act.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any person engaged wholly or in part in the business of carrying passengers for hire, and every agent, servant or employee of such person, who shall knowingly permit any person to drink beverages as defined in this Act in any public conveyance shall be guilty of an offense. Any person who shall drink beverages as defined in <cite path="3|2">this chapter</cite> in a public conveyance shall be guilty of a violation of this Act.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Except for persons possessing a valid license to serve beverages at designated locations as set forth in this Act, the following prohibitions shall apply:</text>
+        <para>
+          <num>1.</num>
+          <text>No person under the age of twenty-one (21) years shall consume or acquire</text>
+        </para>
+        <text>any beverages as defined in this Act; provided, no person under the age of twenty-one</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>years shall have in his possession Alcoholic Beverages as defined in this Act. No person shall permit any other person under the age of twenty-one (21) years to consume beverages as defined in this Act on his premises or any premises under his control. Any person violating this prohibition shall be guilty of a separate violation of this Act for each and every drink so consumed.</text>
+        <para>
+          <num>2.</num>
+          <text>Any person who shall Sell or provide any beverages as defined in this Act to any person under the age of twenty-one (21) years shall be guilty of a violation of this Act for each and every Sale or drink provided; provided, nothing in this Section shall be construed to criminalize the selling of Low-Point Beer by persons eighteen (18) years of age or older who (a) are employed by a licensed retailer of Low-Point Beer; and (b) make such sale in accordance with this Act.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Any person who transfers in any manner an identification of age to a person under the age of twenty-one (21) years for the purpose of permitting such person to obtain beverages as defined in this Act shall be guilty of an offense; provided, that corroborative testimony of a witness other than the underage person shall be a requirement of finding a violation of this Act.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Any person who attempts to purchase beverages as defined in this Act through the use of false or altered identification that falsely purports to show the individual to be over the age of twenty-one (21) years shall be guilty of violating this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Any person who is convicted or pleads guilty to a violation of this Act shall be punished by imprisonment for not more than one (1) year, a fine not to exceed five thousand dollars ($5,000) or a combination of both penalties. In addition, if such person holds a license issued by the Chickasaw Tax Commission, the license shall be revoked.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>When requested by the provider of beverages as defined in this Act any person shall be required to present official documentation of the bearer's age, signature and photograph. Official documentation includes one of the following:</text>
+        <para>
+          <num>1.</num>
+          <text>driver's license or identification card issued by any state department of motor vehicles;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>United States Active Duty Military Identification card;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>tribally-issued identification card; or</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>passport.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>The consumption of beverages as defined in this Act on premises where such consumption or possession is contrary to the terms of this Act will result in a declaration that such beverages as defined in this Act are contraband. Any tribal agent, employee or officer who is authorized by the Chickasaw Nation Tax Commission shall seize all contraband and preserve it in accordance with provisions established for the preservation of impounded property. Upon being found in violation of this Act, the party owning or in control of the premises where contraband is found shall forfeit all right, title and interest in the items seized which shall become the property of the Chickasaw Nation Tax Commission.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2015-09-21" doc="PR32-008">PR32-008, 9/21/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.10</num>
+      <heading>ABATEMENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any room, house, building, vehicle, structure or other place where beverages as defined in this Act are sold, manufactured, bartered, exchanged, given away, furnished or otherwise disposed of in violation of the provisions of this Act or of any other tribal statute or law relating to the manufacture, importation, transportation, possession, distribution and Sale of beverages as defined in this Act and all property kept in and used in maintaining such place, is hereby declared a nuisance.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The chairman of the Chickasaw Nation Tax Commission, or if the chairman fails or refuses to do so, the Chickasaw Nation Tax Commission, by a majority vote, shall institute and maintain an action in the Tribal Court in the name of the Chickasaw Nation to abate and perpetually enjoin any nuisance declared under this Section. In addition to the other remedies at tribal law, the Tribal Court may also order the room, house, building, vehicle, structure or place closed for a period of one year or until the owner, lessee, tenant or occupant thereof shall give bond or sufficient sum from $1,000 to $15,000, depending upon the severity of past offenses, the risk of offenses in the future, and any other appropriate criteria, payable to the Chickasaw Nation and conditioned that beverages as defined in this Act will not be thereafter kept, sold, bartered, exchanged, given away, furnished or otherwise disposed of in violation of the provisions of this Act or of any other applicable tribal laws. If any conditions of the bond are violated, the bond may be applied to satisfy any amounts due to the Chickasaw Nation under this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.11</num>
+      <heading>SEVERABILITY AND EFFECTIVE DATE.</heading>
+      <para>
+        <num>A.</num>
+        <text>If any provision under this Act is determined by court review to be invalid, such determination shall not be held to render ineffectual the remaining portions of this Act or to render such provisions inapplicable to other persons or circumstances.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Once it has been signed into law by the Governor, this Act shall be effective on such date as the Secretary of the United States Department of the Interior certifies this Act and publishes the same in the <em>Federal Register.</em></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any and all previous statutes, laws and ordinances of the Chickasaw Nation Code which are inconsistent with this Act are hereby repealed and rescinded. Specifically repealed is Title 3, Chapter 2, Sections 3-201 through 3-215 as they existed before passage of this, the Beverage Control Act of 2007.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-201.12</num>
+      <heading>AMENDMENT AND CONSTRUCTION.</heading>
+      <text>Nothing in this Act may be construed to diminish or impair in any way the rights or sovereign powers of the Chickasaw Nation or its tribal government other than the due process provision at <cite path="3|2|3-201.7">Section 3-201.7</cite>.H which provides that licensees whose licenses have been revoked or suspended may seek review of that decision in Tribal Court.</text>
+      <annotations>
+        <annotation type="History" effective="2006-10-20" doc="PR24-001">PR24-001, 10/20/06</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>GAMING LICENSES AND REGULATIONS</heading>
+    <container>
+      <prefix>Article</prefix>
+      <num>A</num>
+      <heading>GENERAL PROVISIONS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3101</num>
+        <heading>FINDINGS.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Chickasaw Tribal Legislature finds that:</text>
+          <para>
+            <num>1.</num>
+            <text>A need exists to promote the public health and safety, education and welfare that may contribute to the social, physical well-being and economic advancement of citizens of the Chickasaw Nation;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>a need exists to create authorities with attendant powers to achieve objectives allowed under the provisions of the Constitution of the Chickasaw Nation;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>a need exists to provide for the employment, education, training, health, and other services which are not now being met in sufficient quantity by federal government agencies;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>a need exists for the Chickasaw Nation to be self-sufficient in its internal</text>
+          </para>
+          <text>affairs;</text>
+          <para>
+            <num>5.</num>
+            <text>a need exists to provide a system for regulating gaming activities in and for the Chickasaw Nation, which is in the best interests of the Chickasaw people and their health and welfare;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>a need exists for the Chickasaw Nation to generate revenues for self perpetuation and essential governmental services;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>a need exists for the Chickasaw Nation to comply with the provisions of the Indian Gaming Regulatory Act, as adopted by the Congress of the United States of America, 15 USC 2701, et. seq.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Be it enacted by the Chickasaw Tribal Legislature assembled, that this Act shall be cited as the "Chickasaw Nation Public Gaming Act of 1994."</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3102</num>
+        <heading>BASIS FOR AUTHORITY.</heading>
+        <text>The basis for authority of this Act is Article VI, Section 1, and Article VII, Section 4 of the Constitution of the Chickasaw Nation.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3103</num>
+        <heading>DEFINITIONS.</heading>
+        <para>
+          <num>A.</num>
+          <text>For the purpose of this Act:</text>
+          <para>
+            <num>1.</num>
+            <text>"The Chickasaw Nation" shall mean the government instituted in the Constitution of the Chickasaw Nation, or all Chickasaw Indians by blood whose names appear on the final rolls of the Chickasaw Nation approved pursuant to Section 2 of the Act of April 26, 1906, and their lineal descendants, or it shall mean the actual physical nation itself, depending upon reference;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>"shall" shall mean imposing an obligation to act;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>"gaming" shall be defined as having the same meanings as applied by and contained in the Indian Gaming Regulatory Act, Public Law 100-447;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>"Commissioner" shall mean the Commissioner of public gaming for the Chickasaw Nation, as provided by this Act;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>"license" shall mean the written permission by authority of the Chickasaw Nation to do an act, which without permission would be illegal, and is a document granted by the Commissioner of the Chickasaw Nation for a consideration to a person or to a location to pursue business subject to regulation under the jurisdiction of the Chickasaw Nation;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>"Legislature," shall mean the Chickasaw Tribal Legislature which is that body of not more than 13 members, as created by Articles V, VI, VII, VIII and IX of the Constitution of the Chickasaw Nation;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>"Governor" shall mean the chief executive officer of the Chickasaw Nation, as created by Articles X and XI of the Constitution;</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>"Constitution" means that document which formally established the Chickasaw Nation and its government, as ratified by the eligible registered voters of the Chickasaw Nation on August 27, 1983, and which was approved by the secretary of the</text>
+          </para>
+          <text>U.S. Department of the Interior on July 15, 1983;</text>
+          <para>
+            <num>9.</num>
+            <text>"general business manager" shall mean the person within the Executive Department who is charged with overseeing and/or managing the gaming enterprises of the Chickasaw Nation.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>B</num>
+      <heading>REPEALER PROVISIONS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3201</num>
+        <heading>ACT TO EFFECT PURPOSES.</heading>
+        <text>The provisions of this Act, being necessary for the welfare of the Chickasaw Nation and its inhabitants, shall be liberally construed to effect the purpose and object hereof.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3202</num>
+        <heading>HEADINGS.</heading>
+        <text>The article and section headings contained herein shall not be deemed to govern, limit, modify or in any manner affect the scope, meaning or intent of the provisions of any article or section hereof.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3203</num>
+        <heading>SEVERABILITY AND REPEALER.</heading>
+        <para>
+          <num>A.</num>
+          <text>The provisions of this Act are severable, and if any part or provision hereof shall be held void by appropriate judicial authority, the decision of the court so holding shall not affect or impair any of the remaining parts of provisions of the Act.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>All titles, chapters, articles and sections of all gaming regulatory Acts which are in effect as of the date this Act becomes operative, are hereby repealed, and all other laws or resolutions or parts of laws and resolutions inconsistent with the provisions of this Act are hereby repealed.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Repeal by this Act of any tribal law or resolution shall not have the effect of reviving any prior law theretofore repealed or suspended by such repealed tribal law or resolution, nor shall this repeal have the effect of nullifying any regulation of the commissioner issued under previous tribal laws or resolutions which is authorized by this Act, nor shall this repeal have the effect of interrupting the term of the current commissioner of public gaming, nor shall this repeal have the effect of interrupting any license issued by the commissioner or any responsibilities thereunder.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>C</num>
+      <heading>LICENSING</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3301</num>
+        <heading>CLASS II AND CLASS III GAMING DEFINED.</heading>
+        <text>Class II gaming as defined in the Indian Gaming Regulatory Act, Public Law 100-447, 25 USC §2703(7)(A), and by the regulations promulgated by the Commissioner and his deputies at 25 CFR § 502.3 (as published in the Federal Register at 57 FR 12382-12393, April 9, 1992) is hereby authorized. Class III gaming as defined in the Indian Gaming Regulatory Act, Public Law 100-447, 25 USC §2703(8), and by regulations promulgated by the National Indian Gaming Commission, is authorized only to the extent allowed by such law and pursuant to an approved tribal/state compact.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+          <annotation type="Editor's Notes">See PR17-023, Approval of the Off-Track Wagering Compact with the State of Oklahoma, 8/18/00.</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3302</num>
+        <heading>OWNERSHIP OF GAMING.</heading>
+        <text>The Chickasaw Nation shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation authorized by this Act.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3303</num>
+        <heading>USE OF GAMING REVENUE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Net revenues from gaming shall be used only for the following purposes: To fund tribal government operations and programs; to provide for the general welfare of the Chickasaw Nation and its citizens; to promote tribal economic development; to donate to charitable organizations; or to help fund operations of local government agencies.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No per capita payments to tribal citizens shall be made from gaming revenue.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3304</num>
+        <heading>AUDIT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Governor shall cause to be conducted annually an independent audit of gaming operations and shall submit the resulting audit reports to the National Indian Gaming Commission.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>All gaming related contracts which result in the purchase of supplies, services or concessions in excess of $25,000.00 annually, except contracts for professional, legal and accounting services, shall be specifically included within the scope of the audit which is described in subsection (a) of this section.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3305</num>
+        <heading>PROTECTION - ENVIRONMENT AND PUBLIC.</heading>
+        <text>All gaming facilities shall be constructed, maintained and operated in a manner that adequately protects the environment and the public health and safety.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3306</num>
+        <heading>LICENSE REGULATION.</heading>
+        <text>The Commissioner shall ensure that the policies and procedures set out in this section are implemented with respect to key employees and primary management officials employed at any gaming facility located on tribal lands:</text>
+        <para>
+          <num>1.</num>
+          <text>Definitions. For the purposes of this section, the following definitions apply:</text>
+          <para>
+            <num>a.</num>
+            <text>Key employee means:</text>
+            <para>
+              <num>1.</num>
+              <text>A person who performs one or more of the following functions:</text>
+              <para>
+                <num>a.</num>
+                <text>Bingo caller;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>counting room supervisor;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>chief of security;</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>custodian of gaming supplies or cash;</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>floor manager;</text>
+              </para>
+              <para>
+                <num>f.</num>
+                <text>pit boss;</text>
+              </para>
+              <para>
+                <num>g.</num>
+                <text>dealer;</text>
+              </para>
+              <para>
+                <num>h.</num>
+                <text>croupier;</text>
+              </para>
+              <para>
+                <num>i.</num>
+                <text>approver of credit; or</text>
+              </para>
+              <para>
+                <num>j.</num>
+                <text>custodian of gambling devices including persons with access to cash and accounting records within such devices;</text>
+              </para>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>if not otherwise included, any other person whose total cash compensation is in excess of $50,000 per year; or</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>if not otherwise included, the four most highly compensated persons in the gaming operation.</text>
+            </para>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Primary management official means:</text>
+            <para>
+              <num>1.</num>
+              <text>The person having management responsibility for a management contract;</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>any person who has authority:</text>
+              <para>
+                <num>a.</num>
+                <text>To hire and fire employees; or</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>to set up working policy for the gaming operation; or</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>the chief financial officer or other person who has financial management responsibility.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Application Forms</text>
+          <para>
+            <num>a.</num>
+            <text>The following notice shall be placed on the application form for a key employee or a primary management official before that form is filled out by an applicant:<br/><em>In compliance with the Privacy Act of 1974, the following information is provided: Solicitation of the information on this form is authorized by 25 USC 2701 et seq. The purpose of the requested information is to determine the eligibility of individuals to be employed in a gaming operation. The information will be used by the Commissioner and staff who have need for the information in the performance of their official duties. The information may be disclosed to appropriate federal, tribal, state, local or foreign law enforcement and regulatory agencies when relevant to civil, criminal or regulatory investigations or prosecutions or when pursuant to a requirement by a tribe or the Chickasaw Nation Gaming Commission in connection with the hiring or firing of an employee, the issuance or revocation of a gaming license, or investigations of activities while associated with a tribe or a gaming operation. Failure to consent to the disclosures indicated in this notice will result in a tribe's being unable to hire you in a primary management official or key employee position. The disclosure of your Social Security Number (SSN) is voluntary; however, failure to supply a SSN may result in errors in processing your application.</em></text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Existing key employees and primary management officials shall be notified in writing that they shall either:</text>
+            <para>
+              <num>1.</num>
+              <text>Complete a new application form which contains a Privacy Act notice; or</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>sign a statement which contains the Privacy Act notice and consent to the routine uses described in that notice.</text>
+            </para>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The following notice shall be placed on the application form for a key employee or a primary official before that form is filled out by an applicant:</text>
+            <text>
+              <em>A false statement on any part of your application may be grounds for not hiring you, or for firing you after you begin work. Also, you may be punished by fine or imprisonment (U.S. Code, Title 18, Section 1001).</em>
+            </text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>The Commissioner shall notify in writing existing key employees and primary management officials that they shall either:</text>
+            <para>
+              <num>1.</num>
+              <text>Complete a new application form which contains a notice regarding false statements; or</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>sign a statement which contains the notice regarding false statements.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Background Investigations</text>
+          <para>
+            <num>a.</num>
+            <text>The Commissioner shall request from each primary management official and from each key employee all of the following information:</text>
+            <para>
+              <num>1.</num>
+              <text>Full name, other names used (oral or written), social security number(s), birth date, place of birth, citizenship, gender, all languages		(spoken or written);</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>currently and for the previous five years: business and employment positions held, ownership interests in those businesses, business and residence addresses, and drivers license numbers;</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>the names and current addresses of at least three personal references, including one personal reference who was acquainted with the applicant during each period of residence listed under paragraph (l)(b) of this section;</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>current business and residence telephone numbers;</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>a description of any existing and previous business relationships with Indian tribes, including ownership interests in those businesses;</text>
+            </para>
+            <para>
+              <num>6.</num>
+              <text>a description of any existing and previous business relationships with the gaming industry generally, including ownership interests in those businesses;</text>
+            </para>
+            <para>
+              <num>7.</num>
+              <text>the name and address of any licensing or regulatory agency with which the person has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
+            </para>
+            <para>
+              <num>8.</num>
+              <text>for each felony for which there is an ongoing prosecution or conviction, the charge, the name and address of the court involved, and the date and disposition if any;</text>
+            </para>
+            <para>
+              <num>9.</num>
+              <text>for each misdemeanor conviction or ongoing misdemeanor prosecution (excluding minor traffic violations), within ten years of the		date of the application, the name and address of the court involved and the date and disposition;</text>
+            </para>
+            <para>
+              <num>10.</num>
+              <text>for each criminal charge (excluding minor traffic charges), whether or not there is a conviction, if such criminal charge is within ten years of the date of the application and is not otherwise listed pursuant to paragraph [3. a. (8) or 3. a. (9)] of this section, the criminal charge, the name and address of the court involved and the date and disposition;</text>
+            </para>
+            <para>
+              <num>11.</num>
+              <text>the name and address of any licensing or regulatory agency with which the person has filed an application for an occupational license or permit, whether or not such license or permit was granted;</text>
+            </para>
+            <para>
+              <num>12.</num>
+              <text>a current photograph with notarized affidavit as to date taken and person depicted;</text>
+            </para>
+            <para>
+              <num>13.</num>
+              <text>any other information the commissioner deems relevant; and</text>
+            </para>
+            <para>
+              <num>14.</num>
+              <text>fingerprints consistent with procedures adopted by the Chickasaw Nation according to 25 CFR §522.2(h).</text>
+            </para>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The Commissioner shall conduct an investigation sufficient to make a determination under subsection 4, below. In conducting a background investigation, the identity of each person interviewed in the course of the investigation shall be kept confidential.</text>
+          </para>
+        </para>
+        <para>
+          <num>4.</num>
+          <heading>Eligibility Determination.</heading>
+          <text>The Commissioner shall review a person's prior activities, criminal record, if any, and reputation, habits and associations to make a finding concerning the eligibility of a key employee or primary management official for employment in a gaming operation. If it is determined that employment of the person poses a threat to the public interest or to the effective regulation of gaming, or creates or enhances dangers of unsuitable, unfair or illegal practices and methods and activities in the conduct of gaming, a tribal gaming operation shall not employ that person.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Procedures for Forwarding Applications and Reports for Key Employees and Primary Management Officials to the National Indian Gaming Commission:</text>
+          <para>
+            <num>a.</num>
+            <text>When a key employee or primary management official begins work at a gaming operation authorized by this Act, the gaming manager or the tribal</text>
+            <text>official responsible for the day to day operations of that gaming operation shall forward to the National Indian Gaming Commission a completed application for employment and conduct the background investigation and make the determination referred to in subsection 4. of this section.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The Commissioner shall forward the report referred in subsection 6 of this section to the National Indian Gaming Commission within 60 days after an employee begins work or within 60 days of the effective date of this Act.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The gaming operation shall not employ as a key employee or primary management official a person who does not have a license after 90 days.</text>
+          </para>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Report to the National Indian Gaming Commission</text>
+          <para>
+            <num>a.</num>
+            <text>Pursuant to the procedures set out in subsection 5 of this section, Commissioner shall prepare and forward to the National Indian Gaming Commission an investigative report on each background investigation. An investigative report shall include all of the following:</text>
+            <para>
+              <num>1.</num>
+              <text>Steps taken in conducting a background investigation;</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>results obtained;</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>conclusions reached; and</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>the bases for those conclusions.</text>
+            </para>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>With the report shall be submitted a copy of the eligibility determination made under subsection 4, of this section.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>If a license is not issued to an applicant, the Commissioner:</text>
+            <para>
+              <num>1.</num>
+              <text>Shall notify the National Indian Gaming Commission; and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>may include copies of the eligibility determination and investigative report (if any) in the Indian Gaming Individuals Records System.</text>
+            </para>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>With respect to key employees and primary management officials, the gaming manager or the tribal official responsible for the day to day operation of the gaming operation shall retail applications for employment and reports (if any) of background investigations for inspection by the chairman of the National Indian Gaming Commission or his or her delegate for no less than three years from the date of termination of employment.</text>
+          </para>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Granting a Gaming License</text>
+          <para>
+            <num>a.</num>
+            <text>If, within a 30-day period after the National Indian Gaming Commission receives a report, the National Indian Gaming Commission notifies the Commissioner that it has no objection to the issuance of a license pursuant to a license application filed by a key employee or a primary management official for whom the Chickasaw Nation has provided an application and investigative report to the National Indian Gaming Commission, a license may be issued to such individual.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The Commissioner shall respond to a request for additional information from the chairman of the National Indian Gaming Commission concerning a key employee or a primary management official who is the subject of a report. Such request shall suspend the 30-day period under paragraph [G.1.] of this section until the chairman of the National Indian Gaming Commission receives the additional information.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>If, within the 30 day period described above, the National Indian Gaming Commission provides the Commissioner with a statement itemizing objections to the issuance of a license to a key employee or to a primary management official for whom the Chickasaw Nation has provided an application and investigative report to the National Indian Gaming Commission, the Commissioner shall reconsider the application, taking into account the objections itemized by the National Indian Gaming Commission. The commissioner shall make the final Decision to issue a license to such applicant.</text>
+          </para>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>License Suspension</text>
+          <para>
+            <num>a.</num>
+            <text>If, after the issuance of a gaming license, the Commissioner receives information from the National Indian Gaming Commission indicating that a key		employee or a primary management official is not eligible for employment under Section 4 above, the Commissioner shall suspend such license and notify in writing the licensee and his supervisor of the suspension and the proposed revocation.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The Commissioner shall notify the licensee of a time and a place for a hearing on the proposed revocation of a license.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>After a revocation hearing, the Commissioner shall decide to revoke or to reinstate a gaming license. The Commissioner shall notify the National Indian Gaming Commission, the Governor and the Legislature of his decision.</text>
+          </para>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>License Locations</text>
+          <para>
+            <num>a.</num>
+            <text>The Commissioner shall issue a separate license to each place, facility or location where gaming is conducted under this authority.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The Commissioner, deputies and staff of the Commissioner shall meet the same qualifications for licensing as established for key employees and primary management officials.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The Commissioner, deputies or staff who cannot meet the minimum requirements for licensing under this Act shall not be employed by the Chickasaw Nation Gaming Commission in such capacity.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>D</num>
+      <heading>GAMING COMMISSIONER</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3401</num>
+        <heading>GAMING COMMISSIONER OFFICE CREATED.</heading>
+        <text>The office of Gaming Commissioner of the Chickasaw Nation is hereby created within the Executive Department. The Commissioner shall take an oath of office similar to that of elected officials and shall be sworn to service. The Commissioner shall serve a term of three years from the date of such oath of office.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3402</num>
+        <heading>VACANCY PROVISION.</heading>
+        <text>At any time when a vacancy occurs in the office of Commissioner, the office shall be filled by appointment by the Governor, by and with the advice and consent of the Legislature in accordance with Article XI, Section 2 of the Constitution. Once the office of Commissioner is vacated, the Governor shall, within 60 days of that vacancy, name an appointee to fill the position and shall so notify the Legislature. Once that notification is made or before, the Governor shall cause the process to be initiated to clear that person as Commissioner through the requirements and provisions contained in this Act. Should that person clear the background check and investigations required, the Governor shall submit his gamete the legislature as his appointee as Commissioner. If the person does not clear the process, then the Governor shall submit the name of another person to be considered, who must then undergo the same process.</text>
+        <text>This procedure shall be continued until a person is cleared, appointed and consent is given to that appointment by the Legislature.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3403</num>
+        <heading>INTERIM COMMISSIONER.</heading>
+        <text>An interim Commissioner may be selected by the Governor any time a vacancy in the office of Commissioner exists. Such an interim gaming commissioner shall fill the position until the Legislature acts to provide advice and consent to the governor regarding his appointment of a person to fill the Commissioner's position. An interim Commissioner shall serve at the pleasure of the Governor.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3404</num>
+        <heading>REMOVAL FOR CAUSE.</heading>
+        <text>The Commissioner may be removed from office prior to the end of any term for cause under the provisions of tribal law pertaining to same.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3405</num>
+        <heading>BACKGROUND INVESTIGATION REQUIRED.</heading>
+        <text>Prior to the appointment of a Commissioner by the Governor, such person shall have passed a background investigation, examination and check of the same nature of a key employee of a gaming enterprise pursuant to Sec.3-3306. Nothing in this section shall prohibit such person from serving as interim Commissioner pending the outcome of key employee review.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3406</num>
+        <heading>SALARY RANGE.</heading>
+        <text>The Commissioner or the interim Commissioner shall be paid a salary in the range of L-30 through EL-10.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+          <annotation type="History" effective="2008-07-18" doc="PR25-007">PR25-007, 7/18/08</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3407</num>
+        <heading>POWER AND AUTHORITY.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Commissioner shall be responsible to determine that provisions of this Act are followed and may exercise any proper power and authority necessary to perform the duties of his office. The Commissioner shall be responsible to make regulations which shall include but not be limited to:</text>
+          <para>
+            <num>1.</num>
+            <text>Designing forms for background checks and employee applications;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>designing and describing procedures for conducting background checks;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>designing and describing procedures for issuance of tribal licenses to primary management officials and key employees;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>designing and describing procedures for resolving disputes between the gaming public and the Chickasaw Nation or the gaming enterprise management;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>designating an agent for service of legal notices;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>designating a law enforcement agency which will take finger-prints;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>designing and describing procedures for conducting criminal and credit histories and checks;</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>working with the comptroller to design and describe procedures to prevent theft and ensure the integrity of the gaming enterprises of the Chickasaw Nation;</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>designing and describing procedures for collection of license fees, taxes, other fees and levies as the same relates to gaming enterprises of the Chickasaw Nation.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>E</num>
+      <heading>REGULATIONS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3500</num>
+        <heading>COMMISSIONER REGULATORY AUTHORITY.</heading>
+        <text>Any regulations promulgated by the Commissioner shall have full force and effect from the date of issuance. The Commissioner may withdraw, replace or amend any regulation that he has made.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3501</num>
+        <heading>NOTICE REQUIRED, CHANGES IN REGULATIONS.</heading>
+        <para>
+          <num>A.</num>
+          <text>In adopting, amending or repealing any regulations under this Act, the Commissioner shall give a minimum of five (5) days notice of proposed regulation changes to all key employees, primary management officials, the general business manager and the Governor.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Notice shall be deemed made by regular posting to the address of all persons described herein, by hand delivery from the Commissioner or his delegate, or by telephone confirmed facsimile.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3502</num>
+        <heading>COPIES OF REGULATIONS TO BE AVAILABLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>A copy of all adopted regulations shall be maintained at the Central Business Services office (or the office within the Executive Department charged with the operations of gaming enterprises) and at each gaming enterprise facility.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Copies will be available to the public for copy costs at a per-page rate set by the commissioner.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3503</num>
+        <heading>SUSPENSION AND HEARING REGULATIONS.</heading>
+        <text>The Commissioner shall have the right to suspend any license location, licensee, employee or gaming participant for violation of any tribal regulations, tribal compacts, tribal ordinances, federal regulations or federal laws. Such suspension shall be for a period of not more than ninety (90) days for licensees and not more than two (2) years for gaming participants and others. Prior to any such suspension the person reviewed shall:</text>
+        <para>
+          <num>1.</num>
+          <text>Be given notice of specific facts concerning the violation alleged. Such allegation shall describe in writing the offense and be given ten (10) days prior to any hearing.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Such notice of proceedings shall be accomplished by regular mail to the last known address and by publicly posting the same within the affected gaming enterprise		facility. Service by mail is not necessary if the Commissioner has no address for the person or entity.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>At the hearing, the Commissioner shall state his understanding of the facts and allow the person or entity subject to the hearing the opportunity to be heard and to present evidence.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>At the hearing the subject shall show cause that specific facts alleged are inaccurate or that special conditions exist which should mitigate suspension.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Following the hearing, the Commissioner shall issue in writing an order regarding the subject within seven (7) days, or the matter shall be deemed dismissed. If a suspension order is made, it shall state:</text>
+          <para>
+            <num>a.</num>
+            <text>The specific violation of law or regulation of the subject, and</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>the suspension period imposed, stating beginning date and concluding date of suspension.</text>
+          </para>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Notice of order shall be accomplished in the same manner as notice of proceedings.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3504</num>
+        <heading>SUSPENSION REQUIRES EXCLUSION.</heading>
+        <text>All persons or entities subject to a suspension order shall be excluded from the gaming enterprise facility during such suspension. The Commissioner shall have the authority to direct the</text>
+        <text>gaming enterprise facility security to enforce the exclusion of any person suspended under the terms of Sec. 3-3503.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3505</num>
+        <heading>INFORMANT IDENTITY PROTECTED.</heading>
+        <text>The Commissioner may refuse to reveal, at any court proceedings, the identity of any informant.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3506</num>
+        <heading>PUBLIC HEARINGS REQUIRED.</heading>
+        <text>The Commissioner shall hold public hearings not less than annually to allow public comment about operation of a gaming enterprise facility. The manager of each gaming enterprise shall attend such hearings and may be directed by the Commissioner to respond to questions or to explaining operations at the Commissioners discretion.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3507</num>
+        <heading>DEPOSITIONS AUTHORIZED.</heading>
+        <text>The Commissioner shall have authority upon three (3) days written notice to depose any licensee, tribal employee or gaming participant.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3508</num>
+        <heading>SERVICE DEEMED PROPER, WHEN.</heading>
+        <text>Any document, affidavit, return or report fee, instrument or payment required to be filed, delivered or served upon the Commissioner or the Chickasaw Nation shall be deemed to be properly filed, delivered or served if it is filed, delivered or served as the case may be upon the Commissioner or the Governor at the tribal headquarters complex or as the Commissioner may otherwise direct by regulation.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3509</num>
+        <heading>DEPUTY COMMISSIONERS AUTHORIZED.</heading>
+        <text>The Commissioner may authorize in the same fashion as a law enforcement officer the issuance of positions of deputy commissioner on a temporary, part-time and/or full-time basis. Any person who is employed full-time as a deputy commissioner shall be required to meet the</text>
+        <text>same qualifications as the commissioner in accord with Sec. 3-3306 [of this code].</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3510</num>
+        <heading>SALARY OF DEPUTY COMMISSIONER.</heading>
+        <text>The salary of a deputy commissioner, if any, shall be subject to the budgeting process of the Chickasaw Nation.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>F</num>
+      <heading>DISPUTES WITH MANAGEMENT</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3600</num>
+        <heading>FILING GRIEVANCES.</heading>
+        <text>Any gaming participant or supplier may file a grievance against management with the Commissioner. The Commissioner shall establish a time for hearing, give notice to all parties, hold hearing(s) and rule upon the grievance. The ruling of the Commissioner may be appealed to the tribal court or to the Code of Federal Regulations Court of Indian Offenses for the Chickasaw Nation. This section shall in no way be construed as a waiver of the Chickasaw Nation's sovereign immunity.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3601</num>
+        <heading>CLAIMS AND GRIEVANCES TO BE WRITTEN AND SIGNED.</heading>
+        <text>Any participant who has been denied benefits of gaming by a manager or management, who is injured on the premises due to the fault of a manager or management, or has any other claim for relief against a manager or management or any supplier who may have a claim for relief may have his grievance against management heard by filing the same with the Commissioner in</text>
+        <text>writing. If no Commissioner or interim Commissioner exists, the same shall be filed with the Governor. The grievance shall describe the date, time and event which gives rise to the grievance and be signed and verified by the aggrieved person and signed by any legal counsel he may have.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3602</num>
+        <heading>HEARING DATE.</heading>
+        <text>The Commissioner shall set a date for hearing the grievance within ninety (90) days of the filing of the same.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3603</num>
+        <heading>HEARING NOTICE REQUIRED.</heading>
+        <text>The Commissioner shall give notice of such hearing together with a copy of the grievance to the manager and management of the gaming enterprise facility involved in the grievance and give notice of the hearing to the person filing the grievance by regular mail posted not less than ten days in advance of the hearing.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3604</num>
+        <heading>LEGAL COUNSEL AUTHORIZED.</heading>
+        <text>At a hearing on any grievance, the person filing the same, manager and management shall be entitled to legal counsel. The person filing the grievance must be present for hearing of the same and shall be responsible to present a prima facie case for relief before response by the manager is required. The Commissioner shall be free to question any person present, continue the hearing from time to time and conduct independent investigation of facts. Upon conclusion of hearing, the Commissioner shall have forty-five (45) days to render a written opinion. In the absence of a written opinion by the Commissioner within the time specified, the matter shall be deemed dismissed.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3605</num>
+        <heading>ARBITRATION OR MEDIATION AUTHORIZED.</heading>
+        <text>The Commissioner shall at any time prior to decision of any grievance, have the authority to suspend proceedings and to direct arbitration or mediation of the grievance under such terms as the Commissioner may direct.</text>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3606</num>
+        <heading>FINGERPRINT CARDS ON FILE.</heading>
+        <text>The Commissioner shall keep the official fingerprint cards for the National Indian Gaming Commission on file in the office of the commissioner.</text>
+        <para>
+          <num>1.</num>
+          <text>As part of any employment application, fingerprints shall be given upon cards issued by the National Indian Gaming Commission.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>To obtain such prints, the Commissioner shall issue card(s) with request for assistance from Code of Federal Regulations police officers for the local area. CFR officers shall establish a time and location to take such prints and such law enforcement officer(s) shall take the prints.</text>
+          <para>
+            <num>a.</num>
+            <text>Nothing herein shall prevent the Commissioner from making separate arrangements with law enforcement officials outside the local area for fingerprints to be taken outside the local area. Such arrangements to obtain fingerprints shall substantially comport with local procedures involving CFR officers.</text>
+          </para>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>After fingerprints have been taken, the CFR officers shall send the cards directly to the National Indian Gaming Commission in envelopes with cover letters provided by the commissioner which include an affidavit by the officer taking such prints that the prints were taken and posted by law enforcement officer(s).</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Fees charged by the National Indian Gaming Commission for processing of fingerprints shall be paid by the Chickasaw Nation, excepting those individuals and organizations which have posted bonds for such reports.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3607</num>
+        <heading>CRIMINAL BACKGROUND CHECKS BY C.F.R. OFFICERS.</heading>
+        <text>The Commissioner shall request local CFR officers to perform initial criminal background checks for each application for employment.</text>
+        <para>
+          <num>1.</num>
+          <text>The Commissioner shall receive the actual printout or a summary of any initial background check which shall identify any felony, criminal history, or crime of moral turpitude which is known to CFR officers. The commissioner shall be considered a tribal law enforcement officer for such review.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Commissioner shall review any background check report issued to the tribe. The Commissioner shall share any information revealed by such checks to the manager of gaming facilities which, in the Commissioner's judgment, affects the consideration of an individual for employment.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Commissioner shall use the results of any background check to perform the lawful duties of Commissioner.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3608</num>
+        <heading>MISCELLANEOUS PROVISIONS.</heading>
+        <para>
+          <num>A.</num>
+          <text>The tribe may be served notice of process for official determination, order or notice of violation of the Indian Gaming Regulatory Act by the National Indian Gaming Commission or other federal entity by service upon the Commissioner or upon the Governor. Nothing herein shall be deemed to waive or impair the Chickasaw Nation's right to sovereign immunity. Nothing herein shall be deemed a grant of jurisdiction or venue for any court to review cases or controversies which such court is not otherwise empowered to review.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Commissioner shall forward fingerprints and information to the National Indian Gaming Commission on all tribal gaming employees and other persons for whom background checks are required.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The Commissioner shall request a report from the National Indian Gaming Commission which shall include a check through the Federal Bureau of Investigation's National Criminal Information Center.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Fees charged by the National Indian Gaming Commission for processing such reports shall be paid by the tribe excepting those individuals and organizations that have posted bonds for such reports.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3609</num>
+        <heading>APPROPRIATE INVESTIGATION REQUIRED.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Commissioner shall determine that an appropriate investigation has been conducted on key employees and primary management officials. An appropriate investigation shall include as a minimum:</text>
+          <para>
+            <num>1.</num>
+            <text>Obtaining and processing fingerprints;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>explanation of job description, fitness of individual to perform job and explanation of how individual was selected for position;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>credit check;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>verification of resume;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>character check regarding prior activities, criminal record, reputation, habits and associations, including but not limited to personal interview summaries with a sufficient number of knowledgeable people such as former employees, personal references and others to form a basis for character suitability determination;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>document all potential problems and possible disqualification information.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>After completion of the background investigation, the commissioner shall prepare an investigative report setting forth the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Who conducted various parts of the report, their qualifications and address;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>an outline of the background investigation process including steps taken in investigation;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>a description of the information obtained together with conclusions of investigation;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>statement of basis for conclusion;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>an organization chart showing the location within the organization of the individual investigated and the positions or people over which the individual investigated may be responsible.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>3-3610</num>
+        <heading>ISSUANCE OF LICENSES.</heading>
+        <text>The Commissioner shall issue tribal licenses and sign the name for primary management officials and key employees who are involved in gaming. Such licenses shall:</text>
+        <para>
+          <num>1.</num>
+          <text>Not be required until background investigations are complete;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>be issued when the results of background investigations are available to the Commissioner and such reports indicate that the individual is of appropriate character to participate in a tribal gaming enterprise.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>TOBACCO PRODUCTS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-401</num>
+      <heading>PURPOSE, TITLE.</heading>
+      <text>The purpose of <cite path="3|4">this chapter</cite> is to establish legal authority and to regulate the sale of tobacco products within the Chickasaw Nation. Be it enacted by the tribal legislature of the Chickasaw Nation assembled, that this Act may be cited as the "Chickasaw Nation Tobacco Products Act of 1985".</text>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-402</num>
+      <heading>FINDINGS.</heading>
+      <text>The Legislature finds that it is necessary to adopt strict controls over the sale of tobacco products conducted on Indian-owned land not under the jurisdiction of the state of Oklahoma, but inside the Chickasaw Nation, and to establish legal authority for the Chickasaw Nation, its agents, servants and employees to engage in the sale of tobacco products on lands owned by the Chickasaw Nation and held in "trust" status by the United States of America.</text>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-403</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of <cite path="3|4">this chapter</cite>, the following terms shall have the meanings respectively ascribed to them in this section unless the context clearly requires otherwise:</text>
+      <para>
+        <num>1.</num>
+        <text>"Chickasaw Nation" means the tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, adopted August 27, 1983, being duly recognized by the Secretary of the Interior of the United States of America and other agencies of the United States of America and other governments, as a self-governing, sovereign government; sometimes hereinafter referred to as "tribe."</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Minor" means any person under the age of eighteen (18) years.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Patron" means any person who buys and/or consumes tobacco products from the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Premises" means any room, hall, enclosure or outdoor area that is owned by the Nation where tobacco products are sold and/or consumed.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Tobacco product sales" means the sale of tobacco products, including cigarettes, cigars, pipe tobacco, chewing tobacco and snuff, to the general public for the purpose of generating revenue for the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Tribal Legislature" means the law making body of the Chickasaw Nation Tribal Government, which is the recognized governing body of the tribe, possessing plenary power over the people, land and property within the exterior boundaries of the Chickasaw Nation.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-404</num>
+      <heading>AUTHORITY FOR NATION TO SELL.</heading>
+      <text>The Nation, its agents, servants and employees, are hereby authorized to engage in the procurement and sale of tobacco products on selected premises owned by the Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-405</num>
+      <heading>DAYS OF SALE.</heading>
+      <text>Tobacco products may be sold on seven days of the week.</text>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-406</num>
+      <heading>REGULATIONS.</heading>
+      <text>The following regulations and prohibitions shall apply to the sale of tobacco products:</text>
+      <para>
+        <num>1.</num>
+        <text>Tobacco products shall not be sold to any minor;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Tobacco products shall not be sold for re-sale purposes;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No employee, servant or agent, when engaged in the sale of tobacco products, may make any sale to patrons at rates or prices either above or below that fixed for sale to the general public by the Nation;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>No minor may be employed to sell, handle or distribute tobacco products;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A sign must be positioned in full public view at all premises where tobacco products are sold which indicates that tobacco products may not be sold to any minor; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>A mark, seal or stamp shall be affixed to each tobacco product sold clearly indicating that the product is sold by the Nation. The mark, stamp or seal shall be affixed in such a manner so that it is clearly visible on each package of cigarettes or box or carton of cigars, pipe tobacco or snuff.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-407</num>
+      <heading>LICENSES.</heading>
+      <text>The Executive Branch of the Nation is authorized to issue licenses for the sale of tobacco products. It shall be unlawful for any other person, corporation, firm or entity, except the Chickasaw Nation, to perform, conduct, operate, maintain, supervise or in any other way enter into the operation of conduct of resale of tobacco products upon any lands located within the external boundaries of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85, asamendedbyPR92-07, 4/18/92</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-408</num>
+      <heading>ENFORCEMENT.</heading>
+      <text>The Executive Branch shall enforce the provisions of <cite path="3|4">this chapter</cite> and prescribe necessary penalties for violations.</text>
+      <annotations>
+        <annotation type="History" effective="1985-11-15" doc="TL3-002">TL3-002, 11/15/85</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>CHICKASAW NATION PROFESSIONAL BOXING LICENSING ACT</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.1</num>
+      <heading>SHORT TITLE.</heading>
+      <text>Be it enacted by the Chickasaw Nation Legislature assembled, that this Act shall be cited as the "Chickasaw Nation Professional Boxing Licensing Act." (hereinafter the "Act")</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.2</num>
+      <heading>FINDINGS.</heading>
+      <text>The Chickasaw Tribal Legislature finds that:</text>
+      <para>
+        <num>A.</num>
+        <text>a need exists to promote the public health and safety, education, and welfare that may contribute to the social, physical well-being and economic benefit of citizens of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>a need exists to create authorities with attendant powers to achieve objectives allowed under the provisions of the Constitution of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>a need exists to provide a system for regulating Boxing and Martial Arts activities in and for the Chickasaw Nation, which is in the best interests of the Chickasaw people and their health and welfare; and</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>a need exists for the Chickasaw Nation to comply with the provisions of the "Professional Boxing Safety Act of 1996" as amended by the "Muhammad Ali Boxing Reform Act" (15 USC §6301 et seq.).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.3</num>
+      <heading>BASIS OF AUTHORITY.</heading>
+      <text>The basis of authority of this Act is Article VI, Section 1, and Article VII, Section 4 of the Constitution of the Chickasaw Nation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.4</num>
+      <heading>DEFINITIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>As used in this Act:</text>
+        <para>
+          <num>1.</num>
+          <text>"Applicant" means any individual, Club, association, corporation, partnership or trust which submits to the Commissioner an application for a License or Permit pursuant to the Act.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"Booking Agents" means independent contractors who act as bookers, agents, agencies and representatives who secure engagements and contracts for boxers.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>"Boxing" means any form of competitive Pugilism or unarmed combat in which a blow is usually struck which may reasonably be expected to inflict injury, including, but not limited to, Boxing, wrestling, and Kickboxing, including the Martial Arts as defined by the provisions of this Section.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>"Broadcast" means any audio or visual transmission sent by any means of signal, whether live or taped or time delayed, and includes any replays thereof. The term includes Professional Boxing as well as Cage Fighting.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>"Cable System Operator" means any Person who makes available or provides customers a closed-circuit telecast which is Pay-per-view, including any Person who does so as a direct Broadcast satellite provider or other multichannel video service provider.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>"Cage Fight" means combat in an octagon or other area conducted under</text>
+        </para>
+        <text>rules different from those referenced in the Professional Boxing Safety Act as amended by the Muhammad Ali Boxing Reform Act (15 U.S.C. §6301, et seq.). The term primarily references contact matches emphasizing one or more Martial Arts under rules established by the Commissioner.</text>
+        <para>
+          <num>7.</num>
+          <text>"Closed-circuit Telecast of Professional Boxing Events" means telecast rights, including television, cable television, or Pay-per-view Telecasts, acquired by paying a Licensing fee or by paying a contractual price by a business or individual, including, but not limited to, arenas, entertainment or meeting centers, restaurants, bars, taverns, hotels, motels, Clubs, and organizations, which offers the viewing of the event to the public or to private residences.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>"Club" means an incorporated or unincorporated association or body of individuals voluntarily united and acting together for some common or special purpose.</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>"Closed-Circuit Television Permit" means that permit issued by the Commissioner in accord with <cite path="3|5|3-501.16">Section 3-501.16</cite>.</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>"Commissioner" means the Gaming Commissioner of the Chickasaw Nation which is an individual and/or official office of an individual office holder and not a Commission.</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>"Contest" means a Boxing match in which it is reasonable to anticipate that the Participants strive earnestly in good faith to win.</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>"Corner Person" means, but shall not be limited to, a Trainer, a second, or any other individual who attends the Participant during a match.</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>"Exhibition" means a Boxing match in which the Participants show or display their skill without necessarily striving to win, such as Sparring.</text>
+        </para>
+        <para>
+          <num>14.</num>
+          <text>"Judge" means an individual other than a referee who shall have a vote in determining the winner of any Contest.</text>
+        </para>
+        <para>
+          <num>15.</num>
+          <text>"Kickboxing" means any form of competitive pugilistic professional Contest in which blows are delivered with the hand and any part of the foot. Such Contests take place in a rope-enclosed ring and are fought in timed rounds.</text>
+        </para>
+        <para>
+          <num>16.</num>
+          <text>"License" means a certificate issued by the Commissioner to Participants of sanctioned Professional Boxing Contests and Professional Exhibitions and is a mandatory requirement for participation in such events.</text>
+        </para>
+        <para>
+          <num>17.</num>
+          <text>"Manager" means an individual who controls or administers the affairs of any Professional Boxer, including acting as a booking agent. "Manager" shall include the representative of a Manager as defined by the Commissioner.</text>
+        </para>
+        <para>
+          <num>18.</num>
+          <text>"Martial Arts" means any form of karate, kung fu, tae kwon-do, or any other form of martial or self-defense art.</text>
+        </para>
+        <para>
+          <num>19.</num>
+          <text>"Matchmaker" means an individual who brings together Professional Boxers or arranges Professional Boxing Contests or Professional Exhibitions.</text>
+        </para>
+        <para>
+          <num>20.</num>
+          <text>"Nation's Jurisdiction" means the scope of the Chickasaw Nation's territorial, subject matter, and personal jurisdiction, as such scope is defined by the preamble to the Chickasaw Nation Constitution and Sections 1-105 and 5-201.3 of the Chickasaw Nation Code.</text>
+        </para>
+        <para>
+          <num>21.</num>
+          <text>"Participant" means a Professional who takes part in a Professional Boxing Contest or Professional Exhibition or a professional who takes part in Cage Fighting.</text>
+        </para>
+        <para>
+          <num>22.</num>
+          <text>"Pay-per-view Telecasts" means telecasts offered by cable television companies to subscribers at a cost in addition to the monthly cable television subscription rate. Such events shall include local and state Professional Boxing Contests and Professional Exhibitions as defined in this Section.</text>
+        </para>
+        <para>
+          <num>23.</num>
+          <text>"Person" means any individual, partnership, limited liability company, Club, association, corporation, or trust.</text>
+        </para>
+        <para>
+          <num>24.</num>
+          <text>"Physician" means an individual a person properly and lawfully licensed to engage in the general practice of medicine or osteopathic medicine.</text>
+        </para>
+        <para>
+          <num>25.</num>
+          <text>"Professional Boxer" means an individual eighteen (18) years of age or older who competes for money, prizes or Purses, or who teaches, instructs or assists in the practice of Boxing or Sparring as a means of obtaining pecuniary gain.</text>
+        </para>
+        <para>
+          <num>26.</num>
+          <text>"Professional Boxing Contest" and "Professional Exhibition" means a Boxing match conducted within the Nation's Jurisdiction in which the Participants are</text>
+        </para>
+        <text>Persons who must be Licensed pursuant to the provisions of the Act, and the combat covered under 15 U.S.C. §6301, et seq.</text>
+        <para>
+          <num>27.</num>
+          <text>"Promoter" means any individual, whether a resident or nonresident of Chickasaw Nation, or Club or corporation, that produces or stages Professional Contests or Professional Exhibitions conducted within the Chickasaw Nation and shall include any officer, director, or employees as defined by the Commissioner.</text>
+        </para>
+        <para>
+          <num>28.</num>
+          <text>"Pugilism" means Boxing or the skill or practice of fighting with the fists for Professional Boxing.</text>
+        </para>
+        <para>
+          <num>29.</num>
+          <text>"Purse" means the financial guarantee or any other remuneration or thing of value for which a Professional Boxer participates in a Professional Boxing Contest or Professional Exhibition and shall include the Participant's share of any payment received for radio Broadcasting, television, including cable television, pay-per-view television, and closed-circuit television, and motion picture rights. "Purse" shall also include gate receipts and any other prizes.</text>
+        </para>
+        <para>
+          <num>30.</num>
+          <text>"Ring Official" means any individual who performs an official function during the progress of a Professional Boxing Contest or Professional Exhibition or Cage Fighting event including but not limited to timekeepers, Judges, referees, and attending Physicians.</text>
+        </para>
+        <para>
+          <num>31.</num>
+          <text>"Sanctioning Permit" or "Permit" means a Permit issued by the Commissioner to Promoters who make application for official approval of Professional Boxing Contests and Professional Exhibitions and/or Cage Fighting events.</text>
+        </para>
+        <para>
+          <num>32.</num>
+          <text>"Sparring" means to engage in a form of Boxing with jabbing or feinting movements, and the exchange of few heavy blows such as occurs in a practice or Exhibition Boxing match.</text>
+        </para>
+        <para>
+          <num>33.</num>
+          <text>"Telecast Promoter" means any Promoter who shows or causes to be shown in a closed-circuit telecast of any Professional Boxing event or cage match that originates within the Indian country of the Chickasaw Nation. "Telecast Promoter" shall not include a Cable System Operator.</text>
+        </para>
+        <para>
+          <num>34.</num>
+          <text>"Trainer" means an individual who assists, coaches, or instructs any Professional Boxer with respect to physical conditioning, strategy, techniques, or preparation for competition, Professional Boxing Contests, or Professional Exhibitions.</text>
+        </para>
+        <para>
+          <num>35.</num>
+          <text>"Vendor" means any individual, firm, organization, Club, or corporation that participates in the conduct of a Professional Boxing Contest or Professional Exhibition by offering for sale food or merchandise, including, but not limited to, wearing apparel, alcoholic and nonalcoholic beverages, souvenirs, and programs.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commissioner may by regulation or rule define any term which is not defined in the Act.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.5</num>
+      <heading>POWER AND DUTY OF COMMISSIONER.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commissioner shall have the power and duty to promulgate, prescribe, amend, and repeal regulations or rules necessary to implement the provisions of the Act, including, but not limited to, defining qualifications, categories, limitations, and fees for Licenses, Permits, and examinations, and establishing bonding, contract, and insurance requirements for professional Boxing and cage matches.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commissioner shall have the duty to establish and provide for the implementation of health and safety standards as required by 15 U.S.C. §6312(b)(2) by regulation(s) published not less than five (5) days before any activity governed by this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.6</num>
+      <heading>POWERS OF COMMISSIONER--VALIDITY OF PRIORLICENSES, PERMITS, CERTIFICATES OR REGISTRATIONS--TRANSFERS.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commissioner shall have the power to:</text>
+        <para>
+          <num>1.</num>
+          <text>promulgate rules and issue orders necessary to carry out the purposes of this Act and enforce the provisions of said Act and the rules promulgated pursuant thereto;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>assume jurisdiction over all matters relating to the Licensing of Professional Boxers, Cage Fighters, Trainers, Managers, Corner Persons, Booking Agents, Matchmakers, Promoters, referees, Judges, timekeepers, Vendors, Physicians, announcers, Clubs, and corporations associated with a Professional Boxing Contest, or Professional Exhibition related thereto;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>set License and Permit fees pursuant to the requirements of this Act;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>conduct investigations into the qualifications of Applicants for Licensure and registration;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>conduct investigations and proceedings for alleged violations of the Act and order or subpoena the attendance of witnesses, the inspection of records and premises, and the production of relevant books and papers necessary to such investigations and proceedings;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>develop and administer examinations for Applicants for Licenses and Permits; and</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>make such expenditures as may be necessary in the performance of his</text>
+        </para>
+        <text>duties.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.7</num>
+      <heading>SANCTIONING PERMITS--EXEMPTIONS.</heading>
+      <text>The Commissioner is hereby vested with jurisdiction to issue Sanctioning Permits for all Professional Boxing Contests and Professional Exhibitions and Cage Fighting held or given within the Nation's Jurisdiction, associated Closed-Circuit Telecast Permits, and Licenses for Participants of sanctioned Contests and Exhibitions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.8</num>
+      <heading>APPLICATION FOR SANCTIONING PERMIT--NOTICE OF SANCTION.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commissioner shall promulgate rules necessary to implement processes for issuing Sanctioning Permits for Professional Boxing Contests and Professional Exhibitions and Cage Fighting held or given in the Chickasaw Nation and for issuing Licenses for Participants of sanctioned Contests and Exhibitions.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All Persons or entities who participate in any Professional Boxing Contest, or Professional Exhibition, or Cage Fight sanctioned by the Commissioner, including, but not limited to, Professional Boxers, Cage Fighters, Trainers, Managers, Corner Persons, Booking Agents, Matchmakers, Promoters, referees, Judges, timekeepers, Vendors, Physicians, announcers, Clubs, and corporations associated with a Professional Boxing Contest or Professional Exhibition or Cage Fight sanctioned by the Commissioner, shall be required to make application to the Commissioner for a License to participate in the Nation's Jurisdiction in any Professional Boxing Contest, Professional Exhibition, or Cage Fight sanctioned by the Commissioner.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>An application for a Sanctioning Permit or a License shall be on such form and require such information as shall be prescribed by the Commissioner.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Commissioner shall determine reasonable costs and fees associated with issuing Sanctioning Permits and Licenses. All costs and fees for sanctioning an event shall be payable by the Promoter making application for a Sanctioning Permit. Costs and fees for a License may be paid by the Participant making application or by the Promoter of an event sanctioned by the Commissioner.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A Sanctioning Permit shall be in effect upon the date issued by the Commissioner and shall expire upon the conclusion of the event, unless the Sanctioning Permit is suspended or revoked for just cause by the Commissioner. Licenses shall be in effect upon the date issued by the Commissioner, and all Licenses shall expire one year from date of issuance unless the License is suspended or revoked for just cause by the Commissioner.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Only Promoters whose Professional Boxing Contests, Professional Exhibitions, and/or Cage Fights have been sanctioned by the Commissioner are authorized to place a notice of sanction on printed and promotional materials associated with the sanctioned event, which shall include but not be limited to advertising, tickets, programs, posters, souvenirs, wearing apparel, billboards, marquees and promotional signs inside and outside the venue where the event is to be held, and Broadcasting, including, but not limited to, radio, television, including cable television, pay-per-view television, and closed-circuit television and motion pictures of the event. The notice of sanction shall substantially state the following:</text>
+        <text>"Pursuant to the provisions of Chickasaw Code and the rules of the Commissioner, THIS EVENT IS SANCTIONED BY THE CHICKASAW NATION. Sanctioning Permit No.</text>
+        <text>."</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>All fees and other monies resulting from sanctioning Professional Boxing Contests and Professional Exhibitions and Licenses shall accrue to the Chickasaw Nation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.9</num>
+      <heading>SANCTIONING PERMIT REQUIRED.</heading>
+      <text>A Sanctioning Permit issued by the Commissioner shall be required in order to conduct, sponsor, hold, or participate in Professional Boxing Contests, Professional Exhibitions, or Cage Fighting.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.10</num>
+      <heading>WITHHOLDING, SUSPENSION OR REVOCATION OFLICENSE AND SANCTIONING PERMIT--CENSURE OR REPRIMAND--FEES.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commissioner may issue, withhold, suspend, or revoke any and all Licenses and Sanctioning Permits required by the provisions of the Act or the rules promulgated by the Commissioner. The Commissioner may also censure or reprimand any Licensee or Sanctioning Permit holder.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commissioner shall fix a uniform scale of fees for all Licenses, Sanctioning Permits, Closed-Circuit Telecast Permits, and examinations, and such fees shall be set at reasonable cost.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Application for any License or Permit from the Commissioner is an unconditional consent to the jurisdiction of the Chickasaw Nation, the Commissioner and administrative processes and the Courts of the Chickasaw Nation without limit to time or event.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.11</num>
+      <heading>CONSIDERATIONS BEFORE ISSUANCE OF LICENSE OR SANCTIONING PERMIT.</heading>
+      <text>Before issuing any License or Sanctioning Permit, the Commissioner shall consider the following in order of importance:</text>
+      <para>
+        <num>1.</num>
+        <text>the preservation of the safety and health of the Participants;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the best interest and welfare of the public; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>the best interest of professional Boxing or Cage Fighting in general.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.12</num>
+      <heading>SECURITY.</heading>
+      <para>
+        <num>A.</num>
+        <text>Before any Sanctioning Permit is issued to any Promoter to conduct or hold a Professional Boxing Contest, Professional Exhibition and/or Cage Fight, the Applicant shall file with the Commissioner a security in the form of a bond, cash, certificate of deposit, or other securities acceptable to the Commissioner, payable to the Chickasaw Nation in an amount determined by the Commissioner, executed by the Applicant and a surety company or companies authorized to do business in the Nation's Jurisdiction, and conditioned upon the faithful performance by the Promoter, which shall include but not be limited to the cancellation of a Professional Boxing Contest or Professional Exhibition without good cause as determined by the</text>
+      </para>
+      <text>Commissioner once the Professional Boxing Contest, Professional Exhibition and/or Cage Fight has been approved by the Commissioner.</text>
+      <para>
+        <num>B.</num>
+        <text>The security required under this Section shall guarantee the payment of all taxes, fees, fines and other monies due and payable pursuant to the provisions of the Act and the rules promulgated by the Commissioner, including, but not limited to, the payment of Purses to the competitors, any contributions for required insurance, pensions, disability and medical examinations, the repayment to ticket holders of purchased tickets, the payment of fees to Ring Officials and Physicians, and, in the event of the cancellation of a Professional Boxing Contest, Professional Exhibition and/or Cage Fight approved by the Commissioner without good cause, an amount determined by the Commissioner.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>After issuance of a Sanctioning Permit to a Promoter, the Commissioner may modify the amount of security required to ensure adequate and sufficient coverage for payments of taxes, fees, fines, Purses, and other monies due and payable pursuant to the provisions of this Section. Failure of any Promoter to obtain the modified security required pursuant to this Section within such period of time as the Commissioner may prescribe shall be grounds for revocation of the Sanctioning Permit of such Promoter.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All proceeds of securities collected pursuant to the provisions of this Section shall accrue to the benefit of the Chickasaw Nation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.13</num>
+      <heading>SUBPOENA OF WITNESSES, PRODUCTION OF RECORDS--AUDITS--SUSPENSION FOR JUST CAUSE.</heading>
+      <text>The Commissioner may:</text>
+      <para>
+        <num>1.</num>
+        <text>subpoena witnesses and compel the production of any and all books, memoranda, documents, papers, and records showing the receipts and disbursements of any individual, Club, or corporation Licensed under the provisions of the Act or any other Person or entity subject to jurisdiction of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>administer oaths or affirmations to witnesses;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>require, at any time, the suspension for just cause from involvement in any activity associated with professional Boxing of any employee or official employed by any Licensee or Permitted pursuant to the Act;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>prescribe the manner that books and financial or other statements of any Licensee or Permitted relating to professional Boxing shall be kept; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>visit, investigate, audit, and place accountants and such other Persons as the Commissioner may deem necessary in the offices or places of business related to professional Boxing of any Licensee or Permitted for the purpose of ensuring compliance with the rules and/or regulations of the Commissioner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.14</num>
+      <heading>NOTICE OF VIOLATION--HEARING--ORDERS-- ACTIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>If upon inspection or investigation, or whenever the Commissioner finds that a violation of the Act or of any order, standard, or rule promulgated pursuant to the provisions of the Act has occurred, the Commissioner shall give written notice to the alleged violator specifying the cause of the finding. Such notice shall require that the violations be corrected and specify the terms of such correction or that the alleged violator appear before the Commissioner at a time and place specified in the notice and answer the finding.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commissioner shall afford the alleged violator an opportunity for a hearing conducted in conformity with due process. On the basis of the evidence produced at the hearing, the Commissioner shall make findings of fact and conclusions of law and enter an order and determination thereon. The Commissioner shall provide written notice of such order to the alleged violator and to such other Persons as shall have appeared at the hearing and made written request for notice of the order.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon the request of the Commissioner, the Chickasaw Nation management of gaming and/or the Attorney General shall appear at all such hearings and participate in proceedings.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Chickasaw Management of gaming may be present at any hearing upon filing a request and may appear and be heard with or without legal counsel.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.15</num>
+      <heading>PENALTIES--ADMINISTRATIVE FINES--INJUNCTIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any Person who is found in violation of the provisions of the Act by the Commissioner shall be punished by the imposition of an administrative fine of not more than one hundred thousand dollars ($100,000.00). The Commissioner shall suspend or revoke the License of any Person convicted of violating the provisions of the Act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In addition to other penalties provided by law, if after a hearing in accordance with the provisions of this Act, the Commissioner shall find any Person to be in violation of any of the provisions, such Person may also be subject to an administrative fine of not more than one hundred thousand dollars ($100,000.00) or not more than one percent (1%) of gross revenues received for each violation. Each day a Person is in violation of the provisions of the Act may constitute a separate violation. All administrative fines collected pursuant to the provisions of this Section B shall accrue to the benefit of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Commissioner may make application to the District Court of the Chickasaw Nation for an order enjoining the acts or practices prohibited by this Act, and upon a showing that the Person has engaged in any of the prohibited acts or practices, an injunction, restraining order and/or other order as may be appropriate shall be granted by the Court. Application may be made to the District Court for judgment for any administrative fine unpaid for more than thirty (30) days after assessment and any appeal ended.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Appeals of Commissioner decisions to the Chickasaw Nation District Court shall be filed within thirty (30) days of decision or determination.</text>
+        <para>
+          <num>1.</num>
+          <text>Such appeals shall examine the record made by Commissioner.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Such appeals shall overrule the Commissioner ruling only if the record clearly demonstrates the Commissioner's decision is not based upon the law or facts.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>3-501.16</num>
+      <heading>CLOSED-CIRCUIT TELECAST PERMIT.</heading>
+      <para>
+        <num>A.</num>
+        <text>Prior to showing a closed-circuit telecast of a Professional Boxing event or Cage Fight held in the Chickasaw Nation's Jurisdiction, a Telecast Promoter must first apply for and obtain a Closed-Circuit Telecast Permit, which shall be issued only upon the approval of the Commissioner. The application for a Closed-Circuit Telecast Permit shall be on the form provided by the Commissioner, which shall contain:</text>
+        <para>
+          <num>1.</num>
+          <text>the date of the Broadcast;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>the origination address of the Broadcast;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>a statement that the Applicant acknowledges responsibility for the payment of an assessments to the Commissioner;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>the time frame by which the post-event assessment reports must be filed;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>the portion of the closed-circuit rights for which the Applicant is acknowledging responsibility; and</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>such other information as the Commissioner may deem necessary to carry out the provisions of this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>As a condition of any and all Closed-Circuit Telecast Permits, the Applicant shall be deemed to have acknowledged and will be required to remit to the Chickasaw Nation Tax Commissioner any and all Chickasaw Nation taxes due on proceeds derived from such broadcasts.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2010-03-19" doc="PR27-003">PR27-003, 3/19/10</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

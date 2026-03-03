@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" ns0:url="/">
   <heading>Chickasaw Nation Law Library</heading>
   <meta>
     <description/>
@@ -12,12 +12,12 @@
       <static-assets>https://github.com/chickasawnation/law-static-assets</static-assets>
       <html/>
     </canonical-urls>
-    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="chickasawnation/law-xml" commit="98f5916a2765a75f6959ccd7c03d09a80672f6e8"/>
+        <repository name="chickasawnation/law-xml" commit="a86ec69b14fc200f1e96868dbfc37e59dfa0b12a"/>
       </repositories>
       <platform version="2.19.0" reproducible="false"/>
-      <build-date>2026-02-10</build-date>
+      <build-date>2026-03-03</build-date>
       <codified-date>2025-03-21</codified-date>
     </build>
   </meta>
@@ -29,13 +29,18 @@
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2023/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2021/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2019/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2017/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2016/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2014/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2013/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2012/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2011/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2010/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2009/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2008/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2007/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2006/index.xml"/>

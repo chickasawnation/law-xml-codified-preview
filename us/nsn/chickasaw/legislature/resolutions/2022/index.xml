@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2022">
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="2022">
   <heading>2022 Resolutions</heading>
   <xi:include href="./PR40-002.xml"/>
+  <xi:include href="./PR39-012.xml"/>
+  <xi:include href="./PR39-013.xml"/>
+  <xi:include href="./PR39-014.xml"/>
+  <xi:include href="./PR39-011.xml"/>
+  <xi:include href="./PR39-007.xml"/>
+  <xi:include href="./PR39-010.xml"/>
+  <xi:include href="./PR39-006.xml"/>
+  <xi:include href="./PR39-003.xml"/>
+  <xi:include href="./PR39-004.xml"/>
+  <xi:include href="./PR39-005.xml"/>
 </collection>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Chickasaw Nation Code">
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
   <prefix>Title</prefix>
   <num>2</num>
   <heading>ADMINISTRATION OF TRIBAL AFFAIRS AND GOVERNMENT</heading>
@@ -168,7 +168,7 @@
         <text>"Office of Tribal Citizenship" means the office designated by the Chickasaw Nation to receive and process applications for and issuances of designations of citizenship in the Chickasaw Nation, pursuant to the provisions of the Constitution and applicable Tribal Laws of the Chickasaw Nation.</text>
       </para>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
         <annotation type="History" effective="1996-09-06" doc="PR13-19">PR13-19, 9/6/96</annotation>
       </annotations>
     </section>
@@ -179,7 +179,7 @@
       <text>A person who can show that at least one of his or her natural parents is a Chickasaw as defined by the Constitution of the Chickasaw Nation, is eligible for Citizenship.  Adoption of such</text>
       <text>person by others, whether Chickasaw or not, shall not alter the Chickasaw citizenship eligibility of such person.</text>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
       </annotations>
     </section>
     <section>
@@ -188,7 +188,7 @@
       <heading>QUALIFICATION FOR CITIZENSHIP OF CHICKASAW MIXED- BLOOD.</heading>
       <text>Any person who applies for citizenship who otherwise qualifies for citizenship, but who has been enrolled as a citizen of another Indian tribe or tribes, may become a citizen of the Chickasaw Nation; provided that such person shall relinquish, in writing, such citizenship or membership in the other Indian tribe or tribes and file such writing with the Chickasaw Nation.</text>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
       </annotations>
     </section>
     <section>
@@ -212,7 +212,7 @@
         <text>Any direct descendent of an enrollee on the Chickasaw Rolls by Blood of the Dawes Commission Rolls whose enrollment does not reflect a specified blood quantum, may make application for citizenship under the same requirements established under the Federal Rules and Regulations governing the issuance of a CDIB.</text>
       </para>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
         <annotation type="History" effective="1996-09-06" doc="PR13-19">PR13-19, 9/6/96</annotation>
       </annotations>
     </section>
@@ -324,7 +324,7 @@
         <text>writing before a citizenship card is issued to such mixed-blood Chickasaw.</text>
       </para>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
       </annotations>
     </section>
     <section>
@@ -352,7 +352,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
       </annotations>
     </section>
     <section>
@@ -374,7 +374,7 @@
         <text>Said citizen shall be notified by certified mail, return receipt requested, by the Chickasaw Nation of the intent to revoke citizenship and the information that brought the action. Such notice shall include the date for the hearing which shall be no less than thirty (30) days, and that the matter will be heard by the Tribal Court as a review panel on that date in informal session, and that such citizen may appear to show cause why citizenship should not be revoked. Failure of the citizen to appear at the scheduled hearing shall be accepted by the review panel that such citizen shall abide by that panel's decision. The decision of the review panel shall be final.</text>
       </para>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
       </annotations>
     </section>
     <section>
@@ -383,7 +383,7 @@
       <heading>EFFECTIVE DATE.</heading>
       <text>This law shall become effective on the date that it is duly adopted as law in accordance with the provisions of the Constitution and laws of the Chickasaw Nation.</text>
       <annotations>
-        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02,10/21/94</annotation>
+        <annotation type="History" effective="1994-10-21" doc="PR12-02">PR12-02, 10/21/94</annotation>
       </annotations>
     </section>
   </container>
@@ -557,9 +557,9 @@
         <heading>LEGAL PROTECTION FOR OFFICERS AND EMPLOYEES OF THE NATION.</heading>
         <text>The Chickasaw Tribal Legislature extends full and complete tribal protection, legal defense, and indemnification to all officials of the judicial, executive and legislative departments, employees and/or agents of the Chickasaw Nation during any and all times that those officials, employees and/or agents are engaged in activities that are in full keeping with their assigned, mandated or delegated tasks as officials, employees and/or agents of the Chickasaw Nation. Such protections shall include providing legal protections and legal defenses for those persons who may be the subject of a lawsuit or in other actions brought against them as individuals or as officials, employees and/or agents of the Chickasaw Nation, and costs for such actions are authorized to be paid by the respective departments' annual budgets. This in no way impacts the ability of the Chickasaw Nation to claim sovereign immunity in any court while providing any such defense. Any such defense shall be managed through the Executive Department or a named designee of same.</text>
         <annotations>
-          <annotation type="History" effective="1991-03-19" doc="GR8-58">GR 8-58, 3/19/91</annotation>
-          <annotation type="History" effective="1991-04-25" doc="PR8-05">PR 8-05, 4/25/91</annotation>
-          <annotation type="History" effective="1991-06-27" doc="GR8-79">GR 8-79, 6/27/91</annotation>
+          <annotation type="History" effective="1991-03-19" doc="GR8-58">GR8-58, 3/19/91</annotation>
+          <annotation type="History" effective="1991-04-25" doc="PR8-05">PR8-05, 4/25/91</annotation>
+          <annotation type="History" effective="1991-06-27" doc="GR8-79">GR8-79, 6/27/91</annotation>
           <annotation type="History" effective="2012-11-16" doc="PR30-002">PR30-002, 11/16/12</annotation>
         </annotations>
       </section>
@@ -850,7 +850,7 @@
           <text>other Applicant.</text>
         </para>
         <annotations>
-          <annotation type="History" effective="1988-02-19" doc="TL5-001">TL 5-001, 2/19/88</annotation>
+          <annotation type="History" effective="1988-02-19" doc="TL5-001">TL5-001, 2/19/88</annotation>
           <annotation type="History" effective="2018-12-21" doc="PR36-002">PR36-002, 12/21/2018</annotation>
         </annotations>
       </section>
@@ -858,7 +858,7 @@
         <prefix>Section</prefix>
         <num>2-501.02</num>
         <heading>DEFINITIONS.</heading>
-        <text>For the purpose of Articles A and C of this Chapter 5:</text>
+        <text>For the purpose of Articles<cite path="2|5|A"> A </cite>and<cite path="2|5|C"> C </cite>of <cite path="2|5">this Chapter 5</cite>:</text>
         <para>
           <num>A.</num>
           <text>"American Indian" means a person who has been granted citizenship in a federally-recognized Indian tribe.</text>
@@ -1117,7 +1117,7 @@
         <heading>TITLE.</heading>
         <text>This article shall be known as the "Chickasaw Nation Personnel Act of 2013."</text>
         <annotations>
-          <annotation type="History" effective="1988-02-19" doc="TL5-001">TL 5-001, 2/19/88</annotation>
+          <annotation type="History" effective="1988-02-19" doc="TL5-001">TL5-001, 2/19/88</annotation>
           <annotation type="History" effective="2013-11-19" doc="PR31-001">PR31-001, 11/19/13</annotation>
         </annotations>
       </section>
@@ -1196,7 +1196,7 @@
         <heading>GENERAL EMPLOYMENT POLICIES.</heading>
         <para>
           <num>A.</num>
-          <text>The leadership of each Department of the Chickasaw Nation government, as defined in Section 2-503.02(A), determines the organizational structure of that respective Department and establishes tribal employment policies for the management of their respective tribal employees.</text>
+          <text>The leadership of each Department of the Chickasaw Nation government, as defined in <cite path="PROOF 2|5|C|2-503.02">Section 2-503.02(A)</cite>, determines the organizational structure of that respective Department and establishes tribal employment policies for the management of their respective tribal employees.</text>
         </para>
         <para>
           <num>B.</num>
@@ -1367,7 +1367,7 @@
         <prefix>Section</prefix>
         <num>2-507.1</num>
         <heading>SHORT TITLE.</heading>
-        <text>This Title 2, Chapter 5, Article G shall be known and may be cited as the "Right to Work Act of 2005" ( "Act").</text>
+        <text><cite path="2|5|G">This Title 2, Chapter 5, Article G</cite> shall be known and may be cited as the "Right to Work Act of 2005" ( "Act").</text>
         <annotations>
           <annotation type="History" effective="2004-11-19" doc="PR22-003">PR22-003, 11/19/04</annotation>
         </annotations>
@@ -1606,7 +1606,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Pursuant to the procedures for appeal provided by Title 5, Chapter 1, Articles B, Section 5-102.1 of the Chickasaw Nation Code, a Notice of Intent to Appeal and Petition for Appeal, as defined in Title 5, Chapter 1, Article B of the Chickasaw Nation Code, shall be filed</text>
+          <text>Pursuant to the procedures for appeal provided by Title 5, Chapter 1, Articles B, <cite path="PROOF 5|1|B|5-102.1">Section 5-102.1</cite> of the Chickasaw Nation Code, a Notice of Intent to Appeal and Petition for Appeal, as defined in <cite path="5|1|B">Title 5, Chapter 1, Article B of the Chickasaw Nation Code</cite>, shall be filed</text>
         </para>
         <text>with the District Court within thirty (30) days of the issuance of a decision of the Commission or such appeal will be barred.</text>
         <para>
@@ -1627,7 +1627,7 @@
         <prefix>Section</prefix>
         <num>2-702.1</num>
         <heading>TITLE.</heading>
-        <text>Be it hereby enacted by the Chickasaw Tribal Legislature, that this Act shall be cited as the "Chickasaw Nation Ethics in Government Act of 2002" (hereinafter referred to as this "Act"). This Act shall be codified at Title 2, Chapter 7, Article B of the Code of the Chickasaw Nation.</text>
+        <text>Be it hereby enacted by the Chickasaw Tribal Legislature, that this Act shall be cited as the "Chickasaw Nation Ethics in Government Act of 2002" (hereinafter referred to as this "Act"). This Act shall be codified at <cite path="2|7|B">Title 2, Chapter 7, Article B of the Code of the Chickasaw Nation.</cite></text>
         <annotations/>
       </section>
       <section>
@@ -1665,7 +1665,7 @@
         <prefix>Section</prefix>
         <num>2-702.4</num>
         <heading>DEFINITIONS.</heading>
-        <text>As used in this Chapter:</text>
+        <text>As used in <cite path="2|7">this Chapter</cite>:</text>
         <para>
           <num>1.</num>
           <text>"Affinity" means the relation among a person and the family of such person's spouse because of marriage. The degrees of Affinity are computed as are the degrees of Consanguinity.</text>
@@ -2096,7 +2096,7 @@
         <prefix>Section</prefix>
         <num>2-702.8</num>
         <heading>PRIOR LAW AND POLICIES SUPERSEDED.</heading>
-        <text>Subsection 2-702.5.O herein notwithstanding, upon the effective date of this Act, all prior enactments, laws, rules, policies, ordinances and regulations of the Chickasaw Nation and its Governmental Bodies are superseded hereby and/or amended to comply herewith.</text>
+        <text>Sub<cite path="2|7|B|2-702.5">section 2-702.5</cite>.O herein notwithstanding, upon the effective date of this Act, all prior enactments, laws, rules, policies, ordinances and regulations of the Chickasaw Nation and its Governmental Bodies are superseded hereby and/or amended to comply herewith.</text>
         <annotations/>
       </section>
       <section>
@@ -2157,7 +2157,7 @@
       </para>
       <para>
         <num>6.</num>
-        <text>"Act" means this Act, as identified in Section 2-801;</text>
+        <text>"Act" means this Act, as identified in <cite path="PROOF 2|8|A|2-801">Section 2-801</cite>;</text>
       </para>
       <para>
         <num>7.</num>
@@ -2604,7 +2604,7 @@
         <heading>COMPENSATION.</heading>
         <para>
           <num>A.</num>
-          <text>Each member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in Section 2-1001, shall be eligible for compensation in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
+          <text>Each member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="PROOF 2|10|A|2-1001">Section 2-1001</cite>, shall be eligible for compensation in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
         </para>
         <para>
           <num>B.</num>
@@ -2639,7 +2639,7 @@
         <prefix>Section</prefix>
         <num>2-1004.1</num>
         <heading>ELECTION COMMISSION ESTABLISHED; MEMBERS.</heading>
-        <text>The Election Commission shall be composed of five (5) tribal members appointed by the Governor with the advice and consent of the Legislature. All must be Residents of the Chickasaw Nation. There shall be one member from each of the four voting districts of the Nation and one member may be selected at large from any of the four districts. The Election Commission shall be authorized to act in a prescribed manner and to perform prescribed acts as set forth in this Article D and in Title 8 of the Chickasaw Nation Code. The Commission shall be within the Executive Department; however, the Commission shall make its decisions in the performance of its statutory duties and authority without input, advice or interference from any of the three departments of tribal government, any officer or employee thereof, or any other person not sitting on the Commission.</text>
+        <text>The Election Commission shall be composed of five (5) tribal members appointed by the Governor with the advice and consent of the Legislature. All must be Residents of the Chickasaw Nation. There shall be one member from each of the four voting districts of the Nation and one member may be selected at large from any of the four districts. The Election Commission shall be authorized to act in a prescribed manner and to perform prescribed acts as set forth in <cite path="2|10|D">this Article D</cite> and in <cite path="8">Title 8 of the Chickasaw Nation Code.</cite> The Commission shall be within the Executive Department; however, the Commission shall make its decisions in the performance of its statutory duties and authority without input, advice or interference from any of the three departments of tribal government, any officer or employee thereof, or any other person not sitting on the Commission.</text>
         <annotations>
           <annotation type="History" effective="2003-03-21" doc="PR20-006">PR20-006, 3/21/03</annotation>
         </annotations>
@@ -2703,7 +2703,7 @@
           </para>
           <para>
             <num>5.</num>
-            <text>Conduct all election recounts pursuant to this Article D and Title 8 of the Chickasaw Nation Code.</text>
+            <text>Conduct all election recounts pursuant to <cite path="2|10|D">this Article D</cite> and <cite path="8">Title 8 of the Chickasaw Nation Code.</cite></text>
           </para>
           <para>
             <num>6.</num>
@@ -2736,7 +2736,7 @@
         <prefix>Section</prefix>
         <num>2-1004.5</num>
         <heading>APPOINTMENT OF ELECTION SECRETARY/TRIBAL REGISTRAR.</heading>
-        <text>An Election Secretary/Tribal Registrar shall be a single full-time position appointed by the Governor and confirmed by the Legislature. Legislative confirmation shall be required of any person serving as Election Secretary/Tribal Registrar on an interim basis. If possible, appointments of Election Secretary/Tribal Registrars shall be made at least sixty (60) days prior to the year's upcoming elections. The Election Secretary/Tribal Registrar shall be a registered Chickasaw Voter and a notary public and shall be responsible for the day-to-day office procedures of the elections and tribal registration as defined in Title 8 of the Chickasaw Nation Code. The salary shall be established by the Legislature.</text>
+        <text>An Election Secretary/Tribal Registrar shall be a single full-time position appointed by the Governor and confirmed by the Legislature. Legislative confirmation shall be required of any person serving as Election Secretary/Tribal Registrar on an interim basis. If possible, appointments of Election Secretary/Tribal Registrars shall be made at least sixty (60) days prior to the year's upcoming elections. The Election Secretary/Tribal Registrar shall be a registered Chickasaw Voter and a notary public and shall be responsible for the day-to-day office procedures of the elections and tribal registration as defined in <cite path="8">Title 8 of the Chickasaw Nation Code.</cite> The salary shall be established by the Legislature.</text>
         <annotations/>
       </section>
       <section>
@@ -2747,7 +2747,7 @@
           <num>A.</num>
           <text>The Election Commission and Election Secretary/Tribal Registrar shall conduct and supervise the election ballot counting in the Nation's headquarters as prescribed in this</text>
         </para>
-        <text>Article D and Title 8 of the Chickasaw Nation Code.</text>
+        <text><cite path="2|10|D">Article D</cite> and <cite path="8">Title 8 of the Chickasaw Nation Code.</cite></text>
         <para>
           <num>B.</num>
           <text>The Election Secretary/Tribal Registrar and one (1) Commissioner or two (2) Commissioners shall have the authority to determine the validity of signatures on the election envelopes.</text>
@@ -2855,9 +2855,7 @@
       <prefix>Article</prefix>
       <num>F</num>
       <heading>CHICKASAW NATION INDUSTRIAL DEVELOPMENT COMMISSION</heading>
-      <annotations>
-        <annotation type="Editor's Notes" dest="container">SC Case No. 95-02, 7/22/95:  Declared Unconstitutional in its entirety.</annotation>
-      </annotations>
+      <annotation type="Editor's Notes">SC Case No. 95-02, 7/22/95:  Declared Unconstitutional in its entirety.</annotation>
     </container>
     <container>
       <prefix>Article</prefix>

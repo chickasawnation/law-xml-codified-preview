@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2021">
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="2021">
   <heading>2021 Resolutions</heading>
+  <xi:include href="./PR39-002.xml"/>
+  <xi:include href="./PR39-001.xml"/>
+  <xi:include href="./PR38-037.xml"/>
+  <xi:include href="./PR38-034.xml"/>
+  <xi:include href="./PR38-035.xml"/>
+  <xi:include href="./PR38-036.xml"/>
+  <xi:include href="./PR38-031.xml"/>
+  <xi:include href="./PR38-032.xml"/>
+  <xi:include href="./PR38-033.xml"/>
+  <xi:include href="./PR38-027.xml"/>
+  <xi:include href="./PR38-028.xml"/>
+  <xi:include href="./PR38-029.xml"/>
+  <xi:include href="./PR38-030.xml"/>
   <xi:include href="./PR38-020.xml"/>
+  <xi:include href="./PR38-021.xml"/>
+  <xi:include href="./PR38-022.xml"/>
+  <xi:include href="./PR38-023.xml"/>
+  <xi:include href="./PR38-024.xml"/>
+  <xi:include href="./PR38-025.xml"/>
+  <xi:include href="./PR38-026.xml"/>
+  <xi:include href="./PR38-017.xml"/>
+  <xi:include href="./PR38-018.xml"/>
+  <xi:include href="./PR38-019.xml"/>
+  <xi:include href="./PR38-015.xml"/>
+  <xi:include href="./PR38-016.xml"/>
+  <xi:include href="./PR38-012.xml"/>
+  <xi:include href="./PR38-013.xml"/>
+  <xi:include href="./PR38-014.xml"/>
+  <xi:include href="./PR38-010.xml"/>
+  <xi:include href="./PR38-011.xml"/>
 </collection>

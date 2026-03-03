@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2023">
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="2023">
   <heading>2023 Resolutions</heading>
+  <xi:include href="./PR41-001.xml"/>
+  <xi:include href="./PR41-002.xml"/>
+  <xi:include href="./PR41-003.xml"/>
+  <xi:include href="./PR41-004.xml"/>
+  <xi:include href="./PR41-005.xml"/>
+  <xi:include href="./PR41-006.xml"/>
+  <xi:include href="./PR41-007.xml"/>
   <xi:include href="./PR40-001.xml"/>
 </collection>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>4</num>
+  <heading>COMMUNITY AND ECONOMIC DEVELOPMENT</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>COMMUNITY DEVELOPMENT</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>HOUSING</heading>
+    <text>(RESERVED)</text>
+    <annotation type="Editor's Notes">Ed See also Chickasaw Housing Authority, Title 2 of this Code.</annotation>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>BUILDINGS AND CONSTRUCTION REGULATIONS</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>ECONOMIC AND INDUSTRIAL DEVELOPMENT</heading>
+    <text>(RESERVED)</text>
+    <annotation type="Editor's Notes">See also Title 10 on Debt and Financing, Bonds. See also Title 9 on Tribal Enterprises.</annotation>
+    <annotation type="Editor's Notes">See also Title 3 on Business and Professions Licensing. See also Title 15 on Lands and Natural Resources.</annotation>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>LAND USE AND PLANNING</heading>
+    <text>(RESERVED)</text>
+    <annotation type="Editor's Notes">See also Title 15, Lands and Natural Resources.</annotation>
+  </container>
+</container>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Chickasaw Nation Code">
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
   <prefix>Title</prefix>
   <num>1</num>
   <heading>GENERAL PROVISIONS</heading>
@@ -211,9 +211,9 @@
       <prefix>Section</prefix>
       <num>1-301.1</num>
       <heading>SHORT TITLE.</heading>
-      <text>This Title 1, Chapter 3 of the Chickasaw Nation Code shall be called the "Chickasaw Nation Apportionment Plan" ("Plan").</text>
+      <text>This <cite path="1|3">Title 1, Chapter 3 of the Chickasaw Nation Code</cite> shall be called the "Chickasaw Nation Apportionment Plan" ("Plan").</text>
       <annotations>
-        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL 5-002, 1/18/88</annotation>
+        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL5-002, 1/18/88</annotation>
         <annotation type="History" effective="2013-01-17" doc="PR30-006">PR30-006, 1/17/13</annotation>
       </annotations>
     </section>
@@ -242,7 +242,7 @@
         <text>The Chickasaw Tribal Legislature finds that it is in the best interest of the Chickasaw Nation that the current apportionment be maintained.</text>
       </para>
       <annotations>
-        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL 5-002, 1/18/88</annotation>
+        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL5-002, 1/18/88</annotation>
         <annotation type="History" effective="2013-01-17" doc="PR30-006">PR30-006, 1/17/13</annotation>
       </annotations>
     </section>
@@ -269,7 +269,7 @@
       </para>
       <text>This apportionment shall remain in effect until changed in accordance with the provisions of the Constitution and Code of the Chickasaw Nation.</text>
       <annotations>
-        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL 5-002, 1/18/88</annotation>
+        <annotation type="History" effective="1988-01-18" doc="TL5-002">TL5-002, 1/18/88</annotation>
         <annotation type="History" effective="2013-01-17" doc="PR30-006">PR30-006, 1/17/13</annotation>
       </annotations>
     </section>
@@ -282,7 +282,7 @@
       <prefix>Section</prefix>
       <num>1-401.1</num>
       <heading>LEGAL AUTHORITY FOR USE OF THE SEAL.</heading>
-      <text>The purpose of this Chapter is to afford adequate and safe protections of and for the Great Seal of the Nation and to regulate the uses to and for which the Great Seal of the Nation may be put. The Official Seal of the Nation was officially returned to the Nation after being in the possession of the United States Government since Oklahoma statehood in 1907. The official Seal is reserved for the use of the Nation.</text>
+      <text>The purpose of <cite path="1|4">this Chapter</cite> is to afford adequate and safe protections of and for the Great Seal of the Nation and to regulate the uses to and for which the Great Seal of the Nation may be put. The Official Seal of the Nation was officially returned to the Nation after being in the possession of the United States Government since Oklahoma statehood in 1907. The official Seal is reserved for the use of the Nation.</text>
       <annotations>
         <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/02/88</annotation>
       </annotations>
@@ -307,7 +307,7 @@
       <prefix>Section</prefix>
       <num>1-401.3</num>
       <heading>OTHER DEFINITIONS.</heading>
-      <text>For the purpose of this Chapter, the following terms shall have the meanings respectively ascribed to them unless the context clearly requires another meaning:</text>
+      <text>For the purpose of <cite path="1|4">this Chapter</cite>, the following terms shall have the meanings respectively ascribed to them unless the context clearly requires another meaning:</text>
       <para>
         <num>1.</num>
         <text>"Governmental Activity" means a function of the Tribal Government in providing for its own support, in providing services to the public or during the course of its operations of business entities which are wholly or partially owned by the Chickasaw Nation; and</text>
@@ -382,7 +382,7 @@
       <prefix>Section</prefix>
       <num>1-401.9</num>
       <heading>ORDER TO DISCONTINUE USE OF SEAL.</heading>
-      <text>The Governor, Lieutenant Governor, or any member of the Legislature may direct any Person found to be violating the terms of this Chapter to halt the use of the Seal and may present such alleged violation to the Court in accordance with the rules and procedures of the Court for filing petitions.</text>
+      <text>The Governor, Lieutenant Governor, or any member of the Legislature may direct any Person found to be violating the terms of <cite path="1|4">this Chapter</cite> to halt the use of the Seal and may present such alleged violation to the Court in accordance with the rules and procedures of the Court for filing petitions.</text>
       <annotations>
         <annotation type="History" effective="1988-12-02" doc="GR6-27">GR6-27, 12/2/88</annotation>
       </annotations>
