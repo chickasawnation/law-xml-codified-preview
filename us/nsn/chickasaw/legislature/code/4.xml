@@ -14,7 +14,9 @@
     <num>2</num>
     <heading>HOUSING</heading>
     <text>(RESERVED)</text>
-    <annotation type="Editor's Notes">Ed See also Chickasaw Housing Authority, Title 2 of this Code.</annotation>
+    <annotations>
+      <annotation type="Editor's Notes">Ed See also Chickasaw Housing Authority, Title 2 of this Code.</annotation>
+    </annotations>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -27,14 +29,18 @@
     <num>4</num>
     <heading>ECONOMIC AND INDUSTRIAL DEVELOPMENT</heading>
     <text>(RESERVED)</text>
-    <annotation type="Editor's Notes">See also Title 10 on Debt and Financing, Bonds. See also Title 9 on Tribal Enterprises.</annotation>
-    <annotation type="Editor's Notes">See also Title 3 on Business and Professions Licensing. See also Title 15 on Lands and Natural Resources.</annotation>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 10 on Debt and Financing, Bonds. See also Title 9 on Tribal Enterprises.</annotation>
+      <annotation type="Editor's Notes">See also Title 3 on Business and Professions Licensing. See also Title 15 on Lands and Natural Resources.</annotation>
+    </annotations>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>LAND USE AND PLANNING</heading>
     <text>(RESERVED)</text>
-    <annotation type="Editor's Notes">See also Title 15, Lands and Natural Resources.</annotation>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 15, Lands and Natural Resources.</annotation>
+    </annotations>
   </container>
 </container>
