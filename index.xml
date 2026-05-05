@@ -14,54 +14,50 @@
     </canonical-urls>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="chickasawnation/law-xml" commit="913bfff273c61d037210918ac8bca1768cfafea3"/>
+        <repository name="chickasawnation/law-xml" commit="33c4ef5702ee570abc2238c0cb060a7cdd6d61f5"/>
       </repositories>
       <platform version="2.19.5.dev402" reproducible="false"/>
-      <build-date>2026-04-07</build-date>
+      <build-date>2026-05-05</build-date>
       <codified-date>2026-02-20</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/chickasaw/legislature/code/index.xml"/>
   <collection name="us/nsn/chickasaw/legislature/resolutions">
     <heading>Resolutions</heading>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2026/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2025/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2024/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2023/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2022/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2021/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2020/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2019/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2018/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2017/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2016/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2015/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2014/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2013/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2012/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2011/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2010/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2009/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2008/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2007/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2006/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2005/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2004/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2003/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2002/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2001/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/2000/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1999/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1998/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1997/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1996/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1995/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1994/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1993/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1992/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1991/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1989/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1988/index.xml"/>
-    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/1986/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR43/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR42/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR41/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR40/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR39/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR38/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR37/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR36/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR35/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR34/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR33/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR32/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR31/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR30/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR29/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR28/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR27/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR26/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR25/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR24/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR23/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR22/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR21/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR20/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR19/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR18/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR17/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR16/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR15/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR14/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR13/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR12/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR8/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/GR/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/TL/index.xml"/>
   </collection>
 </library>
