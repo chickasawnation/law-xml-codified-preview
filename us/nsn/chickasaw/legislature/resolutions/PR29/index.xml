@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR29">
+  <heading>PR29 Resolutions</heading>
+  <xi:include href="./PR29-008.xml"/>
+  <xi:include href="./PR29-006.xml"/>
+  <xi:include href="./PR29-005.xml"/>
+  <xi:include href="./PR29-004.xml"/>
+  <xi:include href="./PR29-002.xml"/>
+  <xi:include href="./PR29-001.xml"/>
+</collection>
