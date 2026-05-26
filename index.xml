@@ -14,7 +14,7 @@
     </canonical-urls>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="chickasawnation/law-xml" commit="9c55d55a712ea03ed4452914a61c354391a8f54c"/>
+        <repository name="chickasawnation/law-xml" commit="60eac26d3547a0715d6e5d60e4cbc3ad904a3d13"/>
       </repositories>
       <platform version="2.19.5.dev402" reproducible="false"/>
       <build-date>2026-05-26</build-date>
