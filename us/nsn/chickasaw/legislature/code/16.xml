@@ -1,0 +1,1784 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>16</num>
+  <heading>THE LEGISLATURE AND LEGISLATION</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>LEGISLATURE</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.1</num>
+      <heading>COMPOSITION; MEMBERS; QUALIFICATIONS AND TERMS.</heading>
+      <text>The Legislature shall be composed of thirteen (13) members, elected from the four (4) Legislative Districts of the Nation in accordance with an apportionment plan prescribed by the Legislature. Legislators shall have the qualifications as prescribed by the Constitution and shall be elected for three-year terms.</text>
+      <annotations>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="Editor's Notes">Constitutional Reference: See Article VI, Section 1 through 6 of the Constitution.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.2</num>
+      <heading>POWERS AND DUTIES GENERALLY.</heading>
+      <text>The Legislature shall enact rules and regulations pertaining to the Nation generally, and shall:</text>
+      <para>
+        <num>1.</num>
+        <text>enact ordinances governing future citizenship and loss of citizenship;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>prescribe procedures and regulations for voter registration;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>prescribe election procedures and regulations;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>prescribe rules of procedure for operation of the Legislature;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>fix and prescribe salaries and allowances for all elected or appointed officials and a pay scale for all employees of the Nation;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>make decisions pertaining to the acquisition, leasing, disposition and management of real property, subject to federal law;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>sit as a Court in all cases of impeachment, and its decision shall be final;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>approve, amend or reject the annual budget of the Nation;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>the Governor shall have power to establish and appoint Committees, members, and delegates to represent the Chickasaw Nation with the advice and consent of the Tribal Legislature;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>have the authority to override the Governor's veto;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>ordain and establish such inferior courts to the Supreme Court and implement a Tribal Justice System;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>have the authority to confer other jurisdictions to the Supreme Court;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>have the authority to propose amendments to the Constitution of the Chickasaw Nation; and,</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>reapportion as necessary according to the Constitution and Code.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1997-04-23" doc="PR14-004">PR14-004, 4/23/97</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.3</num>
+      <heading>ORGANIZATION AND COMMITTEES.</heading>
+      <para>
+        <num>A.</num>
+        <text>At its first Regular Session each fiscal year, the Legislature shall organize and elect officers from its members. Officers shall include a Chairperson and a Secretary. The Chairperson shall nominate a Recording Secretary and a Sergeant-at-arms for placement in office by and with the advice and consent of the Legislature. The Chairperson shall preside over all meetings of the Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Election of officers shall be by written ballot marked in secret and counted by the Recording Secretary and Legislative Counsel. In case of a tie in the election of officers, the Legislature shall continue voting until an officer is elected. If the Legislature is still tied after three (3) rounds of voting, Legislative Counsel, Sergeant at Arms or other neutral person shall flip a coin and let it fall to the floor. The choice of heads or tails shall be called prior to the flipping by a candidate chosen by the tied candidates. The coin flip shall be a final designation of the winning officer.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-06-21" doc="PR13-14">PR13-14, 6/21/96</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="History" effective="2016-11-18" doc="PR34-001">PR34-001, 11/18/16</annotation>
+        <annotation type="Editor's Notes">Constitutional Reference: Article VII, Section 1 of the Constitution.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.4</num>
+      <heading>INSURANCE.</heading>
+      <text>The Chickasaw Tribal Legislature provides that all members of the Tribal Legislature and their dependents are approved to receive insurance coverage benefits in the same form and manner as is provided to the employees of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1992-07-17" doc="GR92-99">GR92-99, 7/17/92</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.5</num>
+      <heading>PROCEDURES.</heading>
+      <text>This is to establish the procedures by which the Chickasaw Tribal Legislature shall operate, and for other purposes. Be it enacted by the Chickasaw Tribal Legislature here assembled that this Act be cited as the "Legislative Reform Act of 1993" ("Act").</text>
+      <text>The Chickasaw Tribal Legislature has the authority:</text>
+      <para>
+        <num>1.</num>
+        <text>to adopt uniform procedures for Committees,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>to adopt uniform procedures for assembly, and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>to adopt "Special Rules of Order."</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.6</num>
+      <heading>AUTHORITY.</heading>
+      <text>The basis of authority for this Act is Article VI, Section 1 of the Constitution, wherein the Tribal Legislature is granted the Legislative authority of the Chickasaw Nation, and in Article VII, Sections 4 and 12, wherein the Legislature is granted the power and authority to enact rules and regulations pertaining to the Chickasaw Nation and to adopt rules of procedure for operation of the Legislature. The Legislature hereby:</text>
+      <para>
+        <num>1.</num>
+        <text>repeals all previous resolutions, laws and enactments which pertain to rules of procedure for Committees and for assemblies of the Legislature,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>defines procedures for Committees and for assemblies of the Legislature, and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>adopts procedures for Committees and for assemblies of the Legislature, herein called "Special Rules of Order."</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.7</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of this Act:</text>
+      <para>
+        <num>1.</num>
+        <text>"Articles of Impeachment" shall mean the formal impeachment charges filed with the Legislature by the Judicial Department.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Chairperson" means that elected officer of the Legislature as defined in Article VII, Sections 1 and 2, of the Constitution, in whom is vested the authority and responsibility to perform items of official business that devolve from the Constitutionally mandated "privileges, duties and powers" of the Legislative Department, or to delegate or assign authority to perform items of business not expressly reserved to the Chairperson.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"The Chickasaw Nation" shall mean the government instituted in the Constitution of the Chickasaw Nation, or all Chickasaw Indians by blood whose names appear on the final rolls of the Chickasaw Nation approved pursuant to Section 2 of the Act of April 26, 1906, and their lineal descendants, or it shall mean the actual physical nation itself, depending upon reference.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Chickasaw Tribal Legislature," or "Legislature," shall mean that body of not more than 13 members, as created by Articles V, VI, VII, VIII, and IX of the Constitution of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Committee(s)" defined:</text>
+        <para>
+          <num>a.</num>
+          <text>"Committee(s)" means any body devised by the Chairperson, generally composed of Members of the Legislature, who shall serve unless or until removed or replaced by the Chairperson, and to which are delegated or committed a particular duty or duties, in the expectation of any act performed by the committee's being confirmed or approved by the Legislature.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>"Committee" also means and includes the Committee-of-the-whole, any Standing, Special, Joint or <em>Ad Hoc </em>Committees and Sub-committees of the Chickasaw Tribal Legislature of any session of the Chickasaw Nation Tribal Legislature, which consists of any such Members of the Chickasaw Tribal Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Committee Chair" means that officer of a Committee or Sub-committee appointed by the Chairperson to head a Committee or Sub-committee.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Committee Meeting" means any meeting of the Committee of the Whole, or a Standing Committee, Sub-committee, Special Committee, Joint Committee or <em>Ad hoc </em>Committee.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Constitution" means that document which formally established the Chickasaw Nation and its government, as ratified by the eligible registered voters of the Chickasaw Nation on August 27, 1983, and which was approved by the Secretary of the U.S. Department of the Interior on July 15, 1983.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Defense" means that which is offered in the form of testimony or evidence by the person against whom impeachment charges have been filed to defeat a charge of impeachment.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Elected Official" shall mean any person who serves the Chickasaw Nation in any capacity whatsoever and who has been elected by the registered voters of the Chickasaw Nation to complete and fulfill the obligations of the office to which he was elected.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Executive Department" shall mean that department of the tribal government created by the Constitution and/or referenced in Articles V, X and XI.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Executive Session" means a meeting in which at least nine (9) members of the Legislature are in attendance. It is closed to the public, and called for the purpose of deciding issues of internal policies and procedures for the operation of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Formal Assembly" means any Regular, Executive, or Special Session of a quorum of the Tribal Legislature:</text>
+        <para>
+          <num>a.</num>
+          <text>"Regular Session" means the Legislature meeting in accordance with Article VIII, Sections 1, 2 and 4 of the Constitution.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>"Special Session" means the Legislature meeting in accordance with Article VIII, Sections 2, 3 and 4 of the Constitution.</text>
+        </para>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Governor" means the chief magistrate of the Chickasaw Nation, as defined in Article X, Section 1, of the Constitution.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Informal Work Groups" will mean meeting(s) of persons assigned by the Chairperson of the Legislature to perform assigned tasks, either alone or in conjunction with representatives of other branches of the Chickasaw government and established to examine issues, promote communication, promote exchange of information and ideas with no formal grant of any governmental power(s).</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Judge" shall mean that person or persons serving in the Judicial Department as provided in Articles XII, and XIII of the Constitution.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Judicial Department" shall mean that department created in Articles XII and XIII of the Constitution.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Legislation" means any law enacted or proposed by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"Legislative District (s)" shall mean those four areas, as defined in Article VI, Section 3 of the Constitution.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Legislator" or "Member of the Legislature" shall mean those persons serving in the Legislative Department as provided in Article VI of the Constitution.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"Legislature" means that body of not more than thirteen (13) members, as created and empowered by Articles V, VI, VII, VIII and IX of the Constitution, elected from the following districts according to an apportionment plan prescribed by the Tribal Legislature: Panola, Pickens, Tishomingo and Pontotoc, the boundaries of which are described in the Constitution.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"Lieutenant Governor" or "Lt. Governor" shall mean that officer as defined in Articles X and XI of the Constitution.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"Majority" means more than half (½) of those present at the time of the vote.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"Minutes" means a summary of proceedings of a legislative meeting.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"Official Capacity" or "Official Duties" shall mean duties, activities, actions or procedures done in compliance with either constitutional, lawful, legal, or other requirements of the person who is in an elected office and which duties, activities, actions or procedures are done while an Elected Official is representing the Chickasaw Nation or other office to which he was elected.</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>"Petition" shall mean that document submitted to the Judicial Department, which states the cause of action for impeachment as utilized in this Act.</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text>"Prosecutor" shall mean that citizen of the Chickasaw Nation, not an Elected Official of the Chickasaw Nation and not employed by the Chickasaw Nation in any capacity whatsoever, and not related by blood or marriage to within three degrees to the Elected Official against whom Articles of Impeachment have been filed.</text>
+      </para>
+      <para>
+        <num>28.</num>
+        <text>"Recording Secretary" means that employee, nominated by the Chairperson and placed in office with the advice and consent of the Tribal Legislature in accordance with Article VII, Section 1, of the Constitution.</text>
+      </para>
+      <para>
+        <num>29.</num>
+        <text>"Registered Resident Voter" shall mean any person who resides within the geographical boundaries of the Chickasaw Nation, and who is registered to vote with the Chickasaw Nation Election Commission.</text>
+      </para>
+      <para>
+        <num>30.</num>
+        <text>"Secretary" means that officer of the Legislature as defined in Article VII, Sections 1 and 3, of the Constitution, and the presiding officer of the Legislature in the absence of the Chairperson.</text>
+      </para>
+      <para>
+        <num>31.</num>
+        <text>"Sergeant-at-Arms" means that person(s), nominated by the Chairperson and placed in office with the advice and consent of the Tribal Legislature, in accordance with Article VII, Section 1, of the Constitution, to attend all formal assemblies of the Legislature for the primary purpose of providing a shield of protection to the Legislature and of maintaining order in the hall.</text>
+      </para>
+      <para>
+        <num>32.</num>
+        <text>"Subpoena" shall mean a command for appearance before the Legislature when it sits as a Court for impeachment hearings. The function of a Subpoena is to compel the attendance of a Witness and the production of documents so the legislature may have all available information for the determination of controversies before it. Subpoenas are of two types. A Subpoena <em>ad testificandum </em>compels the attendance of a Witness; a Subpoena <em>duces tecum </em>calls for the production of documents and things. Both may be taken either for a deposition or for the actual hearing itself.</text>
+      </para>
+      <para>
+        <num>33.</num>
+        <text>"Timekeeper" means that Member of the Legislature, the Secretary, who shall time the debate of the members, the comments from citizens, and any other speaking that may require time constraints.</text>
+      </para>
+      <para>
+        <num>34.</num>
+        <text>"Vacancy" means that the office of a Member of the Legislature has been determined by the Legislature to be unoccupied.</text>
+      </para>
+      <para>
+        <num>35.</num>
+        <text>"Witness" means an individual person, organization, or representative of an organization, requested or ordered by the Chairperson or a Committee Chair to appear before a Committee, or the Legislature as a Whole, and from whom information is required.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2006-06-16" doc="PR23-005">PR23-005, 6/16/2006</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.8</num>
+      <heading>OFFICERS OF THE TRIBAL LEGISLATURE.</heading>
+      <para>
+        <num>A.</num>
+        <text>Chairperson of the Legislature:</text>
+        <para>
+          <num>1.</num>
+          <text>The duties of the Chairperson shall include, but shall not be limited to, signing all official acts of the Legislature, setting the agendas of the Regular, Special, and Executive Sessions of the Legislature and presiding over the sessions of the Legislature, presiding over any Committee of the Whole, appointing Standing Committees, Sub-committees, Special Committees, Joint Committees, <em>Ad Hoc </em>Committees, appointing the Committee Chair of any Committee or Sub-committee, attending meetings of Standing Committees, working with the Executive and Judicial Departments, and directing the support staff of the Legislature.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Chairperson shall seek the advice and consent of the Tribal Legislature, before making any recommendations to or participating in any decisions with the Executive Department of the Chickasaw Nation on any matter that may affect the welfare of the Nation.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>During the first year of his first three (3) year Legislative term, a Legislator may not be elected to the office of Chairperson of the Legislature.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The number of consecutive times a Member of the Legislature may serve as Chairperson shall be limited to two (2) one (1) year terms. Upon serving two (2) consecutive one (1) year terms, a Legislator must abstain from running for Chairperson for at least one (1) Legislative year. There is no limit on non-consecutive terms as Chairperson.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The Chairperson of the Legislature may be counted as a member of a Committee in order to constitute a quorum and may vote only in the case of a tie.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Secretary of the Legislature:</text>
+        <para>
+          <num>1.</num>
+          <text>The duties of the Secretary shall include, but shall not be limited to, serving as Chairperson Pro Tempore in the absence of the Chairperson, signing all official acts of the Legislature, acting as Timekeeper, submitting all acts of the Legislature to the Executive Department the day of the Regular or Special Session, unless the session shall be at night (in which case the Secretary shall submit all acts of the Legislature to the Executive Department the next working day), notifying the Legislature in the event of a veto by the Governor, and reviewing and approving the transcribed Minutes of all formal assemblies.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The number of consecutive times a Member of the Legislature may serve as Secretary shall be limited to two one year terms. Upon serving two (2) consecutive one(1) year terms, a Legislator must abstain from running for Secretary for at least one (1) Legislative year. There is no limit on non-consecutive terms as Secretary.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>A Member of the Legislature may not serve in the office of Secretary the first year of the first three (3) year Legislative term.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Sergeant-at-Arms:</text>
+        <para>
+          <num>1.</num>
+          <text>The Sergeant-at-Arms shall have the responsibility and the authority to control boisterous and disorderly persons, and to eject or remove any person posing a threat of danger.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Sergeant-at-Arms shall position himself at the main entrance of the meeting room so that his presence and his function shall be readily discernable by the Legislature and by the gallery. In addition to the Legislative Sessions, the presence of the Sergeant-at-Arms will be required for Executive Sessions, and the Committee of the Whole meetings.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Recording Secretary shall record the Minutes of the meetings of the Legislature and shall perform such other duties as may be delegated by the Chairperson.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2006-06-16" doc="PR23-005">PR23-005, 6/16/2006</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.9</num>
+      <heading>MEMBERS &amp; OFFICERS; GENERAL PROVISIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Resignation.</text>
+        <para>
+          <num>1.</num>
+          <text>In the event a Member of the Legislature wishes to resign from his elected office, the Legislator shall submit a signed letter of resignation to the Chairperson or the Secretary of the Legislature.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The letter of resignation shall bear the date it was written and the date the Legislator's resignation will become official. The reading of the letter of resignation shall be placed on the Agenda for the next scheduled Legislative Session.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Official public notice of the letter of resignation shall be accomplished by the reading of the letter of resignation at the next scheduled Legislative Session; and, once it is read into the record of the Legislative Session, the letter of resignation cannot be withdrawn. After the reading of the letter of resignation into the record of the Legislative Session, copies of the letter shall be forwarded to the Governor and the Election Secretary/Tribal Registrar of the Chickasaw Nation after the conclusion of the Legislative Session.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>A Legislator may withdraw a letter of resignation up to the time prior to it being made a part of the public record of the Legislative Session by personally submitting a letter stating that the letter of resignation is withdrawn, to the Chairperson and the Secretary of the Legislature; and, such submittal, if done during the Legislative Session, shall be accomplished by the Legislator rising to address the Chair on a "Question of Personal Privilege", in accordance with Roberts Rules of Order. The Chairperson is obliged to recognize any Legislator rising on a "Question of Personal Privilege". The Legislator shall state that withdrawal of the letter of resignation is being done with the delivery of letters of withdrawal that the Legislator, immediately, submits to the Chairperson and the Secretary of the Legislature. If delivery of the letters that withdraw the letter of resignation are done prior to the commencement of the Legislative Session, then such reading of the letter of resignation shall be stricken from the Agenda of the Legislative Session as if it never existed.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Vacancies.</text>
+        <para>
+          <num>1.</num>
+          <text>In the event a seat on the Legislature is determined to be vacant, the members of the Legislature shall, by resolution, request that the Governor call for a special election to be held within sixty (60) days of the Vacancy, in accordance with Article XV, Section 2, and Article VII, Section 6, of the Constitution, unless the members of the Legislature unanimously agree to delay until the next regularly scheduled election for that position, in accordance with Article XV, Section 2, and Article VII, Section 6, of the Constitution.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In the event of a Vacancy occurring in the office of Chairperson, the Secretary shall remain in the office of Secretary and shall preside as Chairperson Pro Tempore only to conduct the business of the Legislature until a Majority of the members elect one of their number to serve the unexpired term of the Chairperson.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>In the event of a Vacancy occurring in the office of Secretary, the Legislature shall elect one of their number to serve the unexpired term of the Secretary.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Removal of Officers by Loss of Confidence Vote.</text>
+        <para>
+          <num>1.</num>
+          <text>The Chairperson of the Legislature and/or the Secretary of the Legislature shall be subject to removal from that office by a two-thirds Majority Loss of Confidence vote of the Legislature. A Member of the Legislature shall make a motion, and another shall second the motion, that the officer be removed from said office because of Loss of Confidence. The Legislature shall then vote, by roll call, whether to approve the motion and, upon a two-thirds Majority vote, the removal shall be in effect.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The next order of business shall be nominations from the floor and the election, by secret ballot, of a Member of the Legislature who shall serve the remainder of the term of the office from which the subject of the Loss of Confidence vote shall have been removed.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Resignation.</text>
+        <para>
+          <num>1.</num>
+          <text>In the event the Chairperson of the Legislature or the Secretary of the Legislature wishes to resign from his position as an officer, he shall present a signed and dated letter of resignation, specifying the date the resignation shall be in effect, to the other officer of the Legislature. The resignation shall be effective immediately or at the future, specified date, and not subject to withdrawal.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The next order of business shall be nominations from the floor and the election, by secret ballot, of a Member of the Legislature who shall serve the remainder of the term of the office from which the officer of the Legislature has resigned.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Absence.</text>
+        <para>
+          <num>1.</num>
+          <text>In the absence of the Chairperson, the Secretary shall remain in the office of Secretary and shall preside as Chairperson Pro Tempore only to conduct the business of the Legislature.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In the absence of the Secretary, a Secretary Pro Tempore shall be appointed by the Chairperson, or if the Secretary is presiding as Chairperson Pro Tempore, a Secretary Pro Tempore shall be appointed by the Chairperson Pro Tempore.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>In the absence of both the Chairperson and Secretary during a Committee of the Whole meeting or a regular or special session, the Committee Chair of the Legislative Committee shall serve as Chairperson Pro Tempore. The Chairperson Pro Tempore shall select a Secretary Pro Tempore.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>In the absence of both the Chairperson and Secretary during a Committee meeting, a Chairperson Pro Tempore shall be selected by the Legislature from the members of the Legislature who are not members of the Committee, such Chairperson Pro Tempore to serve during all committee meetings that day. In the absence of both the Chairperson and Secretary during a meeting of the Legislative Committee, any Legislator present may be selected as Chairperson Pro Tempore.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-06-25" doc="TL10-004">TL10-004, 6/25/93</annotation>
+        <annotation type="History" effective="1995-05-22" doc="PR12-18">PR12-18, 5/22/95</annotation>
+        <annotation type="History" effective="1996-06-21" doc="PR13-14">PR13-14, 6/21/96</annotation>
+        <annotation type="History" effective="1996-07-19" doc="PR13-15">PR13-15, 7/19/96</annotation>
+        <annotation type="History" effective="1997-04-23" doc="PR14-004">PR14-004, 4/23/97</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2007-04-20" doc="PR24-005">PR24-005, 4/20/07</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.10</num>
+      <heading>AUTHORITY TO SERVE ON BOARDS.</heading>
+      <text>No Member of the Chickasaw Tribal Legislature shall accept any appointment to any governmental committee, commission, board or other position with the Executive Department, unless specific approval for such appointment, by resolution concurring with such appointment, is granted by the Chickasaw Tribal Legislature in accordance with its rules and regulations regarding the adoption of resolutions. This is not meant to prohibit Informal Work Groups which have not been granted any governmental powers.</text>
+      <annotations>
+        <annotation type="History" effective="1990-12-21" doc="PR8-02">PR8-02, 12/21/90</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.11</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="1997-04-23" doc="PR14-004">PR14-004, 4/23/97</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2005-05-20" doc="PR22-009">PR22-009, 5/20/05</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-101.12</num>
+      <heading>REQUESTS FOR DUPLICATION.</heading>
+      <para>
+        <num>A.</num>
+        <text>Copies - citizens may request copies of Legislation or session Minutes which are no more than fifty (50) pages free of charge The Legislation shall be available after it has been finalized and the minutes after approval by the Legislature. For documents in excess of fifty (50) pages, the requesting party must reimburse the legislative office based on the market rate for copying services, multiplied by the full number of pages.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Audio duplication - citizens may request copies of the Legislative Session recordings at the price of ten dollars ($10) per Session.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2001-03-19" doc="PR18-020">PR18-020, 3/19/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="History" effective="2016-11-18" doc="PR34-002">PR34-002, 11/18/16</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>MEETINGS AND SESSIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-201.1</num>
+      <heading>SESSIONS AND MEETINGS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Regular Sessions of the Legislature shall be held on the third Friday of each month at 9:00 a.m. at the Legislative Building, Chickasaw Nation Headquarters, unless otherwise provided by the Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Additional Regular Sessions:</text>
+        <para>
+          <num>1.</num>
+          <text>The second Thursday following the third Friday of each month be established as an additional Regular Session date, to be called by the Tribal Legislature for tribal business, as necessary.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Chairperson of the Tribal Legislature shall be responsible for notifying each Member of the Legislature at least forty eight (48) hours in advance if the additional Regular Session date is to be utilized by the Legislature for Tribal business.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Chairperson of the Tribal Legislature shall be responsible for determining the Agenda, and for determining the time that the additional Regular Session shall be held.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The Chairperson of the Tribal Legislature shall be responsible for sending out a press release which shall include Agenda items, at least forty eight (48) hours in advance of the meeting, to ensure the public awareness of the called meeting.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Governor may call a Special Session of the Legislature at any time he deems necessary by notifying each member, by the most expedient way, at least twenty-four (24) hours in advance of the meeting and shall call a Special Session upon receipt of a letter signed by at least nine (9) members of the Legislature.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All Regular and Special Sessions shall be open to the citizens of the Nation except as otherwise provided by this code.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Regular Sessions of the Legislature shall be held at 9:00 a.m. at the Legislative Building, Chickasaw Nation Headquarters.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2016-08-19" doc="PR33-005">PR33-005, 8/19/16</annotation>
+        <annotation type="History" effective="1993-04-23" doc="PR10-13">PR10-13, 4/23/93</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="History" effective="2020-12-18" doc="PR38-008">PR38-008, 12/18/2020</annotation>
+        <annotation type="History" effective="2022-05-20" doc="PR39-010">PR39-010, 05/20/2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-201.2</num>
+      <heading>ORDER OF BUSINESS, POSTING OF AGENDAS.</heading>
+      <text>The order of business at any Regular or Special Session shall be as provided in the Constitution, although the order of business may be suspended by the Legislature for any meeting. Rules of order shall be as provided by the Constitution.</text>
+      <annotations>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-201.3</num>
+      <heading>QUORUM AND VOTING.</heading>
+      <text>Nine (9) members shall constitute a quorum of the Legislature. Voting shall be as prescribed by the Legislature in accordance with the Constitution.</text>
+      <annotations>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-201.4</num>
+      <heading>COMMITTEES AND RULES.</heading>
+      <para>
+        <num>A.</num>
+        <text>Committee Appointments and Rules.</text>
+        <para>
+          <num>1.</num>
+          <text>Members of the Committees of the Tribal Legislature are appointed by the Chairperson. The Chairperson shall designate the Committee Chairs. Committees subject to appointment are: Standing Committees; Sub-committees; Special or Select Committees; Special Advisory Committees; Joint Committees; and <em>Ad Hoc </em>Committees. Such Committees, in accordance with the laws of the Chickasaw Nation and the rules herein, are authorized to conduct the business for which they are created.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Chairperson or Committee Chair shall call a Committee Meeting as he deems necessary. The Chairperson shall designate another Committee member as Committee Chair Pro Tempore to conduct the Committee meetings in the absence of the Committee Chair.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Any Legislator, not a member of the Committee in which he is attending, shall be permitted to address the business of the Committee upon his recognition by the Committee Chair.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Upon a request made to the Committee Chair, citizens, technical support, administrative support, and/or, from time to time, Executive Department representatives, special guests and Witnesses may be included in the Committee meetings.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Standing Committees' Structure and Purpose.</text>
+        <para>
+          <num>1.</num>
+          <text>"Standing Committee" is a Committee appointed by the Chairperson, comprised only of members of the Legislature, which considers business falling within the category of matters over which it has been given jurisdiction. The Chairperson shall be a non-voting member of all Standing Committees, but may vote in order to break a tie. In addition to Standing Committees to which the Secretary may be assigned, the Chairperson may assign the Secretary to other Standing Committees to act in the Chairperson's capacity as a non-voting member of the Committee, except to break a tie, when the Chairperson cannot be in attendance.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Each Standing Committee, through its Committee Chair, shall report its recommendations on proposed Legislation to the Legislature.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Each Standing Committee, except those Committees separately provided for, shall be composed of not more than six (6) members of the Legislature, in addition to the Chairperson. No Legislator shall serve on more than four (4) Standing Committees, except when a Committee waives such provision.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>It shall be the responsibility of the Chairman of a Committee to conduct the meeting and to provide for the recording and transcription of the Minutes.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The following are Standing Committees of the Tribal Legislature, the provinces of some which may, from time to time, best be addressed within the structure of a Joint Committee, Special/Select Committee, <em>Ad Hoc</em> Committee, or the Committee of the Whole, as determined by the Chairperson:</text>
+          <para>
+            <num>a.</num>
+            <text>The Legislative Committee shall be exempt from the Standing Committee rule referred to in <cite path="16|2|16-201.4|B.|3.">Section 16-201.4.B.3</cite>. The Legislative Committee shall be responsible for the development of tribal laws relating to their Legislative authorities under the Constitution of the Chickasaw Nation. Sub-committees may include, but are not limited to the calendar, rules, elections, and ethics.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The Executive Committee shall consist of the Committee Chairs of the Standing Committees plus the Chairperson and Secretary. If the Secretary is also a Committee Chair of a Standing Committee, then the Chairperson shall appoint an at-large member. The Executive Committee shall not have the authority to place legislation on the agenda of any session; Legislation approved by the Executive Committee shall be forwarded to the Legislative Committee which shall have authority to place such Legislation on an agenda for a session.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The Finance Committee shall be responsible for receiving, reviewing, and/or developing all proposed Legislation relating to the finances and fiscal policy of the Chickasaw Nation. Sub-committees may include, but are not limited to, budgets, audits, finances and salaries.</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>The Human Resources Committee shall be responsible for proposed Legislation dealing with services to tribal citizens, gubernatorial appointments and employees of the Chickasaw Nation. Sub-committees may include, but are not limited to, personnel, tribal enrollment, citizenship, résumés on all gubernatorial appointees, applications for grants, and programs' operations.</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>The Land Development Committee shall be responsible for proposed Legislation pertaining to the acquisition, leasing, disposition, and management of real property of the Chickasaw Nation. Sub-committees may include, but are not limited to, all real property acquisition, leasing, disposition, and management.</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>The Health Care Committee shall be responsible for proposed Legislation pertaining to tribal health care programs and services. Sub-committees may include, but are not limited to, health care services and clinics' inspection and review.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Sub-committees' Structure and Purpose.</text>
+        <para>
+          <num>1.</num>
+          <text>A "Sub-committee" is a Committee within the structure of a Standing Committee which shall report to the Standing Committee.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Each Sub-committee shall be composed of at least three (3) members of the Standing Committee. If the Sub-committee is appointed for the purpose of taking action that requires the assistance of other members and/or persons other than members of the Legislature, the Committee Chair may designate them.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>No member of the Legislature shall serve on more than three (3) Sub-committees within a single Standing Committee.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A "Special Committee" or "Select Committee" is a Committee comprised only of members of the Legislature, to attempt to represent all points of view in the Legislature, appointed by the Chairperson, which investigates and reports on specific matters, and is dissolved by the Chairperson when that function is deemed to have been served.</text>
+        <para>
+          <num>1.</num>
+          <text>The "Special Advisory Committee" is a Special or Select Committee and shall consist of a Legislator from each district appointed by the Chairperson. They shall be responsible for reviewing and approving any expenditures from the Legislative Department Budget, which amount to two thousand five hundred dollars ($2,500) or more that is not part of the normal, usual and customary day-to-day operating expenses of the Legislative Department and offices. All decisions of the Committee shall be made by majority vote and shall be reported monthly to the entire Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A "Joint Committee" is a Special or Select Committee, appointed by the Chairperson, which is comprised of members of two (2) or more Standing Committees. It is dissolved by the Chairperson when its function is deemed to have been served.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>An "<em>Ad Hoc</em> Committee" is a Committee appointed by the Chairperson as needed, comprised of members and possibly non-members of the Legislature who investigate and report on specific matters. Only Legislators appointed to an <em>Ad Hoc </em>Committee shall be voting members of that Committee or serve as its Committee Chair. All other members appointed to an <em>Ad Hoc</em> Committee shall be advisory, only. It is dissolved by the Chairperson when that function is deemed to have been served. The following are permanent <em>Ad Hoc </em>Committees of the Tribal Legislature:</text>
+        <para>
+          <num>1.</num>
+          <text>Election Rules and Regulations <em>Ad Hoc</em> Committee. This Committee may meet at any time throughout the year at the discretion of the Committee Chair; however, the Committee may conduct business only in accordance with the rules set forth in Paragraph 16-201.5.B.2 below.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Education <em>Ad Hoc</em> Committee shall be responsible for proposed Legislation pertaining to tribal education services and scholarships.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Tribal Historic and Cultural Preservation <em>Ad Hoc </em>Committee shall be responsible for proposed Legislation pertaining to language preservation, tribal grave-site identification and preservation, artifact identification and preservation, ceremonial grounds identification and preservation, and historical archive preservation.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The Code Development Ad Hoc Committee shall be responsible for proposed Legislation pertaining to amendments of the Chickasaw Nation Code. This Committee shall not have the authority to place Legislation on the agenda of any session; Legislation approved by this Committee shall be forwarded to the Legislative Committee which shall have authority to place such Legislation on a Session agenda. This Committee shall consist of at least one (1) Legislator from each district appointed by the Chairperson.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>"Committee of the Whole" or "COW" means the Legislature meeting in informal session.</text>
+        <para>
+          <num>1.</num>
+          <text>Committee of the Whole meets monthly on the Monday immediately preceding the third Friday of each month in Sulphur at the Artesian Resort in the second floor conference room. Quorum for a COW meeting is nine (9) Legislators. The public is invited. The purpose of the monthly COW meeting is to announce the agenda for the Legislative Session, amend or withdraw legislation already assigned to the Legislative Session agenda and adopt emergency legislation, if any. The agenda for COW meetings shall follow the outline provided in the Constitution and Code including the offer to Chickasaw citizens to address the Legislature. If the time or place of the monthly meeting is changed, notice shall be given to the public.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Committee of the Whole meetings may be called at any time and place if necessary for business purposes. The public shall not be invited to specially called COW meetings; however, Executive Department representatives and witnesses may be invited to the meetings as necessary for the business at hand.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Committee of the Whole minutes shall not be published; however, copies of minutes of COW meetings where the public is invited may be requested in writing. Minutes shall only be available after approval.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Committee of the Whole may call for an Executive Session. Minutes shall not be taken in an Executive Session. No decisions shall be made in Executive Session.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2016-08-19" doc="PR33-005">PR33-005, 8/19/16</annotation>
+        <annotation type="History" effective="2010-12-17" doc="PR28-001">PR28-001, 12/17/10</annotation>
+        <annotation type="History" effective="1997-04-23" doc="PR14-004">PR14-004, 4/23/97</annotation>
+        <annotation type="History" effective="2001-11-16" doc="PR19-005">PR19-005, 11/16/01</annotation>
+        <annotation type="History" effective="2009-03-20" doc="PR26-006">PR26-006, 3/20/09</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="History" effective="2016-02-19" doc="PR33-003">PR33-003, 2/19/16</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-001">PR32-001, 2/20/15</annotation>
+        <annotation type="History" effective="2016-11-18" doc="PR34-003">PR34-003, 11/18/16</annotation>
+        <annotation type="History" effective="2023-03-17" doc="PR40-008">PR40-008, 03/17/2023</annotation>
+        <annotation type="History" effective="1993-06-25" doc="TL10-004">TL10-004, 6/25/93</annotation>
+        <annotation type="History" effective="1996-06-21" doc="PR13-14">PR13-14, 6/21/96</annotation>
+        <annotation type="History" effective="2002-02-15" doc="PR19-011">PR19-011, 2/15/02</annotation>
+        <annotation type="History" effective="2006-06-16" doc="PR23-005">PR23-005, 6/16/2006</annotation>
+        <annotation type="History" effective="2010-06-18" doc="PR27-005">PR27-005, 6/18/10</annotation>
+        <annotation type="History" effective="2016-02-19" doc="PR33-002">PR33-002, 2/19/16</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-201.5</num>
+      <heading>RULES ON LEGISLATION.</heading>
+      <para>
+        <num>A.</num>
+        <text>At the Committee of the Whole meeting preceding the Regular Session, any Member can recommend to the Legislature as a whole that the Legislature consider any proposed Legislation as "Emergency Legislation," in which case the Committee of the Whole shall vote whether to call the piece of Legislation out of Committee and place it on the agenda for the Regular Session. Once Legislation is announced during the Committee of the Whole, it becomes public knowledge.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Proposed Legislation:</text>
+        <para>
+          <num>1.</num>
+          <text>All proposed Legislation, in order to be placed on the tentative agenda, shall be received in the office of the Legislature no later than 5:00 p.m. the first Friday of the month.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In addition to the time limit requirement for proposed Legislation as established in Paragraph B.1 above, the election laws and rules of the Chickasaw Nation shall be reviewed annually, by the Legislative Committee, beginning October 1st of each year. However, any Legislation affecting Election Rules and Regulations shall be submitted to the Legislature no later than April 1st of each year. This rule shall, also, apply to special elections, except that the Legislature can enact specific rules for such special elections as may be needed. Further, this rule, by a two-thirds vote of the Legislature, in the Committee of the Whole, can be suspended should emergency election rules be needed after April 1 of each year and prior to October 1 of each year.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Chairperson shall number and assign proposed Legislation to an appropriate Committee for further review. It shall be kept in said Committee no longer than the third Regular Session of the Legislature following its assignment to said Committee.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>No Legislation assigned to a Standing Committee shall be allowed to die in said Committee without an action being taken. The Committee Chair asking for a motion to place the Legislation on the agenda of a session shall be considered an "action" for the purposes of this Paragraph 4. After such action is taken, Legislation may die for a lack of a motion or lack of a second.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Legislation may be withdrawn in committee by written request of the author or submitter. After legislation has been placed on a Session agenda, it may be withdrawn by majority vote of the Legislature to accept a request to withdraw.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Chairperson of the Chickasaw Tribal Legislature or the Committee Chair or any other Committee member presiding over a meeting of a Committee shall have power to administer oaths to Witnesses appearing before said Committee at said meeting.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Legislature Subpoena powers:</text>
+        <para>
+          <num>1.</num>
+          <text>When the Tribal Legislature or a Committee of the Tribal Legislature, in the course of the performance of their duties, deem it necessary for persons to attend and give witness before the Tribal Legislature or Committee of the Tribal Legislature, then a request for their attendance shall be made, before a Subpoena [may] be issued to compel such attendance. This shall be the same process used in requesting information, records, materials or other things that the Tribal Legislature or a Committee may need in regard to aiding them in the performance of their duties as Legislators and Committee members. Failure to comply with the request of the Tribal Legislature or a Committee by not appearing before them or by not bringing such information, records or things requested, without good reason, shall be compelling justification for requesting the issuance of a Subpoena.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>During any session of the Chickasaw Tribal Legislature, and when the Chickasaw Tribal Legislature is not in session, a Committee shall have power to authorize Subpoenas in order to compel attendance of Witnesses and the production of any papers, books, accounts, documents, testimony and evidence, and to cause the deposition of Witnesses to be taken. Any Subpoena that is authorized by any Committee of the Chickasaw Tribal Legislature, shall be issued by and under the signature of the Chairperson of the Tribal Legislature, or the Secretary of the Tribal Legislature, whomever one is available to issue such Subpoena. Neither the Chairperson nor the Secretary of the Chickasaw Nation Tribal Legislature shall refuse to issue and sign any Subpoena properly approved and presented by any Committee of the Chickasaw Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>A Subpoena shall be in the form of a typewritten document; and, at a minimum, shall contain the following:</text>
+          <para>
+            <num>a.</num>
+            <text>the title "SUBPOENA;"</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>by and for (Name of Committee);</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>the date of issuance;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>the name and last known address of the person being Subpoenaed and/or as detailed a description as is possible of the things, information, records or materials being Subpoenaed</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>the date that the Subpoena must be complied with;</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>signature lines for Committee Chairman and officer of the Tribal Legislature; and</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>a statement as to how Subpoena is to be served.</text>
+          </para>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>A Subpoena shall be in letter-size form and additional pages may be added, when necessary, and attached to the Subpoena.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The Chairperson or Secretary of the Tribal Legislature may designate persons to serve Subpoenas. An affidavit, signed by the server of a Subpoena, stating the date, time and place of service shall be sufficient notice that service was completed. Service of a Subpoena by mail shall be done by certified mail and shall be deemed sufficient service when mailed to the last known address of person being Subpoenaed.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Enforcement of a Subpoena:</text>
+        <para>
+          <num>1.</num>
+          <text>Failure of any person to comply with any Subpoena issued in behalf of said Committee or the refusal of any Witness to testify to any matters regarding which such person may be lawfully interrogated, the Committee Chair, Chairperson, or other acting Chair of said Committee authorized thereby, shall make application to the Chickasaw Nation District Court requesting that a contempt citation be issued to such person. It shall be the duty of a Judge of the Chickasaw Nation District Court to proceed with respect to such person or thing under Subpoena, in the same manner and with the same powers to punish for contempt, as would be the case if the refusal had been a refusal to comply with a Subpoena as if originated by such Court.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In addition to the issuance and enforcement of a contempt citation of a court of the Chickasaw Nation or CFR Court, such person in their failure to comply, if they are elected or appointed officials or employees of the Nation, may, also, be subject to disciplinary action under the complaint of the willful neglect of duty of such person.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Witnesses called before any Committee of the Chickasaw Tribal Legislature may be paid the same fees and mileage as are paid in cases before the Chickasaw Nation District Court.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Chickasaw Tribal Legislature may adopt rules or resolutions which expressly deny the powers granted herein to any Committee as heretofore described. (PR12-10, 3/17/95)</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2016-02-19" doc="PR33-002">PR33-002, 2/19/16</annotation>
+        <annotation type="History" effective="1993-06-25" doc="TL10-004">TL10-004, 6/25/93</annotation>
+        <annotation type="History" effective="1995-09-15" doc="PR12-29">PR12-29, 9/15/95</annotation>
+        <annotation type="History" effective="2009-03-20" doc="PR26-007">PR26-007, 3/20/09</annotation>
+        <annotation type="History" effective="2010-12-17" doc="PR28-001">PR28-001, 12/17/10</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="History" effective="2016-08-19" doc="PR33-005">PR33-005, 8/19/16</annotation>
+        <annotation type="History" effective="1995-03-17" doc="PR12-10">PR12-10, 3/17/95</annotation>
+        <annotation type="History" effective="2006-06-16" doc="PR23-005">PR23-005, 6/16/2006</annotation>
+        <annotation type="Editor's Notes">See also memorandum dated July 24, 1997 from M. Sharon Blackwell, Field Solicitor, Tulsa United States Department of the Interior, Office of the Solicitor, regarding Subpoena powers.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-201.6</num>
+      <heading>RULES ON SPECIAL SESSIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>At the time that the members of the Legislature call for, or are notified of, a Special Session, as provided in Article VIII, Section 3, a tentative agenda shall be provided. The agenda shall be provided at the beginning of the Special Session.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any Member of the Legislature may request that a piece of Legislation be placed on the agenda. The order of business shall be suspended for a Special Session so that only the Legislation specified on the agenda shall be voted on.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-06-25" doc="TL10-004">TL10-004, 6/25/93</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-201.7</num>
+      <heading>SPECIAL RULES OF ORDER OF THE LEGISLATURE.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Special Rules of Order outlined in this Section shall be the authority for all business conducted by the Legislature and its Committees, except as is elsewhere addressed in this Title 16. In addition, other Special Rules of Order may appear in other titles of the Chickasaw Nation Code, for example, Special Rules of Order regarding elections may be found in Title 8; Special Rules of Order for public hearings may be found in Title 10; Special Rules of Order regarding confirming gubernatorial appointments and other issues regarding the Governor may be found in Title 12; all of which are incorporated herein by this reference. In deciding matters not addressed specifically by this Title 16, Robert's Rules of Order shall be consulted as the definitive reference, as provided in Article VIII, Section 6 and Article VII, Section 12 of the Constitution of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Speaking and Debate.</text>
+        <para>
+          <num>1.</num>
+          <text>Whether in Committee, or at the Committee of the Whole, all Proposed Legislation may be discussed prior to any motion being made to place the Proposed Legislation on the agenda of a Session.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A Legislator must be recognized by the Chairperson by raising his hand. Legislators may speak while seated. Once a Legislator has spoken on a matter, he must wait until all other Legislators have had the opportunity to speak on the matter in order to speak again. If the meeting is continued to another day, the Legislator's right to speak is renewed.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Each Legislator shall be allowed up to ten (10) minutes to comment on an issue. Debate must be relevant to the issues at hand. If a Legislator does not use all of his allotted time during any of his opportunities to speak in debate, the Legislator loses all of his remaining time and may not relinquish it to another speaker.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The Secretary of the Legislature shall act as time-keeper for debate.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Speakers must be courteous and never attack other Legislators or question the motives of other Legislators. In controversial issues, the discussion is focused on ideas, not personalities. Legislators must not use inflammatory statements such as "it's a lie," "it's a fraud" or "He's a liar." Profane language is also prohibited.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>A Legislator who makes a motion cannot speak against the motion but he can vote against it. The Legislator who seconds a motion, however, can speak against the motion because the second means "Let's discuss it," not "I agree." Sometimes a Legislator seconds a motion so he can speak against it.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>During debate, a Legislator cannot talk against a previous action that is not pending, unless one of the motions to <em>Rescind</em>, <em>Reconsider</em>, or <em>Amend something Previously Adopted</em> is pending; or unless the Legislator concludes his remarks with one of these motions. Legislators also have the right to conclude their debate with a higher-ranking motion than the one pending; i.e. when the Chairperson recognizes a Legislator for any legitimate purpose, the Legislator has the floor for all legitimate purposes.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>During debate, Legislators should take care not to disturb the assembly by whispering, talking, walking across the floor, or causing other distractions. All cell phones and other electronic equipment shall be set to silent mode. A Legislator who must take a phone call shall leave the meeting room to do so. Any Legislator, including the Chairperson and Secretary of the Legislature, who ignores the rules of debate, is disruptive or is argumentative beyond reasonable bounds may be, upon motion and second and majority vote of the Legislature in attendance, removed from the meeting place, reprimanded, censured (under rules provided for in <cite path="16|7">Title 16, Chapter 7</cite>), and/or referred to the Attorney General as a criminal complaint under <cite path="17|6|B|17-602.8">Section 17-602.8</cite>, Obstructing Governmental Action. The Legislator that is the subject of such a motion shall be afforded no more than five (5) minutes for rebuttal before the vote is taken. If a Legislator is removed from the meeting place, a motion, second and majority vote of the Legislature in attendance shall be required before the Legislator is allowed to return to that or any subsequent meeting of the Legislature.</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>If at any time during debate the Chairperson needs to interrupt the speaker for a ruling, provide a Point of Information or respond to a point of Parliamentary Inquiry, the Legislator shall stop speaking until the Chairperson is finished and may then resume speaking. The computation of a speaker's time shall not include such an interruption.</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>The time expended in giving a committee report shall not be counted as time allowed for debate.</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>A Legislator has no right to "explain his vote" during voting, which would be the same as debate at such time.</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>The Chairperson may declare the debate closed a) when all the Legislators have either exercised or declined their opportunity to debate, b) when all Legislators have used their allowable debate time; or c) upon recognition of a Motion to Call for the Question. In the case of a Motion to Call for the Question, the Chairperson must determine whether all germane debate has occurred even if all Legislators have not exercised their opportunity for debate. A Motion to Call for the Question requires ratification of a super majority (2/3rds of Legislators present) in order to come into effect. If the motion passes, the question is immediately voted upon.</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>Only Legislators present at a meeting or Session may vote on a question presented. No provision shall allow voting on a question by phone, mail, or proxy. To be "present", Legislators must be physically (not virtually) present for quorum, voting, speaking, and debate. Legislators may physically distance or take other medically necessary precautions for the health and safety of the Legislature and staff.</text>
+        </para>
+        <para>
+          <num>14.</num>
+          <text>It shall be a breach of ethics for a Legislator to change, or to cause to be changed, any previous vote announced by the Chairperson.</text>
+        </para>
+        <para>
+          <num>15.</num>
+          <text>If a situation is presented that is not enumerated herein, and the situation has been presented before and was treated in a manner that is inconsistent with Robert's Rules of Order, then the Legislature may, upon motion, second and majority vote of the Legislature that is present, suspend the rules to follow the precedent. Otherwise, Robert's Rules of Order shall be followed as provided by the Chickasaw Constitution.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Special Rules of Order for Regular, Additional Regular and Special Sessions.</text>
+        <para>
+          <num>1.</num>
+          <text>The Chairperson shall call the Regular, Additional Regular or Special Session to order.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Recording Secretary shall call roll.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>A Member of the Legislature or visitor designated by the Chairperson may give an invocation.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The Minutes of the last session shall be provided prior to the next Regular Session. The Chairperson shall call for amendments or approval of the minutes as presented. All proposed amendments shall be voted upon. The minutes shall be approved by roll call vote.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The Chairperson shall address Unfinished Business. Unfinished Business shall contain all Resolutions that have been tabled or postponed during the reports of Committees. Placing Legislation on the table or postponing Legislation in a Session shall not extend the time limited described in Paragraph 16-201.5.B.4.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The Chairperson shall address Reports of Committees:</text>
+          <para>
+            <num>a.</num>
+            <text>The Committee Chairs of the Committees which have legislation to present on the agenda shall present the reports of their respective committees, as an official statement, addressed to the Chairperson, of action taken, information obtained, or action recommended regarding all proposed Legislation that appears on the agenda. Committee Chairs may make or second a motion.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>If, for any reason, the Committee Chair of a Committee cannot or chooses not to give the report, the Chairperson shall designate another member of said Committee to give the report.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The Chairperson shall not enter into debate of an issue until he has relinquished the Chair to the Secretary. While the Secretary holds the chair, he may not enter into debate on the issue until the Chairperson has returned to the Chair. The Chairperson may answer a specific and/or clarification question without it being considered debate.</text>
+          </para>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The members of the Legislature shall receive a copy of the Governor's/Executive Department's written report.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>The Chairperson shall address New Business:</text>
+          <para>
+            <num>a.</num>
+            <text>Should the Governor desire to address the Legislature, he shall be granted time to do so.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>"Comments from Citizens," as provided by Article VIII, Section 4, of the Constitution, at the discretion of the Chairperson, may be heard under the agenda item designated "New Business."</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2022-05-20" doc="PR39-007">PR39-007, 05/20/2022</annotation>
+        <annotation type="History" effective="2020-12-18" doc="PR38-008">PR38-008, 12/18/2020</annotation>
+        <annotation type="History" effective="2022-05-20" doc="PR39-010">PR39-010, 05/20/2022</annotation>
+        <annotation type="History" effective="1993-06-25" doc="TL10-004">TL10-004, 6/25/93</annotation>
+        <annotation type="History" effective="1996-06-21" doc="PR13-14">PR13-14, 6/21/96</annotation>
+        <annotation type="History" effective="2006-06-16" doc="PR23-005">PR23-005, 6/16/2006</annotation>
+        <annotation type="History" effective="2011-04-21" doc="PR28-003">PR28-003, 4/21/11</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="History" effective="2016-08-19" doc="PR33-005">PR33-005, 8/19/16</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>LEGISLATION</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-301.1</num>
+      <heading>LEGISLATION, RETURN REQUIRED, NUMBERING SYSTEM.</heading>
+      <para>
+        <num>A.</num>
+        <text>Legislation</text>
+        <text>This Legislative Reform Act designates three (3) separate and distinct categories of Legislation adopted by the legislature, and provides for the numbering of each:</text>
+        <para>
+          <num>1.</num>
+          <text>General Resolutions shall be all resolutions which have the effect and force of law, and are used to express the opinion or will of the Majority of the Legislature. Examples of General Resolutions are those used to commend or to condone certain persons or activities respectively, those used to authorize the application process for programs or services funding, those used to approve leases, contracts or other business which does not require placement into the tribal code, and those which approve of gubernatorial appointments. Such resolutions shall be in effect upon concurrence by the Governor or as is otherwise provided in the Constitution.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Permanent Resolutions shall be all resolutions which have the effect and force of law. An example of a Permanent Resolution is one used to repeal or amend a Tribal Law or another Permanent Resolution. Such resolutions shall have the force and effect of law upon concurrence by the Governor or as is otherwise provided in the Constitution.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Tribal Laws:</text>
+          <para>
+            <num>a.</num>
+            <text>Tribal Laws shall be any properly enacted and executed Legislation that has the force and effect of law, whether originally styled as a Resolution, Enactment, Tribal Law, Act, or Bill and when enacted shall be made a part of the Tribal Code of the Chickasaw Nation.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Return Required</text>
+        <text>In compliance with Article XI, Section 3, of the Constitution, if Legislation adopted by the Legislature is not returned to the office of the Legislature by 5:00 p.m. on the Friday following the Friday Regular Session, or by 5:00 p.m. the fifth working day following any other session of the Legislature, whether concurred with, left unsigned, or vetoed by the Governor, it shall be in effect.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Numbering System</text>
+        <text>Each category of Legislation shall be numbered in series to correspond with the Legislature in which each is introduced as well as the number of General Resolution, Permanent Resolution, or Tribal Law. For example, the first General Resolution adopted by the Ninth Legislature shall be designated: GR9-01. The first Permanent Resolution adopted by the Ninth Legislature shall be designated: PR9-01. The first Tribal Law adopted by the Ninth Legislature shall be designated: TL9-001. In all instances, the numbers assigned to each category shall be in numerical order in the order that they are introduced, whether or not they are adopted and/or receive the Governor's concurrence. This numbering system shall be retroactive upon adoption of this Act.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-06-25" doc="TL10-004">TL10-004, 6/25/93</annotation>
+        <annotation type="History" effective="2001-03-16" doc="PR18-004">PR18-004, 3/16/01</annotation>
+        <annotation type="History" effective="1994-02-25" doc="TL11-013">TL11-013, 2/25/94</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-301.2</num>
+      <heading>FORMAT FOR RESOLUTIONS.</heading>
+      <text>The Chickasaw Tribal Legislature hereby sets forth the format by which all resolutions shall be written (See Appendix C):</text>
+      <para>
+        <num>A.</num>
+        <text>The first <strong>WHEREAS </strong>clause shall state: " in accordance with Article VII, Sections 4 and 7 of the Constitution of the Chickasaw Nation, the Chickasaw Tribal Legislature shall enact rules and regulations pertaining to the Chickasaw Nation, and shall make decisions pertaining to the acquisition, leasing, disposition and management of real property, subject to federal law, and,"</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The second <strong>WHEREAS </strong>clause shall state: "in accordance with Article XI, Section 1 of the Constitution of the Chickasaw Nation, the Governor shall perform all duties appertaining to the office of Chief Executive. He shall sign official papers on behalf of the Nation, and,"</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Additional <strong>WHEREAS</strong> clauses may be included to provide other descriptive or explanatory information in the body of the resolution.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1992-08-25" doc="PR92-08">PR92-08, 8/25/92</annotation>
+        <annotation type="History" effective="2001-03-16" doc="PR18-004">PR18-004, 3/16/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>EFFECT OF ENACTMENTS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-401.1</num>
+      <heading>AMENDABLE ACTION.</heading>
+      <para>
+        <num>A.</num>
+        <text>Should a question arise regarding the authority and/or procedures by which the Chickasaw Tribal Legislature shall operate, and should said question not be addressed by this Act, and should such be deemed necessary, the Chairperson shall appoint an <em>Ad Hoc</em> Committee to address the question and to formulate a remedy addressing same, to become part of this Act upon approval by the Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Unless and until this act shall have been shown, by the Tribal Court, or any other court of competent jurisdiction, to be in conflict with the Constitution of the Chickasaw Nation, or unless there is a need to amend any questionable, incomplete, or abstruse part, because of the need for the Tribal Legislature to conform to a comprehensive and concise authority that provides uniform procedures for Committees and assembly, this Act shall stand. At such time, this Act may be repealed by the adoption of a comprehensive and concise authority that provides uniform procedures for Committees and Formal Assembly, approved by a simple Majority of the Legislature.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-06-25" doc="TL10-004">TL10-004, 6/25/93</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>RULES OF STATUTORY CONSTRUCTION </heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6</num>
+    <heading>IMPEACHMENT</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.1</num>
+      <heading>TITLE.</heading>
+      <text>Be it enacted by the Chickasaw Tribal Legislature assembled, that this Act shall be cited as the "Chickasaw Nation Impeachment Act of 1994" ("Act").</text>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.2</num>
+      <heading>PURPOSE.</heading>
+      <text>The Chickasaw Tribal Legislature finds that:</text>
+      <para>
+        <num>1.</num>
+        <text>a need exists to provide a system for determining impeachable causes in relation to all Elected Officials of the Chickasaw Nation; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>a need exists for the establishment of a system of rules and regulations to be applied in effecting impeachment of an Elected Official of the Chickasaw Nation.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.3</num>
+      <heading>AUTHORITY.</heading>
+      <text>The basis for authority of this Act is Article VI, Section 1, Article VII, Section 4 and Article XVI, Section 1 of the Constitution of the Chickasaw Nation. The Chickasaw Tribal Legislature, with the adoption of this Act, hereby repeals all previous resolutions and laws which pertain to impeachment of Elected Officials of the government of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.4</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.5</num>
+      <heading>PETITION REQUIREMENTS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person who is a Registered Resident Voter of the Chickasaw Nation, shall be entitled to draft, circulate and/or sign a Petition seeking the impeachment of any Elected Official, provided that citizen meets the full requirements as contained in this Act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A Petition seeking the impeachment of an Elected Official shall consist of the following:</text>
+        <para>
+          <num>1.</num>
+          <text>The first sheet shall bear, centered across the top of the page, in bold print in upper case letters, the word <strong>WARNING</strong>, followed by this language, also in bold print: <em>It is a felony for anyone to sign this Petition with any name other than his own, or knowingly to sign his name more than once for the measure</em>, or to sign such Petition when he is not a Registered Resident Voter of the Chickasaw Nation, residing within the Legislative District shown below. It is unlawful for anyone to sign this Petition if he is not a Registered Resident Voter of the geographical area of the Chickasaw Nation and of the Legislative District shown below. Immediately below that shall be centered a solid bold black line. Immediately below the black line shall be the word, in bold print in upper case letters no smaller than the word, "WARNING" which first appears and is referenced above, PETITION, followed by this language, also in bold print: TO THE SUPREME COURT OF THE CHICKASAW NATION: We, the undersigned citizens and Registered Resident Voters of the Chickasaw Nation, of the 	 Legislative District, respectfully submit the following Petition seeking the impeachment of the Elected Official named below, for the approval or rejection of the Court, and each for himself says: I have personally signed this Petition; I am a Registered Resident Voter in the Chickasaw Nation and of the Legislative District written above; my residence and post office are correctly written after my name, with the blank line containing the name of the Legislative District in which the Petition is being circulated. Immediately below that shall be placed a solid bold black line. Immediately below the black line shall be the words, in bold print: Petition for the Impeachment of 	 with the name of the official whose impeachment is being sought by the Petition being inserted in the blank line. Immediately below that shall be the following, in bold print: <em>Seeking the impeachment of the above-named Elected Official of the Chickasaw Nation for the following charge(s)</em>: followed by a detailed description of the charges for which the impeachment of the Elected Official is being sought, including supporting allegations which cite the article(s) and section(s) of the Constitution which are alleged to have been violated.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The front of the second sheet of the Petition shall bear, in bold print in upper case letters, the following wording: <em>This is a Petition seeking the impeachment of </em>	 with the name of the Elected Official for whom impeachment is being sought being inserted in the blank line. The four headings shall be: Name; Telephone Number; Residence (Rural Route or Street Address); Post Office - City or Town, and Legislative District. There shall be spaces for Twenty (20) signatures, with each line numbered from One (1)to Twenty (20): INSTRUCTIONS TO CIRCULATOR: Read the affidavit and observe its requirements. Names shall and must be signed by the voter the same way the voter is registered. Circulators must witness all signatures. When all signatures have been obtained, type or print names in affidavit form, and sign your name and list your address (resident or post office address; not business office building) before a notary public. Have notary affix seal and signature; all signers must list residence address (do not permit ditto " marks). Use street addresses; strikeouts and markthroughs must be initialed by the voter making the change; no more than twenty (20) signatures to a page. Do not leave Petition unattended. No persons under the age of eighteen (18) years may sign the Petition. Immediately below that shall appear the numeral 2, centered at the bottom of the page.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The AFFIDAVIT form shall contain the following: I, 			, being the first duly sworn, say: That I am a Registered Resident Voter of the 		 Legislative District of the Chickasaw Nation and that the following persons signed in my presence (here shall be legibly or typewritten the names of the signers of the sheet), the foregoing Petition, and each of them signed his/her name thereto in my presence; I believe that each has stated his/her name, post office address and residence correctly, and that each signer is a Registered Resident Voter of the Chickasaw Nation and of the Legislative District indicated above. Beneath that shall be three (3) lines no less than two (2) inches in length, running horizontally on the page, with the words Petition Circulator's Name appearing beneath the first line, the words Rural Route or Street Name appearing beneath the second line, and the word City or Town appearing beneath the third line. Beneath that shall appear the standard information for notarization of the form, including the words Subscribed and sworn to before me this 	 day of 			, 20	; followed by an appropriate signature line for the notary, a line for the notary's address, and the date of the notary's expiration of commission.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="Editor's Notes">See Appendix "A" at the end of Title 16 for Impeachment Petition form.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.6</num>
+      <heading>CIRCULATION OF PETITIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Registered Resident Voter of the Chickasaw Nation may circulate a Petition for the impeachment of an Elected Official; provided:</text>
+        <para>
+          <num>1.</num>
+          <text>that the circulator may only circulate his Petition within the geographical area or the Legislative District from which the candidate was elected;</text>
+          <para>
+            <num>a.</num>
+            <text>For Legislative seat - circulator may only circulate in area of the Legislative District where the circulator is a Registered Resident Voter.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>For Executive or Judicial seat (elected at large) the circulator may be a Registered Resident Voter of any district.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>the circulator must witness every signature affixed to his Petition;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>the circulator must ensure that every person who signs his Petition is a Registered Resident Voter of the circulator's Legislative District;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>any changes made to a signer's name, address or other information are made solely by the signer and initialed by him;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>each signer's name is printed or typewritten on the appropriate line on the affidavit form;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>each signer signs the Petition exactly the way in which he is registered to vote, and indicates the address at which he was most recently registered to vote;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>the circulator must sign the affidavit form of the Petition form and have it notarized by a legal, commissioned notary public in and for the State of Oklahoma.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A circulator may cause to be completed as many Petition forms as he can, so long as those forms comply with all the provisions of this Act.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.7</num>
+      <heading>FILING OF PETITION.</heading>
+      <text>Once all Petition forms have been completed to the satisfaction of the circulator(s) of the Petition, they shall file said Petition with the Supreme Court of the Chickasaw Nation. The Court Clerk shall count the Petition forms and shall issue a certificate of receipt, showing the number of Petition forms which were filed with the Court, and the date and time of the filing of the Petition. Petitioner shall be entitled to a ruling from the Court on validity of Petition within sixty (60) days from the filing date.</text>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.8</num>
+      <heading>PETITION VERIFICATION PROCEDURES.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon receipt of the Petition, the Court shall set a meeting date, place and time to review the Petition.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>At the appointed date, time and place for the review of the Petition, the Court shall:</text>
+        <para>
+          <num>1.</num>
+          <text>once the charge(s) for which impeachment is/are sought has/have been found to be valid in accordance with Article XVI, Section 1 of the Constitution, the Court shall then tabulate the number of signatures obtained for the impeachment Petition, identifying from such count all signatures or names which appear more than one (1) time on the Petition forms;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>each Legislative District must have a number of signatories to the Petition forms equal to no less than 25% of the Registered Resident Voters for that Legislative District as of the date of the Petition's filing. Should the Petition seek the impeachment of a Legislator, then only the number of Registered Resident Voters in that district shall be used for computation; should the Petition seek the impeachment of an Elected Official who serves in the Executive or Judicial Department, then only the number of Registered Resident Voters in each of the four (4) Legislative Districts, on a district-by-district basis, shall be used for computation, so that no less than twenty five percent (25%) of the resident registered voters in each and every district shall be required for the number of signatories to be valid;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>once the Court has determined that sufficient numbers of resident registered voters residing within the district or area from which the official was elected have signed the Petition forms, they shall provide the Petition forms to the Chickasaw Nation Election Commission, which shall then verify each and every signature to the Petition forms. The same method for determining validity of signatures for tribal elections shall be utilized to verify signatures of Petitions. The Election Commission shall have fifteen (15) working days in which to perform the task. Once this task is completed, the Election Commission shall provide the Court with the number of signatures verified as correct and legitimate; the number of signatures which were determined to be invalid; the number of Registered Resident Voters in each of the Legislative Districts for which Petition forms were submitted to them; and the number of valid signatures certified as such by the Election Commission for each Legislative District for which Petition forms were submitted to them; and</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>when the Election Commission has provided to the Court the information contained in Paragraph 3 above, the Court must then determine if the Petition forms contain the required number/percentage of Registered Resident Voters for each Legislative District for which Petition forms have been submitted to the Court. Any signatures confirmed to be duplicates are not to be counted. Should there be a number equal to no less than twenty five percent (25%) of the Registered Resident Voters for each and every Legislative District for which Petition forms were submitted to the Court, then the Court shall declare the Petition seeking impeachment of the affected Elected Official to be valid.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2003-06-20" doc="PR20-016">PR20-016, 6/20/03</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.9</num>
+      <heading>IMPEACHABLE OFFENSES.</heading>
+      <text>The Court shall determine if impeachable offenses have been alleged. Charges which shall constitute legitimate claims and findings for filing of formal impeachment charges against an Elected Official of the Chickasaw Nation shall be charges which allege:</text>
+      <para>
+        <num>1.</num>
+        <text>willful neglect of duty, which shall mean that an Elected Official has purposefully and determinedly not performed the job to which he was elected, including any of those duties of his office as contained in appropriate provisions of the Constitution, and those duties which might be prescribed by tribal law, by federal law, or if appropriately and lawfully applied, by the state law. In order to show willful neglect of duty, it shall be required that the Elected Official, on more than one (1) occasion after having had his failure to perform called to his attention, shall have repeated the same action with wanton disregard;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>corruption in office, which shall mean that an Elected Official has used the status or power of his office to obtain benefits of a material nature or otherwise, for himself or for anyone else, so long as those benefits are contrary to what could have been gained by the Elected Official or for the other person or persons had the Elected Official not been elected to that office;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>habitual drunkenness, which shall mean the abuse of drugs, the abuse of prescribed medicines upon proof of such by a licensed medical practitioner, and/or the abuse of alcoholic beverages or other intoxicants, with the term abuse defined by the normally accepted interpretations of such by the normal general public, and which interferes with the Elected Official's performance of his Official Duties;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>incompetency, which shall mean that the Elected Official is incapable of performing the job which he was elected to do due to physical, intellectual or moral prohibitions; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>moral turpitude, which shall mean actions in private or in public which shall be contrary to generally accepted and customary actions by normal people, or actions which gravely violate moral sentiment or accepted moral standards of the general community so as to cause revulsion or repulsion among the general community, or morally culpable offenses held to be present in some criminal offenses as distinguished from others.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.10</num>
+      <heading>PETITION VALIDATION PROCEDURES.</heading>
+      <para>
+        <num>A.</num>
+        <text>In order that a Petition may be found to be valid, the Court shall determine the validity of the charges for impeachment, in accordance with the provisions of Article XVI, Section 1, (b) of the Constitution, and according to the stipulations of this Act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Once a Petition seeking the impeachment of an Elected Official has been filed with the Court and certified as containing the appropriate number of signatures by the Chickasaw Nation Election Commission, the Judicial Department shall schedule a special hearing with the circulator(s), at which all three (3) Justices shall be in attendance. At that meeting, the circulators shall provide evidence to substantiate their charges in accordance with requirements which shall be established by the Court, including all proof or evidence to substantiate the claims of the circulator(s) regarding the actions of the Elected Official.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon conclusion of that special hearing, the three (3) Justices shall vote to determine the validity of the charges. Upon an affirmative vote in support of the Petition by at least two (2) of the three (3) Justices, formal impeachment charges shall be drawn up by the Court and submitted to the Chairperson of the Legislature, unless it shall be that official against whom charges shall be pressed, in which case the Court shall present the Articles of Impeachment to the Secretary of the Legislature. The Articles of Impeachment shall be presented in the format of a Petition as utilized by the Court, and shall include a copy of the Petition as filed and all signatures affixed thereto, a certified statement from the Chickasaw Nation Election Commission providing the names of those citizens whose signatures were found by the commission to be valid, the date and time that the Petition was received by the Court, and the date and time that the Petition was determined to be valid by the Court, along with the Court's findings regarding the validity of the impeachment of charges as contained in the Petition. The Articles of Impeachment shall state the offense in office with which the Elected Official is being charged and, should there be more than one such charge, each shall be stated separately.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2003-06-20" doc="PR20-016">PR20-016, 6/20/03</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.11</num>
+      <heading>NOTICE TO LEGISLATURE.</heading>
+      <text>Upon receipt of formal impeachment charges from the Court, the Chairperson or, in case of circumstances identified in Subsection 16-610.C, the Secretary of the Legislature shall notify by the most expedient means the remaining members of the Legislature, providing them information relevant to the filing of the Articles of Impeachment by the Court. That officer of the Legislature shall then place the Articles of Impeachment on the agenda for the next Regular Session of the Legislature.</text>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.12</num>
+      <heading>ACTIONS OF THE LEGISLATURE.</heading>
+      <text>At the next Session of the Legislature, the Legislature shall consider a resolution regarding the Articles of Impeachment. Such resolution shall:</text>
+      <para>
+        <num>1.</num>
+        <text>suspend from the exercise of duties of his office, with all pay benefits, the Elected Official against whom Articles of Impeachment have been preferred, with that suspension continuing in effect immediately upon concurrence of the resolution by the Governor or, should the Governor be the Elected Official against whom the charges are preferred, immediately upon concurrence of the Lieutenant Governor, until such times as the impeachment charges are dispensed with;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>appoint a Prosecutor to present the charges for impeachment before the Legislature, with the Prosecutor meeting the following requirements:</text>
+        <para>
+          <num>a.</num>
+          <text>he shall be a licensed, practicing attorney, licensed to practice law in the State of Oklahoma and admitted before the bar of the State;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>he shall be a citizen of Chickasaw Nation;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>he shall serve for the fee set by the Legislature which shall be paid to him from tribal funds, non-trust, with said fee being set by the same resolution which appoints him;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>he shall not be related to any Elected Official;</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>establish Witness fees to be paid to all Witnesses appearing before the Legislature during the course of the hearing, with said fees being in amounts allowed in a federal court of law and being paid from non-trust tribal funds; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>set the date, time and place for the hearing.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.13</num>
+      <heading>SUBPOENA AUTHORITIES.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Legislature shall, for purposes of conducting a hearing for impeachment, have power and authority to issue Subpoenas, upon request by the Prosecutor or by the defendant's counsel. Subpoenas must be substantially in the form of Appendix "B". Said Subpoenas shall be signed by the Secretary of the Legislature or, should the Secretary of the Legislature be the Elected Official against whom charges have been preferred, by the Chairperson of the Legislature. Subpoenas shall be issued immediately upon request. A Subpoena may be served at any place within the Chickasaw Nation. It may also be served at any place without the Chickasaw Nation that is within one hundred (100) miles of the place of the hearing specified in the Subpoena. The one hundred (100) mile limit applies to a party as well as to an ordinary Witness. Such distance is to be measured by the ordinary, usual and shortest route which can be taken by automobile on state highways or roads.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A Subpoena for the attendance of a Witness shall state the name of the Chickasaw Tribal Legislature and the title of the action, and it shall command each person to whom it is directed to attend and to give testimony at a time and place specified in the Subpoena. There is no limit on the number of Witnesses who may be Subpoenaed in an impeachment hearing. Subpoenas should contain the name(s) of those to whom the Subpoenas will be issued; however, issuing a Subpoena signed and sealed but otherwise blank, to the party requesting it, who is to fill it before service, is also allowed.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A Subpoena <em>duces tecum </em>may be issued for the production of documents. If a Subpoena <em>duces tecum </em>is served on one who has custody of records which belong to another person, formal notice shall be served on the owner of the records before production can be required by the Legislature. A Subpoena <em>duces tecum </em>shall command the person named thereon to produce and permit inspection and copying of designated books or other tangible things. Within ten (10) days after service of the Subpoena, or before the time specified for compliance if that time is less than ten (10) days after service, the person Subpoenaed may serve on the party requesting the Subpoena written objection to inspection or copying of any or all of the designated materials. If there is objection, the party serving the Subpoena is not entitled to inspect and copy the materials unless the Legislature, on motion made at any time before or during the taking of the deposition, orders that inspection and copying be permitted. The Legislature on motion made promptly may quash or modify the Subpoena if compliance would be unreasonable or oppressive. The Legislature may direct that books, paper, documents or objects or portions thereof to be inspected by the parties and their legal counsel.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The form for both a Subpoena and a Subpoena <em>duces tecum </em>shall be the same, except that a Subpoena duces tecum shall have the addition of language commanding the person to whom it is directed to produce the books, papers, documents or tangible things designated in the Subpoena. A Subpoena <em>duces tecum </em>shall be issued upon request and may be hand signed and sealed but otherwise blank, to be filled in by the party requesting it before service. The Subpoena shall designate with reasonable particularity the documents and things that are to be produced. Blanket Subpoenas should be avoided; however, if a party does not know exactly what documents he wishes produced, he may require the production of all documents relating to a certain specified matter or issue.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A Subpoena shall not be necessary for the taking of depositions. Service of the notice of taking of the deposition is enough to require these persons to appear and to expose the party to sanctions if they fail to do so. Such sanctions shall be determined by the Legislature. A notice is sufficient to cause the party to appear and to bring documents or things to the taking of the deposition. These rules do not apply to an involuntary party who has not been served with process and who is not within the jurisdiction of the Chickasaw Nation. He cannot be compelled to respond to a notice to take this deposition but must be Subpoenaed. These rules also do not apply to a Witness whose deposition is sought who is not a party to the case. A Subpoena is required to compel the attendance of the nonparty Witness. Should a deposition be sought from a corporation, partnership, association or governmental agency, the notice of the deposition shall describe the matters on which examination is required and leave it to the organization to designate persons to testify for it. If the corporation is a party, the notice alone is sufficient to require it to comply. If it is not a party, a Subpoena must also be served on the corporation--or other organization--and the Subpoena must advise the organization of its duty to make this designation.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A resident of the Chickasaw Nation may be required to attend only in the Oklahoma county in which he resides or is employed or transacts his business in person or at such other convenient place as is fixed by order of the Legislature. A nonresident of the Chickasaw Nation may be required to attend only in the Oklahoma county in which he is served with a Subpoena or within forty (40) miles from the place of service or at such other convenient place as is fixed by order of the Legislature. Limits are not controlling on the taking of depositions for whom a Subpoena is not necessary.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Proof of service of a notice to take a deposition constitutes sufficient authorization for the issuance of a Subpoena for each person named or described in the notice. If a Subpoena <em>duces tecum </em>is sought, a designation of the materials to be produced as set forth in the Subpoena must be attached to or included in the notice.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>A Subpoena may be served by anyone who is not a party to the hearing and who is not less than eighteen (18) years of age. Service of a Subpoena shall be made by delivering a copy thereof to the person named and by tendering to him the fee for one (1) day's attendance and the mileage allowed by tribal practice. A Subpoena requiring the attendance of a Witness at the hearing may be served at any place within the United States. Any person who serves a Subpoena shall make a return certification to the Legislature so as to indicate service of that Subpoena. The person serving the Subpoena shall state on the copy that is left with the person served the date that service is made. Service of a Subpoena shall be made upon an individual other than an infant who is less than fifteen (15) years of age or an incompetent person, by delivering a copy of the summons to him personally or by leaving copies thereof at his dwelling house or usual place of abode with some person then residing therein who is fifteen (15) years of age or older or by delivering a copy of the summons to an agent authorized by appointment or by law to receive process of service. Service of a Subpoena shall be made upon an infant who is less than fifteen (15) years of age by serving the summons upon him personally and upon either of his parents or his guardian, or if they cannot be found, then upon the person having the care or control of the infant or with whom he lives or, in the case of an incompetent person, by serving upon him personally and upon his guardian. Service of a Subpoena shall be made upon a corporation, partnership or other unincorporated association by delivering the Subpoena to an officer, a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. Service of a Subpoena shall be made upon the United States or an officer or agency thereof in the manner specified by Federal Rule of Civil Procedure 4. Service of a Subpoena may also be accomplished by mailing a copy of the Subpoena by certified mail, return receipt requested and delivery restricted to the addressee. When there is more than one (1) person being Subpoenaed, the Subpoena shall be mailed in a separate envelope to each person.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Failure by any person without adequate excuse to obey a Subpoena served upon him may be deemed to be in contempt. Contempt cases shall be dealt with accordingly to the directions of the Legislature, depending upon the jurisdiction that the Legislature may exercise over such persons.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Every Witness summoned in an impeachment hearing shall take notice of the postponements and continuances and when once summoned in such action shall, without further notice or summons, be in attendance upon such action, as such Witness, until discharged by the Legislature.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2001-03-19" doc="PR18-021">PR18-021, 3/19/01</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+        <annotation type="Editor's Notes">See also memorandum dated July 24, 1997 from M. Sharon Blackwell, Field Solicitor, Tulsa, United States Department of the Interior, Office of the Solicitor, regarding Subpoena powers.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.14</num>
+      <heading>IMPEACHMENT HEARING PROTOCOL.</heading>
+      <text>For all purposes of the conduction of impeachment hearings or for any business relating to impeachment once formal impeachment charges have been brought before it, the Legislature shall meet and shall be attended by no fewer than ten (10) of the duly elected members of the Legislature. Once the Legislature has taken actions in Section 16-612, a timetable shall be devised by the Legislature for the conduction of the impeachment hearing. Such timetable shall include the date, time and place for the hearing. Also at this assembly, each Member of the Legislature shall receive an exact copy of the formal impeachment charges as presented by the Court. No other material shall be included, discussed, distributed, recommended or considered by the Legislature at this assembly, whether or not such material is relevant to the impeachment hearing and charges.</text>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.15</num>
+      <heading>IMPEACHMENT HEARING PROCEDURES.</heading>
+      <para>
+        <num>A.</num>
+        <text>The formal hearing for the impeachment charges shall convene at the appointed date, place and time, and shall be presided over by the Chairperson of the Legislature or, in the case as cited in Subsection 16-610.C of this Act by the Secretary of the Legislature. The hearing shall be conducted in the following manner:</text>
+        <para>
+          <num>1.</num>
+          <text>the Chairperson or, if the Chairperson is the Elected Official against whom impeachment charges have been pressed, the Secretary shall be the presiding officer of the impeachment hearing;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>the presiding officer shall convene the hearing, beginning with a formal reading of the Articles of Impeachment;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>after each article is read and each charge is presented, the presiding officer shall ask the accused how he pleads to the charge as presented;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>once the Articles of Impeachment have been presented in full and the accused has entered his plea(s), the Prosecutor shall present his opening remarks concerning the Articles of Impeachment and all supporting evidence;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>the defense shall present his opening remarks concerning the Articles of Impeachment and all supporting evidence;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>the Prosecutor shall call and question his first Witness;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>the defense shall cross examine the Witness;</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>the Prosecutor shall have the opportunity for redirect examination;</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>this procedure shall continue until the Prosecutor shall have called and questioned all his Witnesses, and the defense shall have had the opportunity to cross examine each Witness for the prosecution, and the Prosecutor shall have had the opportunity for redirect examination of each Witness, once this is complete, the prosecution shall rest its case;</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>the defense shall then call and question its first Witness;</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>the Prosecutor shall cross examine the Witness;</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>this procedure shall continue until the defense shall have called and questioned all its Witnesses, and the Prosecutor shall have had the opportunity to cross examine each Witness for the defense, and the defense shall have had the opportunity for redirect examination of each Witness. The defense shall then rest its case;</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>the Prosecutor shall make his closing statement; and</text>
+        </para>
+        <para>
+          <num>14.</num>
+          <text>the defense shall make its closing statement.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Once both the prosecution and the defense have made their closing statements, the Legislature shall withdraw to a private room for deliberations. Having made its decision on the charges included in the Articles of Impeachment, the Legislature shall re-assemble to deliver, by roll call vote, its final verdict on the charges included in the Articles of Impeachment.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Impeachment on any charges included in the Articles of Impeachment shall require ten (10) affirmative votes. Should all charges fail to garner ten (10) affirmative votes for impeachment, the suspension from the performance of Official Duties on the part of the Elected Official against whom the Articles of Impeachment were preferred shall cease immediately upon the reading of the verdict.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Should there be ten (10) or more affirmative votes for impeachment on any of the charges included in the Articles of Impeachment, the suspension from the exercise of Official Duties shall become permanent immediately upon the reading of the verdict and the official shall be removed from office and the office declared vacant. The Elected Official who is impeached shall lose all benefits, powers and authorities immediately upon the reading of the verdict.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.16</num>
+      <heading>SANCTIONS.</heading>
+      <text>Any Elected Official impeached pursuant to the provisions of this Act shall be forever ineligible for appointment to any position within the government of the Chickasaw Nation. Any Elected Official impeached pursuant to the provisions of this Act shall be forever ineligible to seek any elective office within the government of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.17</num>
+      <heading>APPROPRIATE MOTIONS.</heading>
+      <text>During the hearing to be conducted pursuant to the provisions of this Act, the Legislature, while sitting as a court to hear the charges shall entertain the following motions on the part of the Defense or the prosecution, and shall render decisions on those motions at the time the motions are made, or within a reasonable time for motions which are filed:</text>
+      <para>
+        <num>1.</num>
+        <text>motion in bar, which shall be a motion, if allowed, which will absolutely bar the action;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>motion <em>in limine</em>, which shall be a written motion which is made before or after the beginning of the hearing for a protective order against prejudicial questions and statements, so as to avoid injection into the hearing of matters which are irrelevant, inadmissible and prejudicial and the granting of such motion is not a ruling on evidence and, where properly drawn, the granting of the motion cannot be error;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>motion to dismiss, which shall be interposed before the hearing to attack the action on the basis of insufficiency of the pleading, of process, of venue or of joinder;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>motion to strike, which may be made by either the prosecution or the defense, which shall allow the Legislature to order stricken from any pleading any insufficient Defense, or any redundant, immaterial, impertinent or scandalous matter; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>such other motions as may be permissible in a court of law in actions involving criminal offenses.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-601.18</num>
+      <heading>VERBATIM RECORDS.</heading>
+      <text>All portions of the hearing shall be recorded by the Recording Secretary of the Legislature and shall be transcribed verbatim.</text>
+      <annotations>
+        <annotation type="History" effective="1993-10-18" doc="TL11-001">TL11-001, 10/18/93</annotation>
+        <annotation type="History" effective="2003-08-15" doc="PR20-022">PR20-022, 8/15/03</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7</num>
+    <heading>LEGISLATIVE ETHICS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-701.1</num>
+      <heading>TITLE/FINDINGS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Title</text>
+        <para>
+          <num>1.</num>
+          <text>To establish guidelines for the ethical behavior of tribal Legislators and provisions for failure to comply with those standards, and for other purposes.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Be it enacted by the Tribal Legislature of the Chickasaw Nation assembled, that this Act may be cited as the "Legislative Ethics Act of 1989." ("Act")</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Findings</text>
+        <para>
+          <num>1.</num>
+          <text>A need exists for the Chickasaw Tribal Legislature to govern its own members in certain aspects of their behavior, especially when that behavior reflects on the entire Legislature and on the Chickasaw Nation itself; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>a need exists for a system which provides for the effective censuring of Legislators who do not comply with the normal standards set by the Legislature for its members.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1989-05-23" doc="TL6-009">TL 6-009, 5/23/89</annotation>
+        <annotation type="History" effective="1999-08-23" doc="PR16-028">PR16-028, 8/23/99</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-701.2</num>
+      <heading>PURPOSE.</heading>
+      <text>The purpose of <cite path="16|7">this Chapter 7</cite> is to:</text>
+      <para>
+        <num>1.</num>
+        <text>establish a system of guidelines for personal and professional actions and activities of members of the Chickasaw Tribal Legislature; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>establish a system for the censuring of members of the Legislature who do not adhere to these guidelines or who do not exhibit the high moral standards and ethical practices inherent in the position of leadership to which they have been elected.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1989-05-23" doc="TL6-009">TL 6-009, 5/23/89</annotation>
+        <annotation type="History" effective="1999-08-23" doc="PR16-028">PR16-028, 8/23/99</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-701.3</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of this Act:</text>
+      <para>
+        <num>1.</num>
+        <text>"The Chickasaw Nation" means the tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, being duly recognized by the Secretary of the interior of the United States of America, as a self-governing, sovereign government;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Constitution" means the Constitution of the Chickasaw Nation as ratified b the voters of the Chickasaw Nation on August 27, 1983:</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Chickasaw Tribal Legislature" or "Legislature" means the legislative branch of the Chickasaw Nation tribal government as created and empowered by Articles V, VI, VII, VIII and IX of the Constitution:</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Confidential Information" shall include the following:</text>
+        <para>
+          <num>a.</num>
+          <text>the appraised value, asking price or negotiations of real property being considered by the Legislature for purchase, sale, or acquisition by the Nation, until such time as the transaction becomes public record; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>matters discussed by the Legislature meeting in executive session.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Governor" means the chief magistrate of the Chickasaw Nation, as defined in Article X, Section 1, of the Constitution;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Censure" means the formal resolution of the Chickasaw Tribal Legislature reprimanding one or more of its own members, for specified conduct.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1989-05-23" doc="TL6-009">TL 6-009, 5/23/89</annotation>
+        <annotation type="History" effective="1999-08-23" doc="PR16-028">PR16-028, 8/23/99</annotation>
+        <annotation type="History" effective="2005-08-19" doc="PR22-011">PR22-011, 8/19/05</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-701.4</num>
+      <heading>CENSURE RESOLUTIONS.</heading>
+      <text>Censure of one or more Legislators may be accomplished by the adoption of a resolution by at least seven (7) affirmative votes of the members of the Legislature. Such action shall be taken only during Sessions, Regular or Special, of the Legislature.</text>
+      <annotations>
+        <annotation type="History" effective="1989-05-23" doc="TL6-009">TL 6-009, 5/23/89</annotation>
+        <annotation type="History" effective="1999-08-23" doc="PR16-028">PR16-028, 8/23/99</annotation>
+        <annotation type="History" effective="2001-02-21" doc="PR18-006">PR18-006, 2/21/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-701.5</num>
+      <heading>GROUNDS FOR CENSURE.</heading>
+      <text>Censure may be accomplished for the following reasons:</text>
+      <para>
+        <num>1.</num>
+        <text>Improper conduct or conduct not becoming an elected representative of the Chickasaw people. Such conduct is defined as unruliness, lack of restraint or control, disrespect to fellow Legislators, members of the public, tribal government employees and/or other Elected Officials of the Chickasaw Nation and misuse of public office; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Misfeasance or Nonfeasance. "Misfeasance" means the improper performance of some act which may lawfully be done. "Nonfeasance" means the omission of an act which a person ought to do.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1989-05-23" doc="TL6-009">TL6-009, 5/23/89</annotation>
+        <annotation type="History" effective="1999-08-23" doc="PR16-028">PR16-028, 8/23/99</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-701.6</num>
+      <heading>DISCUSSION OF CENSURE, RECORD.</heading>
+      <text>All resolutions of censure shall be a matter of public record. Discussion of such resolutions shall be made in full view of the public in attendance at any Regular or Special Session of the Legislature. Such resolution may be drafted by and/or reported out of any Committee, or may be presented by any Member from the floor, so long as such resolution is properly placed on the agenda for that session.</text>
+      <annotations>
+        <annotation type="History" effective="1989-05-23" doc="TL6-009">TL6-009, 5/23/89</annotation>
+        <annotation type="History" effective="1999-08-23" doc="PR16-028">PR16-028, 8/23/99</annotation>
+        <annotation type="History" effective="2001-02-21" doc="PR18-006">PR18-006, 2/21/01</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>16-701.7</num>
+      <heading>ACTION BY GOVERNOR.</heading>
+      <text>Resolutions of censure shall be presented to the Governor for his action in accordance with the Constitution.</text>
+      <annotations>
+        <annotation type="History" effective="1989-05-23" doc="TL6-009">TL6-009, 5/23/89</annotation>
+        <annotation type="History" effective="1999-08-23" doc="PR16-028">PR16-028, 8/23/99</annotation>
+        <annotation type="History" effective="2012-11-16" doc="PR30-003">PR30-003, 11/16/12</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

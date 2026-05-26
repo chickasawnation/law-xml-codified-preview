@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>19</num>
+  <heading>SAFETY AND LAW ENFORCEMENT</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <text>(RESERVED)</text>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 2, Administration of Tribal Affairs and Government, Chapter on Intergovernmental Agreements.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>POLICE AND LAW ENFORCEMENT </heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>FIRE SERVICES</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>CIVIL DEFENSE AND EMERGENCIES</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>19-401.1</num>
+      <heading>SHORT TITLE</heading>
+      <text>This Title 19 Chapter 4 shall be known and may be cited as the "Good Samaritan Act."</text>
+      <annotations>
+        <annotation type="History" effective="2004-08-20" doc="PR21-024">PR21-024, 8/20/04</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>19-401.2</num>
+      <heading>FINDINGS.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Chickasaw Tribal Legislature finds that a need exists to define the responsibilities of persons in the event of a crisis, accident or other medical emergency.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Legislature also finds that every person is bound, without contract, to abstain from injuring the person or property of another, or infringing upon any of his rights.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Legislature further finds that everyone is responsible, not only for the result of his willful acts, but also for an injury occasioned to another by his want of ordinary care or skill in the management of his property or person, except so far as the latter has, willfully or by want of ordinary care, brought the injury upon himself, and except as hereinafter provided.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>19-401.3</num>
+      <heading>PERSONS IN GOOD FAITH WITHOUT COMPENSATION WHO	RENDER	EMERGENCY	CARE	OR	PROVIDE REFUGE; IMMUNITY FROM CIVIL LIABILITY.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person who, in good faith and without prior compensation, renders emergency care, assistance or advice at the scene of an accident or existing or impending disaster involving the use, handling, transportation, transmission or storage of hazardous materials shall not be liable for damages resulting from the conduct of said person in rendering said care, assistance or advice unless said damage was caused by the gross negligence of said person. The provisions of this Section shall not affect the potential liability that any person may have which arises from the manufacture, generation, transportation, storage or handling of any hazardous materials, or of any person who is engaged professionally and commercially in rendering said emergency care, assistance or advice.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Where no prior contractual relationship exists, any person who in good faith renders or attempts to render emergency care consisting of artificial respiration, restoration of breathing, or preventing or retarding the loss of blood, or aiding or restoring heart action or circulation of blood to the victim or victims of an accident or emergency, wherever required, shall not be liable for any civil damages as a result of any acts or omissions by such person in rendering the emergency care.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Where no contractual relationship exists, any person, or any member of his immediate family or household, who extends aid and refuge to persons on the streets in apparent danger, or in need of aid, by inviting those persons into the person's home, or onto premises thereof, and in good faith provides such refuge or aid without objection of the endangered or needy person, whether child or adult, neither the person extending the aid and refuge nor the homeowner or head of household shall be liable for civil damages as a result of actions or omissions in rendering emergency physical care to the body of the aided person; nor shall they be liable for civil damages for any other injury in the home, or on premises thereof, to the person aided, nor for any failure to provide or arrange for his police protection or other protection or medical treatment, when the actions or omissions were those of an ordinarily reasonably prudent person under the circumstances without want of ordinary care or skill.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The immunity from civil liability provided for by the provisions of this Section shall extend only to the actions taken by persons in rendering refuge, care, assistance or advice at the time of said accident or existing or impending disaster, and does not confer any of said immunity to any person for actions taken prior to or after the rendering of refuge, emergency care, assistance or advice.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>For the purposes of this Section, the term hazardous materials means petroleum or petroleum products, or any other substance or compound which is toxic to human, animal, or plant life.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>19-401.4</num>
+      <heading>LICENSED	PERSONS	IN	GOOD	FAITH WITHOUT COMPENSATION WHO RENDER EMERGENCY CARE; IMMUNITY FROM CIVIL LIABILITY; NEGLIGENCE.</heading>
+      <para>
+        <num>A.</num>
+        <text>Where no prior contractual relationship exists, any person licensed to practice any method of treatment of human ailments, disease, pain, injury, deformity, mental or physical condition, or licensed to render services ancillary thereto including licensed registered and practical nurses, who, under emergency circumstances that suggest the giving of aid is the only alternative to probable death or serious bodily injury, in good faith, voluntarily and without compensation, renders or attempts to render emergency care to an injured person or any person who is in need of immediate medical aid, wherever required, shall not be liable for damages as a result of any acts or omissions except for committing gross negligence or willful or wanton wrongs in rendering the emergency care.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Where no prior contractual relationship exists, any person licensed to perform surgery or dentistry in any state who in good faith renders emergency care requiring the performance of an operation or other form of surgery upon any individual who was the victim of an accidental act shall not be liable for any civil damages or subject to criminal prosecution as the result of nonconsent whereby such person renders or attempts to render the emergency surgery or operation voluntarily and without compensation, wherever required, except for gross negligence or willful or wanton wrongs committed in rendering the care; provided, however, that the exemption granted by this Subsection B shall not attach if the victim is an adult who is conscious and capable of giving or refusing his consent; or if the victim's spouse, or parent, or guardian in the case of a minor or incompetent person, can be reached in a reasonable time considering the condition of the victim and consistent with good medical practice, and unless concurrence is obtained for such emergency surgery or operation from one other person licensed to perform surgery in any state.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>19-401.5</num>
+      <heading>MEDICAL	CARE	OR	TREATMENT	BY	USE OF AUTOMATED EXTERNAL DEFIBRILLATOR; IMMUNITY FROM CIVIL LIABILITY.</heading>
+      <para>
+        <num>A.</num>
+        <text>Use of Automated External Defibrillator:</text>
+        <para>
+          <num>1.</num>
+          <text>A person who is qualified pursuant to this Subsection A and who, in good faith and without expectation of compensation, renders emergency care or treatment outside of a medical facility by the use of an Automated External Defibrillator shall be immune from civil liability for personal injury which results from the use of the device, except for acts of gross negligence or willful or wanton misconduct.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A person is qualified pursuant to this Subsection A upon successful completion of appropriate training in the use of Automated External Defibrillators and cardiopulmonary resuscitation. Appropriate training shall consist of a course of at least four (4) hours of training in the use of Automated External Defibrillators and cardiopulmonary resuscitation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Ownership of Automated External Defibrillator:</text>
+        <para>
+          <num>1.</num>
+          <text>A qualified person or entity which owns, leases, possesses, or otherwise controls an Automated External Defibrillator shall be immune from civil liability for personal injury which results from the use of the device, except for acts of gross negligence or willful or wanton misconduct.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A person or entity is qualified pursuant to this subsection if the person or entity:</text>
+          <para>
+            <num>a.</num>
+            <text>requires users of its Automated External Defibrillator to be qualified pursuant to Subsection A above; and</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>maintains and tests its Automated External Defibrillator according to the manufacturer's instructions.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>For purposes of this Section:</text>
+        <para>
+          <num>1.</num>
+          <text>"Automated External Defibrillator" means a medical device consisting of a heart monitor and defibrillator which:</text>
+          <para>
+            <num>a.</num>
+            <text>has received approval of its premarket notification, filed pursuant to 21 U.S.C., Section 360(k), from the United States Food and Drug Administration;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>is capable of recognizing the presence or absence of ventricular fibrillation or rapid ventricular tachycardia, and is capable of determining, without intervention by an operator, whether defibrillation should be performed; and</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>upon determining that defibrillation should be performed, automatically charges and requests delivery of an electrical impulse to an individual's heart; and</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"Entity" means public and private organizations including, but not limited to, the Chickasaw Nation and its agencies and political subdivisions, a proprietorship, partnership, limited liability company, corporation, or other legal entity, whether or not operated for profit.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>EMERGENCY MEDICAL SERVICES</heading>
+    <text>(RESERVED)</text>
+  </container>
+</container>

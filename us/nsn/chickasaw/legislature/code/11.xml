@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>11</num>
+  <heading>WILDLIFE CONSERVATION ACT</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>TITLE, PURPOSE, AND JURISDICTION</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-101.1</num>
+      <heading>TITLE.</heading>
+      <text>This legislation is hereby enacted by the Chickasaw Tribal Legislature and shall be known and cited as the "Chickasaw Nation Wildlife Conservation Act of 2022" or the "Act" in this title.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-102</num>
+      <heading>REPEAL PROVISION.</heading>
+      <text>The act previously titled herein as the "Chickasaw Nation Wildlife Conservation Act of 2021," previously located in Title 11 is hereby repealed in its entirety and replaced with this Act.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-103</num>
+      <heading>PURPOSE.</heading>
+      <text>The Chickasaw Tribal Legislature hereby establishes a framework for the Chickasaw Nation's management and conservation of fish and Game. The goal of such management and conservation is the long-term sustainability of Chickasaw Nation resources, and to that end, this Act establishes guidelines for permitting Hunting and Fishing within the Chickasaw Nation, for controlling access to Chickasaw Nation Lands for purposes of Hunting and Fishing, and for establishing species-specific limits on the taking of Wildlife through Hunting and Fishing. Pursuant to the powers vested in it by Article 10 § 1 of the Chickasaw Nation Constitution, the Executive Department will carry out all administrative functions necessary and proper for the implementation of this Act, including policies the Executive Department promulgates.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-104</num>
+      <heading>PROHIBITIONS.</heading>
+      <para>
+        <num>1.</num>
+        <text>No person may engage in Hunting or Fishing within the Chickasaw Nation without a License. A License to engage in Hunting or Fishing within the Chickasaw Nation does not grant any person the right or privilege to enter upon any lands, whatsoever.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>It shall be the legal responsibility of any person seeking to engage in Hunting or Fishing within the Chickasaw Nation to secure the right or privilege to access land for such purposes in accord with law. No person may enter Chickasaw Nation Lands for such purposes without a Licensee Permit issued by the Executive Department. Persons seeking access to privately held lands within the Chickasaw Nation for Hunting and Fishing or any other purpose must secure lawful permission from persons who own such lands.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Hunting and Fishing within the Chickasaw Nation must be in accord with this Act and Executive Department policies, the License by which such activity is pursued, and the terms and conditions of any Licensee Permit providing the privilege of access to Chickasaw Nation Lands.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Any person who violates a prohibition of this Section shall be subject to sanctions as provided in Chapter 3 of this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-105</num>
+      <heading>AUTHORITY AND JURISDICTION.</heading>
+      <para>
+        <num>1.</num>
+        <text>This Act and the Executive Department policies promulgated to implement it have force of law under the Chickasaw Nation's: (a) inherent sovereign authority to regulate its citizens and territory; (b) Constitution; and (c), with respect to Chickasaw Nation Lands, rights as owner of beneficial interest in and/or title to real property. This Act and the Executive Department policies manifest exercises of the Chickasaw Nation's sovereign rights and interests in the subject matter as well as its citizens' treaty-based rights to Hunting and Fishing within the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The civil sanctions authorized by this Act shall apply to any and all persons Hunting and Fishing within the Chickasaw Nation to the extent allowable by law and shall be in addition to any and all other law that may apply.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The criminal sanctions authorized by this Act shall apply to any and all Chickasaw Nation citizens, members or citizens of other federally recognized American Indian Tribes, and any other persons in accord with federal law.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Nothing herein waives the Chickasaw Nation's jurisdiction, immunities, or rights in any matter, and the Chickasaw Nation expressly reserves the right to exercise any inherent jurisdiction it may possess or other jurisdiction which may be recognized under or delegated by federal law or provided for in a compact or other agreement with the State of Oklahoma or another Tribal Nation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <annotations>
+      <annotation type="History" effective="2022-02-18" doc="PR39-005">PR39-005, 2/18/2022</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>DEFINITIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-201</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For purposes of this Act, the following words and phrases shall have the following meanings:</text>
+      <para>
+        <num>1.</num>
+        <text>"Bag Limit" means the number of any kind of Wildlife permitted to be taken in any one day or one open season, as the case may be.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Court" means the Chickasaw Nation District Court.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Chickasaw Nation Lands" means the following categories of lands:</text>
+        <para>
+          <num>a.</num>
+          <text>Tribal trust lands, meaning that real property held by the United States, in trust for the benefit of the Chickasaw Nation;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Tribal fee lands, meaning that real property owned by the Chickasaw Nation by fee simple or patent title acquired at any time, whether by private purchase, via Treaty with the United States, or otherwise, regardless of whether any federal restriction against alienation applies;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Individual trust lands or individual restricted lands meaning that real property held in trust for individual Indians by the United States or held by individual Indians subject to federal law restriction against alienation.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The "Chickasaw Nation," as appropriate to context, means (i) the sovereign and self-governing Tribe, with a government duly organized and conducted in accord with the Constitution, ratified August 27, 1983, and as thereafter from time to time amended; or (ii) all lands within the exterior boundaries set forth in the Treaty between the United States, the Choctaws, and the Chickasaws of June 22, 1855; the Treaty between the United States, the Choctaws, and the Chickasaws of April 28, 1866; and the preamble to the Chickasaw Nation Constitution, ratified August 27, 1983, and as thereafter from time to time amended.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Executive Department" means the Office of the Governor of the Chickasaw Nation, as designated by Article 10, § 1 of the Chickasaw Nation Constitution, and inclusive of all agencies, departments, offices, or other administrative units established thereunder and tasked with responsibilities under Chickasaw Nation law.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Fishing" means the taking or attempting to take fish or other aquatic dwelling organisms by hook and line, seine, trap, or any other means.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Game" means any mammal or bird.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Hunting" means the pursuit, killing, capture, trapping, snaring, or netting of Wildlife, inclusive of all lesser acts such as disturbing, harrying, or worrying or the placing, setting, drawing, or using of any net, trap, or other device and includes specifically every attempt to take and every assistance to other persons in taking or attempting to take Wildlife.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"License" means a document, issued pursuant to this Act and the Executive Department policies, which authorizes a person to engage in Hunting and Fishing within the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Licensee Permit" means a document issued by the Executive Department pursuant to this Act and its policies, which document grants permission to a person to engage in Hunting or Fishing on specified Chickasaw Nation Lands for specified Wildlife for a specific period of time.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Executive Department policies" means any set of substantive or procedural rules or directives promulgated by the Executive Department to implement the provisions of this Act, which policies shall be made publicly available.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Wildlife" means all wild birds, mammals, fish, reptiles, amphibians, and other wild aquatic forms, and all other animals which normally can be found in the wild state of being, regardless of classification, whether resident, migratory or imported, protected or unprotected, dead or alive, and shall extend to and include any and every part of any individual species of Wildlife, whether or not bred, hatched, or born in captivity, and including any part, product, egg, or offspring thereof.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Tag" means a species-specific authorization to take fish or Game and an identification mechanism required to be attached to Game taken by Hunting on Chickasaw Nation Lands, as specified in Executive Department Policies.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>CHICKASAW NATION WILDLIFE CONSERVATION ACT IMPLEMENTATION AND ENFORCEMENT</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-301</num>
+      <heading>IN GENERAL.</heading>
+      <para>
+        <num>1.</num>
+        <text>In accord with Article 10, § 1 of the Chickasaw Nation Constitution, the Executive Department has authority to ensure day to day management and oversight of the Chickasaw Nation's implementation of this Act throughout the Chickasaw Nation and on Chickasaw Nation Lands.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For purposes of managing and conserving Wildlife in the interest of the long-term sustainability of Chickasaw Nation resources, the Executive Department exercises its constitutional authority by:</text>
+        <para>
+          <num>a.</num>
+          <text>implementing and enforcing all provisions of this Act and likewise promulgating, implementing, and enforcing those policies it deems necessary to carry out fully the purposes of this Act;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>overseeing all Executive Department employees and administrative functions necessary for the implementation of this Act and all Executive Department policies;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>establishing a system for the licensing of Hunting and Fishing within the Chickasaw Nation and to control access to Chickasaw Nation Lands for any and all Hunting or Fishing activities;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>promoting and managing Wildlife within the Chickasaw Nation and on Chickasaw Nation Lands, including by means of intergovernmental cooperation, resource stewardship, propagation, purchase, importation, exportation, stocking, or any other means;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>regulating Hunting and Fishing seasons and Bag Limits with respect to Wildlife taken from the Chickasaw Nation or from Chickasaw Nation Lands;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>promoting the safety of those engaging in Hunting and Fishing within the Chickasaw Nation or on Chickasaw Nation Lands; and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>any and all other administrative actions necessary to fully implement this Act and associated Executive Department policies, in accord with applicable law.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-302</num>
+      <heading>ENFORCEMENT.</heading>
+      <para>
+        <num>1.</num>
+        <text>Enforcement. The Executive Department has the constitutional authority to enforce compliance with this Act and its policies. Such actions may include the filing of appropriate civil actions in the Chickasaw Nation District Court. Such actions may also include, in coordination with the Chickasaw Nation Lighthorse Police Department, the filing of criminal actions in the Chickasaw Nation District Court. If the Chickasaw Nation lacks criminal law enforcement jurisdiction in any instance in which it seeks to enforce this Act or Executive Department policies, the Executive Department should endeavor to exercise the Chickasaw Nation's civil regulatory jurisdiction to the greatest extent necessary to enforce compliance with the Act and may coordinate with the law enforcement agencies of other governments as necessary to ensure appropriate implementation of this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violations.</text>
+        <para>
+          <num>a.</num>
+          <text>Criminal sanctions.</text>
+          <para>
+            <num>i.</num>
+            <text>It shall be unlawful for any person to engage in Hunting or Fishing within the Chickasaw Nation without a License, in violation of the terms of a License, or otherwise in violation of this Act or Executive Department policies. Any person convicted in Chickasaw Nation District Court of such violation shall be punished by a fine of not less than Twenty-Five Dollars ($25) per violation nor more than Five Thousand Dollars ($5,000) and a loss of License and/or Licensee Permit for a period of not less than one (1) year.</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>It shall be unlawful for any person to engage in Hunting or Fishing on Chickasaw Nation Lands without a Licensee Permit or on private land within the Chickasaw Nation without the owner's permission. Any person convicted in Chickasaw Nation District Court of such violation shall be punished by a fine not exceeding five thousand dollars ($5,000), by imprisonment for a term not exceeding one (1) year, or both, and a loss of License and/or Licensee Permit for a period of not less than one (1) year.</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>The remedies specified for violations of this Act are not exclusive, and the Chickasaw Nation may pursue any other criminal charges authorized by the Chickasaw Code or other applicable law.</text>
+          </para>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Other sanctions.</text>
+          <para>
+            <num>i.</num>
+            <text>The Executive Department may suspend, revoke, or deny a License or Licensee Permit if it determines the person holding the authorization has violated this Act, Executive Department policies, any term or provision of his or her License or Licensee Permit, Chickasaw Nation law, or otherwise presents a threat to others or to the Chickasaw Nation or Chickasaw Nation Lands. The Chickasaw Nation District Court may hear any action brought by the Chickasaw Nation as may be necessary to enforce such suspension, revocation, or denial.</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>The Chickasaw Nation hereby expressly reserves such other enforcement authority it may possess for purposes of ensuring full implementation of this Act.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>LICENSES AND LICENSEE PERMITS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-401</num>
+      <heading>ISSUANCE; EXEMPTIONS.</heading>
+      <para>
+        <num>1.</num>
+        <text>In accord with this Act and Executive Department policies, Licenses for Hunting and Fishing within the Chickasaw Nation and Licensee Permits for Hunting and Fishing on Chickasaw Nation Lands may be issued. Licenses and Licensee Permits shall include Tags, by kind and number, as appropriate to indicate the Wildlife that may lawfully be taken pursuant thereto.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In addition to what the Executive Department may provide, each of the following may be recognized as a License, notwithstanding any other provision of law:</text>
+        <para>
+          <num>a.</num>
+          <text>As issued to its bearer and for the six (6) months after this Act is enacted, a Chickasaw Nation citizenship card;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Subject to its own terms and as provided in <cite path="11|4|11-402">Section 11-402</cite>, a license or permit issued by the Oklahoma Department of Wildlife Conservation for purposes of Hunting or Fishing in Oklahoma;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Subject to the terms of any agreement pertaining to the subject and as provided in <cite path="11|4|11-402">Section 11-402</cite>, a license or permit issued by another Tribal Nation in Oklahoma as authorizing Hunting or Fishing within that Nation's jurisdiction.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>While Licensee Permits may be issued to any person, Chickasaw Nation citizens will be prioritized in the receipt of such authorizations.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Pursuant to Executive Department policies, exemptions from this Act may be provided as necessary to implement compacts relating to Wildlife, Hunting, or Fishing with the State of Oklahoma or other Tribal Nations.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>No person who engages in Hunting or Fishing on his or her own private land, whether held in individual trust or restricted or unrestricted fee, shall be required under this Act to obtain a License, though such persons shall remain subject to applicable Bag Limits and Tag requirements.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>11-402</num>
+      <heading>INTERGOVERNMENTAL COOPERATION;RECIPROCITY FOR LICENSING FROM ADJACENT  STATES OR OTHER TRIBAL NATIONS.</heading>
+      <para>
+        <num>1.</num>
+        <text>In accord with the interests of providing for the long-term sustainability of Wildlife within the Chickasaw Nation, recognition of the intergovernmental context in which we operate, and full respect for the protection and exercise of the Chickasaw Nation's sovereignty and treaties, the Chickasaw Tribal Legislature encourages and supports the Executive Department's working cooperatively and collaboratively with other Tribal Nations and the State of Oklahoma, including by means of compact or other agreement, in the effective implementation of this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Pursuant to a Wildlife compact or other agreement entered between the Chickasaw Nation and the State of Oklahoma or another Tribal Nation, a valid permit to hunt and fish issued by another jurisdiction may be recognized and accepted as a License for purposes of this Act. In the absence of such compact or other agreement, the Executive Department may recognize and accept another jurisdiction's permit as a License for purposes of this Act at its discretion and in accord with policies.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Notwithstanding the recognition of such permit as a License for purposes of this Act, any and all Hunting or Fishing conducted pursuant thereto shall remain subject to all other requirements of this Act and any Executive Department policies.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Clarity of rules across jurisdictions and cooperation with other jurisdictions in accord with the long-term sustainability of Chickasaw Nation resources should be considered in the implementation of this Section."</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

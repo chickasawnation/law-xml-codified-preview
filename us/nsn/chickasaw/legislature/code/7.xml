@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>7</num>
+  <heading>EDUCATION</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>SCHOOLS AND SCHOOL PROGRAMS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>7-101.1</num>
+      <heading>SUMMER SCHOOL PROJECT.</heading>
+      <text>The Chickasaw Tribal Legislature authorizes the implementation of an extended school day/school year project (summer school) to provide improved educational services and opportunities to Indian students within the communities of the Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1992-04-18" doc="GR92-85">GR92-85, 4/18/92</annotation>
+        <annotation type="History" effective="2012-07-20" doc="PR29-004">PR29-004, 7/20/12</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>SCHOLARSHIP PROGRAM</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>7-201.1</num>
+      <heading>TITLE.</heading>
+      <text>Be it enacted by the Chickasaw Tribal Legislature here assembled that this Act be cited as the "Chickasaw Nation Scholarship Program Act" ("Act").</text>
+      <annotations>
+        <annotation type="History" effective="2009-10-16" doc="PR27-001">PR27-001, 10/16/09</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>7-201.2</num>
+      <heading>EFFECTIVE DATE.</heading>
+      <text>This Act shall become effective immediately.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>7-201.3</num>
+      <heading>PURPOSE.</heading>
+      <text>The purpose of this Act shall be to promote excellence in higher education among Chickasaw students by rewarding achievement, consolidating and streamlining the application process, providing flexibility in the assignment of scholarship funds according to the needs of each school year and promoting clarity in the selection and award process.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>7-201.4</num>
+      <heading>EDUCATION PROGRAMS TO BE ADMINISTERED BY TRIBAL POLICY.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Governor shall issue policies, rules and regulations that pertain to the education of Chickasaw Citizens, and will administer scholarships, clothing grants, textbook grants, all related administrative procedures, and other topics related to promoting education among Chickasaw citizens,</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The funding for the clothing grants shall be allocated from the Railroad Station Grounds Clothing Grant funds line item. If necessary, funding for this grant may be supplemented from the tribal general fund.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

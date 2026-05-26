@@ -1,0 +1,1315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>8</num>
+  <heading>ELECTIONS AND CAMPAIGNS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-100.1</num>
+      <heading>PURPOSE.</heading>
+      <para>
+        <num>A.</num>
+        <text>The purpose of this Title 8 is to adopt procedures and regulations for the purpose of conducting elections of the Nation as required by the Constitution.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In accordance with Article VII, Section 6, of the Constitution of the Nation, the Legislature shall prescribe procedures and regulations for tribal elections.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-100.2</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of this Title 8, the following words shall have the meanings respectively ascribed to them in this section unless the context clearly requires otherwise:</text>
+      <para>
+        <num>1.</num>
+        <text>"Activity Report" means the daily report of returned election ballots.</text>
+      </para>
+      <aftertext>These include accepted (valid) ballots, undeliverable ballots (no Current address), unsigned returned envelopes, ballots returned because Voter is deceased, and rejected ballots.</aftertext>
+      <para>
+        <num>2.</num>
+        <text>"Candidate" means a registered Voter of Chickasaw descent who meets the qualifications necessary to have his name appear on the ballot for consideration by the Voters in the election of tribal officials. "Candidate/team" means the two (2) Candidates running as a team for the positions of Governor and Lieutenant Governor;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Commission" means the Election Commission created to conduct Chickasaw tribal elections as established and defined in Title 2 of this Code;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Constitutional Amendment Election" is the method by which the Constitution is modified, certain parts deleted or additions made, in an election in accordance with the provisions of Article XVIII of the Constitution;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Current" means most recent; up-to-date;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"In Kind" means any service or thing which has a monetary value but is given to or performed for or on behalf of a Candidate at no cost to the Candidate;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Initiative Petition" means a petition filed by a single citizen or by any number of citizens which meets the criteria contained in Article XIV of the Constitution and which seeks legislative changes through the filing of formal petitions to be acted on by the Legislature and by the electorate of the Nation;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Mail Out Date" is the date that ballots shall be mailed to the Voters;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Member ID Number" means the number assigned to each Voter on the voter data base. The Member ID Number may be used by the Election Commission and Election Secretary/Tribal Registrar to track Activity Report and Voters List information only and shall not be used to determine which Voter voted for any particular Candidate.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Non-resident Voter" means a registered Voter who does not reside within the boundaries of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Recall Petition" means a method of removal of an elected official in which the power of removal is granted by Article XVI, Section 2, of the Constitution and reserved by the same to the people. It is the right or procedure by which a public official may be removed from office before the end of his term of office by a vote of the people to be taken on the filing of a petition signed by not less than twenty-five percent (25%) of the registered Voters residing within the district or area from which the official was elected;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Residency/Resident" means the act of residing or one who resides within the territorial jurisdiction of the Chickasaw Nation as the primary place of domicile;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Tribal Assets" means property of all kinds including real, personal and intellectual property such as the use of the Great Seal of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Voter" means a Chickasaw citizen who has registered to vote in accordance with this Title 8; and</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Voters List" means a list of Chickasaw citizens who have registered as Voters with the Election Secretary/Tribal Registrar in accordance with this Title 8.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2009-03-20" doc="PR26-004">PR26-004, 3/20/09</annotation>
+        <annotation type="History" effective="2014-03-21" doc="PR31-004">PR31-004, 3/21/14</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-100.3</num>
+      <heading>CEREMONY.</heading>
+      <para>
+        <num>A.</num>
+        <text>Installation of elected officials for Judicial and Legislative seats shall take place on October 1 or on the first normal, non-holiday weekday of October of the year of the election, beginning on or about 11:00 a.m. The swearing in ceremony shall be conducted by one (1) of the Supreme Court Justices. Should circumstances beyond the control of the official being sworn in preclude him from being sworn in at that time, the swearing in shall be accomplished at the earliest possible time convenient and practicable. The location of the ceremony shall be in a place determined annually by the Election Secretary/Tribal Registrar with the advice and consent of the Election Commission.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Inaugural Ceremonies for the offices of Governor and Lieutenant Governor shall take place on October 1 or on the first normal, non-holiday weekday of October of the year of the election. The Election Secretary/Tribal Registrar and Election Commission shall consult with the Governor-elect or his designee to determine the time and place for such ceremonies. The swearing in ceremony shall be conducted by one (1) of the Supreme Court Justices.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-100.4</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>CANDIDATES, FILING AND ADVERTISING</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.1</num>
+      <heading>REQUIREMENTS OF OFFICE.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Candidate for tribal office shall meet the requirements set forth in the Constitution. Such requirements relate to citizenship, Residency for prescribed periods of time, Voter registration, criminal histories, age, and for certain offices, a blood quantum requirement. The Election Commission may require proof that a Candidate<s>s</s> meet all such requirements. For example, criteria to be considered in determining the Residency of a Candidate shall include, but is not limited to, the address used for payment of utilities, telephone billing address, and post office address. The Commission shall determine if each Candidate is qualified to run for office.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In determining Residency, the Election Commission may require additional proof of eligibility as they deem necessary. Proof may include:</text>
+        <para>
+          <num>1.</num>
+          <text>originals of current utility, telephone or other billings which display the candidate's physical address. Rural 911 addresses are acceptable; however, post office box addresses are not acceptable as proof of residency.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>An original property tax homestead exemption statement. A candidate with an existing property tax homestead exemption outside of the District for which they are filing shall be disqualified.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>An original automobile registration or passport which displays the candidate's physical address.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The Election Commission may require additional proof of residency at its discretion, including, but not limited to, a personal visit to the candidate's physical address.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2017-12-15" doc="PR35-001">PR35-001, 12/15/17</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.2</num>
+      <heading>EMPLOYEES OF THE NATION.</heading>
+      <text>Employees of the Nation and its entities, including the Housing Authority and anyone who serves as a contract employee or consultant, who meet eligibility requirements, may seek elective office. However, once such a person has filed as a Candidate, the employee must resign his position on the day he files, and may not be re-employed by the Nation for the duration of the campaign or tenure of the office, should the employee win the election. Documentation of resignation must be provided to the Election Commission. For this purpose, no elected officials are considered employees of the Nation.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.3</num>
+      <heading>FILING PERIOD.</heading>
+      <text>The filing period for tribal elections shall be the first Monday, Tuesday and Wednesday in June unless otherwise provided by law for purposes of special elections. Hours of filing on each day shall be between 8:00 a.m. and 4:30 p.m. The Declaration of Candidacy shall be filed no later than 4:30 p.m. on the Wednesday of the week of filing in the office of the Election Secretary/Tribal Registrar. Candidates may only file for one (1) position during any election.</text>
+      <para>
+        <num>1.</num>
+        <text>The Declaration of Candidacy form requires an oath wherein the Candidate swears or affirms that he is qualified under the Constitution to become a Candidate for the office he is seeking and that, if elected, he will be qualified to hold the office. The Candidate's signature must be notarized by the Election Secretary/Tribal Registrar. Falsification of information contained in the Declaration of Candidacy shall mean that the Candidate is not qualified to run for office and may subject the affiant to criminal prosecution under any applicable federal or tribal law.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Declaration of Candidacy form must be complete and presented to the Chickasaw Nation Election Secretary/Tribal Registrar whereupon it may then be signed and notarized. When the Candidate files the form, he may be asked to initial any changes on the form to comply with the law. No filing by proxy will be allowed.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+        <annotation type="History" effective="2014-03-21" doc="PR31-004">PR31-004, 3/21/14</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.4</num>
+      <heading>FILING FEE; VOTER LISTS.</heading>
+      <para>
+        <num>A.</num>
+        <text>The filing fee for offices of the Nation shall be:</text>
+        <para>
+          <num>1.</num>
+          <text>Legislative Candidate:	$  1,000.00;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Judicial Candidate:	$  1,000.00;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Gubernatorial Candidate Team:	$  3,000.00.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The filing fee shall be paid by cashier's check or money order and payable to the Chickasaw Election Commission. A copy of such this fee payment shall be kept and made available for public inspection at the office of the Election Secretary/Tribal Registrar.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Election Secretary/Tribal Registrar shall have each Candidate who files for office sign a statement that there shall be no return of their filing fee once the Candidate is deemed qualified. If a Candidate is found to have provided inaccurate information on the Declaration of Candidacy and is later deemed unqualified, the filing fees will not be returned. Such fees are used to help defray the expenses that are incurred in conducting the elections. A report detailing fees and costs will be given to the Executive and Legislative Departments within thirty (30) days of the conclusion of the election process.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Upon filing a Declaration of Candidacy and payment of fees, a Candidate shall receive a packet including disclosure statements, a Candidate information sheet, a biography form, a copy of Current election rules and regulations and a copy of the Constitution.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Qualified Candidates and Candidate/teams, whether they draw an opponent(s) or not, shall each receive a computer printout and USB Flash Drive (a.k.a. Jump Drive)of the Voters List for the district or districts for which they are a Candidate. Such list shall contain, only, each Voter's name, address and zip code, in zip code order and Member ID Number and shall be available within five (5) days following the filing period. At that time, Candidates may compare their lists to the master list of their District(s) for accuracy. All qualified Candidates receiving such list shall, on the afternoon of the day after Voter registration closes, receive a list of the qualified Voters who were added up to the time registration closed. The updated Voters List shall include any and all status changes. There shall be no additional charge for the updated list. All such USB Flash Drives shall be formatted for operation in IBM compatible computers and current software.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Reserved.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Election Secretary/Tribal Registrar shall personally review all Voters Lists and USB Flash Drives to insure that all Candidates are treated fairly and equitably with regard to Voter Lists and Voter information. Each Voters List distributed within a particular district shall be identical to others distributed within that district in the interest of fairness to a Candidate.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2024-12-20" doc="PR42-001">PR42-001, 12/20/2024</annotation>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-01-20" doc="PR21-014">PR21-014, 1/20/04</annotation>
+        <annotation type="History" effective="2006-03-17" doc="PR23-003">PR23-003, 3/17/06</annotation>
+        <annotation type="History" effective="2009-01-16" doc="PR26-002">PR26-002, 1/16/09</annotation>
+        <annotation type="History" effective="2011-03-25" doc="PR28-002">PR28-002, 3/25/11</annotation>
+        <annotation type="History" effective="2014-03-21" doc="PR31-004">PR31-004, 3/21/14</annotation>
+        <annotation type="History" effective="2016-03-18" doc="PR33-004">PR33-004, 3/18/16</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.5</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2014-03-21" doc="PR31-004">PR31-004, 3/21/14</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.6</num>
+      <heading>ACTIVITIES REPORT.</heading>
+      <text>All Candidates and elected officials shall receive an activities report for their respective district(s) for their primary and/or runoff election from the Election Secretary/Tribal Registrar.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.7</num>
+      <heading>USE OF VOTER LISTS.</heading>
+      <text>Voter Lists and activities reports may not be used for commercial purposes. A statement to this effect must be signed prior to issuance of a Voter List or Activities Report. Voter Lists and Activities Reports are for the exclusive use of Candidates. Elected officials may request and receive a Voter List and/or an Activities Report annually for their district only.</text>
+      <annotations>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+        <annotation type="History" effective="2020-03-25" doc="PR37-003">PR37-003, 03/25/2020</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.8</num>
+      <heading>ELECTIVE OFFICE VACANCIES.</heading>
+      <text>When an elective office shall become vacant, the Legislature shall, by resolution, declare the vacancy to exist, set the dates for a special election in accordance with <cite path="8|5|8-500.2">Section 8-500.2</cite> and request the Governor to call for such special election if the elective office being vacated would not, ordinarily, be open for the regularly scheduled election. Upon receipt of the resolution, the Governor shall call for the election by the most expedient method to fill the vacated elective office.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.9</num>
+      <heading>CHALLENGE TO CANDIDACY.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Candidate may challenge the eligibility of another Candidate in writing, specifically naming the Candidate and the district and stating the cause of the challenge. Such challenges must be filed in the office of the Election Secretary/Tribal Registrar no later than two (2) working days after the closing of the filing period for the Candidates. A Candidate being challenged shall have three (3) working days from the day of receipt of notice of the challenge to file an answer to the challenge; provided, however, that other time frames for filing of challenges and answers or responses may be stipulated by the Legislature for special elections. Notice of a challenge shall be sent by the Election Secretary/Tribal Registrar to the challenged Candidate by certified mail, return receipt requested.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any Election Commission member, or Election Secretary/Tribal Registrar, who may possess information about a Candidate for office which might disqualify such Candidate from running or holding such office shall be authorized to challenge such Candidate in the same manner and according to the same form as is required of a Candidate's challenge, with the exception of time limitations of challenges. The Election Commission shall have an ongoing ability to challenge the eligibility of a Candidate throughout the entire election process.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.10</num>
+      <heading>HEARING CHALLENGE, DECISION.</heading>
+      <text>A Candidate's eligibility dispute shall be heard by the Election Commission no later than seven (7) days after the challenged Candidate has been notified of the challenge. The decision of the Election Commission on the eligibility of the Candidate shall be final and in writing and shall be made within seven (7) days after the challenged Candidate has been notified. The election date shall not be delayed.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-200.11</num>
+      <heading>APPEAL.</heading>
+      <text>If the final decision of the Election Commission on the eligibility of a Candidate denies him from running for office, the Candidate may appeal the decision to the Tribal Court by filing an appeal in writing within seven (7) days after the Election Commission renders its decision. However, no ruling by the Court shall delay the date of any election and the ruling of the Court shall be final.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>VOTING REGISTRATION AND RIGHTS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.1</num>
+      <heading>ELIGIBILITY TO VOTE, APPLICATION FOR REGISTRATION.</heading>
+      <para>
+        <num>A.</num>
+        <text>In order to register to vote, a person must be a citizen of the Chickasaw Nation as prescribed by the Constitution.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Election Secretary/Tribal Registrar shall compare the completed voter registration application with the Nation's citizenship database to determine eligibility. A Chickasaw descendant (traced from names that appear on the Final Dawes Rolls) who is registered to vote with another Indian tribe is ineligible to register as a Chickasaw Voter unless he terminates his voting rights with that tribe and provides official evidence of that termination. To become a registered Voter of the Nation, an applicant must:</text>
+        <para>
+          <num>1.</num>
+          <text>be eighteen (18) years of age or older; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>have been issued an official Chickasaw Nation citizenship card as reflected in the Chickasaw Nation citizenship database.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Registering Voters shall be an ongoing function of the Election Secretary/Tribal Registrar except for closed periods as defined herein. When registering Voters, the Election Secretary/Tribal Registrar shall accurately record all information provided by the applicant, including the applicant's district of residence or, if the applicant does not reside within the Chickasaw Nation, district of choice. Voters living outside the boundaries of the Chickasaw Nation shall be allowed to change from one (1) district to another district one time beginning on January 1, 2012. Voters must request the changes in writing on a form provided by the Election Secretary/Tribal Registrar. All changes including new and deceased Voters, undeliverable ballots and change of districts shall be done during the time that Voters' registration is open, with the exception of removal of undeliverable ballots and deceased voters after the primary election and prior to any run-off election.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+        <annotation type="History" effective="2009-01-16" doc="PR26-002">PR26-002, 1/16/09</annotation>
+        <annotation type="History" effective="2010-04-16" doc="PR27-004">PR27-004, 4/16/10</annotation>
+        <annotation type="History" effective="2011-12-16" doc="PR28-007">PR28-007, 12/16/11</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.2</num>
+      <heading>VOTER REGISTRATION.</heading>
+      <text>A Chickasaw citizen may register by contacting the Election Secretary/Tribal Registrar's office. Contact may be in person or by writing to the Election Secretary/Tribal Registrar. The Election Secretary/Tribal Registrar office shall conduct registration of Voters on an ongoing basis, except as otherwise provided in this Title 8. This process shall include periodic publicity and community outreach efforts by the Election Secretary/Tribal Registrar.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.3</num>
+      <heading>VOTER REGISTRATION CLOSING DATE.</heading>
+      <para>
+        <num>A.</num>
+        <text>Voter registration period remains open throughout the year except as provided in this Section.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Voter registration shall close three weeks prior to election day and shall remain closed until election day or the run-off election day. Should voter registration close on a federal or tribal holiday, voter registration shall close on the first working day following the holiday.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>During the open registration period and at such other times as may be deemed necessary by the Election Secretary/Tribal Registrar, the Election Secretary/Tribal Registrar shall cause to be published in the Chickasaw Times newspaper, a list of Voters whose ballots have been returned as undeliverable by the United States Postal Service, which shall serve to notify such Voters that their Voter registration shall be placed in an inactive status. The Election Secretary/Tribal Registrar may include a Voter registration form as part of such publication, as an aid to Voters who need to correct their Residency and mailing address information. Such Voters shall not receive any ballots for tribal elections nor shall they be eligible to vote in any tribal elections until such time as the Voters inform the Tribal Registration Office of a correct Residency and mailing address; provided, however, that should the Tribal Registration Office be notified by the United States Postal Service of a forwarding order for an address of a Voter for whom mail has been returned marked undeliverable by the United States Postal Service, the change reflected in that forwarding order shall be made on the Voter's records by the Election Secretary/Tribal Registrar. Any changes for corrections that are submitted by a Voter or by the United States Postal Service after the registration period closes shall be held by the Election Secretary/Tribal Registrar until registration re-opens and no ballots shall be mailed to them when they fail to submit their corrected Voter information prior to the closing date for Voter registration.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+        <annotation type="History" effective="2010-02-19" doc="PR27-002">PR27-002, 2/19/10</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.4</num>
+      <heading>RESIDENT AND NON-RESIDENT REGISTRATION.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Voter, residing within the boundaries of the Chickasaw Nation, must designate a Current residence on the tribal Voter's registration in order to determine their designated district within the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In accordance with Article VI, Section 4, of the Constitution, each Non-resident Voter shall choose one (1) district for the purpose of voting. The Non-resident Voter may affiliate with the district of his choice, in accordance with the provisions of Subsection A above, and <cite path="8|3|8-300.1">Section 8-300.1</cite> through <cite path="8|3|8-300.3">Section 8-300.3</cite>.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2011-11-18" doc="PR29-001">PR29-001, 11/18/11</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.5</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.6</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.7</num>
+      <heading>CHALLENGE TO VOTER REGISTRATION ELIGIBILITY; WHEN MADE; HEARING AND DECISION.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Candidate's challenge of a Voter's eligibility must be made specifically by name and district, and in writing, stating the cause of challenge, and presented to the Election Secretary/Tribal Registrar. The challenge must be filed no later than fifteen (15) days prior to the close of Voter registration.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Registration eligibility disputes shall be heard by the Election Commission no later than ten (10) days prior to the close of Voter registration.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The decision of the Election Commission on the eligibility of a Voter shall be final and in writing, and shall be made within five (5) days of the challenge. The election date shall not be delayed.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-300.8</num>
+      <heading>FINAL DECISION.</heading>
+      <text>If the final decision of the Election Commission on the eligibility of the Voter denies voting privileges, the Voter may appeal the decision of the Election Commission to the Tribal Court within ten (10) days of the Election Commission's decision. No ruling by the Court shall delay the date of any election. The ruling of the Election Commission shall be valid unless overruled by the Tribal Court.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>CONDUCT OF AN ELECTION</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.1</num>
+      <heading>MAIL BALLOTS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Voting shall be by official mail ballots only.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each Candidate for elective office within the Chickasaw Nation shall have his/her names printed on the ballot as it appears on the filing form they complete.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.2</num>
+      <heading>BALLOT MAILING TO VOTERS.</heading>
+      <para>
+        <num>A.</num>
+        <text>All official ballots shall be mailed to each qualified voter nineteen (19) days prior to ballot counting day; provided, however, that all ballots for qualified Voters who reside outside of the contiguous 48 states shall be mailed two (2) weeks prior to such mailing date using an expedited mail delivery service. The names on the outgoing envelopes shall be the same as appears on the Voter registration application.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each qualified Voter shall be mailed a ballot(s), and Voter instruction sheet and a return envelope or other mailing material that will ensure the secrecy of their vote(s).</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>When a firm that provides an automated election service is selected by the Election Commission to assist in the conduction of tribal elections, such measures as deemed appropriate by the firm selected shall be utilized to ensure the secrecy of the votes cast.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Should the Election Secretary/Tribal Registrar discover the death of a Voter and death is confirmed, such Voter shall no longer be sent a ballot and shall have his name removed from the list of eligible Voters.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Official ballots shall conform to the specifications of <cite path="8|4|8-400.6">Section 8-400.6</cite> through <cite path="8|4|8-400.8">Section 8-400.8</cite>, except when specifications of the automated election service firm provides for more efficient methods without compromising the secrecy of the votes cast.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+        <annotation type="History" effective="2009-02-20" doc="PR26-005">PR26-005, 2/20/09</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.3</num>
+      <heading>RETURN DATE.</heading>
+      <text>Ballots must be received by mail no later than 10:30 a.m. on the last Tuesday of July.</text>
+      <para>
+        <num>1.</num>
+        <text>A special Post Office Box in Ada, Oklahoma shall be secured in the name of the Chickasaw Election Commission, for the purpose of receiving returned ballots. Such Post Office Box may be secured directly by the Election Commission or require it as a condition of any contract with the automated election service firm. Such return envelopes for those ballots will be imprinted with that post office box number.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any and all ballots that have been delivered to the post office and placed in the Commission's special post office box before 10:30 a.m. on the date that ballots are to be counted shall be collected by the person(s) designated by the Election Commission. Any ballots deposited in the post office box after the ballots have been collected at this time on tabulation day shall not be counted.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.4</num>
+      <heading>NO BALLOT WHEN NO CONTEST.</heading>
+      <para>
+        <num>A.</num>
+        <text>If only one (1) Candidate files for an office, no ballots shall be sent regarding that candidacy. The act of filing for office shall be counted as an affirmative vote for such Candidate's selection, therefore the Candidate shall be elected by a one-vote margin.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If only one (1) Candidate files for an office, the Election Secretary/Tribal Registrar shall certify that Candidate as elected as prescribed in <cite path="8|4|8-400.18">Section 8-400.18</cite> below.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2011-03-25" doc="PR28-002">PR28-002, 3/25/11</annotation>
+        <annotation type="History" effective="2011-11-18" doc="PR29-001">PR29-001, 11/18/11</annotation>
+        <annotation type="History" effective="2014-03-21" doc="PR31-004">PR31-004, 3/21/14</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.5</num>
+      <heading>CANDIDATES ON BALLOTS.</heading>
+      <text>Candidates who file for office shall have their names appear on all ballots involving the district or districts which may participate in their election. A Candidate's position on the ballot shall be determined by lot as drawn by the Election Secretary/Tribal Registrar within five (5) days of the last filing date. Candidates may attend the drawing.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.6</num>
+      <heading>PRINTING ON BALLOTS.</heading>
+      <text>Ballots shall be imprinted with the words "Official Mail Ballot."</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.7</num>
+      <heading>INNER ENVELOPE INFORMATION.</heading>
+      <text>The inner envelope shall be imprinted with the following information on the front of the envelope:</text>
+      <text>"<u>SECRECY ENVELOPE</u></text>
+      <text>Place your voter ballot inside this envelope and seal it. Place this envelope inside the postage paid envelope."</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.8</num>
+      <heading>OUTER ENVELOPE INFORMATION, RETURN ENVELOPE.</heading>
+      <para>
+        <num>A.</num>
+        <text>The outer envelope shall be imprinted with the following information on the front of the envelope:</text>
+        <para>
+          <num>1.</num>
+          <text>"Chickasaw Nation Election Commission, Ada, Oklahoma, 74821."</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"Official Mail Ballot Contains Dated Material Open Immediately."</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The envelopes mailed to the Voters shall have imprinted on the back of the envelope the following information:</text>
+        <text>"I hereby certify that I am a citizen of the Chickasaw Nation, and that I am entitled to vote in the Chickasaw Tribal Election for the Candidates herein marked. I further certify that I marked the enclosed ballot in secret:"</text>
+        <text>Voter's Signature</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All return ballot envelopes shall include first class postage.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Outer envelope may also have a printed number or bar code that is generated from a Member ID Number for purposes of tracking Activity Report and Voters List information only. Any such Member ID Number or bar code shall not be used to determine which Voter voted for any particular Candidate.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2014-03-21" doc="PR31-004">PR31-004, 3/21/14</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.9</num>
+      <heading>MARKING BALLOTS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Mailed ballots shall include proper instructions to the Voter regarding the marking and sealing of the ballot. The Voter shall mark and seal the ballot in accordance with the instructions provided with the mail ballot. If the ballot envelope requires a signature, such signature, at the discretion of the Voter, may be notarized in accordance with the provisions of <cite path="8|4|8-400.8">Section 8-400.8</cite> of Title 8 of the Code of the Chickasaw Nation. Such notarization, although not required, is recommended, and information to this effect shall be provided in the instructions sent to the Voter.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A notarized signature may be used to confirm whether the person signing the outer envelope is the Voter for which the ballot documents were intended, due to the possibility that the Voter's original signature on file with the Election Secretary/Tribal Registrar may have changed with the passage of time.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.10</num>
+      <heading>INVALID BALLOTS.</heading>
+      <text>Ballots shall be counted invalid for any of the following reasons:</text>
+      <para>
+        <num>1.</num>
+        <text>the ballot is received after the deadline of 10:30 a.m. on the last Tuesday of July of the election year;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the signature is not readily identifiable as that of the registered Voter's signature which appears on the Voter's registration form. The Election Secretary/Tribal Registrar and one Commissioner or (2) Commissioners shall have the authority to determine the validity of the Voter signatures in accordance with Title 2, Chapter 10, <cite path="2|10|D|2-1004.6">Section 2-1004.6</cite> of the Chickasaw Nation Code;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>the ballot is not marked;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>the ballot is marked incorrectly;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>the ballot is too soiled or defaced to read;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>more than one (1) ballot is returned in the official envelope.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+        <annotation type="History" effective="2005-02-18" doc="PR22-005">PR22-005, 2/18/05</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.11</num>
+      <heading>UNDELIVERABLE BALLOTS.</heading>
+      <text>Ballots returned by the Post Office as undeliverable due to change of address, death, or any other reason, shall be tabulated as "Undeliverable" and listed on the certified election returns and will not be counted as "invalid". Undeliverable ballots should be kept separately from other valid ballots at the post office and picked up on ballot counting day. The Election Secretary/Tribal Registrar shall be responsible for developing and maintaining the "undeliverable ballot" list. No ballots for future elections shall be mailed to names on this list until the address correction has been made by the Voter.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.12</num>
+      <heading>BALLOT COUNTING.</heading>
+      <text>The Election Commission and the Election Secretary/Tribal Registrar shall conduct and supervise the ballot counting in the Nation's headquarters on the last Tuesday of July of the election year, starting at or about 11:00 a.m. Results of the counting shall be declared and announced in accordance with Sections 8-400.15 and 8-400.18.</text>
+      <annotations>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.13</num>
+      <heading>SINGLE BALLOT CAST.</heading>
+      <text>Only one (1) ballot shall be cast by each Voter.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.14</num>
+      <heading>OUTER ENVELOPE SIGNATURE.</heading>
+      <text>The Commission shall ensure that the Voter has signed the outer envelope where indicated.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.15</num>
+      <heading>TALLY RESULTS.</heading>
+      <text>The Election Secretary/Tribal Registrar shall make a final tally of the results of the election based on the tallies received from all counters. Results shall be declared in accordance with <cite path="8|4|8-400.18">Section 8-400.18</cite> and posted in several public areas in the Nation.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.16</num>
+      <heading>PRESERVATION OF BALLOTS.</heading>
+      <text>The Election Secretary/Tribal Registrar and Election Commission shall prescribe methods of sealing all ballots, all certificates of vote, and all other materials used in recording the count of the ballots in such a manner that any tampering with or altering of same after the sealing can be detected. The Election Secretary and Election Commission shall return all ballots to the ballot boxes and lock each box until the recount period has expired. The Election Secretary/Tribal Registrar and the Chairman of the Election Commission shall have possession of the keys during this period. Each shall obtain his own lock and retain both keys.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.17</num>
+      <heading>PRESERVATION PERIOD.</heading>
+      <text>The Election Commission shall preserve all invalid and all valid ballots for at least three (3) years. The Election Commission shall decide who and when someone may have access to ballots from prior years.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.18</num>
+      <heading>CERTIFICATION OF ELECTION RETURNS.</heading>
+      <text>The Election Secretary/Tribal Registrar shall declare the unofficial preliminary election results on the last Tuesday of July of the year of the election. The Election Secretary/Tribal Registrar shall certify results only when the recount period has expired. A copy of the certified results shall be posted at the headquarters and a copy mailed to the United States Bureau of Indian Affairs.(PR20-006; 3/25/03; PR21-014. 2/27/04;</text>
+      <annotations>
+        <annotation type="History" effective="2009-03-20" doc="PR26-004">PR26-004, 3/20/09</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.19</num>
+      <heading>PERMISSION TO BE PRESENT/LEAVE ROOM.</heading>
+      <text>The Election Secretary/Tribal Registrar, Election Commission members, election staff, counters, and watchers are the only authorized parties to be present in the room at counting. No member of the Election Commission, and no counters or watchers, shall leave the ballot counting place without permission from the Election Secretary/Tribal Registrar or Election Commission Chairman.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2006-02-17" doc="PR23-002">PR23-002, 2/17/06</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.20</num>
+      <heading>APPOINTMENT OF WATCHERS.</heading>
+      <text>Each Candidate for office may appoint a watcher for the counting of ballots. The name shall be submitted to the Election Secretary/Tribal Registrar no later than five (5) days prior to the ballot counting date.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.21</num>
+      <heading>WATCHER ELIGIBILITY.</heading>
+      <text>No Candidate for any office shall be a watcher. No Current elected official of the Nation shall be a watcher. No employee of the Nation shall be a watcher.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.22</num>
+      <heading>WATCHER FREEDOM.</heading>
+      <text>Watchers shall be free to move around the room as ballots are being tabulated.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.23</num>
+      <heading>NO VOTE COUNTING.</heading>
+      <text>Watchers shall not participate in actual vote counting. No watcher shall talk to any counter during the actual vote counting process or disrupt proceedings in any other manner. Watchers shall be warned by the Election Commission for violations of this Section. A second violation of this Section shall result in the watcher's expulsion.</text>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.24</num>
+      <heading>WATCHER OBJECTION.</heading>
+      <text>If a watcher objects to the manner in which a ballot is counted, he may make a written note of the objection. The watcher shall sign the note and attach it to that ballot. The Election Secretary/Tribal Registrar and at least three (3) commissioners shall rule on such ballots at their earliest convenience.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+        <annotation type="History" effective="2002-04-23" doc="AmendedbyPR19-017">Amended by PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.25</num>
+      <heading>WATCHER SECRECY.</heading>
+      <text>Watchers shall not divulge any information or give any indication as to the results of the count and shall not leave the counting place without permission from the Election Secretary/Tribal registrar or a member of the Commission until the election count is complete.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+        <annotation type="History" effective="2002-04-23" doc="AmendedbyPR19-017">Amended by PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.26</num>
+      <heading>RUNOFF ELECTION.</heading>
+      <text>If no Candidate receives more than fifty percent (50%) of the total votes, there will be a runoff election. The two (2) Candidates receiving the most votes will qualify for the runoff election. However, should the counting results show a tie for the second highest total between two (2) Candidates, a recount shall be conducted for those two (2) Candidates. In this case, no fee shall be charged to the Candidates for the recount. If there is still a tie between these two (2) Candidates after the recount, the Election Commission shall then decide the winner by the toss of a coin. The winner being the Candidate who successfully chooses the side landing face up.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.27</num>
+      <heading>RUNOFF ELECTION PROCEDURES.</heading>
+      <text>The runoff election ballots shall be of the same format as the General or Special Election ballots and shall be mailed to all Voters nineteen (19) days prior to ballot counting day. The ballots must be returned by the last Tuesday of August, no later than 10:30 a.m., and shall be counted on the same day (Tuesday) at the same location and under the same procedures and regulations as those used in the regular election. Results shall be announced on Tuesday after the ballots are counted and shall be certified under regular election rules. The successful runoff Candidate must receive more than fifty percent (50%) of the total votes in order to be duly elected. If the canvas of the tally of results of a runoff election reveal that the two (2) runoff Candidates have received the same number of votes, the Election Commission shall conduct a recount of all the ballots. No fee for such recount shall be charged to the runoff Candidates.</text>
+      <text>Should a tie exist at the completion of the recount, the Election Commission shall decide the winner by the toss of a coin. The Candidate whose name appears first on the ballot shall make the call for the coin toss.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="" doc="PR21-0142/27/04">PR21-014 2/27/04</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
+        <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.28</num>
+      <heading>RECOUNT PERIOD.</heading>
+      <text>Only a Candidate for office may ask for a recount. A recount must be filed in person and in writing at the office of Election Secretary/Tribal Registrar no later than seventy two (72) hours following the preliminary election results. Once a recount has been requested and established, the date shall be furnished to the Candidates, and watchers shall be notified by the Election Secretary/Tribal Registrar.</text>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.29</num>
+      <heading>RECOUNT PROCEDURES.</heading>
+      <text>Recount procedures shall mirror the procedures used for the election being recounted with the same privileges of challenge.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+        <annotation type="History" effective="2001-02-21" doc="PR18-015">PR18-015, 2/21/01</annotation>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.30</num>
+      <heading>RECOUNT FEE.</heading>
+      <text>A Candidate may request a recount of votes by delivery of a cashier's check or postal money order for one thousand dollars ($1,000). The Candidate shall specify in writing the legislative district or districts which are sought to be recounted. The cashier's check or postal money order must be made payable to the Election Commission and delivered in person to the office of the Election Secretary/Tribal Registrar. This check or copy of it shall be available for public inspection. The recount fee shall not be refunded if a recount is held.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+        <annotation type="History" effective="1999-03-22" doc="PR16-016">PR16-016, 3/22/99</annotation>
+        <annotation type="History" effective="2001-02-21" doc="PR18-015">PR18-015, 2/21/01</annotation>
+        <annotation type="History" effective="2001-03-16" doc="PR18-025">PR18-025, 3/16/01</annotation>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+        <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24- 004, 3/16/07</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-400.31</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>SPECIAL ELECTIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-500.1</num>
+      <heading>SPECIAL ELECTION PROCEDURES AND REGULATIONS.</heading>
+      <text>In accordance with the Constitution, the Legislature shall prescribe the procedures and regulations for special elections.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-500.2</num>
+      <heading>DATES.</heading>
+      <text>Special elections shall follow all rules, regulations and procedures with regular elections, except that the revised dates shall be established by the Legislature prior to calling the special election.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6</num>
+    <heading>INITIATIVE PETITIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-600.1</num>
+      <heading>PURPOSE.</heading>
+      <text>In accordance with the Constitution, Initiative Petitions enable the people to exercise their right to propose bills and laws and to enact or reject them at the polls, independent of the Legislature.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-600.2</num>
+      <heading>FILING, NOTICE.</heading>
+      <text>When an Initiative Petition is filed with the Court of the Nation, the Court shall immediately notify the Chairperson of the Legislature, in writing, of the nature of the petition, including a copy of the petition as filed and a certified statement which provides the names of the citizen or citizens filing the petition, the date and time that the petition was received by the Court, as well as a copy of all of the pages containing the signatures of registered tribal Voters which were submitted with the Initiative Petition. The Chairperson of the Legislature shall notify by the most expedient method the remaining members of the Legislature of the petition's filing, placing the item on the agenda for the next regularly scheduled session of the Legislature.</text>
+      <annotations>
+        <annotation type="History" effective="1999-05-06" doc="PR16-019">PR16-019, 5/6/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-600.3</num>
+      <heading>ACTION UPON PETITION.</heading>
+      <para>
+        <num>A.</num>
+        <text>After notification has been given to all members of the Legislature by the Chairperson, he shall submit copies of all of the signature pages included in the petition to the Election Secretary/Tribal Registrar. The Election Secretary/Tribal Registrar and Election Commission shall review the signatures to ascertain an accurate and exact count of the number of signatures which are valid signatures of registered tribal Voters. This shall be accomplished in such time to allow for verification of those signatures to be provided to the Legislature at its next regularly scheduled session.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If insufficient time exists between the time the list is provided to the Election Secretary/Tribal Registrar and the date of the next session of the Legislature, then the Election Secretary/Tribal Registrar shall have five (5) working days in which to provide a list of those verified signatures to the Governor. If that period is after the regular session of the Legislature, then the Governor shall call a special session of the Legislature, in accordance with the procedures contained in the Constitution, to be held within five (5) working days of his receipt of the verified list of signatures:</text>
+        <para>
+          <num>1.</num>
+          <text>Should the list not contain the proper percentage of Voter signatures as provided for in Article XIV, Section 1, of the Constitution, it shall be the responsibility of the Governor to so notify the Legislature and, through use of all available media, to also notify the public of the failure of the Initiative Petition;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If the petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, the Election Secretary/Tribal Registrar shall so notify the Governor. The Governor shall then call a special session of the Legislature to be effected in the same time frame as provided in this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If the petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, then the Governor shall present the Initiative Petition to the Legislature assembled. The Legislature shall, by adoption of a simple resolution, acknowledge receipt of the Initiative Petition and its verified signatures. The Governor shall call an election for the purpose of submitting the proposed legislation, in its exact and original form, to a vote of the Nation's electorate, in a manner so that such elections shall be conducted within sixty (60) days. However, if a petition is presented within one hundred eighty (180) days of the next regular tribal election, the proposition shall be presented to the Voters at that time.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If the petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, or if the Legislature has adopted a resolution calling for an amendment to the Constitution, then the Governor shall call an election for the purpose of submitting the proposed constitutional amendment to a vote of the eligible Voters. This election may be held in conjunction with other tribal elections of the Nation so long as compliance with the provisions of <cite path="8|6">this chapter</cite> and the Constitution are adhered to.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1999-05-06" doc="PR16-019">PR16-019, 5/6/99</annotation>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-600.4</num>
+      <heading>CONDUCT OF ELECTION.</heading>
+      <text>The Election Commission is charged with full responsibility in the conduct of Initiative Petition elections. These elections shall be conducted in full compliance with all sections of this Title except where relevant dates may need to be revised.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7</num>
+    <heading>RECALL ELECTIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-700.1</num>
+      <heading>GENERAL PROVISIONS.</heading>
+      <text>When a Recall Petition is submitted to the Court of the Nation, the Court shall immediately notify the Chairperson of the Legislature in writing of the nature of the petition, including a copy of the petition as filed and a certified statement which provides the names of the citizen or citizens filing the petition, the date and time that the petition was received by the Court as well as a copy of all of the pages containing the signatures of registered tribal Voters which were submitted with the Recall Petition. The Chairperson of the Legislature shall notify by most expedient method the remaining members of the Legislature of the petition's being filed, placing the items on the agenda for the next regularly scheduled session of the Legislature.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-700.2</num>
+      <heading>ACTION UPON PETITION.</heading>
+      <para>
+        <num>A.</num>
+        <text>After notification has been given to all members of the Legislature by the Chairperson, he shall submit copies of all of the signature pages included in the petition to the Election Secretary/Tribal Registrar. The Election Secretary/Tribal Registrar and Election Commission shall review the signatures to ascertain an accurate and exact count of the number of signatures which are valid signatures of registered tribal Voters. This shall be accomplished in such time to allow for verification of those signatures to be provided to the Legislature at its next regularly scheduled session.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If insufficient time exists between the time the list is provided the Election Secretary/Tribal Registrar and the date of the next session of the Legislature, then the Election Secretary/Tribal Registrar shall have five (5) working days in which to provide a list of those verified signatures to the Legislative Chairperson. If that period is after the regular session of the Legislature, then the Governor shall call a special session of the Legislature, in accordance with the procedures contained in the Constitution, to be held within five (5) working days of his receipt of the verified list of signatures:</text>
+        <para>
+          <num>1.</num>
+          <text>Should the list not contain the proper percentage of Voter signatures as provided for in Article XVI, Section 2, of the Constitution, it shall be the responsibility of the Governor to so notify the Legislature and, through use of all available media, to also notify the public of the failure of the Recall Petition;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If the Recall Petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, the Election Secretary/Tribal Registrar shall so notify the Governor. The Governor shall then call a special session of the Legislature to be effected in the same time frame as provided in this Subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If the petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, then the Governor shall present the Recall Petition to the Legislature assembled. The Legislature shall, by adoption of a simple resolution, acknowledge receipt of the Recall Petition and its verified signatures and shall call and conduct the recall election for the purpose of submitting, by virtue of a yes or no vote, the proposed recall of the elected official named in the Recall Petition. In all cases the conduct of such elections shall be delegated to the Election Commission. The election shall be conducted within sixty (60) days after the submission of the petition. However, if the Recall Petition is submitted within sixty (60) days of the next regular election, the recall shall be presented to the Voters at that time.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-700.3</num>
+      <heading>CONDUCT OF RECALL ELECTIONS.</heading>
+      <text>The Legislature may delegate authority to the Election Commission in the conduct of recall elections. These elections shall be conducted in full compliance with the Constitution and all sections of this Title except where relevant dates may need to be revised.</text>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8</num>
+    <heading>CONSTITUTIONAL AMENDMENT ELECTIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-800.1</num>
+      <heading>METHODS FOR AMENDING CONSTITUTION.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Constitution provides for initiating amendments to the Constitution by one (1) of two (2) methods:</text>
+        <para>
+          <num>1.</num>
+          <text>first is where proposed amendments are initiated by the Legislature through resolution passed by at least nine (9) affirmative votes; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>second is where a valid petition may be submitted to the Legislature signed by not less than twenty percent (20%) of the registered Voters of the Nation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When a petition is submitted to the Legislature, the Chairperson shall immediately notify the members of the Legislature in writing of the nature of the petition, including a copy of the petition as filed and a certified statement which provides the names of the citizens filing the petition, and the date and time that the petition was received by the Legislature. The Chairperson shall place the item on the agenda for the next regularly scheduled session of the Legislature.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-800.2</num>
+      <heading>ACTION UPON PETITION.</heading>
+      <para>
+        <num>A.</num>
+        <text>After notification has been given to all members of the Legislature by the Chairperson, he shall submit copies of all of the signature pages included in the petition to the Election Secretary/Tribal Registrar. The Election Secretary/Tribal Registrar and staff shall review the signatures to ascertain an accurate and exact count of the number of signatures which are valid signatures of registered Voters. This shall be accomplished in such time to allow for verification of those signatures to be provided to the Legislature at its next regularly scheduled session.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If insufficient time exists between the time the list is provided the Election Secretary/Tribal Registrar and the date of the next session of the Legislature, then the Election Secretary/Tribal Registrar shall provide a list of those verified signatures to the Governor within five (5) working days.</text>
+        <para>
+          <num>1.</num>
+          <text>Should the list not contain the proper percentage of Voter signatures as provided for in Section 1 of Article XVIII of the Constitution, it shall be the responsibility of the Governor to so notify the Legislature and, through use of all available media, to also notify the public of the failure of the amendment petition;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If the amendment petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, the Election Secretary/Tribal Registrar shall so notify the Governor.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If the petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, or if the Legislature has adopted a resolution calling for an amendment to the Constitution, then the Governor shall call an election for the purpose of submitting the proposed constitutional amendment to a vote of the eligible Voters. The ballot for the proposed amendment shall reflect the exact wording as submitted on the resolution or petition to the Voters. This election may be held in conjunction with other tribal elections of the Nation so long as compliance with the provisions of <cite path="8|8">this chapter</cite> title and the Constitution are adhered to.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>After the election commission has certified the results of the vote on any Initiative Petition of the citizens of the Chickasaw Nation or any amendment proposed by valid petition or any amendment proposed by the Tribal Legislature, a certified copy of the results of such election shall be delivered to the Secretary of the Tribal Legislature for archive. Such certified results shall include a good and legible copy of the ballot for such election and any instructions that were provided with such ballot. Delivery of the material to be archived shall be made as soon as is practical for the Election Secretary/Tribal Registrar so to do.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-800.3</num>
+      <heading>CONDUCT OF ELECTION.</heading>
+      <text>The Election Commission is charged with full and complete responsibility in the conduct of Constitutional Election Amendments. Such ballots shall be submitted to the Chickasaw electorate for a simple "yes" or "no" vote. In all such cases, such election shall be conducted by the Commission in full accordance with the provisions of <cite path="8|8">this chapter</cite> and of the Constitution.</text>
+      <text>These elections shall be conducted in full compliance with all sections of this Title except where relevant dates may need to be revised.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-800.4</num>
+      <heading>APPROVAL OF AMENDMENTS.</heading>
+      <text>Any amendment adopted by a majority of votes cast in the election shall be submitted to the Secretary of the Interior or his authorized representative, for approval action. If no action is taken within thirty (30) days following its receipt by the Secretary's authorized representative, the amendment shall be deemed approved and it shall thereafter be effective.</text>
+      <annotations>
+        <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9</num>
+    <heading>MISCELLANEOUS ELECTION REGULATIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-900.1</num>
+      <heading>USE OF TRIBAL ASSETS PROHIBITED.</heading>
+      <para>
+        <num>A.</num>
+        <text>Candidates are responsible for their campaigns. Candidates for elective office are strictly prohibited from the use of any Tribal Assets of any kind for campaign purposes.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A Candidate may file a written complaint regarding another Candidate using Tribal Assets for campaign purposes with the Ethics Commission. The complaint must specify the Candidate and the district and stating the cause of the complaint. Such complaints may be filed up to the date of counting of the ballots in such election. The complainant shall be responsible for sending a copy of the complaint to the Candidate who is the subject of the complaint. The copy of the complaint shall be sent to the challenged Candidate by certified mail, return receipt requested.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Candidate who is the subject of the complaint shall have five (5) working days from the day of receipt of notice of the complaint to file a response to the complaint; provided, however, that other time frames for filing of complaints and responses may be stipulated by the Legislature for special elections. The Ethics Commission may, upon the hearing of testimony or other reliable evidence, recognize a defense of ignorance on the part of the Candidate to the actions of his campaign workers, or misfeasance or malfeasance of campaign workers.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Election Secretary/Tribal Registrar and/or Election Commission members who possess information about a Candidate using Tribal Assets in violation of this Section shall be required to file a complaint in the same manner and according to the same form as is required of a Candidate's complaint, with the exception of time limitations. The failure of the Election Secretary/Tribal Registrar or any Commission member possessing such information to file a complaint may be cause for his removal from office. The Election Commission shall have an ongoing ability to challenge the eligibility of a Candidate throughout the entire election process.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-900.2</num>
+      <heading>PENALTIES FOR IMPROPER USE OF TRIBAL ASSETS; ENFORCEMENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>If, upon the conclusion of a duly conducted hearing, it is determined by a majority of the Ethics Commission that Tribal Assets have been used for campaign purposes, the following penalties may be imposed:</text>
+        <para>
+          <num>1.</num>
+          <text>Upon a first violation, a private reprimand shall be issued to the Candidate in writing. Depending upon the severity of the violation, a public reprimand in writing may be issued to the Candidate and may also be sent to newspapers of general circulation in the Chickasaw Nation, including the tribal newspaper, for immediate publication.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Upon second and subsequent violations, in addition to the penalties described above, the Candidate may be fined up to five hundred dollars ($500) per violation.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Failure to pay a fine assessed by the Ethics Commission may result in a winning Candidate not being seated as an elected official until said fines are paid. In such event, the winning Candidate shall be titled "Legislator-elect" and the Legislature will not be considered to have a vacancy.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalties imposed by the Ethics Commission shall be enforced by the Executive Department.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10</num>
+    <heading>CAMPAIGN CONTRIBUTIONS AND EXPENDITURES</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.1</num>
+      <heading>DEFINITIONS.</heading>
+      <para>
+        <num>1.</num>
+        <text>"Declaration of Candidacy" shall mean, for the purpose of <cite path="8|10">this Chapter</cite>, announcing candidacy through a publication of general circulation, by news media announcement, or upon commencement of fundraising activities, whichever occurs first.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1999-05-26" doc="PR16-020">PR16-020, 5/26/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.2</num>
+      <heading>DISCLOSURE OF CAMPAIGN CONTRIBUTIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>All Candidates for elective office shall file a statement disclosing the source and amount of all monetary contributions over one hundred dollars ($100) made to either the Candidate, a campaign worker or the campaign.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any single contributor (excluding Candidates' own personal funds), whether an individual, a business or corporation, is limited to a maximum monetary contribution of $5,000.00. Any contributions in excess of this limit must be declined or returned immediately.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>This requirement of disclosure will be effective as of the date passed and will require disclosure for all future elections and any contributions made therefor.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.3</num>
+      <heading>DISCLOSURE STATEMENTS.</heading>
+      <text>Campaign Contribution Disclosure Statements will be filed along with an affidavit by the Candidate swearing to its accuracy.</text>
+      <annotations>
+        <annotation type="History" effective="1999-05-26" doc="PR16-020">PR16-020, 5/26/99</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.4</num>
+      <heading>DUTY TO REPORT CAMPAIGN CONTRIBUTIONS.</heading>
+      <text>Campaign Contribution Disclosure Statements shall be filed with the Election Secretary/Tribal Registrar upon declaration of candidacy and updates shall be filed at the end of every month until the election(s) for said Candidate is completed. It shall be filed on a form provided by the Election Commission which will reflect the above information and be made available for public inspection and copying through December 31 of that year if requested in writing during regular business hours. The Election Secretary/Tribal Registrar shall make such copies within two (2) working days of receipt of a proper written request. Copies shall be made at twenty five cents ($.25) per page.</text>
+      <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.5</num>
+      <heading>FAILURE TO FILE REPORTS; INACCURATE REPORTS.</heading>
+      <para>
+        <num>A.</num>
+        <text>If any Candidate should fail to file a campaign contribution report within five (5) days after the end of the month, the Election Secretary/Tribal Registrar shall file a complaint with the Ethics Commission.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the Election Secretary/Tribal Registrar, an Election Commission member or a Candidate has reason to believe that a Candidate has willfully filed an inaccurate report, they shall file a complaint with the Ethics Commission.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A complaint must specify the Candidate and the district and state the cause of the complaint. The Election Secretary/Tribal Registrar shall send a copy of the complaint to the Candidate who is the subject of the complaint by certified mail, return receipt requested.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Candidate who is the subject of the complaint shall have five (5) working days from the day of receipt of notice of the complaint to file a response with the Ethics Commission and send a copy to the Election Secretary/Tribal Registrar.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Complaints regarding campaign contribution reporting shall be heard in accordance with <cite path="2|7|A">Title 2, Chapter 7, Article A</cite>, <cite path="2|7|A|2-701.4">Section 2-701.4</cite> of the Chickasaw Nation Code.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+        <annotation type="History" effective="" doc="PR21-014">PR21-014</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.6</num>
+      <heading>RESERVED.</heading>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.7</num>
+      <heading>PENALTIES FOR FAILURE TO FILE REPORTS; INACCURATE REPORTS; ENFORCEMENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>If, upon the conclusion of a duly conducted hearing, it is determined by a majority of the Ethics Commission that a Candidate failed to file campaign contribution reports in a timely manner or willfully filed inaccurate reports, the following penalties may be imposed:</text>
+        <para>
+          <num>1.</num>
+          <text>Upon a first violation, a private reprimand shall be issued to the Candidate in writing. Depending upon the severity of the violation, a public reprimand in writing may be issued to the Candidate and may also be sent to newspapers of general circulation in the Chickasaw Nation, including the tribal newspaper, for immediate publication.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Upon second and subsequent violations, in addition to the penalties described above, the Candidate may be fined up to five hundred dollars ($500) per violation.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Failure to pay a fine assessed by the Ethics Commission may result in a winning Candidate not being seated as an elected official until said fines are paid. In such event, the winning Candidate shall be titled "Legislator-elect" and the Legislature will not be considered to have a vacancy.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalties imposed by the Ethics Commission shall be enforced by the Executive Department.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1000.8</num>
+      <heading>APPEALS.</heading>
+      <text>Appeals from decisions of the Ethics Commission shall be made in accordance with <cite path="2|7|A">Title 2, Chapter 7, Article A</cite>, <cite path="2|7|A|2-701.6">Section 2-701.6</cite> of the Chickasaw Nation Code.</text>
+      <annotations>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11</num>
+    <heading>BALLOT QUESTIONS - RULES AND PROCEDURES</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1100.1</num>
+      <heading>PURPOSE.</heading>
+      <text>From time to time it may be necessary or appropriate to put questions or issues of national importance on a ballot in order to solicit input from all the Voters of the Chickasaw Nation. These provisions are meant to facilitate the process by placing that question or issue on the ballot.</text>
+      <annotations>
+        <annotation type="History" effective="2001-11-16" doc="PR19-004">PR19-004, 11/16/01</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1100.2</num>
+      <heading>INTENDED SCOPE.</heading>
+      <text>An appropriate subject for such a referendum or ballot question would be an issue of such importance to the Nation that the elected officials would want direct input from citizens on a nationwide basis before proceeding on the issue and related decisions.</text>
+      <annotations>
+        <annotation type="History" effective="2001-11-16" doc="PR19-004">PR19-004, 11/16/01</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>8-1100.3</num>
+      <heading>REQUIREMENTS FOR ITEMS TO APPEAR ON BALLOT.</heading>
+      <para>
+        <num>A.</num>
+        <text>In order for such a ballot question to appear on a ballot, the following criteria must be met:</text>
+        <para>
+          <num>1.</num>
+          <text>A resolution must be presented to or by the Legislature specifically identifying, in precise language, the question or questions to be asked, and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The resolution must be adopted by at least nine (9) affirmative votes and concurred with by the Governor.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2001-11-16" doc="PR19-004">PR19-004, 11/16/01</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

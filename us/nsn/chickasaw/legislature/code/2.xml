@@ -25,18 +25,21 @@
         <num>3.</num>
         <text>A Judicial Department, consisting of a three (3) member Supreme Court of Tribal Justices and such inferior courts as the Legislature shall ordain and establish in the development, maintenance and administration of a Tribal Justice System.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-101.2</num>
       <heading>RECOGNITION BY THE SECRETARY OF INTERIOR.</heading>
       <text>In accordance with Title 25 of the United States Code, Section 450, the "Indian Self-Determination and Education Assistance Act," the Chickasaw Nation is duly recognized by the United States Secretary of the Interior as a self-governing, sovereign government.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-101.3</num>
       <heading>GOVERNMENT OFFICES.</heading>
       <text>The administrative offices of the Nation are located at the Nation Headquarters in Ada, Oklahoma.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -118,6 +121,7 @@
         <num>B.</num>
         <text>The Tribal Legislature shall have the power to enact ordinances governing future citizenship and loss of citizenship in the Chickasaw Nation. (Article II, Sections 1 and 2, Constitution of the Chickasaw Nation, 8/27/83)</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -448,6 +452,7 @@
           <num>B.</num>
           <text>Officers shall have the qualifications prescribed by the Constitution and enactments of the Nation.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -479,6 +484,7 @@
         <num>2-401.4</num>
         <heading>REMOVAL OF OFFICERS.</heading>
         <text>The power to remove an elected officer shall be as authorized by the Constitution.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -500,6 +506,7 @@
           <num>3.</num>
           <text>Supreme Court Justice	3 years</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -522,6 +529,7 @@
           <num>4.</num>
           <text>ceasing to meet any of the qualifications of office, including but not limited to residency requirements.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -535,6 +543,7 @@
           <num>B.</num>
           <text>In the event of vacancies occurring in the Tribal Court or Tribal Legislature, a special election shall be held within sixty (60) days of the vacancy, or reasonably delayed until the next regularly scheduled election for that position. The vacancy shall be filled by popular vote.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -977,6 +986,7 @@
           <num>8.</num>
           <text>"Violation of this Act," as used herein, shall mean any action of any sort, directly or indirectly, calculated to curtail any rights or protections established by this act.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1115,12 +1125,14 @@
           <num>C.</num>
           <text>This Act does not apply, and conveys no benefits associated with employment, to anyone retained as an independent contractor by either the Nation or by any separately incorporated entities, regardless of whether the entity is owned or managed by the Nation or its subsidiaries.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.3</num>
         <heading>ADOPTION OF POLICIES.</heading>
         <text>All tribal employment policies related to the management of Chickasaw Nation employees are adopted and established by the Executive, Legislative or Judicial Departments of the Chickasaw Nation. Each Department will share tribal employment policies with the other to enable accurate administration of those policies. All tribal employment policies will remain available to all employees for review in a manner and format that will enable reasonable access by employees.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1172,7 +1184,7 @@
         <heading>GENERAL EMPLOYMENT POLICIES.</heading>
         <para>
           <num>A.</num>
-          <text>The leadership of each Department of the Chickasaw Nation government, as defined in <cite path="PROOF 2|5|C|2-503.02">Section 2-503.02(A)</cite>, determines the organizational structure of that respective Department and establishes tribal employment policies for the management of their respective tribal employees.</text>
+          <text>The leadership of each Department of the Chickasaw Nation government, as defined in <cite path="2|5|C|2-503.02|A.">Section 2-503.02(A)</cite>, determines the organizational structure of that respective Department and establishes tribal employment policies for the management of their respective tribal employees.</text>
         </para>
         <para>
           <num>B.</num>
@@ -1202,54 +1214,63 @@
           <num>H.</num>
           <text>Issues pertaining to employee ethics shall be determined according to tribal employment policies, or any other applicable tribal law.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.6</num>
         <heading>LEAVE WITH PAY.</heading>
         <text>All matters involving annual, sick, maternity, medical, administrative, military, enforced and education leave will be determined according to tribal employment policies.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.7</num>
         <heading>OTHER FORMS OF LEAVE.</heading>
         <text>All matters involving leave for court and jury service, administrative and professional leave, and furloughs shall be handled according to tribal employment policies.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.8</num>
         <heading>SELECTION AND MANAGEMENT OF APPLICANTS.</heading>
         <text>All matters involving the selection of applicants, employee orientation periods, employee classification, and employee conduct shall be determined according to tribal employment policies.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.9</num>
         <heading>PERSONNEL MANAGEMENT.</heading>
         <text>All matters involving personnel actions, promotions, demotions, transfers, new positions, terminations, suspensions, reductions in force, resignations, and assignments to special duty shall be determined according to tribal employment policies.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.10</num>
         <heading>TERMINATIONS AND APPEALS.</heading>
         <text>All matters involving terminations and appeals shall be determined according to tribal employment policies. Merit employees have the right to appeal terminations through an administrative appeals process to be established through tribal employment policies.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.11</num>
         <heading>PERFORMANCE REVIEWS.</heading>
         <text>All matters involving employee performance reviews shall be determined according to tribal employment policies.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.12</num>
         <heading>COMPENSATION, BENEFITS AND GRIEVANCES.</heading>
         <text>All matters involving employee compensation, outside employment honorariums, fringe benefits, and grievances, shall be determined according to tribal employment policies.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-503.13</num>
         <heading>CONFLICTS OF INTEREST.</heading>
         <text>All matters involving conflicts of interest and allegations thereof shall be determined according to tribal employment policies or applicable tribal law.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1263,6 +1284,7 @@
           <num>B.</num>
           <text>For the purposes of this Act, if any provision of this Act conflicts with any other section of the Chickasaw Nation Code, whether such conflicting section was enacted before or after the passage of this Act, the provision of this Act shall control and be binding.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1276,6 +1298,7 @@
           <num>B.</num>
           <text>Nothing contained in this Act shall be construed to limit either the inherent or delegated powers of self-government of the Chickasaw Nation as a federally recognized tribal government.</text>
         </para>
+        <annotations/>
       </section>
     </container>
     <container>
@@ -1287,12 +1310,14 @@
         <num>2-504.1</num>
         <heading>RESPONSIBILITY.</heading>
         <text>The Chairperson shall have the responsibility for all personnel actions regarding Legislative Department employees. The Chairperson shall have the authority to reorganize work assignments, create positions, abolish positions, change titles and prescribe or change the duties and responsibilities or salaries and classification assigned to any position or employee as needed. The Chairperson shall look to the employee policies of the Legislative Department for guidance.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-504.2</num>
         <heading>DEPARTMENT POLICIES.</heading>
         <text>The Chairperson shall appoint an <em>ad hoc </em>committee on a yearly basis to review and recommend to the Legislature amendments to the Legislative Department employee policies if needed.</text>
+        <annotations/>
       </section>
     </container>
     <container>
@@ -1311,12 +1336,14 @@
         <num>2-506.1</num>
         <heading>RESPONSIBILITY.</heading>
         <text>The Supreme Court shall have the responsibility for all personnel actions regarding Judicial Department employees. The Supreme Court shall have the authority to reorganize work assignments, create positions, abolish positions, change titles and prescribe or change the duties and responsibilities or salaries and classification assigned to any position or employee as needed. The Supreme Court shall look to the employee policies of the Judicial Department for guidance.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-506.2</num>
         <heading>DEPARTMENT POLICIES.</heading>
         <text>The Supreme Court shall review and make amendments to the Judicial Department employee policies, if needed.</text>
+        <annotations/>
       </section>
     </container>
     <container>
@@ -1380,6 +1407,7 @@
           <num>F.</num>
           <text>No part of this Act shall be deemed to waive the sovereign immunity of the Nation or consent to the jurisdiction of any federally created entity.</text>
         </para>
+        <annotations/>
       </section>
     </container>
   </container>
@@ -1517,6 +1545,7 @@
           <num>4.</num>
           <text>Issue a written opinion or decision detailing the finding of facts and reasoning, or lack thereof, of any issue heard by the Commission to the complainant and other interested parties including the Governor and Legislature.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1542,6 +1571,7 @@
           <num>E.</num>
           <text>Two (2) Commissioners shall constitute a quorum; decisions shall be made by majority vote. In the event only two (2) Commissioners are present, decisions shall be made by unanimous vote.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1562,7 +1592,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Pursuant to the procedures for appeal provided by Title 5, Chapter 1, Articles B, <cite path="PROOF 5|1|B|5-102.1">Section 5-102.1</cite> of the Chickasaw Nation Code, a Notice of Intent to Appeal and Petition for Appeal, as defined in <cite path="5|1|B">Title 5, Chapter 1, Article B of the Chickasaw Nation Code</cite>, shall be filed with the District Court within thirty (30) days of the issuance of a decision of the Commission or such appeal will be barred.</text>
+          <text>Pursuant to the procedures for appeal provided by Title 5, Chapter 1, Articles B, <cite path="5|1|B|5-102.1">Section 5-102.1</cite> of the Chickasaw Nation Code, a Notice of Intent to Appeal and Petition for Appeal, as defined in <cite path="5|1|B">Title 5, Chapter 1, Article B of the Chickasaw Nation Code</cite>, shall be filed with the District Court within thirty (30) days of the issuance of a decision of the Commission or such appeal will be barred.</text>
         </para>
         <para>
           <num>C.</num>
@@ -1583,12 +1613,14 @@
         <num>2-702.1</num>
         <heading>TITLE.</heading>
         <text>Be it hereby enacted by the Chickasaw Tribal Legislature, that this Act shall be cited as the "Chickasaw Nation Ethics in Government Act of 2002" (hereinafter referred to as this "Act"). This Act shall be codified at <cite path="2|7|B">Title 2, Chapter 7, Article B of the Code of the Chickasaw Nation.</cite></text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-702.2</num>
         <heading>AUTHORITY.</heading>
         <text>This Act is hereby promulgated pursuant to Article VII, Section 4 of the Chickasaw Nation Constitution whereby "The Tribal Legislature shall enact rules and regulations pertaining to the Chickasaw Nation."</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1612,6 +1644,7 @@
           <text>Intent.</text>
           <text>It is the intent of the Chickasaw Tribal Legislature that the provisions of this Act be construed and applied in each instance so as to accomplish its purposes of protecting Chickasaw Citizens from government decisions and actions resulting from, or affected by, undue influences or Conflicts of Interest.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1714,6 +1747,7 @@
           <num>22.</num>
           <text>"Public Office/Official." "Public Office" means those offices and positions which are elective or appointed in any Governmental Body of the Nation. "Public Official" means any person holding such office or position. "Public Official" shall also include any person who has publicly announced an intent to campaign for Public Office, initiated fundraising activities or received funds for such campaign, authorized promotion for, or filed a declaration of candidacy or a petition to appear on the ballot for election as a Public Official; and any person who has been nominated by a Public Official or Governmental Body for appointment to serve in any public capacity, position or office, but who has not yet been seated in such public capacity, position or office.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -1962,6 +1996,7 @@
           <text>Adoption of Supplemental Codes of Conduct for Public Officials and Employees of the Nation.</text>
           <text>The chief executive or administrator of every Governmental Body or subdivision of the Nation which is subject to the provisions of this Act is authorized to submit for approval through their chain of command such supplemental rules, regulations and standards of conduct for Public Officials and Employees of the Nation of such entity, which are necessary and appropriate to the special conditions relating to their particular functions, purposes and duties, provided such are not in conflict with the purposes and other provisions of this Act. Upon adoption, such supplemental standards rules and regulations shall be implemented in the same manner and to the extent applicable, as are all other standards, rules and regulations provided and adopted in accordance with the provisions of this Act.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2036,12 +2071,14 @@
         <num>2-702.7</num>
         <heading>SEVERABILITY.</heading>
         <text>If any provision of this Act or the application of such provision to any person, firm, association, corporation or circumstances shall be held invalid, the remainder of this Act, and the application of such other provisions than those as to which are held to be invalid, shall not be affected thereby.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-702.8</num>
         <heading>PRIOR LAW AND POLICIES SUPERSEDED.</heading>
         <text>Sub<cite path="2|7|B|2-702.5">section 2-702.5</cite>.O herein notwithstanding, upon the effective date of this Act, all prior enactments, laws, rules, policies, ordinances and regulations of the Chickasaw Nation and its Governmental Bodies are superseded hereby and/or amended to comply herewith.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2072,6 +2109,7 @@
       <num>2-801.2</num>
       <heading>AUTHORITY.</heading>
       <text>The Chickasaw Nation Tribal Legislature determined that a need exists for a code of laws to be enacted for the Chickasaw Nation.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -2100,48 +2138,55 @@
       </para>
       <para>
         <num>6.</num>
-        <text>"Act" means this Act, as identified in <cite path="PROOF 2|8|A|2-801">Section 2-801</cite>;</text>
+        <text>"Act" means this Act, as identified in <cite path="2|8|2-801.1">Section 2-801</cite>;</text>
       </para>
       <para>
         <num>7.</num>
         <text>"Enactment," "Act," "Resolution" or "Law" means all actions taken by the Legislature which may have the full force and effect of law.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.4</num>
       <heading>CONSTITUTIONAL BASIS.</heading>
       <text>The basis for authority of this Act is Article VI, Section 1, of the Constitution, wherein the Legislature is granted legislative authority of the Chickasaw Nation, and in Article VII, Section 4, wherein the Legislature is granted the power and authority to enact rules and regulations pertaining to the Chickasaw Nation in accordance with the Constitution.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.5</num>
       <heading>OTHER NAMES; APPROPRIATE.</heading>
       <text>A codification of the enactments and other appropriate legislation of the Chickasaw Nation, through the Chickasaw Tribal Legislature, is hereby adopted as the "Code of the Chickasaw Nation," AChickasaw Nation Code," "Tribal Code," "Code" or by any other properly identifying designation.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.6</num>
       <heading>PARAMETERS.</heading>
       <text>This Code shall be treated and considered as a comprehensive enactment of the Legislature which shall codify all general and permanent enactments enacted by the Legislature prior to October 1, 1992, and provides that all laws enacted on or after October 1, 1992, shall, subsequently, be made a part of the Code in accordance with the provisions herein.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.7</num>
       <heading>EFFECTIVE DATE AND FORMAT.</heading>
       <text>All provisions of this Code shall be in full force and effect from the date this Act becomes law. The codification of the laws of the Chickasaw Nation is intended to be a recital of those laws within an organized format that provides for proper classification of the laws under specific captions called Titles, Chapters, Sub-chapters, Sections, Sub-sections, Parts and Sub-parts, and other such captions as are customary with a codification, whether specified or not. Inadvertent omission of a law or part of a law into the code which is not in conflict with other laws does not void or repeal that law, but, upon discovery of its omission in the code, shall be inserted into the code without further direction from the Legislature.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.8</num>
       <heading>CONTINUATION OF LAWS.</heading>
       <text>The provisions appearing in this Code, so far as they are the same as those enactments existing as of October 1, 1992, shall be considered as continuations thereof and not as new enactments.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.9</num>
       <heading>EXPANSION OF CODE NOT LIMITED.</heading>
       <text>The provisions in this Code include, but are not limited to, revised and new provisions or regulations in each of the titles and chapters in the Code.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -2163,6 +2208,7 @@
         <num>B.</num>
         <text>In either case, all such enactments and parts of enactments shall be deemed amendments to the Code. All of the substantive permanent and general parts of such enactments, and changes, made thereby in the Code, shall be inserted in the Code by the Legislature on at least a semi-annual basis and without further direction by resolution or enactment of the Legislature, or as may otherwise be provided.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -2184,18 +2230,21 @@
         <num>D.</num>
         <text>The Code shall also be maintained and updated on the internet site in PDF format for the use of the general public.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.12</num>
       <heading>SALES AND REVENUES.</heading>
       <text>The Governor, is hereby authorized and directed to sell copies of the Code on CD to the public at a price determined from time to time by the Legislature. The expense of printing, updating and distributing the Code shall be borne by the Legislature through the annual budget. Revenues from the sale of copies of the Code shall be handed over to the Comptroller to be deposited to the General Fund and credited to the budget of the Legislature of the Chickasaw Nation. Such credit shall be computed, quarterly, on the basis of the fiscal year.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-801.13</num>
       <heading>MAINTENANCE; RULES AND REGULATIONS.</heading>
       <text>The Tribal Legislature, by approval of a simple majority of the Legislative Committee, may adopt rules and regulations regarding the general maintenance of the codification. A copy of such rules and regulations shall be kept in the Governor's office for public inspection.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -2286,6 +2335,7 @@
         <num>21.</num>
         <text>Vehicles &amp; Highways</text>
       </para>
+      <annotations/>
     </section>
   </container>
   <container>
@@ -2361,12 +2411,14 @@
         <num>6.</num>
         <text>"Editor" means the current editor of the Chickasaw Times who has independent authority to publish the tribal newspaper.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>2-901.3</num>
       <heading>AUTHORITY.</heading>
       <text>The basis for authority of this Act is Article VII, Section 4 of the Constitution of the Chickasaw Nation, wherein the Tribal Legislature is granted the power and authority to enact rules and regulations pertaining to the Chickasaw Nation in accordance with the Constitution. The Chickasaw Tribal Legislature with the adoption of this Act hereby establishes the Editorial Policy for the Chickasaw Times.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -2509,6 +2561,7 @@
         <num>2-1001.1</num>
         <heading>APPLICABILITY OF THIS ARTICLE.</heading>
         <text>The provisions of this Article shall apply to all members of all boards, agencies and commissions created by act of the Chickasaw Tribal Legislature or by act of the Governor; provided, that such positions shall be subject to the provisions of this Article only if such positions are appointed by the Governor with the advice and consent of the Legislature in accordance with the provisions of Article XI, Section 2 of the Constitution.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2517,6 +2570,7 @@
         <text>All members of all boards, agencies and commissions to which this Article shall apply, shall, upon the date of assuming their position as a member of that board, agency or commission, herein defined as the date of the first official meeting of that board, agency or commission after such member has been appointed by the Governor subject to the advice and consent of the Chickasaw Tribal Legislature and which they attend, shall file in the Office of the Governor or a written and signed Oath of Office, the wording of which shall be:</text>
         <text>"I (name), do solemnly swear (or affirm) that I will support, obey and defend the Constitutions of the Chickasaw Nation and the United States of America, and will discharge the duties of my office with fidelity, so help me God."</text>
         <text>Such Oath of Office shall contain a place for that member to sign his or her name. Each such Oath of Office shall be dated with the date on which it is signed, and attested to by no fewer than two (2) witnesses. Copies of each such Oath of Office shall be retained in special files created for such purposes and maintained in the Office of the Governor.  An Oath of Office shall be administered for each member of each board, agency or commission and for each term of appointment. If a person serves on more than one board, agency or commission, an Oath of Office must be completed for each such office held. Existing written and signed Oaths of Office forms already on file at the time of the adoption of this Act shall be considered fully executed for purposes of this Section.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2524,7 +2578,7 @@
         <heading>COMPENSATION.</heading>
         <para>
           <num>A.</num>
-          <text>Each member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="PROOF 2|10|A|2-1001">Section 2-1001</cite>, shall be eligible for compensation in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
+          <text>Each member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="2|10|A|2-1001.1">Section 2-1001</cite>, shall be eligible for compensation in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
         </para>
         <para>
           <num>B.</num>
@@ -2578,6 +2632,7 @@
         <num>2-1004.3</num>
         <heading>TERM OF OFFICE.</heading>
         <text>Members of the commission shall hold three (3) year terms. In the event of an expansion of the number of Election Commission seats, the existing Election Commission members will stagger the terms of the newly created seats using the most fair and equitable method in keeping with the language and intent of this Section. A term year will be deemed to run from January 1 - December 31. Commissioners shall be reappointed, or a replacement shall be appointed, at least sixty (60) days prior to the expiration of the term. Replacements for death or resignation must be done on an as needed basis and in a timely manner.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2647,12 +2702,14 @@
           <num>B.</num>
           <text>Any violation of this Section by any member of the Commission may be grounds for removal from office.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-1004.5</num>
         <heading>APPOINTMENT OF ELECTION SECRETARY/TRIBAL REGISTRAR.</heading>
         <text>An Election Secretary/Tribal Registrar shall be a single full-time position appointed by the Governor and confirmed by the Legislature. Legislative confirmation shall be required of any person serving as Election Secretary/Tribal Registrar on an interim basis. If possible, appointments of Election Secretary/Tribal Registrars shall be made at least sixty (60) days prior to the year's upcoming elections. The Election Secretary/Tribal Registrar shall be a registered Chickasaw Voter and a notary public and shall be responsible for the day-to-day office procedures of the elections and tribal registration as defined in <cite path="8">Title 8 of the Chickasaw Nation Code.</cite> The salary shall be established by the Legislature.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2670,12 +2727,14 @@
           <num>C.</num>
           <text>The Election Commission shall ensure that only one ballot is cast by each Voter.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-1004.7</num>
         <heading>METHODS FOR SEALING BALLOTS; CERTIFICATES; RETURN AND PRESERVATION.</heading>
         <text>The Election Secretary/Tribal Registrar and Election Commission shall prescribe methods of sealing all ballots, all certificates of vote, and all other materials used in recording the count of the ballots in such a manner that any tampering with or altering of same after the sealing has been accomplished can be detected. The Election Commission shall have such other duties as provided in this Code on return and preservation of ballots.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2894,6 +2953,7 @@
           <num>2.</num>
           <text>All commissioners shall be residents of the Nation.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2901,12 +2961,14 @@
         <heading>TERMS.</heading>
         <text>Terms of office for each commissioner shall be four (4) years. For the first commissioners who shall serve under the terms of this Act, a drawing of lots shall be conducted at the first official meeting of the Commission to determine, among themselves, which commissioners shall serve a four (4) year term, a three (3) year term and a two (2) year term.</text>
         <text>Thereafter, the Governor shall appoint each commissioner to a four (4) year term, subject to the conditions contained herein.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-1008.4</num>
         <heading>NO POLITICAL INFLUENCE, REMOVAL.</heading>
         <text>Members shall serve their terms of office free from political influence from any branch of the government and may be removed only for cause and in a manner provided by law.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -2960,12 +3022,14 @@
           <num>D.</num>
           <text>The Chickasaw Tax Commission shall exercise only that authority granted herein, but may make additional recommendations to the Legislature at any time it deems proper.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>2-1008.6</num>
         <heading>EXISTING LEGISLATION.</heading>
         <text>Any existing legislation which conflicts with this Act is hereby repealed.</text>
+        <annotations/>
       </section>
     </container>
     <container>
@@ -3297,6 +3361,7 @@
           <num>3.</num>
           <text>appropriates funding for the operations of the Chickasaw Historical Society.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -3331,6 +3396,7 @@
           <num>7.</num>
           <text>"<em>Ex officio</em>" means by virtue of the office, without any other warrant or appointment than that resulting from the holding of a particular office.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -3373,6 +3439,7 @@
           <num>G.</num>
           <text>No member of the Board shall have a direct or indirect financial or executive interest in any contract or transaction with the Society.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -3448,6 +3515,7 @@
           <text>Executive sessions of meetings of the Board may be conducted, upon vote of the</text>
         </para>
         <aftertext>Board assembled, after a call for executive session is made by any voting member of the Board, and the Chairman shall so then order.</aftertext>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -3475,6 +3543,7 @@
           <num>5.</num>
           <text>provisions for the formation of various chapters of the Society.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -3492,6 +3561,7 @@
           <num>C.</num>
           <text>Chickasaw Historical Society chapters may be chartered wherever there is expressed a sufficient desire and sincere interest, and where authorized by the Board in accordance with the provisions of the by-laws of the Society.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>

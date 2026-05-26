@@ -1,0 +1,1735 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>13</num>
+  <heading>HEALTH AND SOCIAL SERVICES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>PUBLIC HEALTH</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>13-101.1</num>
+      <heading>INTENT TO OPERATE ADA SERVICE UNIT.</heading>
+      <text>It is the intent of the Chickasaw Nation to assume the operations of the Ada Service Unit of the Indian Health Service which shall include the operation of Carl Albert Indian Health Facility. The Chickasaw Tribal Legislature authorizes the following:</text>
+      <para>
+        <num>1.</num>
+        <text>The Governor of the Chickasaw Nation, by and under the authority of his office, shall devise a plan of operations for the Carl Albert Indian Health Facility in the event the Chickasaw Nation arrives at an agreement with the Indian Health Service for the Tribe to operate the facility.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Governor's plan shall be devised and copies provided to the Tribal Legislature within 60 days of the commencement date of the assumption of operations of the Carl Albert Indian Health Facility by the Chickasaw Nation.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1994-02-03" doc="GR11-53">GR11-53, 2/3/94</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>13-101.2</num>
+      <heading>AUTHORIZATION FOR COMPACT AND ANNUAL  FUNDING AGREEMENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Chickasaw Tribal Legislature fully supports and endorses the request of the Chickasaw Nation for a Self-Governance Compact and Annual Funding Agreement under the authority of Public Law 93-638, as amended, with a proposed effective date for this compact to be October 1, 1994.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Governor Bill Anoatubby, or his designee, is authorized to sign the necessary papers to complete and execute this compact, in accordance with the provisions of Article XI of the Constitution of the Chickasaw Nation.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2004-02-03" doc="PR11-10">PR11-10, 2/3/04</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>13-101.3</num>
+      <heading>AUTHORIZATION FOR EXPENDITURE OF FUNDS- PRESCRIPTION DRUGS.</heading>
+      <text>The Executive Department of the Chickasaw Nation administers this program in accordance with the following provisions:</text>
+      <para>
+        <num>1.</num>
+        <text>Procedural and administrative regulations will be developed which provide the program's services to those who are citizens of the Chickasaw Nation over the age of 60 years and who receive health care services through the Chickasaw Nation Health System.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In further fiscal years, the same amount of funds for the program shall be budgeted in accordance with the normal procedures for doing such.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Reimbursement for cost or cost of prescription medicines shall be limited to   actual cost and shall insofar as possible, be limited to generic drugs.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A prescribed pharmaceutical considered for reimbursement or purchase under this program shall be one which is not available form the Chickasaw Nation Health System.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2000-04-21" doc="PR17-016">PR17-016, 4/21/00</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>PUBLIC AND PRIVATE NUISANCES </heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>FOOD AND MILK REGULATIONS (RESERVED)</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>SOCIAL SERVICES </heading>
+    <text>(RESERVED)</text>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 4, Community and Economic Development. See also Title 6, Domestic Relations and Families See also Title 14, Labor and Employment.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>CULTURAL SERVICES </heading>
+    <text>(RESERVED)</text>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 7, Education.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6</num>
+    <heading>RECREATIONAL SERVICES </heading>
+    <text>(RESERVED)</text>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 11, Fish, Game and Animals.</annotation>
+      <annotation type="Editor's Notes">See also Title 15, Lands and Natural Resources.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7</num>
+    <heading>CIVIL COMMITMENT ACT</heading>
+    <container>
+      <prefix>Article</prefix>
+      <num>A</num>
+      <heading>GENERAL PROVISIONS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-701.1</num>
+        <heading>TITLE AND PURPOSE.</heading>
+        <text>This Act shall be known as the "Civil Commitment Act" or "Act." The purpose of the Act is to provide for the humane care and Treatment of Persons who have a Mental Illness.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-701.2</num>
+        <heading>COOPERATIVE AGREEMENTS.</heading>
+        <text>In order to effectively implement this Act, the Chickasaw Nation is hereby authorized to work cooperatively with necessary state, federal, or tribal agencies. However, in doing so, the Nation does not waive sovereign immunity.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-701.3</num>
+        <heading>VENUE AND JURISDICTION.</heading>
+        <text>The Nation may file a civil action for involuntary Commitment of a Person in the Court if a Person is alleged to have a Mental Illness and be a Person in Need of Treatment, and that Person resides in or is found within the jurisdiction of the Nation.</text>
+        <text>Jurisdiction may be maintained until the Person is discharged; however a proceeding under this Act may be transferred to an Oklahoma District Court with applicable jurisdiction under Oklahoma law. Unless otherwise provided herein, the Nation's District Court rules of civil procedure shall apply to all proceedings conducted within the Chickasaw District Court.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-701.4</num>
+        <heading>IMMUNITY AND LIABILITY.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any individual who supplies information in good faith and with reasonable belief that such information is true to any Officer, LMHP, the Nation, Prosecutor, judge or other person or agency regarding the mental health of a Person alleged to have a Mental Illness shall not be liable in any way for damages with respect to the giving of information. Officers, physicians, health care providers, mental health care providers, prosecutors, judges, or others acting within the scope of this Act shall not be liable in any way for damages with respect to such actions.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any individual who relies on information supplied by a Person detained, or another person, in good faith and with reasonable belief that such information is true, regarding the mental health of a Person, shall be immune with respect to the reliance on such information.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any intentional false statement given in support of detaining a Person under this section shall be punishable by a fine of up to one thousand dollars ($1,000) imprisonment not to exceed one (1) year, or both.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>No Person shall be deprived of their liberty on the basis that the Person is, or is alleged to have a Mental Illness, except in accordance with this Act.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-701.5</num>
+        <heading>FULL FAITH AND CREDIT.</heading>
+        <text>The State of Oklahoma, pursuant to 12 O.S. § 728 and Oklahoma District Court Rules Rule 30, grants full faith and credit to all Court orders derived from this Act. Likewise, the Nation shall grant full faith and credit to any Oklahoma District Court orders regarding the involuntary civil commitment of a Mentally Ill Person, pursuant to <cite path="5|2|B|5-202.21">Section 5-202.21</cite> of the Chickasaw Nation Code.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-701.6</num>
+        <heading>DEFINITIONS.</heading>
+        <text>As used in the Act:</text>
+        <para>
+          <num>1.</num>
+          <text>"Adult" means any person who is a member or citizen of an Indian tribe, as defined by 25 U.S.C. 5304(e), who is eighteen years (18) of age or over, and who resides or is found within the jurisdiction of the Nation;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"Adult Requiring Treatment" means an Adult who is at "Risk of Harm" which is defined as having at least one of the following:</text>
+          <para>
+            <num>a.</num>
+            <text>a substantial risk of immediate physical harm to self as manifested by evidence of serious threats of or attempts at suicide or other self-inflicted or bodily harm;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>a substantial risk of immediate physical harm to another individual or individuals as manifested by serious threats of, or evidence of violent behavior directed toward another individual or individuals;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>a reasonable certainty that without immediate Treatment, severe impairment or injury will result to the Adult alleged to be a Person In Need of Treatment as manifested by the inability of the Adult to avoid or protect self from such impairment or injury; or</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>a substantial risk of serious physical harm to injury to self as manifested by evidence that the Adult is unable to provide for and/or is not providing for the basic physical needs of the Adult and that appropriate provision for those needs cannot be made immediately available in the community.</text>
+          </para>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>"Certificate of Evaluation" shall mean a document that is signed by two licensed mental health professionals who have participated in the Evaluation of the Adult, and is filed in the Court as a "Notice of Certification" and includes the following:</text>
+          <para>
+            <num>a.</num>
+            <text>the name, address, age, sex, tribal affiliation, closest family member, and marital status of the Adult evaluated;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>complete Evaluation findings;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>what the Evaluation findings are based on;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>that the Adult has been informed of the Evaluation;</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>the services the Adult has been offered or referred to;</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>a statement certifying the Evaluation; and</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>an assertion that the Evaluation was delivered to the Adult's attorney.</text>
+          </para>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>"Commitment" means an order or process by which the Court directs a Person to be taken to a Mental Health Facility for Treatment of a Mental Illness and held by that Mental Health Facility until such time as the person is not or no longer a substantial risk of immediate physical harm to self or others;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>"Consent" means the voluntary, express, and informed agreement to Treatment in a Mental Health Facility by a person sixteen (16) years of age or older, or by a Parent of a Minor under the age of sixteen (16) years of age;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>"Court" means the District Court of the Chickasaw Nation;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>"Emergency Detention" means the detention of a Person, who appears to have a Mental Illness and is a Person in Need of Treatment, in a Mental Health Facility accepted by the Nation as appropriate for such detention after the completion of an Emergency Examination in person, via telemedicine, or by any other means of examination generally accepted within the mental health community, to determine if Emergency Detention of the Person is warranted, for a period not to exceed five (5) days, excluding weekends and holidays, except upon a Court order authorizing detention beyond five (5) days or pending a hearing on a petition requesting involuntary Commitment or Treatment as provided by this Act;</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>"Emergency Examination" or "Initial Assessment" or "Medical Necessity Review" means the examination of current and recent behaviors and symptoms of a Person who appears to have a Mental Illness and be a Person In Need of Treatment, whose condition is such that it appears Emergency Detention may be warranted by a LMHP at a Mental Health Facility accepted by the Nation as appropriate for such examination, to determine if Emergency Detention of the Person is warranted and whether admission for inpatient Mental Illness Treatment or Evaluation constitutes the Least Restrictive Alternative care necessary;</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>"Evaluation" means the examination of a Person who appears to have a Mental Illness by two LMHP for the purpose of:</text>
+          <para>
+            <num>a.</num>
+            <text>determining if a petition requesting involuntary Commitment or Treatment is warranted;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>completing a Certificate of Evaluation pursuant to this Act; or</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>both;</text>
+          </para>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>"Good Cause" means legally sufficient ground(s) or reason(s);</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>"Inpatient Treatment" means Treatment services offered or provided to a Person for a continuous period of more than twenty-four (24) hours in residence after admission to a Mental Health Facility for the purpose of observation, evaluation, Treatment, or crisis stabilization;</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>"Least Restrictive Alternative" means the Treatment and conditions of Treatment which, separately and in combination, are no more intrusive or restrictive of freedom than reasonably necessary to achieve a substantial therapeutic benefit to the Person, or to protect the Person or others from physical injury;</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>"Less Restrictive Alternative To Inpatient Treatment" means and includes, but is not limited to, outpatient counseling services, including services provided in the home of the Person and which may be referred to as "home-based services," day Treatment or day hospitalization services, respite care, or foster care or group home care, through a program established and specifically designed to meet the needs of Persons in need of mental health Treatment, or a combination thereof;</text>
+        </para>
+        <para>
+          <num>14.</num>
+          <text>"Licensed Mental Health Professional" or "LMHP" means a person not related by blood or marriage to the Person being examined or does not have an interest in the Person's estate, who has a valid license to practice in accordance with the laws of their respective state, and who has received specific training in or has experience in performing mental health therapeutic, diagnostic, or counseling functions from any of the following areas of expertise:</text>
+          <para>
+            <num>a.</num>
+            <text>a licensed psychiatrist;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>a licensed clinical psychologist;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>a licensed Doctor of Medicine;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>a licensed Doctor of Osteopathy;</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>a licensed professional counselor;</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>a licensed clinical social worker;</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>a licensed behavioral practitioner;</text>
+          </para>
+          <para>
+            <num>h.</num>
+            <text>a licensed advanced practice nurse, specializing in mental health;</text>
+          </para>
+          <para>
+            <num>i.</num>
+            <text>a licensed marital and family therapist;</text>
+          </para>
+          <para>
+            <num>j.</num>
+            <text>a physician's assistant; or</text>
+          </para>
+          <para>
+            <num>k.</num>
+            <text>a licensed drug and alcohol counselor/mental health (commonly referred to as a "LADC/MH");</text>
+          </para>
+        </para>
+        <para>
+          <num>15.</num>
+          <text>"Medically Stable" means a determination by a licensed Doctor of Medicine or Osteopathy or a nurse practitioner or a physician's assistant that a Person is physically capable of being transported and/or to being subjected to an Emergency Detention, without detriment to that Person's health or welfare;</text>
+        </para>
+        <para>
+          <num>16.</num>
+          <text>"Mental Health Evaluation" means a full examination or Evaluation in person, via telemedicine, or by any other means of examination generally accepted within the mental health community, of the Person who appears to have a Mental Illness by two (2) LMHP, at least one of whom is a psychiatrist who is a diplomate of the American Board of Psychiatry and Neurology, a licensed clinical psychologist, or a licensed Doctor of Medicine or Osteopathy who has received specific training for and is experienced in performing mental health therapeutic, diagnostic, or counseling functions, for the purpose of:</text>
+          <para>
+            <num>a.</num>
+            <text>determining if a petition requesting involuntary Commitment or Treatment is warranted, or</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>completing a Mental Health Evaluation pursuant to this Act, or</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>both subsections 1 and 2 of this paragraph.</text>
+          </para>
+        </para>
+        <para>
+          <num>17.</num>
+          <text>"Mental Health Facility" means an institution, which offers and provides Mental Illness health services as appropriate for the Treatment of a person alleged to have a Mental Illness or a facility operated by the Oklahoma Department of Mental Health and Substance Abuse Services as appropriate for Inpatient Treatment. "Mental Health Facility" shall also include substance abuse Treatment facilities;</text>
+        </para>
+        <para>
+          <num>18.</num>
+          <text>"Mental Illness" means a substantial disorder of a Person's thought, mood, perception, psychological orientation or memory that demonstrably and significantly impairs judgment, behavior or capacity to recognize reality or the ability to meet the ordinary demands of life. "Mental Illness" shall include alcohol and/or substance abuse, which is the use, without compelling medical reason, of alcohol or any substance which results in a psychological or physiological dependency as a function of continued use in such a manner as to induce mental, emotional, or physical impairment and cause socially dysfunctional or socially disordering behavior;</text>
+        </para>
+        <para>
+          <num>19.</num>
+          <text>"Minor" means any person under eighteen (18) years of age, regardless of legal emancipation, who is a member or citizen of an Indian tribe, as defined by 25 U.S.C. 5304(e) or eligible for membership or citizenship in an Indian tribe, and who resides or is found within the jurisdiction of the Nation;</text>
+        </para>
+        <para>
+          <num>20.</num>
+          <text>"Minor in Need of Treatment" means a Minor who because of his or her Mental Illness or drug or alcohol dependency:</text>
+          <para>
+            <num>a.</num>
+            <text>poses a substantial risk of physical harm to self in the near future as manifested by evidence of serious threats of or attempts at suicide or other significant self-inflicted bodily harm,</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>poses a substantial risk of physical harm to another person or persons in the near future as manifested by evidence of violent behavior directed toward another person or persons,</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>has placed another person or persons in a reasonable fear of violent behavior or serious physical harm directed toward such person or persons as manifested by serious and immediate threats,</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>is in a condition of severe deterioration such that, without intervention, there exists a substantial risk that severe impairment or injury to the Minor will result in the near future, or</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>poses a substantial risk of serious physical injury to self or death in the near future as manifested by evidence that the Minor is unable to provide for and is not providing for his or her basic physical needs.</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>The mental health or substance abuse history of the Minor may be used as part of the evidence to determine whether the Minor is a Minor in Need of Treatment as defined in this section. The mental health or substance abuse history of the Minor shall not be the sole basis for this determination.</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>The term "Minor in Need of Treatment" shall exclude a Minor afflicted with epilepsy, a developmental disability, organic brain syndrome, physical handicaps, brief periods of intoxication caused by such substances as alcohol or drugs or who is truant or sexually active unless the Minor also meets the criteria for a Minor in Need of Treatment pursuant to subparagraph A or B of this paragraph;</text>
+          </para>
+        </para>
+        <para>
+          <num>21.</num>
+          <text>"Nation" means the Chickasaw Nation;</text>
+        </para>
+        <para>
+          <num>22.</num>
+          <text>"Officer" means any sworn law enforcement officer who is currently employed by the Lighthorse Police Department of the Chickasaw Nation or any sworn law enforcement officer who is cross-commissioned by the Lighthorse Police Department pursuant to a valid cross-deputation agreement. This does not include security guards; however, may include reserve officers or reserve deputies;</text>
+        </para>
+        <para>
+          <num>23.</num>
+          <text>"Parent" means any of the following:</text>
+          <para>
+            <num>a.</num>
+            <text>a biological or adoptive parent with legal custody of Minor;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>a person judicially appointed the guardian or legal custodian of the Minor; or</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>a relative who exercises the rights and responsibilities of a legal custodian of a Minor as delegated by a parent.</text>
+          </para>
+        </para>
+        <para>
+          <num>24.</num>
+          <text>"Person" means a Minor or an Adult.</text>
+        </para>
+        <para>
+          <num>25.</num>
+          <text>"Person in Need of Treatment" means an Adult Requiring Treatment or a Minor in Need of Treatment;</text>
+        </para>
+        <para>
+          <num>26.</num>
+          <text>"Pre-Hearing Detention Order" means the Court's order that authorizes a Mental Health Facility to detain pending a hearing on a petition requesting involuntary Commitment;</text>
+        </para>
+        <para>
+          <num>27.</num>
+          <text>"Prosecutor" means the attorney designated by the Nation's Executive Department to carry out the prosecutorial functions defined under the Act;</text>
+        </para>
+        <para>
+          <num>28.</num>
+          <text>"Protective Custody" means the taking into custody and detention of an Adult or a Minor, with or without a Parent's permission, pursuant to the provisions of this Act until such time as an Emergency Examination is completed and a determination is made as to whether Emergency Detention is warranted;</text>
+        </para>
+        <para>
+          <num>29.</num>
+          <text>"Provider" means a licensed Doctor of Medicine, Doctor of Osteopathy, nurse practitioner, or physician's assistant;</text>
+        </para>
+        <para>
+          <num>30.</num>
+          <text>"Treatment" means any planned intervention intended to improve the functioning of the Person in those areas which show impairment as a result of Mental Illness;</text>
+        </para>
+        <para>
+          <num>31.</num>
+          <text>"Treatment Plan" means a specific plan for the care and treatment of a Minor requiring inpatient mental health treatment. The plan shall be developed by the LMHP with maximum involvement of the Minor's family consistent with the Minor's desire for confidentiality and with the treatment needs of the Minor, and shall clearly include all of the following:</text>
+          <para>
+            <num>a.</num>
+            <text>a statement of the presenting problem(s) of the Minor, the short and long term treatment goal(s), and the estimated date of discharge. The short and long term goal(s) shall be based upon a clinical Evaluation and shall include the specific behavioral and emotional goal(s) against which the success of treatment can be measured;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>description of treatment methods and procedures to be used to achieve the goal(s), which methods and procedures are related to each of the goal(s) and which include, but are not limited to, the specific prognosis for achieving each of the goal(s);</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>identification of the types of professional personnel who will carry out the treatment procedures including, but not limited to, appropriate LMHPs, education professionals, and other health or social service professionals; and</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>documentation of the involvement of the Minor, and/or the Parent(s) of the Minor, in the development of the Treatment Plan and whether all persons consent to such plan;</text>
+          </para>
+        </para>
+        <para>
+          <num>32.</num>
+          <text>"Ward of the Court" means a Minor adjudicated to be a deprived child or a delinquent child.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-701.7</num>
+        <heading>APPROPRIATE TREATMENT AND MEDICATION –IMMUNITY – SECLUSION OR RESTRAINT – HEARINGS  WHILE UNDER INFLUENCE OF PSYCHOTROPIC  MEDICATION.</heading>
+        <para>
+          <num>A.</num>
+          <text>Appropriate Treatment and medication, including psychotropic medication, may be administered to a consenting Adult or to a consenting Minor over the age of 16 or to a Minor upon Consent of Parents:</text>
+          <para>
+            <num>1.</num>
+            <text>during detention periods authorized by this Act;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>during time set forth in the Act for the pre-commitment screening examination; or</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>during time while in custody of the Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Treatment and medication may be administered to a nonconsenting Person upon the written order of the Provider who:</text>
+          <para>
+            <num>1.</num>
+            <text>has personally examined the Person;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>finds the medication or Treatment is necessary to protect the Person, the facility, or others from serious bodily harm; and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>shall note in the Person's medical and medication records a factual explanation leading up to the Provider's decision to administer Treatment and medication including psychotropic medication.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any Provider who orders medication in good faith and any employee of the facility who administers medication in good faith pursuant to the written order of a Provider, under the provision of this section, shall be immune from any suit and/or claim for damages that occur from the administration of medication.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Seclusion or restraint may be administered to a nonconsenting Person upon the written order of a Provider who:</text>
+          <para>
+            <num>1.</num>
+            <text>personally examined the person; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>finds that seclusion or restraint is necessary to protect the Person, the facility and its employees, or others from serious bodily harm; and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>shall note in Person's medical records or chart an explanation of the Provider's decision to administer seclusion or restraint, including administration of psychotropic medication. This shall not prohibit emergency seclusion or restraint, including mechanical restraint, pending notification of a Provider.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>If the Person is under the influence of psychotropic medication during any Court hearing held pursuant to this Act, the Court and the jury, if any, shall be advised by the judge or the Prosecutor at the beginning of the hearing that:</text>
+          <para>
+            <num>1.</num>
+            <text>Person is under the influence of psychotropic medication;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>purpose of medication; and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>effect the medication may have on the Person's actions, demeanor and participation at the hearing.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>B</num>
+      <heading>PROTECTIVE CUSTODY AND EMERGENCY DETENTION</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-702.1</num>
+        <heading>PROTECTIVE CUSTODY PROCEDURE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any Person who appears to have or states that he/she has a Mental Illness to a degree that immediate emergency action is necessary, may be taken into Protective Custody and detained as provided pursuant to the provisions of this Act. Nothing in this Act shall be construed as being in lieu of prosecution under the Nation's or other applicable laws relating to a criminal offense.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any LMHP who reasonably believes that a Person is a Person in Need of Treatment shall have the authority to take that Person into temporary Protective Custody, pending the arrival of an Officer.</text>
+          <para>
+            <num>1.</num>
+            <text>The LMHP must notify an Officer upon taking such a Person into temporary Protective Custody.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The LMHP may use necessary reasonable force to temporarily restrain a Person, while that Person is in temporary Protective Custody, until an Officer arrives.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any Officer who reasonably believes that a Person is a Person in Need of Treatment as defined in this Act shall take the Person into Protective Custody. The Officer shall make a reasonable effort to take the Person into custody in the safest and least conspicuous manner. Upon taking the Person into Protective Custody, the Officer may relinquish custody of Person believed to be a Person in Need of Treatment to another Officer to fulfill Officer's duties required by this Act.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>If the Person appears to be Medically Stable, the Officer shall transport the Person to an appropriate facility so that an Emergency Exam can be conducted. However, if the Person does not appear to be Medically Stable, the Officer shall immediately notify emergency medical services to transport the Person to the nearest hospital. The treating Provider may authorize Person to be detained until Person becomes Medically Stable. When Person becomes Medically Stable, and it is opinion of treating or discharging Provider, the Person is a Person in Need of Treatment, Provider shall authorize detention of Person for transport by Officer. If the staff of the facility is able to complete an Initial Assessment of the Person, one shall be completed at that time. Otherwise, the Officer shall transport the Person to an appropriate facility for an Emergency Exam.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The Oklahoma Mental Health Facility, through the LMHP, may direct the Officer to a Mental Health Facility in another state due to the lack of beds. The Person may then be transported by the Officer as directed.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>As soon as practically possible, the Officer shall:</text>
+          <para>
+            <num>1.</num>
+            <text>prepare a written affidavit indicating the basis for the Officer's belief that the Person is a Person in Need of Treatment and the circumstances surrounding the reason the Person was placed into Protective Custody; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>obtain a statement from the person(s) who observed the behavior of the alleged Person in Need of Treatment and prepare an Officer's report; and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>deliver the original written affidavit or statement along with the Officer's report to the Prosecutor; and</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>submit a copy of the written affidavit or the statement to the Mental Health Facility, and if requested, to the Person or the Person's attorney.</text>
+          </para>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>In the event Officer does not make the determination to take the Person into Protective Custody on the basis of the Officer's personal observations, the Officer is not required to prepare a written affidavit. However the person upon whose statement the Officer relies shall make a statement indicating the basis for such belief of the person that Person is a Person in Need of Treatment.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>Officer shall be responsible for transporting Person to and from designated sites and Mental Health Facilities for the purpose of medical examinations, Emergency Detention, Protective Custody and inpatient services, as applicable. Officer's law enforcement agency shall maintain responsibility for the transportation of the Person pending completion of the medical examination, Emergency Detention, Protective Custody, and inpatient services, as applicable.</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>Nothing shall prohibit the law enforcement agency from entering into a lawful agreement with any other law enforcement agency to fulfill the transportation requirements established by this Act in accordance with the Nation's policies or from contracting with third parties (hereinafter referred to as Qualified Transportation Service Providers or "QTSP") to provide the transportation services pursuant to this Act; provided the QTSP's transportation standards meet or exceed the law enforcement agency's standards for transporting a Person in Protective Custody which are set forth in the Nation's policies.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-702.2</num>
+        <heading>INITIAL ASSESSMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>A Person in Protective Custody shall be subject to an immediate Initial Assessment at a Mental Health Facility by a LMHP for the purpose of determining whether Emergency Detention is warranted.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any LMHP or Officer or Parent of a Minor may request a Mental Health Facility to conduct an Initial Assessment to determine whether the Person is a Person in Need of Treatment.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>If, after the Initial Assessment, a LMHP determines that the Person is not a Person in Need of Treatment under this Act, the Minor shall be released to the Parent(s) at the examining Mental Health Facility, or the Adult shall be returned immediately to the point where Adult was taken into Protective Custody and released. Adult may also be taken to Adult's residence/home or to an alternate facility for release.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>If, after the Initial Assessment, a LMHP determines that the Person is a Person in Need of Treatment, and that detention is necessary, the Person shall be detained in Emergency Detention at an appropriate Mental Health Facility as prescribed by this Act.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-702.3</num>
+        <heading>EMERGENCY DETENTION.</heading>
+        <para>
+          <num>A.</num>
+          <text>A Person in Protective Custody shall be subject to an Emergency Examination at an appropriate facility by an LMHP within twelve (12) hours of being placed in Protective Custody for the purpose of determining whether Emergency Detention of the Person is warranted, absent Person being medically unstable.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If upon examination the LMHP determines that the Person is not a Person Requiring Treatment, the Person shall be returned by an Officer immediately to the point where the Person was taken into Protective Custody and released, or taken to the home or residence of Person or to an alternate facility. If home or residence of Person is a nursing home or group home such home shall not refuse the Person's return.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>If upon examination the LMHP determines that the Person is a Person Requiring Treatment and that detention is necessary, the LMHP shall immediately prepare a statement describing the findings of the examination and stating the basis for the determination. The Person shall be detained in an appropriate Mental Health Facility under Emergency Detention for a period not to exceed five (5) days, excluding weekends and holidays, except upon a Court order authorizing further detention until a hearing can be held on a petition requesting involuntary Commitment or Treatment.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>If, after Emergency Examination, detention of the Person is necessary, the Officer shall ask the Person being detained to designate any one individual whom such Person wishes to be informed regarding the detention. If the Person being detained is incapable of making such a designation, the Officer shall notify, within twenty-four (24) hours, any one of the following: the Person's attorney, parent, spouse, guardian, brother, sister, or child who is at least eighteen (18) years old. The Officer shall immediately notify the Mental Health Facility regarding which individual was informed of the detention and that individual's contact information. If the Officer is unable to locate any such individual after a reasonable time, the Officer's efforts shall be reported to the Mental Health Facility in which the Person is detained and such shall become a part of the Person's records at the Mental Health Facility.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>During the Emergency Detention period, the following shall occur:</text>
+          <para>
+            <num>1.</num>
+            <text>A Mental Health Evaluation of the Person shall be conducted and, if the Person appears to have a Mental Illness and be a Person Requiring Treatment, the LMHPs shall complete a Certificate of Evaluation to be submitted within forty-eight (48) hours to the Prosecutor and the Minor's Parent(s) describing the findings of the examination and stating the basis for the determination; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Reasonable efforts shall be made to determine whether the Person has a current and unrevoked advance directive executed pursuant to the Advance Directives for Mental Health Treatment Act of any state.</text>
+          </para>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Unless otherwise ordered by the Court, or unless the Adult or the Parent(s) of the Minor voluntarily Consent to further Treatment, the Person shall be discharged at the end of the five (5) day detention period absent a Pre-Hearing Detention Order.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>C</num>
+      <heading>COURT PROCEEDINGS FOR ADULTS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.1</num>
+        <heading>PRE-HEARING DETENTION.</heading>
+        <para>
+          <num>A.</num>
+          <text>Whenever it appears that an Adult detained as provided in this Act will require additional detention and Treatment beyond the period of Emergency Detention and the Adult has refused to Consent to voluntary Treatment, the LMHP or the executive director of the Mental Health Facility conducting the Evaluation of the Adult shall immediately file a petition in an appropriate county of the State of Oklahoma or request the Prosecutor to file a petition with the Court as provided by this Act, and may request a Court order directing Pre-Hearing Detention when such detention is necessary for the protection of the Person or others. If the Prosecutor declines to file petition, immediate notification of declination to file must be given to the LMHP by the Prosecutor.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>When a request for an order for Pre-Hearing Detention is attached to or is included in a petition alleging an Adult to have a Mental Illness and be a Person Requiring Treatment under these provisions, the Court shall determine whether there is probable cause to detain the Adult who is the subject of the petition prior to a hearing on the petition.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>If the Court reasonably determines that an order for further detention is warranted by the petition, the Court shall issue an order for Pre-Hearing Detention which will include a date, time, and place for hearing on the petition, and shall include one of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>an order authorizing any Officer to take the Adult into custody if the Person is at large or has escaped Protective Custody and to detain such Adult in a Mental Health Facility; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>an order authorizing the Mental Health Facility in which the Adult is detained to further detain such Adult prior to a hearing on the petition.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The period of Pre-Hearing Detention shall not exceed seventy-two (72) hours, excluding weekends and holidays, from the expiration of the Emergency Detention period, unless the Court has authorized detention beyond such additional seventy-two (72) hour period for Good Cause in its order for Pre-Hearing Detention. Pre-Hearing Detention may be exceeded to coincide with any order of continuance entered by Court.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>A certified copy of the order of Pre-Hearing Detention shall constitute authority for any Officer or any Mental Health Facility to detain or continue to detain the Adult prior to the hearing on the petition.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>An Adult may be detained in Emergency Detention more than one hundred and twenty (120) hours or five (5) days, excluding weekends and holidays, only after the following have been completed:</text>
+          <para>
+            <num>1.</num>
+            <text>a petition has been filed seeking involuntary Commitment orTreatment pursuant to the provisions herein; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the Mental Health Facility in which the Adult being detained is presented with a copy of Pre-Hearing Detention Order for further detention from the Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>If a copy of an order of Pre-Hearing Detention is not delivered to the Mental Health Facility by the end of the period of Emergency Detention, the Adult alleged to have a Mental Illness and to be a Person Requiring Treatment shall be discharged from the facility in which detained unless the Adult has voluntarily Consented to Commitment.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>If, after reviewing the petition, the Court reasonably determines that additional detention is not warranted, the Court shall dismiss the petition and order the Adult released.	If the Adult wishes, an Officer will return the Adult to the point where the Adult was taken into Protective Custody and released, or taken to the home or residence of Adult or to an alternate facility. If home or residence of Adult is a nursing home or group home such home shall not refuse the Adult's return.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.2</num>
+        <heading>PETITION FOR ADULT REQUIRING TREATMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The following individuals may request the Prosecutor to file a petition with the Court to determine whether an Adult has a Mental Illness and is a Person Requiring Treatment and to order the least restrictive appropriate Treatment for the Person:</text>
+          <para>
+            <num>1.</num>
+            <text>a parent, spouse, sibling, guardian or child over the age of eighteen (18) years of an Adult alleged to have a Mental Illness and be a Person Requiring Treatment;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>an LMHP;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>any Officer;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>any director or administrator or executive director of a Mental Health Facility where the Adult is detained; and/or</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>the Prosecutor.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The petition shall contain all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>a statement of the complete facts upon which the allegation is based, including the opinion of the LMHP that the Adult appears to be a Person with a Mental Illness and be a Person Requiring Treatment;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the name, address, date of birth and tribal affiliation of the Adult;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>if known, the names and addresses of all witnesses to the alleged facts;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>attached copy of the Officer's affidavit or the Officer's report along with the statement made upon taking the Adult into Protective Custody, if applicable;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>a request for the Pre-Hearing Detention and/or additional Emergency Detention of the Adult alleged to have a Mental Illness and to be a Person Requiring Treatment, which may be included in or attached to the petition;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>an attached copy of the Certificate of Evaluation from the LMHP who conducted the Emergency Examination, or from the Mental Health Facility where the Adult is detained, if applicable;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>the relief requested; and</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>verification of petition and a statement made under penalty of perjury.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.3</num>
+        <heading>NOTICE OF PROCEEDING FOR ADULT REQUIRING TREATMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Court shall cause notice of the hearing on the petition alleging an Adult to have a Mental Illness and be a Person Requiring Treatment under these provisions to be delivered accordingly.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The notice shall contain all of the following information:</text>
+          <para>
+            <num>1.</num>
+            <text>the definitions provided by <cite path="13|7|A|13-701.6">Section 13-701.6</cite> of "Mental Illness" and "Person Requiring Treatment";</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>if applicable, that the Court has ordered the examination of the Adult by two LMHPs as defined in this Act, for the purpose of conducting an Evaluation of the Person alleged to have a Mental Illness and requiring Treatment and executing a Certificate of Evaluation as to their findings;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>that, upon request of the Adult alleged to have a Mental Illness, the hearing on the petition may be conducted by jury trial and the jury shall be composed of six (6) individuals having the qualifications required of jurors in the Nation;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>that the witnesses identified in the petition may offer testimony under oath at the hearing on the petition;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>that the Court may appoint an attorney for the Adult who shall represent the Adult until final disposition of the case, and if the Adult is indigent, the Court shall pay the attorney fees. Further, the name, address and telephone number of the Court appointed attorney for the Adult shall be clearly stated in the notice or an order appointing the attorney shall be attached, if applicable;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>that if the Adult is found at the hearing or at jury trial to have a Mental Illness and to be a Person Requiring Treatment under this Act, the Court shall take evidence and make findings of fact concerning the Adult's competency to Consent or to refuse the Treatment that is ordered, including, but not limited to, the right of the Adult to refuse psychotropic medications;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>that the Adult alleged to have a Mental Illness and be a Person Requiring Treatment shall be afforded such other rights as are guaranteed by the Nation's and federal laws; and</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>the date, time, and place of the hearing on the petition.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The notice will appear substantially as follows:</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A copy of the notice, the petition, any attachments to the petition, and the order for Pre-Hearing Detention, or additional Emergency Detention, if applicable, shall be personally delivered at least one (1) day prior to the hearing to the following individuals or agencies:</text>
+          <para>
+            <num>1.</num>
+            <text>the Adult alleged to have a Mental Illness and be a Person Requiring Treatment;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the individual initiating the request for an additional Emergency Detention, involuntary Commitment or Pre-Hearing Detention;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>the attorney or Court appointed attorney for the Adult alleged to have a Mental Illness and be a Person Requiring Treatment under these provisions;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>the Mental Health Facility, if any, in which the Adult is detained in Emergency Detention or Pre-Hearing Detention; and</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>any other individual or agency designated by the Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Notice required by the Act shall be personally served by an Officer or by certified mail. The person serving by certified mail or the Officer making such personal service shall submit proof of service to the Nation's Court by delivering such to the Court clerk to be filed at least one (1) day prior to the hearing date.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Notice of orders of the Court directing a Pre-Hearing Detention shall be delivered in substantially the same manner. Notice of a Court order directing a Mental Health Evaluation shall be delivered at least one (1) day prior to the Mental Health Evaluation, but generally as soon as practical.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.4</num>
+        <heading>RIGHTS OF ADULT ALLEGED TO HAVE AMENTAL ILLNESS AND BE A PERSON REQUIRING  TREATMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Court shall advise the Adult alleged to have a Mental Illness and to be a Person Requiring Treatment of the following rights:</text>
+          <para>
+            <num>1.</num>
+            <text>the right to remain silent;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the right to notice as provided by this Act;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>the fact that it is a closed hearing, unless requested otherwise;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>the right to a jury trial upon Adult's request where jury is composed of six (6) persons having qualifications as required by Court;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>the right to an attorney, and if indigent and cannot afford any attorney, the Court shall appoint an attorney to represent the Adult at no cost to the Adult;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>the right to be present at the hearing or jury trial, unless the Court finds, based on clear and convincing evidence, that the presence of the Adult makes it impossible to conduct the hearing or trial in a reasonable manner or that the presence of the Adult is injurious to the health or well-being of the Adult or of others;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>the right to present and cross-examine witnesses at any hearing or jury trial. The Adult alleged to have a Mental Illness and to be a Person Requiring Treatment may also be called as a witness and cross-examined;</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>the right to compel the Nation to prove its allegations in the petition by clear and convincing evidence;</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>that the Adult shall be afforded any such other rights conferred by the Nation's and federal laws; and</text>
+          </para>
+          <para>
+            <num>10.</num>
+            <text>that no statement, admission or confession made by the Adult alleged to have a Mental Illness and to be a Person Requiring Treatment may be used for any purpose except for proceedings under this Act. No such statement, admission or confession may be used against such Adult in any criminal action whether pending at the time the hearing is held or filed against such Adult any later time directly or in any manner or form.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.5</num>
+        <heading>CONFIDENTIAL RECORDS.</heading>
+        <text>For the purposes of this Act, records of Court proceedings, counselor's records, reports, transcripts, social or clinical studies, pleadings, or any other document, relating to an Adult alleged to have a Mental Illness and be a Person Requiring Treatment shall be confidential and shall not be open to public inspection except by order of the Court, and/or except by the parties, the parties' attorneys, or employees of the Mental Health Facility for Adult's needs or legitimate Treatment interests.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.6</num>
+        <heading>ATTORNEY OF RECORD.</heading>
+        <para>
+          <num>A.</num>
+          <text>A Court appointed attorney shall be a member in good standing with the Chickasaw Bar Association. Such attorney shall represent the Adult until final disposition of the case.</text>
+          <para>
+            <num>1.</num>
+            <text>The court-appointed attorney shall be replaced by another attorney if:</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the person alleged to be a person requiring Treatment prefers the services of an attorney other than the one initially appointed for the person,</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>the preferred attorney agrees to accept the responsibility, and</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>the person alleged to be a person requiring Treatment or the preferred attorney notifies the court of the preference and the attorney's acceptance of employment.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Court appointed attorney for the Adult may seek to withdraw or resign for Good Cause, and request the Court to appoint a substitute attorney.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The Adult's attorney, whether appointed or retained, shall meet and consult with the Adult within one (1) day of notification of appointment or representation and shall advise the Adult of his or her rights. Any request for additional days is subject to discretion of Court considering the facts and circumstances.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.7</num>
+        <heading>HEARINGS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Hearings under this Act:</text>
+          <para>
+            <num>1.</num>
+            <text>shall be held before a judge of the Court in a location designated for the Court;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>may be conducted by the Court by video conference or by telephone, if the judge determines that such is in the best interest of the Adult alleged to have a Mental Illness and be a Person Requiring Treatment;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>require all attorneys to appear before the judge in all proceedings;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>shall be closed to the public, unless Adult specifically requests otherwise. Each hearing shall be recorded, but such recording shall not be open to public inspection except by order of the Court;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>do not require that an LMHP be present at non-jury hearings if the Certificate of Evaluation has been properly prepared and timely filed;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>require at jury trial the attendance and testimony of the LMHPs conducting the Mental Health Evaluation; and</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>when hearing is conducted at jury trial, the petitioner and any witness on behalf of petitioner shall be subject to cross-examination by the attorney for the Adult alleged to be a Person Requiring Treatment. The Adult may also be called as a witness and cross-examined.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If the Adult's presence is required, an Officer shall be responsible for transporting the Adult to and from Court proceedings, unless other transportation is directed by the Court.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>If a judge or jury determines by clear and convincing evidence at a hearing on the petition that the Adult alleged to have a Mental Illness and be a Person Requiring Treatment appears to be a Person who has a Mental Illness and is a Person Requiring Treatment, the Court shall order the Adult to receive the least restrictive Treatment consistent with the needs of the Adult and the safety of the Adult and others.</text>
+          <para>
+            <num>1.</num>
+            <text>The Court shall not order hospitalization in a Mental Health Facility without a thorough consideration of available Treatment alternatives to hospitalization and may direct the submission of evidence as to the Least Restrictive Treatment alternative or may order an Examination.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>If the Court finds that a program other than Mental Health Facility hospitalization is appropriate to meet the Treatment needs of the Adult and is sufficient to prevent injury to the Adult or to others, the Court may order the Adult to receive whatever Treatment other than hospitalization that is appropriate for the period set by the Court, during which time the Court continues its jurisdiction over the Adult as a Person Requiring Treatment.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>If the Court orders the Adult to be committed for involuntary Inpatient Treatment at a Mental Health Facility, the Court commits the Adult to the custody of the appropriate agency that handles placement in a Mental Health Facility or to the Oklahoma Department of Mental Health and Substance Abuse Services for a placement that is suitable to the Adult's needs or to a facility willing to accept the Person Requiring Treatment.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Adult shall be delivered to the custody of the appropriate agency that handles placement in a Mental Health Facility or to the Oklahoma Department of Mental Health and Substance Abuse Services for a placement that is suitable to the Adult's need.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>The Court shall set the matter for review not more than thirty (30) days from the date of Commitment and shall continue to review the matter at least every thirty (30) days until the Adult is no longer a danger to himself or others and is no longer a Person in Need of Treatment as determined by the LMHP of the treating Mental Health Facility. Not less than three (3) days prior to each review hearing, the Mental Health Facility shall submit a report regarding the Adult's progress and Treatment and make further recommendations regarding the Adult's care to the Court.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Adult shall be discharged from the Inpatient Treatment at such time as the Adult no longer requires Treatment as determined by the executive director or designee of the Mental Health Facility, or as required by law.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>If a judge or jury determines at a hearing on the petition that the Adult is not a Person Requiring Treatment, the Court shall dismiss the petition and, if the Adult is being detained, order the Adult to be discharged from detention.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.8</num>
+        <heading>CERTIFICATE OF EVALUATION.</heading>
+        <text>The Certificate of Evaluation shall consist of a report from two LMHPs conducting the Evaluation pursuant to this Act and shall include written findings as to whether:</text>
+        <para>
+          <num>A.</num>
+          <text>the Adult being evaluated appears to have a demonstrable Mental Illness and is a Person Requiring Treatment as defined in this Act, as is reasonably likely to benefit from Treatment from a Mental Health Facility; and</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>based on the following, Inpatient Treatment is the Least Restrictive Alternative that meets the needs of the Adult if:</text>
+          <para>
+            <num>1.</num>
+            <text>reasonable efforts have been made to provide for the mental health Treatment needs of the Adult through the provision of less restrictive alternatives and the alternatives have failed to meet the Treatment needs of the Adult; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>after a thorough consideration of less restrictive alternatives to Inpatient Treatment, the condition of the Adult is such that less restrictive alternatives are unlikely to meet the Treatment needs of the Adult.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.9</num>
+        <heading>ALTERNATIVES TO COMMITMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Court considering a Commitment petition filed under the Act, shall not order hospitalization in a Mental Health Facility without a thorough consideration of the available Treatment alternatives to hospitalization, or without addressing the competency of the Adult to Consent to or refuse the Treatment that is Court ordered including, but not limited to, the rights of the Adult:</text>
+          <para>
+            <num>1.</num>
+            <text>to be heard concerning the Treatment of the Adult; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>to refuse medications.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If the Court, in considering a Commitment petition filed under the Act, finds a program other than hospitalization in a Mental Health Facility is adequate to meet the Treatment needs of the Adult and is sufficient to prevent injury to the Adult or to others, the Court may order the Adult to receive whatever Treatment other than hospitalization in a Mental Health Facility is appropriate for a period set by the Court. During this time, the Court:</text>
+          <para>
+            <num>1.</num>
+            <text>shall have continuing jurisdiction over the Adult as a Person Requiring Treatment; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>shall periodically, no less often than annually, review the Adult's Treatment needs and determine whether or not to continue, discontinue, or modify the Treatment.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>If at any time it comes to the Court's attention the Adult ordered to undergo a program of alternative Treatment to hospitalization in a Mental Health Facility is not complying with the Court's order or that the alternative Treatment program has not been sufficient to prevent harm or injury which the Adult may be inflicting upon the Adult or others, the Court may order the Adult to show cause why the Court should not:</text>
+          <para>
+            <num>1.</num>
+            <text>implement other alternatives to hospitalization, modify or rescind the original order or direct the Adult to undergo another program of alternative treatment, if necessary and appropriate, based on written findings of the Court, or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>enter an order of admission to a Mental Health Facility pursuant to the provisions of this Act, directing that the Adult be committed to Inpatient Treatment and, if the Adult refuses to comply with this order of Inpatient Treatment, the Court may direct an Officer to take the Adult into Protective Custody and transport the Adult to a Mental Health Facility.</text>
+          </para>
+        </para>
+        <aftertext>The Court shall give notice to the Adult ordered to show cause and hold the hearing within seventy-two (72) hours of the notice. The Adult ordered to undergo a program of alternative Treatment shall not be detained in Emergency Detention pending the show cause hearing unless, prior to the Emergency Detention, the Adult has undergone an Initial Examination and a determination is made that the Emergency Detention is warranted.</aftertext>
+        <para>
+          <num>D.</num>
+          <text>If an order of alternative Treatment expires without further review by the Court and it is believed that the Adult continues to require Treatment, a person competent to file or request the filing of a petition, pursuant to <cite path="13|7|A|13-701.11">Section 13-701.11</cite> of this title, may file or request the Prosecutor file either an application for an extension of the Court's previous order or an entirely new petition for a determination that the Adult is a Person Requiring Treatment.</text>
+          <para>
+            <num>1.</num>
+            <text>A hearing on the application or petition filed pursuant to paragraph 4 of this subsection shall be held within ten (10) days after the application or petition is filed, unless the Court extends the time for Good Cause.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>In setting the matter for hearing, the Court shall consider whether or not the prior orders of the Court will expire during the pendency of the hearing and shall make appropriate orders to protect the interests of the Adult.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Prior to ordering the Inpatient Treatment of the Adult, the Court shall inquire into the adequacy of Treatment to be provided to the Adult by the Mental Health Facility, and Inpatient Treatment shall not be ordered unless the Mental Health Facility in which the Adult is to be treated can provide the Adult with Treatment which is adequate and appropriate to such Adult's condition.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Nothing in this Act shall prohibit the Mental Health Facility or the program providing the alternative Treatment from discharging the Adult admitted pursuant to this Act, at a time prior to the expiration of the period of alternative Treatment, or any extension thereof. The Mental Health Facility or program providing the alternative Treatment shall file a report with the Court outlining the disposition of the Adult admitted pursuant to this Act within forty-eight (48) hours after discharge.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Notice of any proceedings pursuant to this Section shall be given to the Adult, the Adult's guardian, the Adult's attorney, and Prosecutor.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.10</num>
+        <heading>MODIFICATION ORDER – NOTICE.</heading>
+        <text>The Court may modify an order for involuntary inpatient Commitment and order alternative Treatment pursuant to the provisions of this Act upon request of the Adult or the executive director or designee of a Mental Health Facility to which Adult has been involuntarily committed for Inpatient Treatment. The Court shall give notice to the Adult affected thereby and to each individual required to receive notice pursuant to this Act, to appear within seven (7) regular Court days, or as many other days as the Court may grant, and show cause why the modification shall not be made. The notice shall contain the following information:</text>
+        <para>
+          <num>A.</num>
+          <text>The Adult ordered to undergo a program of alternative Treatment without hospitalization is not complying with the previous order, or that the alternative Treatment program has not been sufficient to prevent harm or injury to the Adult or others, or the Adult committed for inpatient care and Treatment at a Mental Health Facility is eligible for discharge and that an Evaluation conducted prior to discharge determined that an order for alternative Treatment is necessary in order to prevent impairment or injury to the Adult;</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>a statement of the facts upon which the alleged change of condition is based and a copy of any written findings entered by the Court;</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>notice of the time and place of the show cause hearing;</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>notice of the types of modifications that the Court can make pursuant to this hearing;</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>the witnesses who shall testify or offer evidence for the modification which are known to the Court;</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>that the Adult has the right to an attorney, and that if the individual cannot afford an attorney, one will be provided by the Court; and</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>that the Adult has the right to cross-examine witnesses, and to call witnesses in such Adult's own defense.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-703.11</num>
+        <heading>REVIEW OF STATUS OF ADULT INVOLUNTARILY COMMITTED FOR TREATMENT.</heading>
+        <text>Any Adult receiving involuntary Inpatient Treatment, or such Adult's attorney, may at any time file a written request that the Treatment order be reviewed by the Court. If a review is requested, the Court shall hear the matter within thirty (30) days after the request, and the Court shall give notice to the Adult and such Adult's attorney and the executive director or designee in charge of the Mental Health Facility of the time and place of the hearing. The hearing shall be to determine if the Adult can be treated on a less restrictive basis. At the conclusion of the hearing, the Court may confirm the order of Treatment, modify the order of Treatment, discharge the Adult, or enter any appropriate order.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>D</num>
+      <heading>COURT PROCEEDINGS FOR MINORS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.1</num>
+        <heading>PRE-HEARING DETENTION.</heading>
+        <para>
+          <num>A.</num>
+          <text>Whenever it appears that a Minor detained as provided in this Act will require additional detention and Treatment beyond the period of Emergency Detention and the Minor is sixteen (16) years of age or older, or the Minor's Parent(s), if the Minor is under sixteen years of age, has refused to Consent to voluntary Treatment, the LMHP conducting the Evaluation of the Minor shall immediately forward a copy of the examination and Evaluation of the Minor to the Prosecutor and request the Prosecutor to file a petition with the Court as provided by this Act. The Prosecutor may request a Pre-Hearing Detention Order directing when such detention is necessary for the protection of the Minor or others. If the Prosecutor refuses, immediate notification of refusal to file must be given to the LMHP by the Prosecutor.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>When a request for a Pre-Hearing Detention Order is attached to or included in a petition alleging a Minor to have a Mental Illness and be a Minor in Need of Treatment under these provisions, the Court shall determine whether there is probable cause to detain the Minor who is the subject of the petition prior to a hearing on the petition.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>If the Court reasonably determines that an order for further detention is warranted by the petition, the Court shall issue an order for Pre-Hearing Detention Order which will include a date, time, and place for hearing on the petition, and shall also include one of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>an order authorizing Officer to take the Minor into custody if the Minor is at large or has escaped Emergency Detention, and to detain such Minor in an appropriate Mental Health Facility; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>an order authorizing the Mental Health Facility in which the Minor is detained to further detain such Minor prior to a hearing on the petition.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The period of Pre-Hearing Detention Order shall extend until a hearing on the petition which shall be immediately set by the Court on a specific date and time. A certified copy of the Pre-Hearing Detention Order constitutes authority for Mental Health Facility to detain the Minor in Need of Treatment, unless the Court dismisses the case based on lack of Good Cause to uphold a finding that Minor is a Minor in Need of Treatment.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>A certified copy of the Pre-Hearing Detention Order shall constitute authority for any Officer or any Mental Health Facility to detain or continue to detain the Minor prior to the hearing on the petition.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>A Minor may be detained in Emergency Detention more than five (5) days, excluding weekends and holidays, only after the following have been completed:</text>
+          <para>
+            <num>1.</num>
+            <text>a petition has been filed alleging the Minor is a Minor in Need of Treatment, along with a receipt of a Pre-Hearing Detention Order; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the Mental Health Facility in which the Minor being detained is presented with a certified copy of Pre-Hearing Detention Order for further detention from the Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>If a certified copy of a Pre-Hearing Detention Order is not delivered to the Mental Health Facility by the end of the period of Emergency Detention, the Minor alleged to have a Mental Illness and to be a Person Requiring Treatment shall be discharged from the Mental Health Facility in which detained unless the Minor or Minor's Parent has applied for voluntary Treatment.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>If, after reviewing the petition, the Court reasonably determines that additional detention is not warranted, the Court shall dismiss the petition and order the Minor released to Parents. A Minor shall be detained until the Parent(s) appears at the Mental Health Facility and accepts custody, or immediately released at large if legally emancipated. If the legally emancipated Minor wishes, an Officer will return the individual to the point where the legally emancipated Minor was taken into Protective Custody and released, or taken to the home or residence of legally emancipated Minor or to an alternate facility.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.2</num>
+        <heading>PETITION FOR MINOR REQUIRING TREATMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>A petition alleging a Minor has a Mental Illness and is a Person in Need of Treatment and requesting the least restrictive appropriate Treatment for the Minor, may be filed by the Prosecutor within three (3) days after receipt and review of the LMHPs' Mental Health Evaluation, and also upon the request of:</text>
+          <para>
+            <num>1.</num>
+            <text>a Mental Health Facility, or when a Minor is a Ward of the Court, the Nation's agency having supervision of the Minor and/or the case, or the Parent of the Minor with Consent of the applicable agency having supervision of the Minor or the case; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>any director or administrator of a Mental Health Facility where the Minor is detained.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If the Mental Health Evaluation has not been conducted on the Minor, the Prosecutor may ask the Court to order the Minor to be evaluated prior to filing the petition.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>After receipt and review of the LMHPs' Mental Health Evaluation, the Prosecutor shall perform either of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>decline to file a petition and immediately notify the requesting Mental Health Facility, in writing, of the declination to file. The Minor shall be discharged into the custody of the Parent(s) or the Nation's agency having custody; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>file a petition with the Mental Health Evaluation report attached, with notice as provided by this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The proceeding shall be entitled "In the Matter of <u>(First, Middle and Last Initials),</u> an Alleged Minor in Need of Treatment." The Minor's name shall not be used in any pleadings.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The petition shall contain all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>a statement of the complete facts upon which the allegation(s) is based, including the opinion of the LMHPs that the Minor has a demonstrable Mental Illness and, as a result of that Mental Illness, is a Person in Need of Treatment as defined in this Act;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>if known, the names and addresses of all witnesses to the alleged facts;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>the Minor's date of birth, tribal affiliation and residence;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>the names and residences of the Minor's Parent(s) or the names and residences of the Minor's nearest relatives if no Parent(s) can be found;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>an attached copy of the Officer's affidavit, or Officer's report along with the third-party affidavit made upon taking the Minor into Protective Custody, if applicable;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>a request for the Pre-Hearing Detention of the Minor alleged to have a Mental Illness and to be a Minor in Need of Treatment, which may be included in or attached to the petition;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>an attached copy of the Mental Health Evaluation from the LMHPs who conducted the examination, or from the Mental Health Facility where the Minor is detained, if applicable;</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>the relief requested; and</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>witnesses intended to be called by Prosecutor.</text>
+          </para>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Upon the filing of a petition, if a Minor has been admitted to a Mental Health Facility, the Mental Health Facility shall ensure that a proposed Treatment Plan for the Minor is prepared and submitted to the Court at least twenty-four (24) hours prior to the time set for hearing on the petition.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.3</num>
+        <heading>ADMISSION OF A DEPRIVED CHILD.</heading>
+        <para>
+          <num>A.</num>
+          <text>A Minor who is placed into emergency, temporary, or permanent custody as a deprived child pursuant to Title 6 of the Chickasaw Code and who is alleged or has been adjudicated a Ward of the Court shall not be admitted to a Mental Health Facility by anyone other than a legal custodian, except under the following conditions:</text>
+          <para>
+            <num>1.</num>
+            <text>on an emergency basis as provided by this Act; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>for Inpatient Treatment, upon a Court order pursuant to subsection D of this Section and after a finding that the Minor requires such Treatment as a Person in Need of Treatment pursuant to this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>After a Mental Health Evaluation and a determination that a Minor is a Person in Need of Treatment, the Minor may be admitted to a Mental Health Facility on an emergency basis for a period not to exceed five (5) business days from the time of admission, excluding weekends and holidays. On the next business day following admission, notice of such admission shall be given by the person responsible for the supervision of the case, as applicable, to the Minor's attorney, the guardian <em>ad litem</em>, the Court and the Prosecutor.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A Minor admitted on an emergency basis pursuant to this section shall be examined and the Mental Health Evaluation Report shall be submitted to the Prosecutor within forty-eight (48) hours of admission, excluding weekends and holidays. The Mental Health Evaluation shall be performed by LMHPs at the Mental Health Facility.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>If, after the Mental Health Evaluation, it appears that the Minor may require Inpatient Treatment, the Prosecutor shall file a petition seeking determination that Minor is a Person in Need of Treatment within three (3) days, excluding holidays and weekends, after receiving the Mental Health Evaluation requesting an order committing the Minor to a Mental Health Facility for inpatient Treatment. After filing a petition and upon issuance of a Pre-Hearing Detention Order, the Minor may be detained in the Mental Health Facility for no longer than necessary for a hearing on the petition or further order of the Court.</text>
+          <para>
+            <num>1.</num>
+            <text>Nothing in this section shall be interpreted to preclude or prohibit a Parent having legal custody of a Minor who is a Ward of the Court from arranging for an emergency admission of the Minor, in such cases, the Parent shall immediately notify the person responsible for the supervision of the case of the admission.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Nothing in this section shall be interpreted to prohibit or preclude the provision of outpatient Treatment or services including, but not limited to, outpatient evaluation, counseling, educational, rehabilitative or other mental health services to the Minor in the absence of a specific Court order.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.4</num>
+        <heading>ATTORNEY OF RECORD – GUARDIAN AD LITEM.</heading>
+        <para>
+          <num>A.</num>
+          <text>Upon the filing of a petition alleging a Minor to be a Minor Person in Need of Treatment, the Court:</text>
+          <para>
+            <num>1.</num>
+            <text>shall appoint an attorney to represent the Minor, who is authorized to act on behalf of the Minor. An attorney so appointed shall consult with the Minor at least twenty-four (24) hours prior to the date set for hearing of the petition. The Parent(s) of a Minor may retain the services of a private attorney for the Minor with prior notice to and approval from the Court; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>may appoint a guardian <em>ad litem</em> for the Minor, in addition to the appointed attorney, who shall be authorized to act in the best interest of the Minor, and shall be afforded all privileges associated with such title.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A guardian <em>ad litem</em> appointed for a Minor under this Act is not a party to the case but may:</text>
+          <para>
+            <num>1.</num>
+            <text>conduct an investigation to the extent that the guardian <em>ad litem</em> considers necessary to determine the best interests of the Minor;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>obtain and review copies of the Minor's relevant medical, psychological, and school records;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>within a reasonable time after the appointment interview the Minor, or any person who has significant knowledge of the Minor's history and condition, including any Parent of the Minor; and</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>perform any specific task directed by the Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A guardian <em>ad litem</em> appointed for the Minor under this Act is entitled to all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>receive a copy of each pleading or other paper filed with the Court in the case in which the guardian <em>ad litem </em>is appointed;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>receive notice of each hearing in the case;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>attend all legal proceedings in the case but may not call or question a witness;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>attend a trial or hearing and testify as necessary for the proper disposition of the suit;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>submit a report regarding the guardian <em>ad litem's</em> recommendations relating to:</text>
+            <para>
+              <num>a.</num>
+              <text>the best interests of the Minor; and</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>the basis for the guardian <em>ad litem's</em> recommendations;</text>
+            </para>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>request clarification from the Court if the role of the guardian <em>ad litem</em> is ambiguous; and</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>be immune from discovery requests.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>At any proceeding under this Act, a party may call the guardian <em>ad litem </em>as a witness for the purpose of cross-examination regarding the guardian <em>ad litem's</em> report without the guardian <em>ad litem </em>being listed as a witness by a party. If the guardian <em>ad litem </em>is not called as a witness, the Court shall permit the guardian <em>ad litem </em>to testify in the narrative.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.5</num>
+        <heading>NOTICE OF PROCEEDING FOR MINOR IN NEED OF TREATMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>Upon filing of a petition alleging a Minor in Need of Treatment, the Court shall:</text>
+          <para>
+            <num>1.</num>
+            <text>enter a Pre-Hearing Detention Order as may be necessary;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>take action pursuant to <cite path="13|7|B|13-702.12|(3)">Section 13-702.12(3)</cite>;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>set a hearing on the petition. The date of hearing shall not be less than one (1) day or more than four (4) days from the date that the petition was filed. Upon request of the Minor's attorney, the date of hearing may be extended once up to an additional three (3) days, excluding weekends and holidays, and provide notice of the hearing on the petition alleging a Minor to have a Mental Illness and to be a Person in Need of Treatment under these provisions.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>The notice shall contain all of the following information:</text>
+            <para>
+              <num>a.</num>
+              <text>the definitions for "Mental Illness" and a "Person in Need of Treatment" as provided under this Act;</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>whether the Court has ordered the examination of the Minor by LMHPs for the purpose of conducting a Mental Health Evaluation of the Minor and execution of a Mental Health Evaluation Report;</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>the right to demand a jury trial on allegations contained in the petition. If demanded, the jury shall be composed of six (6) persons having the qualifications required of the Nation's jurors;</text>
+            </para>
+            <para>
+              <num>d.</num>
+              <text>the right to call and cross-examine witness(es) at the hearing;</text>
+            </para>
+            <para>
+              <num>e.</num>
+              <text>name, address and telephone number of the Court appointed attorney for the Minor, and if applicable, the guardian <em>ad litem</em>;</text>
+            </para>
+            <para>
+              <num>f.</num>
+              <text>that if the Minor or the Minor's Parent(s) is indigent, the Court shall pay the Minor's Court appointed attorney's fees; and</text>
+            </para>
+            <para>
+              <num>g.</num>
+              <text>the date, time, and place of the hearing on the petition which shall be more than one (1) day or less than four (4) days excluding weekends and holidays from date that petition was filed.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Court shall provide notice of the hearing on the petition alleging a Minor in Need of Treatment under these provisions to be delivered accordingly.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A copy of the notice, the petition, any attachments to the petition, and the Pre-Hearing Detention Order, if applicable, shall be provided to the following persons:</text>
+          <para>
+            <num>1.</num>
+            <text>Minor;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Minor's attorney;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>guardian <em>ad litem</em>;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Mental Health Facility, if any, in which the Minor is detained in Emergency Detention;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>the Parent(s) of the Minor; and</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>any other person or agency designated by the Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Notice shall be given at least twenty-four (24) hours prior to the date set for the hearing and shall be given in such manner as directed by the Court.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Notice of orders of the Court directing a Mental Health Evaluation or Pre-Hearing Detention shall be delivered in substantially the same manner. Notice of a Court order directing a Mental Health Evaluation shall be delivered at least twenty-four (24) hours prior to the Mental Health Evaluation, but generally as soon as practical.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.6</num>
+        <heading>HEARINGS.</heading>
+        <text>Hearings under this Article:</text>
+        <para>
+          <num>A.</num>
+          <text>shall be held before a judge of the Court in a location designated for the Court;</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>shall be closed to the public and only those having a direct interest shall be admitted. Each hearing shall be recorded, but such recording shall not be open to public inspection except by order of the Court;</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>may be conducted via teleconference communication, except for jury trials. For purposes of this paragraph, "teleconference communication" means participation in the hearing by interactive telecommunication, including telephonic or video communication, by the absent party, those parties present in court, the attorneys, and others deemed to be necessary participants to the proceeding including, but not limited to, foster parents and facility staff from Mental Health Facility where a Minor may be receiving care or Treatment.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>may be conducted by the Court by video conference or by telephone at non-jury hearings if the judge determines that such is in the best interest of the Minor;</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>shall require attorneys to appear before the judge at all proceedings;</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>do not require that the LMHPs be present at non-jury proceedings if the report of the LMHPs has been properly prepared and timely submitted to the Court; and</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>shall require the attendance and testimony of the LMHPs performing the Mental Health Evaluation at a jury trial.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.7</num>
+        <heading>CONFIDENTIAL RECORDS.</heading>
+        <text>For the purposes of this Article, records of Court proceedings, counselor's records, reports, transcripts, social or clinical studies, pleadings, or any other document relating to an alleged Minor in Need of Treatment shall be confidential and shall not be open to inspection without consent from the Court, and/or except by the parties, the parties' attorneys, the guardian ad litem, or employees of the Mental Health Facility for Minor's needs or legitimate Treatment interests.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.8</num>
+        <heading>MINOR'S RIGHTS AT HEARING – TRANSPORTATION OF MINOR – DETERMINATIONS AT HEARING.</heading>
+        <para>
+          <num>A.</num>
+          <text>At the hearing on the petition, the Court shall advise the Minor of the following rights:</text>
+          <para>
+            <num>1.</num>
+            <text>that the Minor may remain silent;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>that no statement, admission or confession made by the Minor alleged to be a Minor in Need of Treatment may be used for any purpose except for proceedings under this Act;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>that the Minor may stipulate to the allegations contained in the petition and understands the consequences thereof;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>that the Minor or the Minor's Parent(s) shall have the right to demand a jury trial, which shall be granted, unless specifically waived, or the judge on his or her own motion may call a jury to try any such case;</text>
+            <para>
+              <num>a.</num>
+              <text>such jury shall consist of three (3) persons meeting the requirements of jurors for the Chickasaw Nation; and</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>all witnesses on behalf of the Nation shall appear in person and be subject to cross-examination by the Minor's attorney.</text>
+            </para>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>if a jury trial is not demanded, the Court may receive evidence and act upon the Mental Health Evaluation by the LMHPs who evaluated the Minor, without the appearance of the LMHPs in Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>An Officer shall be responsible for transporting the Minor to and from Court proceedings unless another form of transportation is directed by the Court.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>To find that a Minor requires Inpatient Treatment, the Court or a jury, must be based on sworn testimony with Minor having right to cross-examination unless the facts are stipulated. If the Minor stipulates to the allegations, the Judge must ascertain if the Minor understands the consequences thereof. The Court or a jury must determine by clear and convincing evidence:</text>
+          <para>
+            <num>1.</num>
+            <text>that the Minor has a demonstrable Mental Illness and as a result of that Mental Illness can be expected within the near future to inflict or attempt to inflict serious bodily harm to himself or another person if services are not provided; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>that the Minor is a Person in Need of Treatment and is likely to benefit from such Treatment.</text>
+          </para>
+          <aftertext>and either:</aftertext>
+          <para>
+            <num>3.</num>
+            <text>all reasonable efforts have been made to provide for the Treatment of the Minor through the provision of Less Restrictive Alternatives to Inpatient Treatment and such alternatives have failed to meet the needs of the Minor; or</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>there are no comparable effective services available to the Minor that are physically less intrusive or restrictive.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>After the hearing the Court shall order the Minor to receive the least restrictive care and Treatment appropriate for the Minor until such time as the care and Treatment are no longer necessary.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>When the Court orders the Commitment of a Minor to a Mental Health Facility for Inpatient Treatment, the Court shall set the matter for review not more than thirty (30) days from the date of Commitment and shall continue to review the matter at least every thirty (30) days until the Minor is no longer a danger to himself or others and is no longer a Person in Need of Treatment as determined by the LMHP of the treating Mental Health Facility. Not less than three (3) days prior to each review hearing, the Mental Health Facility shall submit a report regarding the Minor's progress and Treatment and make further recommendations regarding the Minor's care to the Court.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>If the Court or a jury determines the Minor does not require Inpatient Treatment, the Court may:</text>
+          <para>
+            <num>1.</num>
+            <text>order Treatment through a Less Restrictive Alternative to Inpatient Mental Health Treatment, which may include ordering the Minor to take prescribed medication and ordering the Parent(s) to comply with reasonable conditions relating to the Treatment of the Minor if there is evidence that such alternative Treatment may be beneficial to the Minor, and thereafter set the case for periodic review; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>dismiss the case and discharge the Minor into the custody of the Minor's Parent(s). The Minor shall be detained until the Parent(s) appear at the Mental Health Facility and accepts custody of the Minor. If the Minor is emancipated, the Minor shall be released at large.</text>
+          </para>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>An order of the Court commanding the Commitment of a Minor to a Mental Health Facility for Inpatient Treatment shall not relieve the Parent(s) of the obligation to provide for the support of the Minor nor of the liability of the cost of Inpatient Treatment provided to the Minor.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.9</num>
+        <heading>MENTAL HEALTH EVALUATION.</heading>
+        <para>
+          <num>A.</num>
+          <text>The LMHPs' Mental Health Evaluation shall be in the form of a report and shall include written findings as to whether:</text>
+          <para>
+            <num>1.</num>
+            <text>the Minor appears to be a Person in Need of Treatment and is reasonably likely to benefit from such Treatment;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the Minor has been provided with a clinically appropriate explanation of the nature and purpose of the Treatment; and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Inpatient Treatment is the Least Restrictive Alternative that meets the needs of the Minor based upon the following:</text>
+            <para>
+              <num>a.</num>
+              <text>reasonable efforts have been made to provide for the Treatment needs of the Minor through the provision of less restrictive alternatives and such alternatives have failed to meet the needs of the Minor; or</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>after a thorough consideration of less restrictive alternatives to Inpatient Treatment, the condition of the Minor is such that less restrictive alternatives are unlikely to meet the Treatment needs of the Minor.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any report of the Mental Health Evaluation of a Minor alleged to be a Minor in Need of Treatment that recommends that the Minor is found to be eligible for Inpatient Treatment shall be signed by the LMHPs examining the Minor.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The Parent(s), all public agencies, and all providers or programs which have treated or are treating the Minor shall cooperate with the LMHPs conducting a Mental Health Evaluation for the purpose of providing a report to the Prosecutor or the Court and shall promptly deliver all records related to the Treatment or education of the Minor.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>13-704.10</num>
+        <heading>DISCHARGE PLAN FOR MINOR IN NEED OF TREATMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Mental Health Facility shall discharge the Minor when the LMHPs of the Mental Health Facility treating the Minor determines that the Minor no longer meets the admission or Commitment criteria, or upon order of the Court. A Minor committed by the Court for Inpatient Treatment shall be discharged upon the expiration of the Court order committing the Minor for Inpatient Treatment, or upon an order of the Court directing the discharge of the Minor.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Prior to the discharge of the Minor from Inpatient Treatment, a discharge plan for the Minor shall be prepared by the LMHPs of the Mental Health Facility and explained to the Minor and the Parent(s). The plan shall include, but not be limited to:</text>
+          <para>
+            <num>1.</num>
+            <text>services required to be completed by the Minor that are available in the community to meet the continuing needs of the Minor for Treatment, education, housing and physical care and safety;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>identification of the public or private agencies that will be involved in providing Treatment and support to the Minor;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>information regarding the medication(s) prescribed to the Minor; and</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>an appointment date and location for follow-up for the Minor's outpatient Treatment and medication management.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="2021-01-15" doc="PR38-010">PR38-010, 01/15/2021</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+</container>

@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>15</num>
+  <heading>LANDS AND NATURAL RESOURCES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>TRIBAL LANDS AND LAND MANAGEMENT</heading>
+    <container>
+      <prefix>Article</prefix>
+      <num>A</num>
+      <heading>TRIBAL BUILDINGS AND BUILDING MANAGEMENT</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>15-101.1</num>
+        <heading>CHICKASAW COUNCIL HOUSE LEASE.</heading>
+        <text>The Chickasaw Council House and Museum is leased to the Oklahoma Historical Society for twenty-five years, beginning November 1, 1991.</text>
+        <annotations>
+          <annotation type="History" effective="1991-10-23" doc="GR92-12">GR92-12, 10/23/91</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>15-101.2</num>
+        <heading>CHICKASAW NATION JAIL LEASE.</heading>
+        <text>The Chickasaw Nation Jail Building is leased to the Johnston County Board of Commissioners for two years, beginning June 1, 1992. The lease may be extended for an additional two years beginning June 1, 1994 and expiring on May 31, 1996, unless renewed. The Johnston County Board of Commissioners agree to construct a privacy fence on the south, east, and west sides of the property.</text>
+        <annotations>
+          <annotation type="History" effective="1992-05-15" doc="GR92-91">GR92-91, 5/15/92</annotation>
+          <annotation type="Editor's Notes">See also Title 9, Tribal Enterprises.</annotation>
+          <annotation type="Editor's Notes">See also Title 10, Sales of Tribal Property</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>B</num>
+      <heading>TRIBAL CEMETERY</heading>
+      <text>(RESERVED)</text>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>C</num>
+      <heading>PUBLIC WORKS AND IMPROVEMENTS</heading>
+      <text>(RESERVED)</text>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>D</num>
+      <heading>LAND ACQUISITION AND RIGHTS OF WAY</heading>
+      <text>(RESERVED)</text>
+      <annotation type="Editor's Notes">See also Title 18, Real and Personal Property (Eminent Domain)</annotation>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>PARKS AND MONUMENTS</heading>
+    <text>(RESERVED)</text>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 13, Health and Social Services (Recreational Services)</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>PRESERVATION</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.1</num>
+      <heading>PURPOSE.</heading>
+      <text>To establish legal authority and to specify provisions for the recovery of remains and artifacts of Chickasaw burial sites and/or archeological sites, and for the protection of the same.</text>
+      <annotations>
+        <annotation type="History" effective="1988-07-19" doc="TL5-005">TL5-005, 7/19/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.2</num>
+      <heading>TITLE.</heading>
+      <text>Be it enacted by the Tribal Legislature of the Chickasaw Nation assembled, that this Act may be cited as the "Chickasaw Preservation Act of 1988."</text>
+      <annotations>
+        <annotation type="History" effective="1988-07-19" doc="TL5-005">TL5-005, 7/19/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.3</num>
+      <heading>FINDINGS.</heading>
+      <text>The Legislature finds:</text>
+      <para>
+        <num>1.</num>
+        <text>remains and artifacts from acknowledged and recognized Chickasaw burial sites and archeological sites or "digs" are now in the possession of others who may not show nor care to show the proper and just respect for such artifacts and remains;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the potential for the discovery of other such sites is great;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>the need exists for the tribal government to provide its sovereign protections to such human remains, artifacts and other items as have been or may be discovered.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1988-07-19" doc="TL5-005">TL5-005, 7/19/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.4</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of <cite path="15|3">this chapter</cite>:</text>
+      <para>
+        <num>1.</num>
+        <text>"Artifacts" means any object made by human work, including tools, weapons, vessels, jewelry or articles of clothing or adornment;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Chickasaw Nation" means the Tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, adopted August 27, 1983, being duly recognized by the Secretary of the Interior of the United States of America and other agencies of the United States of America and other governments, as a self-governing, sovereign government; sometimes hereinafter referred to as "Tribe."</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Chickasaw Tribal Government" means the recognized governing body of the Tribe, possessing plenary power over the people, land and property within the exterior boundaries of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Remains" means any human body part which may or may not have been part of a Chickasaw burial ritual.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1988-07-19" doc="TL5-005">TL5-005, 7/19/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.5</num>
+      <heading>AUTHORITY.</heading>
+      <text>The basis for authority of this Act is Article VII, Section 4 of the Constitution of the Chickasaw Nation, wherein the Tribal Legislature is granted the power and authority to enact rules and regulations pertaining to the Chickasaw Nation in accordance with the Constitution.</text>
+      <annotations>
+        <annotation type="History" effective="1988-07-19" doc="TL5-005">TL5-005, 7/19/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.6</num>
+      <heading>POWERS GRANTED TO GOVERNOR.</heading>
+      <text>The Chickasaw Tribal Legislature, with the adoption of this Act, hereby grants specific and general powers and authorities to the Governor of the Chickasaw Nation to recover all remains, artifacts and other items of Chickasaw Indians which have been removed from original sites of burial, ritual or domesticity, utilizing all legal and just means inherent in the sovereign powers of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1988-07-19" doc="TL5-005">TL5-005, 7/19/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.7</num>
+      <heading>ENFORCEMENT AND ADMINISTRATION.</heading>
+      <text>The Chickasaw Tribal Legislature, with the adoption of this Act, hereby grants powers of enforcement and the administration of this Act to the Governor of the Chickasaw Nation, and empowers him to convey such duties on such committee or commission as he may deem fit and proper to create, subject to the provisions of the Constitution of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1988-07-19" doc="TL5-005">TL5-005, 7/19/88</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>15-301.8</num>
+      <heading>RECOVERY OF REMAINS, ARTIFACTS, PROCEDURES.</heading>
+      <text>The Governor of the Chickasaw Nation shall, once recovery of any and all items has been effected:</text>
+      <para>
+        <num>1.</num>
+        <text>Promptly arrange for appropriate interment of the remains and make appropriate disposition of artifacts;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Promptly arrange for interment of remains and disposition of artifacts to be consistent with accepted Chickasaw tribal traditions, customs and religion, giving due consideration to the significance of the age, identity, traditions, customs and religion observed by the deceased person if the same can be ascertained.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>MINING AND MINERAL RIGHTS</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>OIL AND GAS</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6</num>
+    <heading>ENVIRONMENT AND OTHER NATURAL RESOURCES</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7</num>
+    <heading>WATER AND WATER RIGHTS</heading>
+    <annotations>
+      <annotation type="History" effective="2001-08-03" doc="PR18-036">PR18-036, 8/3/01</annotation>
+      <annotation type="History" effective="2002-12-20" doc="RepealedbyPR20-004">Repealed by PR20-004, 12/20/02</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8</num>
+    <heading>AGRICULTURE</heading>
+    <text>(RESERVED)</text>
+  </container>
+</container>

@@ -1,0 +1,2563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>21</num>
+  <heading>VEHICLES AND HIGHWAYS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-101.1</num>
+      <heading>TITLE.</heading>
+      <text><cite path="21|1">This Chapter</cite> shall be known and may be cited as the "Chickasaw Nation Traffic Control Act" (hereinafter "Act").</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-101.2</num>
+      <heading>PURPOSE.</heading>
+      <text>This Act is necessary because the operation of Motor Vehicles within the jurisdiction of the Chickasaw Nation seriously and substantially affects the political integrity, health, safety, and welfare of the Chickasaw Nation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-101.3</num>
+      <heading>DEFINITIONS.</heading>
+      <para>
+        <num>1.</num>
+        <text>"Abandoned Motor Vehicle" means any Motor Vehicle that:</text>
+        <para>
+          <num>A.</num>
+          <text>is lacking in one or more parts essential to its mechanical functioning, or is otherwise inoperable so that it has no substantial potential for further use consistent with its usual functions, and not moved and/or no repairs are attempted for seven (7) consecutive days, or</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>has been parked for a period of three (3) months.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Actual Physical Control" means a person is physically inside the Motor Vehicle and has the capability to operate the Motor Vehicle, regardless of their location within the Motor Vehicle or whether they are actually operating the Motor Vehicle at the time.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Authorized Emergency Vehicle" means any vehicle of any fire department, police department, sheriff's office, coroner, prosecuting attorney, Lighthorse patrol, ambulance service, public or private, which need not be classified, registered or authorized by the Chickasaw Nation or any other vehicle authorized in writing by the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Civil Citation" means a paper or an electronic notice given to a Driver, or left conspicuously on a Driver's Motor Vehicle, that informs the Driver of an alleged violation of this Act, and gives the Driver notice of the Driver's ability to either seek a hearing or timely pay the enumerated fine.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Court" means the District Court of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Driver" means every person who operates or is in Actual Physical Control of a Motor Vehicle.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Driver License" means a document issued by the department of public safety or other driver license agency of another state grants to the person named thereon the privilege to drive or operate or be in actual physical control of a Motor Vehicle. The term includes intermediate licenses, learner's permit and commercial permits.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Executive Department" means the executive branch of the Chickasaw Nation government as defined in the Chickasaw Nation Constitution, as amended.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Fire Zone" means an area designated as an area in which Motor Vehicles may not be Parked, with such designation occurring either through signage, a curb adorned with red paint, or conspicuous red lines of paint on the Roadway.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Handicap Sign" or "Handicap Zone" means an area designated by signs, paint, or other reasonably visible medium to be reserved for parking for persons with disabilities.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Intoxicating Substance" means anything which, if used in sufficient quantities, may alter or impair normal mental or physical functions of a person.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Law Enforcement Agency" means the Chickasaw Nation Lighthorse Police Department, a federal law enforcement agency, or a tribal or state law enforcement agency with which the Nation has entered into cross-deputation agreements, including, but not limited to, a police department in incorporated municipalities, or the office of the county sheriff, or law enforcement   officers   of   the   State   of   Oklahoma   or   any   other   state.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Law Enforcement Officer" or "Officer" means an officer of a Law Enforcement Agency.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Motor Vehicle" or "Vehicle" means every device in, upon, or by which any person or property is or may be transported or drawn upon a roadway, except devices moved solely by human power or used exclusively upon stationary rails or tracks.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Official Traffic-Control Devices" or "OTCD" means all signs, signals, markings, warnings, and devices that have been erected to control or regulate the flow of traffic within the jurisdiction of the Chickasaw Nation. OTCDs include, but are not limited to, speed limit signs, stop signs, school zone signs, handicap parking signs, and paint used to manage Motor Vehicle parking and operation.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Park", "Parked", or "Parking" means the stopping and standing of a Motor Vehicle, whether or not such Motor Vehicle is occupied and whether or not such Motor Vehicle's motor is consuming fuel.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Prosecutor" means the attorney designated by the Executive Department to carry out the prosecutorial functions defined under this, and any other, Act under the Chickasaw Nation Code.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Roadway" means the entire width of any road, driveway, parking lot, alleyway, or other area designed to accommodate Motor Vehicles.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"School Zone" means the area of space officially set aside within a Roadway for the use of school children and which is so plainly marked or indicated by proper Official Traffic-Control Devices as to be plainly visible.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Victim Impact Panel" means a meeting with at least one presenter who will share personal stories with participants about how alcohol, drug abuse, and the illegal conduct of others has personally impacted the life of the presenter.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-101.4</num>
+      <heading>SIGNAGE OR DEVICE POSTING AUTHORITY.</heading>
+      <text>The Governor of the Chickasaw Nation may delegate authority to post, or cause to be posted, Official Traffic-Control Devices regulating the conduct of traffic.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-101.5</num>
+      <heading>EMERGENCY VEHICLES.</heading>
+      <text>Except as otherwise provided, Authorized Emergency Vehicles and Law Enforcement Agency Motor Vehicles are exempt from the requirements of this Act while they are engaged in responding to emergencies or performing law enforcement duties.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-101.6</num>
+      <heading>IMMUNITY AND CHOICE OF LAW.</heading>
+      <para>
+        <num>A.</num>
+        <text>Nothing contained within this Act shall be construed to waive the sovereign rights and immunities of the Chickasaw Nation, its officers or employees.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any official, Law Enforcement Officer, or employee of the Chickasaw Nation who, within the scope of employment, enforces or attempts to enforce this Act in good faith that such enforcement or attempted enforcement complies with this Act shall be immune from civil and criminal liability for any damages resulting from such enforcement or attempted enforcement.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Every person, whether Indian or not Indian, consents to the laws of the Chickasaw Nation when entering the Chickasaw Nation jurisdiction.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any tow truck operator who enforces or attempts to enforce this Act in good faith such that enforcement or attempted enforcement complies with this Act shall be immune from civil and criminal liability for any damages resulting from such enforcement or attempted enforcement.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>This Act shall be governed solely and exclusively by the laws of the Chickasaw Nation.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>MOTOR VEHICLE OPERATION AND REQUIREMENTS</heading>
+    <container>
+      <prefix>Article</prefix>
+      <num>A</num>
+      <heading>PARKING</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-201.1</num>
+        <heading>TRAFFIC SIGNS, SIGNALS AND MARKINGS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Driver of a Motor Vehicle shall obey the instructions of any OTCD that has been erected in accordance with this Act.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Except as otherwise provided, any person who violates or causes to be violated any of the provisions of this Section may be assessed a civil fine of up to fifty dollars ($50.00).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-201.2</num>
+        <heading>UNAUTHORIZED PARKING.</heading>
+        <para>
+          <num>A.</num>
+          <text>No Driver shall Park a Motor Vehicle in any area of any Roadway unless such area is clearly marked as a designated Parking area by a valid OTCD, with such designation including, but not limited to, signs, paint, or other indicators.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No Driver shall Park a Motor Vehicle in a Parking area clearly marked and provided for any person with a disability, unless that Driver possesses and prominently displays a valid handicapped placard or sticker issued by the Chickasaw Nation or a state of the United States.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No Driver shall Park a Motor Vehicle within ten (10) feet of a fire hydrant.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>No Driver shall Park in a manner which would block access to a Roadway.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>No Driver shall Park a Motor Vehicle in any area which has been clearly marked for a specific purpose unless the Driver possesses and prominently displays a valid placard or sticker issued by the Chickasaw Nation or a state of the United States authorizing the Driver to Park in that specific location.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>No Driver shall Park a Motor Vehicle in an area designated as a Fire Zone.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Any Driver who violates or causes to be violated Sections A, C, or D of this Section may be assessed a civil fine of up to fifty dollars ($50.00). Any person who violates or causes to be violated Section B, E, or F of this Section may be assessed a civil fine of up to two-hundred and fifty dollars ($250.00).</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="2021-04-16" doc="PR38-018">PR38-018, 04/16/2021</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-201.3</num>
+        <heading>PRESUMPTION IN REFERENCE TO ILLEGAL PARKING.</heading>
+        <para>
+          <num>A.</num>
+          <text>In any charging of a violation governing the Parking of a Motor Vehicle, proof that the particular Motor Vehicle described in the Civil Citation was Parked in violation of this title, together with proof that the Driver named in the complaint was at the time of the Parking the registered owner of the Motor Vehicle, shall constitute in evidence a prima facie presumption that the registered owner of the Motor Vehicle was the person who Parked or placed the vehicle at the point where, and from the time during which, the violation occurred.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>B</num>
+      <heading>LICENSE AND REGISTRATION REQUIREMENTS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.1</num>
+        <heading>DRIVER LICENSE REQUIRED.</heading>
+        <para>
+          <num>A.</num>
+          <text>No person, except those expressly exempted, shall operate any Motor Vehicle upon a roadway unless such person possesses a valid Driver License to operate said Motor Vehicle under the laws of the State of the person's permanent residence.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person licensed as a Driver under this section may exercise the privileges thereby granted upon all roadways and elsewhere in Chickasaw Nation and shall not be required to obtain any other license to exercise such privilege unless such license is required under the laws of the State of the person's permanent residence.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.2</num>
+        <heading>LICENSE OR PERMIT TO BE CARRIED AND SHOWN ON DEMAND.</heading>
+        <text>Every person having a valid Motor Vehicle Driver License shall have the Driver License in his or her immediate possession at all times when operating a Motor Vehicle and shall display same upon demand of any Officer. However, no person charged with violating this section shall be convicted or assessed any court costs if he or she produces to the Court a Driver License issued to him or her prior to the offense provided said Driver License is valid and not under suspension, revocation or canceled by any state or tribal court.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.3</num>
+        <heading>RESTRICTED LICENSES PENALTY VIOLATION.</heading>
+        <text>Any person who operates any Motor Vehicle in violation of a valid Driver License or restriction shall be issued a Civil Citation under this section and shall be assessed a civil fine of one hundred dollars ($100).</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.4</num>
+        <heading>OPERATING A MOTOR VEHICLE WHILE DRIVING PRIVILEGES ARE SUSPENDED OR REVOKED.</heading>
+        <text>No person shall operate a Motor Vehicle while his or her driving privilege has been suspended or revoked by this court or any State or Federal jurisdiction. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of one hundred dollars ($100).</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.5</num>
+        <heading>UNLAWFUL USE OF DRIVER LICENSE.</heading>
+        <para>
+          <num>A.</num>
+          <text>It is unlawful to:</text>
+          <para>
+            <num>1.</num>
+            <text>Display, cause, or permit to be displayed or have in possession any canceled, revoked, suspended, fictitious or fraudulently altered Driver License;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Permit the use of one's Driver License by another person;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Display or represent as one's own any Driver License not issued to that person;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Permit any unlawful use of a Driver License issued to that person; and</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Use a false or fictitious name in any application for a Driver License or to knowingly make a false statement or to conceal a material fact or otherwise commit a fraud in the application.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred dollars ($200).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.6</num>
+        <heading>REPRODUCING DRIVER LICENSE.</heading>
+        <text>It is unlawful for any person to print, photograph, duplicate, alter or in any way reproduce any Driver License in such a manner that it would be mistaken for a valid Driver License. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred dollars ($200).</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.7</num>
+        <heading>PERMITTING AN UNAUTHORIZED PERSON TO DRIVE.</heading>
+        <text>No person may authorize or knowingly permit a Motor Vehicle owned by him or her or a Motor Vehicle under his or her control to be driven or operated in this jurisdiction by anyone who does not have a valid Driver License. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred dollars ($200).</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.8</num>
+        <heading>DISPLAY OF CURRENT REGISTERED LICENSE PLATES AND TABS.</heading>
+        <text>No person may operate or drive a Motor Vehicle upon any roadway unless the Motor Vehicle has displayed upon it current registered license plates and tabs. All Motor Vehicles (when required) must have the license plate attached to the rear thereof. The plate or plates must at all times be kept free and clear of mud or other substances so as to be clearly visible. Plates other than for the current year must be removed from the Motor Vehicle. An annual registration tab or sticker for the current registration year must be displayed on each number plate in those years from which tabs or stickers are issued in lieu of number or letter plates. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of one hundred fifty dollars ($150).</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-202.9</num>
+        <heading>VIOLATION OF REGISTRATION PROVISION.</heading>
+        <para>
+          <num>A.</num>
+          <text>It is unlawful for any person to commit any of the following acts:</text>
+          <para>
+            <num>1.</num>
+            <text>To operate, or for the owner thereof knowingly to permit anyone to operate, any Motor Vehicle on which the registration has been canceled, revoked, or which is not registered, or which does not have attached thereto and displayed thereon a number and/or lettered plate, plates, or validation tabs assigned thereto by the State registrar for the current registration period.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>To display or permit to be displayed; or to have in possession, any registered card, registration numbered or lettered plate, or validation tabs, knowing the same to be fictitious, canceled, revoked, suspended, or altered.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>To lend any numbered and/or lettered plates, registration card, or validation tabs to any person knowing the same to be fictitious, canceled, revoked, suspended, or altered.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>To have displayed any numbered and/or lettered plates, or validation tabs upon any Vehicle which are not registered to that particular Vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred fifty dollars ($250). Any Motor Vehicle found to be without current registration, or current validation tabs may be impounded by the Law Enforcement Agency. The owner may redeem the Motor Vehicle after impoundment upon presenting satisfactory proof of ownership or right to possession, payment of the civil penalties and expenses of removing and storing the Vehicle.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>C</num>
+      <heading>ACCIDENTS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.1</num>
+        <heading>ACCIDENTS INVOLVING DAMAGE TO VEHICLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Driver of any Motor Vehicle involved in an accident resulting only in damage to a Vehicle which is driven or attended by any person shall immediately stop such Vehicle at the scene of such accident or as close thereto as possible but shall immediately return to and remain at the scene of such accident until he or she has fulfilled the requirement of this Act. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of five hundred dollars ($500).</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Driver of any Vehicle involved in an accident resulting in the death of any person shall immediately stop such Vehicle at the scene of such accident or as close thereto as possible but shall then forthwith return to and in every event shall remain at the scene of the accident until he has fulfilled the requirements of this Act. Every such stop shall be made without obstructing traffic more than is necessary. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of five hundred dollars ($500).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.2</num>
+        <heading>DUTY UPON STRIKING UNATTENDED VEHICLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Driver of any Motor Vehicle which collides with any unattended Vehicle shall immediately:</text>
+          <para>
+            <num>1.</num>
+            <text>stop and either locate and notify the Driver or owner of the Vehicle of the name and address, as well as the name of the Motor Vehicle insurance policy carrier of the Driver and owner of the Vehicle striking the unattended Vehicle; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>leave in a conspicuous place in or on the Vehicle struck, a written notice giving the name and address as well as the name of the Motor Vehicle insurance policy carrier of the Driver and of the owner of the Vehicle doing the striking and a statement of the circumstances of the collision.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of five hundred dollars ($500).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.3</num>
+        <heading>OFFICER TO REPORT.</heading>
+        <text>Every Officer, who in the regular course of duty investigates a Motor Vehicle accident required to be reported, either at the time and at the scene of the accident by interviewing the participants and/or witnesses, shall make a written report of such accident.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.4</num>
+        <heading>INVESTIGATION AGENCY RESPONSIBLE TO NOTIFY NEXT OF KIN.</heading>
+        <text>In the event of serious injury or death of any person due to a Motor Vehicle accident, the Chief of Police, or his designee, is, upon positive identification of the person or persons involved, responsible for immediately notifying the next of kin of the person or persons seriously injured or deceased. The Chief of Police may alternatively make arrangements to have next of kin notified by clergy or other suitable person.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.5</num>
+        <heading>WHEN THE DRIVER OF A MOTOR VEHICLE IS UNABLE TO REPORT.</heading>
+        <para>
+          <num>A.</num>
+          <text>An accident notice to the Law Enforcement Agency is not required from any person who is physically incapable of making the report during the period of such incapacity.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Whenever the Driver of a Motor Vehicle is physically incapable of giving an immediate notice to the Law Enforcement Agency of an accident and there was another occupant in the Vehicle at the time of the accident capable of giving notice, such occupant shall make or cause to be made such notice.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Whenever the Driver of the Motor Vehicle is physically incapable of giving notice of an accident and such Driver is not the owner of the Vehicle, the owner of the Vehicle shall within twenty-four (24) hours after learning of the accident give such notice and insurance information not given by the Driver.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.6</num>
+        <heading>ACCIDENT REPORT FORMS.</heading>
+        <para>
+          <num>A.</num>
+          <text>The accident report form shall include, but is not limited to, names of Drivers, tribal affiliation, addresses of same, location of accident, cause of accident, weather and road conditions and other pertinent information.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every accident report is required to be in writing, must be made on the accident report form and must contain all the information required therein unless not available.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Every Officer within this jurisdiction who investigates a Vehicle accident for which a report is required shall file a copy of the report within five (5) days of the completion of the investigation.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The information in the accident report is not confidential and shall not be privileged with the exception of the report containing the investigating officer's opinion, which shall not be open to public inspection.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.7</num>
+        <heading>FEES FOR COPIES OF ACCIDENT REPORT.</heading>
+        <text>The Law Enforcement Agency is authorized to charge a fee for copies of accident reports.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-203.8</num>
+        <heading>OPERATING A MOTOR VEHICLE WITHOUT LIABILITY INSURANCE PROHIBITED.</heading>
+        <text>A person may not operate a Motor Vehicle without a valid policy of liability insurance in effect in order to respond in damages for liability arising out of the ownership, maintenance or use of that Motor Vehicle in the amount required by laws of the State of Oklahoma for the minimum amount of liability insurance required. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred fifty dollars ($250) and any Motor Vehicle not covered by the minimum amount of liability required may be impounded by an Officer and held until proof of a valid policy of liability insurance is furnished and impound fees are paid.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>D</num>
+      <heading>RULES OF THE ROAD – CIVIL TRAFFIC OFFENSES</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.1</num>
+        <heading>DISTRACTED DRIVING.</heading>
+        <para>
+          <num>A.</num>
+          <text>It shall be unlawful for any person to operate a Motor Vehicle on any roadway while using a hand-held electronic communication device while the Motor Vehicle is in motion. Any person who violates this section shall be issued a Civil Citation and shall be assessed a civil fine of one hundred dollars ($100).</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The following shall not be considered a violation of distracted driving:</text>
+          <para>
+            <num>1.</num>
+            <text>Use of a hand-held electronic communication device in a bona fide emergency situation;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Use of a device that is physically or electronically integrated into a Motor Vehicle;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Use of a voice-operated global positioning or navigation system that is affixed to a Motor Vehicle;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Use of an electronic communication device in a hands-free manner; or</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Use of an ignition interlock device that has been installed on a Motor Vehicle.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="2022-02-18" doc="PR39-003">PR39-003, 02/18/2022</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.2</num>
+        <heading>SPEEDING.</heading>
+        <para>
+          <num>A.</num>
+          <text>No Driver shall operate a Motor Vehicle at a rate of speed which is above the posted speed limit listed on an OTCD or as otherwise provided by this Act.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Unless otherwise provided by an OTCD, the maximum permissible rate of speed for any Roadway is twenty-five (25) miles per hour, and the maximum permissible rate of speed for any Roadway classified as a School Zone is twenty (20) miles per hour, and the maximum permissible rate of speed for any Parking lot or alleyway is ten (10) miles per hour.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any Driver who violates or causes to be violated any of the provisions of this Section may be assessed a civil fine of:</text>
+          <para>
+            <num>1.</num>
+            <text>fifty dollars ($50) for up to ten (10) miles per hour that such Driver has exceeded the maximum permissible rate of speed;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>one hundred dollars ($100) for eleven (11) to twenty (20) miles per hour above the speed limit;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>two hundred dollars ($200) for twenty-one (21) to thirty (30) miles per hour above the speed limit;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>five hundred dollars ($500) for any speed in excess of thirty-one (31) miles per hour above the speed limit.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Notwithstanding any other provision of this Section, any Driver who exceeds the maximum permissible rate of speed in a School Zone shall be assessed a civil fine of double the fine otherwise provided.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="2021-06-18" doc="PR38-27">PR38-27, 6/18/2021</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.3</num>
+        <heading>EXHIBITION DRIVING AND DRAG RACING.</heading>
+        <para>
+          <num>A.</num>
+          <text>No person may engage in exhibition driving of any Vehicle on a roadway, nor may any person engage in a race, speed competition, drag race or acceleration contest, test of physical endurance, or exhibition of speed or acceleration.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>As used in this section:</text>
+          <para>
+            <num>1.</num>
+            <text>"Drag Race" means the operation of two or more Vehicles from a point side by side by accelerating rapidly in a competitive attempt to cause one Vehicle to outdistance the other; or the operation of one or more Vehicles over a common selected course from the same point to the same point for the purpose of comparing the relative speed or powers of acceleration of such Vehicle or Vehicles within a certain distance or time limit.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>"Exhibition Driving" means driving a Vehicle in a manner which disturbs the peace by creating or causing unnecessary engine noise, tire squeal, skid, or slide upon acceleration or braking, or driving and executing or attempting one or a series of unnecessary abrupt turns.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>"Race" means the use of one or more Vehicles in an attempt to outgain, outdistance or to arrive at a given distance ahead of another Vehicle or Vehicles; or the use of one or more Vehicles to willfully prevent another Vehicle from passing the racing Vehicle or Vehicles, or to test the physical stamina or endurance of the person driving the Vehicle or Vehicles over a long distance driving route.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Nothing in this section shall be construed as prohibiting drag racing, exhibition driving, or similar events when carried out in an organized manner, on a track or privately owned area specifically set aside and to be used solely for such purpose by Driver of Motor Vehicles.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of five hundred dollars ($500).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.4</num>
+        <heading>OBEDIENCE TO AND REQUIRED TRAFFIC CONTROL DEVICES.</heading>
+        <text>The Driver of any Vehicle shall obey the instructions of any OTCD placed in accordance with the provisions of this Title, unless otherwise directed by a Law Enforcement Officer.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.5</num>
+        <heading>FLASHING SIGNALS.</heading>
+        <text>Whenever an illuminated flashing red or yellow light is used in a traffic signal, it requires obedience by vehicular traffic as follows:</text>
+        <para>
+          <num>A.</num>
+          <text>"Flashing Red Light" (Stop Light) - Drivers of Vehicles shall come to a complete stop upon approaching a clearly marked line, or if no line, at the point nearest to the intersecting roadway and may proceed when forward movement can be made safely.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>"Flashing Yellow Light" (Caution Light) - when a yellow light is illuminated with rapid intermittent flashes, Drivers of Vehicles may proceed through the area or past such signal only with caution. The Driver of the Vehicle must slow his or her Vehicle and proceed at a reasonable, safe speed and in a manner so as to avoid an accident.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.6</num>
+        <heading>DISPLAY OF UNAUTHORIZED SIGNS, SIGNALS, OR MARKINGS.</heading>
+        <text>No person may place, maintain, or display upon or in view of any roadway, any unauthorized sign, signal, or marking which attempts to direct the movement of traffic, or which hides from view or interferes with the effectiveness of an OTCD.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.7</num>
+        <heading>INTERFERENCE WITH OFFICIAL TRAFFIC SIGNAL,TRAFFIC CONTROL DEVICE, REGULATORY SIGN OR INFORMATION SIGN.</heading>
+        <text>No person may without lawful authority attempt to or in fact alter, deface, injure, knock down or remove any OTCD, official traffic signal, traffic control device, official regulatory sign or information sign, including signs displaying street names. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred fifty dollars ($250).</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.8</num>
+        <heading>DRIVE ON RIGHT SIDE OF ROADWAY.</heading>
+        <text>A Vehicle must be driven upon the right half of the roadway except:</text>
+        <para>
+          <num>A.</num>
+          <text>When lawfully overtaking and passing another Vehicle proceeding in the same direction.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>When an obstruction exists on the roadway making it necessary to drive to the left of the center of the roadway, provided that the Driver yields to the oncoming Vehicles before moving to the left of the center line and after moving to the left of the center line remaining there for only such distance so as to allow clear passage of the obstruction and then shall return to the right lane of traffic.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.9</num>
+        <heading>PASSING VEHICLE PROCEEDING IN OPPOSITE DIRECTIONS.</heading>
+        <text>Drivers of Vehicles proceeding in opposite directions shall pass each other to the right, and upon roadways for not more than one line of traffic in each direction, each Driver shall give to the other at least one-half of the main traveled portion of the roadway as nearly as possible.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.10</num>
+        <heading>OVERTAKING A VEHICLE ON THE LEFT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Driver of a Vehicle overtaking another Vehicle proceeding in the same direction may lawfully pass to the left thereof at a safe distance and when the passing can be made in safety and may not drive again to the right side of the roadway until he or she is safely clear of the overtaken Vehicle.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>When being overtaken and passed the Driver of the Vehicle being passed may not increase the speed of his Vehicle until completely passed by the overtaken Vehicle.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.11</num>
+        <heading>WHEN OVERTAKING ON THE RIGHT IS PERMITTED.</heading>
+        <text>The Driver of a Vehicle may overtake and pass upon the right of another Vehicle only when the Vehicle overtaken is making or is about to make a left turn in a marked left turn lane. Overtaking on the right is not permitted in any other situation.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.12</num>
+        <heading>NO-PASSING ZONES.</heading>
+        <text>The Governor of the Chickasaw Nation may delegate authority to determine those areas in the Chickasaw Nation where vehicular traffic is allowed; where overtaking, passing or driving may be hazardous and may by appropriate no-passing signs or markings on the roadway and elsewhere within the Chickasaw Nation post such signs or markings and every Driver of a Vehicle shall obey the directions thereof.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.13</num>
+        <heading>FOLLOWING TOO CLOSELY.</heading>
+        <text>The Driver of a Motor Vehicle may not follow another Vehicle more closely than is reasonable and prudent, having due regard for the speed of such Vehicle and the traffic upon and the condition of the roadway.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.14</num>
+        <heading>RESTRICTED ACCESS.</heading>
+        <text>No person may drive a Vehicle onto any tribal property not intended for vehicle traffic or upon which an OTCD denies access to the general public, except as allowed and designated by the Governor.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.15</num>
+        <heading>VEHICLE APPROACHING OR ENTERING; INTERSECTION.</heading>
+        <text>When two Vehicles approach or enter an intersection from different roadways at approximately, the same time, the Driver of the Vehicle on the left shall yield the right of way to the Vehicle on the right.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.16</num>
+        <heading>VEHICLE TURNING LEFT.</heading>
+        <text>The Driver of a Vehicle intending to turn to the left within an intersection or into an alley, private road, or driveway shall give proper signals and yield the right of way to any Vehicle approaching from the opposite direction.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.17</num>
+        <heading>VEHICLES ENTERING ROADWAY.</heading>
+        <text>The Driver of a Vehicle about to enter or cross a public roadway from any place other than another public roadway shall yield the right of way to all Vehicles approaching on the roadway to be entered or crossed.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.18</num>
+        <heading>OPERATION OF VEHICLE ON APPROACH OF AUTHORIZED EMERGENCY VEHICLES.</heading>
+        <text>Upon the immediate approach of an Authorized Emergency Vehicle giving an audible signal by bells, siren, or exhaust whistle and/or displaying a visible flashing, revolving, or rotating blue, white or red light, the Driver of every other Vehicle shall yield the right of way and shall immediately drive as close as possible to the right edge of the roadway and shall stop and remain stopped until the emergency Vehicle has passed, except when otherwise directed by a Law Enforcement Officer.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.19</num>
+        <heading>UNLAWFUL FOLLOWING OF AN AUTHORIZED EMERGENCY VEHICLE.</heading>
+        <text>It is unlawful to follow any Authorized Emergency Vehicle while such Vehicle is giving an audible signal by bells, siren, or exhaust whistle and/or displaying a visible flashing, revolving, or rotating blue, white or red light, except an authorized official, closer than five hundred (500) feet to the rear. Any person, while following or attempting to follow an Authorized Emergency Vehicle, shall be liable for all violations of the law incurred while following or attempting to follow an Authorized Emergency Vehicle that is in emergency status. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred fifty dollars ($250) notwithstanding any fines associated with other violations incurred while violating this section.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.20</num>
+        <heading>CROSSING FIRE HOSE OR EMERGENCY VEHICLE EQUIPMENT.</heading>
+        <text>No Vehicle may be driven over any unprotected hose of a fire department, or any other emergency equipment, when the hose is laid down on any street, private road, driveway or at any other location, to be used at any emergency situation, without the consent of the emergency or fire official in command. Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of one hundred dollars ($100).</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.21</num>
+        <heading>ROADWAY CONSTRUCTION AND MAINTENANCE.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Driver of a Vehicle shall yield the right of way to any authorized Vehicle or pedestrian actually engaged in work upon a roadway.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Driver of a Vehicle shall yield the right of way to any authorized Vehicle obviously and actually engaged in work upon a roadway whenever such Vehicle is displaying a rotating or flashing light.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.22</num>
+        <heading>PEDESTRIAN OBEDIENCE TO TRAFFIC CONTROL DEVICE AND TRAFFIC REGULATIONS.</heading>
+        <para>
+          <num>A.</num>
+          <text>When there are designated crossing zones for pedestrians upon any roadway, all Vehicles shall yield the right of way to such pedestrians when they are in the crossing area.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No pedestrian may suddenly leave the curb or other place of safety and walk or run into the path of a Vehicle which is so close as to constitute an immediate hazard.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Pedestrians attempting to cross the roadway at any point on a roadway not designated for pedestrian road crossings shall yield the right of way to all Vehicles upon the roadway.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.23</num>
+        <heading>DRIVER TO EXERCISE DUE CARE.</heading>
+        <text>Every Driver of a Vehicle shall exercise care to avoid colliding with any pedestrian and shall give warning by sounding the horn when necessary and shall exercise proper precaution upon observing any child or any confused, incapacitated or intoxicated person on or along the roadway.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.24</num>
+        <heading>PEDESTRIANS ON ROADWAY.</heading>
+        <para>
+          <num>A.</num>
+          <text>Where a sidewalk or walkway is provided and its use is practical, it is unlawful for any pedestrian to walk along and upon a roadway.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If there is no sidewalk or walkway, any pedestrian walking along and upon a roadway shall walk as near as practicable to an outside edge of the left side of the roadway.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Pedestrians shall yield the right of way to all Vehicles on the roadway.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A person who is under the influence of alcohol or any drug to a degree which renders that person a hazard on the roadway may not walk or be upon any roadway.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.25</num>
+        <heading>VEHICLES POSITION AND METHOD OF TURNING.</heading>
+        <text>The Driver of a Vehicle intending to turn shall do so as follows:</text>
+        <para>
+          <num>A.</num>
+          <text>Right Turns - Both the approach for a right turn and the right turn must be made as close as practicable to the right hand edge of the roadway.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Left Turns - The Driver of a Vehicle intending to turn left shall approach the turn in a marked or designated left turn lane if practical, or if no marked left turn lane is available, the left turn shall be made from the right lane and the Driver shall execute the turn so as to leave the roadway proceeding over the oncoming traffic's lane when such can be safely done.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.26</num>
+        <heading>LIMITATIONS ON TURNING AROUND.</heading>
+        <text>The Driver of any Vehicle may not turn such Vehicle so as to proceed in the opposite direction unless such movement can be made in safety and without interfering with other traffic.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.27</num>
+        <heading>TURNING MOVEMENTS AND REQUIRED SIGNALS.</heading>
+        <para>
+          <num>A.</num>
+          <text>No Driver may turn a Vehicle or move right or left upon a roadway unless and until such movement can be made with reasonable safety and with giving an appropriate turning signal.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A signal of intention to turn or move right or left when required must be given continuously during not less than the last one hundred (100) feet traveled by the Vehicle before turning.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No person may stop or suddenly decrease the speed of a Vehicle without first giving an appropriate signal in a manner provided herein to the Driver of any Vehicle immediately to the rear when there is opportunity to give such signal.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.28</num>
+        <heading>SIGNALS BY HAND AND ARM OR SIGNAL LIGHTS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any stop or turn signal when required must be given either by means of the hand and arm or by signal lights.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person operating a Motor Vehicle in use upon the roadway which is equipped with signal lights, must provide such signal warnings by signal lights.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>All signals given by hand and arm must be given from the left side of the Vehicle in the following manner and such signals must indicate as follows:</text>
+          <para>
+            <num>1.</num>
+            <text>Left Turn - hand and arm extended horizontally.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Right Turn - hand and arm extended upward.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Stop or decrease speed - hand and arm extended downward.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.29</num>
+        <heading>EMERGENCE FROM ALLEY, DRIVEWAY, PRIVATE ROAD OR BUILDING.</heading>
+        <text>The Driver of a Vehicle emerging from an alley, driveway, private road, or building within a business or residential area shall stop Vehicle immediately prior to entering a roadway, shall yield to any oncoming traffic and proceed on to the roadway only when it is safe to do so.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.30</num>
+        <heading>OVERTAKING AND PASSING SCHOOL BUS.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Driver of a Vehicle meeting from either direction of any school bus stopped on the roadway shall stop the Vehicle before reaching the school bus where there is in operation on the school bus the flashing red lights, the stop sign on the control arm and the safety strobe lights, and shall only proceed when such devices are inactive.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every school bus must bear the words "SCHOOL BUS" in letters not less than eight inches in height.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Every school bus may be equipped with safety strobe lights and shall be equipped with a stop sign on a control arm or flashing red lights which may be activated by the Driver of the school bus whenever the Vehicle is stopped on the roadway to receive or discharge school children.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.31</num>
+        <heading>STOPPING, STANDING OR PARKING ON ROADWAY - UNATTENDED VEHICLES.</heading>
+        <text>No person may leave a Vehicle unattended upon any roadway or upon tribal property which may be considered to endanger other users of the use of the roadways or tribal lands; or which may be considered to constitute a danger to children; or when such Vehicle may be in danger of being vandalized or stolen.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.32</num>
+        <heading>OFFICER AUTHORIZED TO REMOVE ILLEGALLY STOPPED VEHICLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>When any Officer finds or is notified of a Vehicle left standing on any roadway or upon any tribal property the Officer is authorized to remove such Vehicle or require the Driver or other person in charge of the Vehicle to move the Vehicle to a place of safety.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any Officer is hereby authorized to remove or cause to be removed to the nearest place of impoundment or other place of safety any Vehicle found in the Chickasaw Nation when:</text>
+          <para>
+            <num>1.</num>
+            <text>A report has been made that such Vehicle has been stolen or taken without consent of the owner.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The person or persons in charge of such Vehicle are unable to provide for the Vehicle's custody or removal.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>The person driving or in control of such Vehicle is arrested for an alleged offense for which the officer is required by law to take the person arrested before a judge without unnecessary delay.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>When a Vehicle has been determined to be unsafe or illegal for operation on roadways.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.33</num>
+        <heading>STOPPING, STANDING OR PARKING PROHIBITED IN SPECIFIED PLACES.</heading>
+        <text>No person may stop, stand or park a Vehicle except when necessary to avoid conflict with other traffic or in compliance with law or the directions of an Officer in any of the following places:</text>
+        <para>
+          <num>A.</num>
+          <text>on a sidewalk.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>in front of a public or private driveway.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>within ten (10) feet of a fire hydrant.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>within a designated school zone.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>within twenty (20) feet of the driveway entrance to any fire station.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>alongside or opposite any street excavation or obstruction when stopping, standing or parking would obstruct traffic.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.34</num>
+        <heading>OBSTRUCTION TO DRIVER'S VIEW OR DRIVING.</heading>
+        <para>
+          <num>A.</num>
+          <text>No Driver may drive a Vehicle when it is so loaded, or when there are in the front or back seat such a number of persons over the number of persons for which the Vehicle was designed, so as to obstruct the view of the Driver to the front or sides of the Vehicle or as to interfere with the Driver's control over the driving mechanism of the Vehicle.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No passenger in a Vehicle may ride in such a position as to interfere with the Driver's view ahead or to the sides, or to interfere with his or her control over the driving mechanism of the Vehicle.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No person may attach any papers, documents, advertisements, or any other material upon the front, side, or back windows as to interfere with or obstruct the Driver's view to the front, sides, or back of the Vehicle.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.35</num>
+        <heading>OPENING AND CLOSING VEHICLE DOOR.</heading>
+        <text>No person may open the door of a Motor Vehicle on the side available to moving traffic unless and until it is reasonably safe to do so and can be done without interfering with the movement of other traffic, nor may any person leave a door open on the side of a Vehicle available to moving traffic for a period of time longer than necessary to load or unload passengers.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.36</num>
+        <heading>GARBAGE, GLASS, RUBBISH, AND INJURIOUSMATERIALS ON ROADWAY OR DESIGNATED PUBLIC RECREATION AREAS PROHIBITED.</heading>
+        <para>
+          <num>A.</num>
+          <text>No person may litter by throwing or depositing upon any roadway or public or recreational area, any plastic, glass, metal, paper, or any other object or substance, or discard or deposit rubbish of any kind.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No person may throw or deposit upon any roadway or public recreational area, any glass bottle, glass, nails, tacks, wire, cans or other object or substance likely to injure any person, animal or Vehicle, or throw or deposit rubbish of any kind.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any person who drops or permits to be dropped or thrown, upon any roadway or public recreational area, any destructive or injurious material shall immediately remove the same or cause it to be removed.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Any person removing a wrecked or damaged Vehicle from a roadway or public recreational area, shall remove any glass or other injurious substance dropped upon the roadway from such Vehicle or Vehicles.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of one hundred fifty dollars ($150).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-204.37</num>
+        <heading>CIVIL PENALTIES.</heading>
+        <text>Unless otherwise stated, any person violating a section in this Article shall be issued a Civil Citation and shall be assessed a civil fine of fifty dollars ($50).</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>E</num>
+      <heading>CHICKASAW MOTORCYCLE CODE</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.1</num>
+        <heading>APPLICATION.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every person operating a Motorcycle is granted all of the rights and is subject to all of the duties applicable to the Driver of any other vehicle under this Title.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>For purposes of this Article, "Motorcycle" shall mean a motor vehicle with means of propulsion having a seat or saddle for the use of the rider and designed to travel on not more than three wheels in contact with the ground, and includes motorized bicycles, motor-driven cycles, and motor-scooters.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.2</num>
+        <heading>RIDING ON A MOTORCYCLE.</heading>
+        <text>A Driver of a Motorcycle shall ride only upon the permanent and regular seat attached thereto, and such Driver may not carry any other person, nor may any other person ride on a Motorcycle unless such Motorcycle is designed to carry more than one person, in which event a passenger may ride upon the permanent and regular seat if designed for two persons, or upon another seat firmly attached to the Motorcycle at the rear or side of the Motorcycle.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.3</num>
+        <heading>OPERATING MOTORCYCLES ON ROADWAYS LANED FOR TRAFFIC.</heading>
+        <para>
+          <num>A.</num>
+          <text>All Motorcycles are entitled to full use of a lane and no Motor Vehicle may be driven in such a manner as to deprive any Motorcycle of the full use of a lane.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Driver of a Motorcycle may not overtake and pass in the same lane occupied by the Vehicle being overtaken.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No person may operate a Motorcycle between lanes of traffic or between adjacent lines or rows of Vehicles.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Motorcycles may not be operated more than two side-by-side in a single lane.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.4</num>
+        <heading>CLINGING TO OTHER VEHICLES.</heading>
+        <text>No person riding upon a Motorcycle may attach himself or herself on the Motorcycle or to any other Vehicle on a roadway.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.5</num>
+        <heading>FOOTRESTS.</heading>
+        <text>Any Motorcycle carrying a passenger other than in a sidecar or enclosed cab must be equipped with footrests for such passenger.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.6</num>
+        <heading>EQUIPMENT FOR MOTORCYCLE RIDERS.</heading>
+        <text>No person under the age of eighteen (18) years shall operate or ride upon any Motorcycle unless the person is equipped with and is wearing on the head a safety helmet of the type and design manufactured for use by Drivers of such Vehicles, which shall be secured properly with a chin strap while the Vehicle is in motion. All such safety helmets shall consist of lining, padding, visor, and chin strap and shall comply with ANSI 2-87 Standards.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.7</num>
+        <heading>MOTORCYCLE EQUIPMENT: FRAME-CHASSIS REQUIREMENTS.</heading>
+        <text>The Motorcycle frame-chassis, including the suspension components and engine mountings, must be of substantial construction capable of supporting the combined weight of all Vehicle components and riders for which the Vehicle is designed and to withstand normal road shocks and operational stress without constituting a hazard to the riders or other users of the roadway.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.8</num>
+        <heading>BRAKES.</heading>
+        <text>Every Motorcycle must have a brake system which complies with the current rules promulgated by the Register of Motor Vehicles Department of the State of Oklahoma.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.9</num>
+        <heading>BRAKES ON MOTORCYCLES.</heading>
+        <text>An Officer may require an inspection of the brake system on any Motorcycle and may disapprove any brake system which is not so designed or constructed so as to insure reasonable and reliable performance when in actual use. Any Motorcycle found to be with brakes not meeting that standard will not be allowed to be used.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.10</num>
+        <heading>TIRES. WHEELS AND RIMS MUST COMPLY WITH THEOKLAHOMA LAW STEERING AND SUSPENSION SYSTEMS.</heading>
+        <text>The tires, wheels, rims, steering, and suspension systems of Motorcycles must comply with the laws of the State of Oklahoma for such equipment or systems.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.11</num>
+        <heading>FUEL SYSTEM.</heading>
+        <para>
+          <num>A.</num>
+          <text>All fuel system components, including the tank, pump, tubing, hoses, clamps, etc. must be securely fastened to the Motorcycle so as not to interfere with Vehicle operation and must be leak-proof.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Fuel lines must be positioned in a manner to prevent their contact with the engine head, manifold, exhaust systems, or other high temperature surfaces or moving components. The fuel system must be adequately vented and provided with a fuel shut off valve located between the fuel supply and the engine.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.12</num>
+        <heading>EXHAUST SYSTEMS - PREVENTION OF NOISE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Motorcycles must be equipped with an exhaust system incorporating a muffler or other mechanical device for the purpose of effectively reducing engine noise. Cutouts and bypasses in the exhaust system are prohibited. The system must be leak-proof and all components must be securely attached and located so as to not interfere with the operation of the Motorcycle.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Shielding must be provided to prevent inadvertent contact with the exhaust system by the Driver or passenger during normal operation. No Motorcycle may exceed reasonable noise decibel levels. No person may sell, offer for sale, or install any noise suppressing system or device which will produce noise in excess of reasonable decibel level.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.13</num>
+        <heading>MIRROR.</heading>
+        <text>Every Motorcycle must be equipped with at least one mirror or unit magnification, securely affixed to the handlebar and capable of adjustment within a range that will reflect an image that includes at least the horizon and/or the road surface to the rear of the Motorcycle. Such mirror must consist of a minimum reflective surface of ten (10) square inches. Mirrors shall not contain sharp edges or projections capable of producing injury.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.14</num>
+        <heading>FENDERS.</heading>
+        <text>Each wheel of a Motorcycle must be equipped with fenders or otherwise covered by the body configuration. Fenders must be securely mounted and of sufficient size and strength to minimize water or other road surface substances from coming in contact with the Vehicle riders, or throwing the road substances unreasonably to the rear of the Vehicle. Fender design must be effective in reducing side spray.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.15</num>
+        <heading>SEAT OR SADDLE.</heading>
+        <text>A seat or saddle securely attached to the Motorcycle must be provided for the use of the Driver. The seat or saddle may not be less than twenty-five (25) inches above a level road surface when measured to the lowest point on top of the seat or saddle cushion with the Driver seated in a driving position. The seat or saddle adjustment locking device must prevent relative movement of the seat from its selected and secured position under all normal Vehicle operating conditions.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.16</num>
+        <heading>CHAIN GUARD.</heading>
+        <text>Any drive chain on a Motorcycle must be equipped with a chain guard or covering device to prevent chain or chain sprocket contact with any rider.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.17</num>
+        <heading>VEHICLE STAND.</heading>
+        <text>All Motorcycles designed with two wheels must be equipped with a retracting vehicle stand to permit the Vehicle to remain in an upright stored position without outside assistance. The stand may be of a side or center type and must be of substantial construction to hold the Vehicle so equipped.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.18</num>
+        <heading>HORN.</heading>
+        <text>Every Motorcycle must be equipped with an operative horn in good working order. The horn must operate from a control device located on the left handlebar.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.19</num>
+        <heading>SPEEDOMETER AND ODOMETER.</heading>
+        <text>Every Motorcycle must be equipped with a properly operating speedometer and odometer calibrated in miles per hour and miles respectively and must be fully illuminated when the headlamp is activated.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.20</num>
+        <heading>LIGHTING EQUIPMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Motorcycle must be equipped with headlamps, and rear tail lights. The headlamps must be activated at all times when the Vehicle is in operation. The headlamp on a Motorcycle must be of sufficient intensity to reveal a person or a Vehicle at a distance of not less than one hundred (100) feet when the Motorcycle is operated at any speed less than 25 mph and at a distance of not less than three hundred (300) feet when the Motorcycle is operated at a speed of 25 or more mph.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>In the event the Motorcycle is equipped with a single-beam lamp or lamps, the lamp or lamps must be so aimed that when the Vehicle is loaded none of the high intensity portion of light at a distance of twenty-five (25) feet projects higher than the level of the center of the lamp from which it comes. When meeting any Vehicle, multi-beam lamps will be dimmed at a distance of no less than three hundred (300) feet.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.21</num>
+        <heading>PASSENGER SEAT.</heading>
+        <text>Motorcycles designed to carry more than one person must be equipped with a securely mounted seat for each passenger located to the side or rear of the Driver such that the passenger seat does not interfere with the Driver's control or operation of the Vehicle.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-205.22</num>
+        <heading>CIVIL PENALTIES.</heading>
+        <text>Any person operating a Motorcycle in violation of this Article shall pay a fine of one hundred dollars ($100) and/or the Motorcycle may be impounded by the Officer. The Motorcycle may be taken out of impound on paying a fee of fifty dollars ($50) and any storage fees. The Motorcycle may not be operated until the Motorcycle complies with this Article.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>F</num>
+      <heading>CHICKASAW ALL TERRAIN VEHICLE CODE</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-206.1</num>
+        <heading>DEFINITIONS.</heading>
+        <text>For purposes of this Article, the following terms shall have the meaning respectively ascribed to them in this Section, unless context clearly requires otherwise:</text>
+        <para>
+          <num>1.</num>
+          <text>"All Terrain Vehicle" or "ATV" shall mean any motorized off-roadway Vehicle, traveling on three or more tires, designed for operator use with or without passengers.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"Operate" shall mean to ride in or on and control of the ATV.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>"Operator" shall mean a person who operates and is in actual physical control of an ATV.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>"Owner" shall means a person other than a lien holder, having the property ownership in or title to an ATV and entitled to its use.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-206.2</num>
+        <heading>OPERATION OF ALL TERRAIN VEHICLES.</heading>
+        <para>
+          <num>A.</num>
+          <text>A person may not operate an ATV upon any roadway or roadway shoulder.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any operator of an ATV may make a direct crossing of a roadway but such operator shall:</text>
+          <para>
+            <num>1.</num>
+            <text>First bring the ATV to a complete stop before crossing any roadway.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Yield the right of way to any Motor Vehicle or pedestrian.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Cross the roadway only when such crossing can be made in safety.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A person may not operate an ATV in the following ways which are declared to be unsafe and a public nuisance:</text>
+          <para>
+            <num>1.</num>
+            <text>In any area which prohibits the use of an ATV as designated and clearly marked.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>In a careless, reckless or negligent manner so as to endanger the person or property of another or to cause injury or damage to such person or property.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>While under the influence of intoxicating liquor or a controlled substance.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>In any garden or tree nursery area, school area, business area or area not owned by the operator or his or her family (if a minor).</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Any ATV which is duly registered with the State of Oklahoma and operated by a person who is a duly licensed operator and who has the required liability insurance may operate an ATV upon the roadways.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-206.3</num>
+        <heading>CIVIL PENALTIES.</heading>
+        <text>Any person violating this Article shall pay a fine of one hundred dollars ($100) and/or the ATV may be impounded and held until impoundment fee in the amount of fifty dollars ($50) is paid.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>G</num>
+      <heading>ABANDONED MOTOR VEHICLES</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-207.1</num>
+        <heading>UNLAWFUL TO ABANDON VEHICLES.</heading>
+        <text>Any person who unlawfully abandons a Motor Vehicle, or owns a Motor Vehicle that is abandoned unlawfully shall be fined an amount not less than one hundred dollars ($100) or more than five hundred dollars ($500), and they shall be responsible for all actual expenses incurred in the removal and impoundment of said Vehicle.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-207.2</num>
+        <heading>IMPOUNDMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>Upon discovery of any Abandoned Motor Vehicle, an Officer shall inspect the Vehicle for evidence of ownership, and shall make a reasonable effort to determine its ownership and/or any liens of record. If the name and address of the owner and/or lien holder of the Vehicle are ascertained, the Officer shall notify the party. Said Notice shall specify that:</text>
+          <para>
+            <num>1.</num>
+            <text>the Vehicle must be removed within ten (10) days of the date of the notice, or it will be impounded and removed by the Law Enforcement Agency, and;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the owner and/or lien holder may redeem the Vehicle after impoundment upon presenting satisfactory proof of ownership or right to possession, payment of the civil penalties and expenses of removing and storing the Vehicle, not more than thirty (30) days after the date of notice, otherwise the Vehicle will be sold.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any Vehicle which has been impounded under the authority of this code shall be held by the Law Enforcement Agency in a safe and secure location as designated by the Chief of Police.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-207.3</num>
+        <heading>DISPOSITION OF ABANDONED MOTOR VEHICLES.</heading>
+        <para>
+          <num>A.</num>
+          <text>If the Abandoned Motor Vehicle is not redeemed within thirty (30) days after the date of notice as provided in <cite path="PROOF">Section 21-207.2</cite>, the Abandoned Motor Vehicle may be sold or otherwise disposed of.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If the owner and/or lien holder was not determined, the Chief of Police shall publish in the newspaper of record the intention to sell or otherwise dispose of the Abandoned Motor Vehicle giving the Vehicle's description including VIN number.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-207.4</num>
+        <heading>SALE OF ABANDONED MOTOR VEHICLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Chief of Police shall give notice designating the date, location, and time on an auction to be held of any and all Abandoned Motor Vehicles.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>When any Abandoned Motor Vehicle is sold, a Certificate of Sale shall be executed in duplicate, and the original copy shall be delivered to the purchaser and the copy shall be retained for records. The Certificate of Sale shall contain;</text>
+          <para>
+            <num>1.</num>
+            <text>the name and address of the purchaser;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the date of sale;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>the consideration paid;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>a description of the Vehicle, and;</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>a stipulation that no warranty is made as to the condition or title of the Vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>All proceeds received from the sale of Abandoned Motor Vehicles shall be deposited in the general account of the Chickasaw Nation.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>H</num>
+      <heading>MOTOR VEHICLE EQUIPMENT REQUIREMENTS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.1</num>
+        <heading>WHEN LAMPS ARE REQUIRED.</heading>
+        <text>Every Vehicle upon a roadway at any time from sunset to sunrise, and at any other time when, due to insufficient light or unfavorable atmospheric conditions, persons and Vehicles on the roadway are not clearly visible at a distance of one thousand (1,000) feet ahead must display lighted lamps and illuminated devices as hereinafter respectively required for different classes of Vehicles, subject to exceptions with respect to parked Vehicles. Stoplights, turn signals, and other signaling devices must be lighted as prescribed for the use of such devices.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.2</num>
+        <heading>VISIBILITY DISTANCE AND MOUNTED HEIGHT OF LAMPS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Whenever requirement is hereinafter declared as to distance from which certain lamps and devices render objects visible or within which lamps or devices must be visible, said provisions apply during the times stated in <cite path="PROOF">Section 21-208.1</cite> in respect to a Vehicle without load when upon a straight, level, unlighted roadway under normal atmospheric conditions unless a different time or condition is expressly stated.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any requirement of this Article as to the mounted height of lamps or devices shall mean from the center of such lamp or device to the level ground upon which the Vehicle stands when such Vehicle is without a load.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.3</num>
+        <heading>HEADLAMPS ON MOTOR VEHICLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Motor Vehicle must be equipped with at least two headlamps with at least one on each side of the front of the Motor Vehicle, which headlamps must comply with the requirements and limitation set forth in this Article.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every headlamp upon every Motor Vehicle must be located at a height measured from the center of the head lamp of not more than fifty-four (54) inches nor less than twenty-four (24) inches to be measured as set forth in <cite path="PROOF">Section 21-208.2(B)</cite>.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.4</num>
+        <heading>TAIL LAMPS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Motor Vehicle, trailer, semitrailer, and pole trailers and any other Vehicle which is drawn at the end of a train of Vehicles, must be equipped with at least one tail lamp mounted on the rear, which when lighted as herein required, must emit a red light plainly visible from a distance of one thousand (1,000) feet to the rear, provided that in the case of a train of Vehicles only the tail lamp on the rearmost Vehicle need actually be seen from the distance specked. Every such above-mentioned Vehicle, other than a truck tractor, registered and manufactured or assembled after January 1, 1964, must be equipped with at least two tail lamps mounted on the rear of the same level and as widely spaced laterally as practicable, which, when lighted as herein required, comply with the provisions of this section.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every tail lamp upon every Vehicle must be located at a height of not more than seventy-two (72) inches nor less than fifteen (15) inches from the ground.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Either a tail lamp or a separate lamp must be so constructed and placed as to illuminate with a white light on the rear registration plate and render it clearly legible from a distance of fifty (50) feet to the rear. Any tail lamp or tail lamps, together with any separate lamp for illuminating the rear registration plate, must be so wired as to be lighted whenever the headlamps or auxiliary driving lamps are lighted.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.5</num>
+        <heading>MOTOR VEHICLE TO BE EQUIPPED WITH REFLECTORS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Motor Vehicle operated upon a roadway must carry on the rear, either as part of the tail lamps or separately, two or more red reflectors meeting the requirements of this Section.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every such reflector must be mounted on the Vehicle at a height not less than fifteen (15) inches nor more than sixty (60) inches from the ground.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.6</num>
+        <heading>STOP LAMPS AND TURN SIGNALS REQUIRED ON MOTOR VEHICLES.</heading>
+        <para>
+          <num>A.</num>
+          <text>No person may operate on the roadways any Motor Vehicle registered and manufactured or assembled after January 1, 1964, unless it is equipped with at least two stop lamps, except that a truck tractor manufactured or assembled after January 1, 1964 must be equipped with at least one stop lamp.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No person may operate on the roadways any Motor Vehicle, trailer, or semitrailer registered and manufactured or assembled after January 1, 1952, unless it is equipped with electrical turn signals in good working order. This section does not apply to any trailer or semitrailer of less than three thousand (3,000) pounds gross weight.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.7</num>
+        <heading>ADDITIONAL LIGHTING EQUIPMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any Motor Vehicle may be equipped with one or more backup lamps when separately or in combination with other lamps, but the backup lamp or lamps may not be lighted when the Vehicle is in a forward motion.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any Motor Vehicle may be equipped with one or more side marker lamps which may be flashed in conjunction with turn signals or vehicular hazard warning signals.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.8</num>
+        <heading>APPLICATION OF SUCCEEDING SECTIONS.</heading>
+        <text>Those sections of this Article which follow immediately relating to clearance and marker lamps, reflectors, and stoplights, apply as stated in said sections to Vehicles of the type therein enumerated, namely passenger buses, trucks, truck tractors, and certain trailers, semi-trailers and pole trailers, respectively, when operated upon any roadway, and said Vehicles must be equipped as required and all lamp equipment required must be lighted at the times mentioned in <cite path="PROOF">Section 21-208.1</cite>, except that clearance and side marker lamps need not be lighted on any said Vehicle when operated within this jurisdiction where there is sufficient light to render clearly discernible persons and Vehicles on the roadway at a distance of five hundred (500) feet.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.9</num>
+        <heading>ADDITIONAL EQUIPMENT REQUIRED ON CERTAIN VEHICLES.</heading>
+        <text>In addition to other equipment required in <cite path="21|2">this Chapter</cite>, the following Vehicles must be additionally equipped as herein stated.</text>
+        <para>
+          <num>A.</num>
+          <text>On every bus, truck, trailer, or semitrailer, there must be the following:</text>
+          <para>
+            <num>1.</num>
+            <text>on the rear, two reflectors, one at each side and one stoplight.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>a trailer or semitrailer which is not loaded or of some dimensions as to obscure the stoplight on the towing Vehicle need not be equipped with a stoplight.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>On every bus, truck, trailer, or semitrailer eighty (80) inches or more in overall width there must be the following:</text>
+          <para>
+            <num>1.</num>
+            <text>on the rear, two reflectors, one at each side, two clearance lamps, one at each side and one stop light.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>on the front, two clearance lamps, one at each side.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>On every truck tractor there must be the following:</text>
+          <para>
+            <num>1.</num>
+            <text>on the front, two clearance lamps, one at each side.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>on the rear, one stoplight.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>On every pole trailer exceeding three thousand (3,000) pounds gross weight, there must be on each side, one side marker lamp and one clearance lamp which may be in combination to show to the front, side and rear.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.10</num>
+        <heading>COLOR OF CLEARANCE LAMPS SIDE MARKER LAMPS BACK UP LAMPS AND REFLECTORS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Front clearance lamps and those marker lamps and reflectors mounted on the front, or on the side near the front of a Vehicle, must display or reflect amber color.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Rear clearance lamps and those marker lamps and reflectors mounted on the rear, or on the sides near the rear of a Vehicle, must display or reflect a red color.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>All lighting devices and reflectors mounted on the rear of any Vehicle must display or reflect a red color, except that the light illuminating the license plate must be white and the light emitted by a backup lamp must be white or amber.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.11</num>
+        <heading>MOUNTING OF REFLECTORS, CLEARANCE LAMPS AND SIDE MARKER LAMPS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Reflectors, when required, must be mounted at a height not less than fifteen (15) inches and not higher than sixty (60) inches above the ground on which the Vehicle stands, except that if the highest part of the permanent structure of the Vehicle is less than fifteen (15) inches the reflector must be mounted as high as that part of the structure will permit. The rear reflectors on a pole trailer may be mounted on each side of the bolster or load. A required red reflector on the rear of a Vehicle may be incorporated with the tail lamp but must meet all the other reflector requirements of this Article.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Clearance lamps must be mounted on the permanent structure of the Vehicle in such a manner as to indicate its extreme width and as near the top thereof as practicable. Clearance lamps and side marker lamps may be mounted in combination provided illumination is given as required herein with reference to both.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.12</num>
+        <heading>VISIBILITY OF REFLECTORS. CLEARANCE LAMPS AND MARKER LAMPS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every reflector upon any Motor Vehicle must be of such size and characteristics and so maintained as to be readily visible at night time from all distances within six hundred (600) feet to one hundred (100) feet from the Vehicle when directly in front of lawful lower beams of headlamps, except that the reflectors on Vehicles manufactured or assembled prior to January 1, 1970 must be measured in form of lawful upper beams of headlamps. Reflectors required to be mounted on the sides of the Vehicle must reflect the required color of light to the sides, and those mounted on the rear must reflect a red color to the rear.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Front and rear clearance lamps must be capable of being seen and distinguished under normal atmospheric conditions at the times lights are required at a distance of five hundred (500) feet from the front and rear of the Vehicle.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Side marker lamps must be capable of being seen and distinguished under normal atmospheric conditions at the time lights are required at a distance of five hundred (500) feet from the side of the Vehicle on which mounted.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.13</num>
+        <heading>OBSTRUCTED LIGHTS NOT REQUIRED.</heading>
+        <text>Whenever Vehicles are operated in combination during the time that lights are required, any lamp need not be lighted which, by reason of its location on a Vehicle of the combination, would be obscured by another Vehicle of the combination, but this does not affect the requirement that lighted clearance lamps be displayed on the front of the foremost Vehicle required to have clearance lamps, not that all lights required on the rear of the rearmost Vehicle of any combination must be lighted.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.14</num>
+        <heading>LAMP OR FLAG ON PROJECTING LOAD.</heading>
+        <text>Whenever the load upon any Vehicle extends to the rear four feet or more beyond the bed or body of the Vehicle there must be displayed at the extreme rear end of the load at the times specified in <cite path="PROOF">Section 21-208.1</cite>, a red light or lantern plainly visible from a distance of at least six hundred (600) feet to the sides and rear. The red light or lantern required under this section must be in addition to the red rear light required upon every Vehicle. At any other time there must be displayed at the extreme rear end of a load a red flag or cloth not less than twelve (12) inches square and so hung that the entire area is visible and the Driver of a Vehicle approaching from the rear.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.15</num>
+        <heading>LAMPS ON PARKED VEHICLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Whenever a Vehicle is lawfully parked upon a street or roadway during the hours between a half hour after sunset and a half hour before sunrise and in the event there is sufficient light to reveal any person or object within a distance of one thousand (1,000) feet upon such street or roadway no lights need to be displayed.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Whenever a Vehicle is parked or stopped upon a roadway or shoulder adjacent thereto, whether attended or unattended, during the hours between a half hour after sunset and a half hour before sunrise and there is not sufficient light to reveal any person or object within a distance of one thousand (1,000) feet upon such roadway, the Vehicle must be equipped with at least one lamp displaying a white or amber light visible from a distance of one thousand (1,000) feet to the front of the Vehicle. The same lamp or at least one other lamp or lamps must display a red light visible from a distance of one thousand (1,000) feet to the rear of the Vehicle, and the location of the lamp or lamps must always be such that at least one lamp or combination of lamps meeting the requirements of this section is installed as near practicable to the side of the Vehicle which is closest to passing traffic.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any lighted headlamps upon a parked Vehicle must be depressed or dimmed.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.16</num>
+        <heading>LAMPS ON OTHER VEHICLES AND EQUIPMENT.</heading>
+        <text>Every Vehicle, including animal drawn or human drawn vehicles, must at all times specified in <cite path="PROOF">Section 21-208.1</cite> be equipped with at least one lamp displaying a white light visible from a distance or not less than one thousand (1,000) feet to the front of the Vehicle, and must also be equipped with two lamps displaying red light visible from a distance of not less than one thousand (1,000) feet to the rear of the Vehicle, or two red reflectors visible for distances of one hundred (100) feet to six hundred (600) feet to the rear when illuminated by the lower beam of headlamps.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.17</num>
+        <heading>SPOT LAMPS AND AUXILIARY LAMPS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Spot Lamps. Any Motor Vehicle may be equipped with not to exceed two spot lamps and every lighted spot lamp must be so aimed and used so that no part of the high intensity portion will strike the windshield, or any windows, mirror or occupant of another Vehicle in use.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Fog Lamps. Any Motor Vehicle may be equipped with not to exceed two fog lamps mounted on the front at a height not less than twelve (12) inches nor more than thirty (30) inches above the level surface upon which the Vehicle stands and so aimed that when the Vehicle is not loaded none of the high intensity portion of the light to the left center of the Vehicle shall at a distance of twenty-five (25) feet ahead project higher than a level of four inches below the level of the center of the lamp from which it comes.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Auxiliary Passing Lamps. Any Motor Vehicle may be equipped with not to exceed two auxiliary passing lamps mounted on the front at a height not less than twenty-four (24) inches nor more than forty-two (42) inches above the level surface upon which the Vehicle stands.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Auxiliary Driving Lamps. Any Motor Vehicle may be equipped with not to exceed two auxiliary driving lamps. Any auxiliary driving lamp mounted at a height of less than sixteen (16) inches or more than forty-two (42) inches above the level surface upon which the Vehicle stands may not be lighted when the Vehicle is used upon a roadway.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.18</num>
+        <heading>AUDIBLE AND VISUAL SIGNALS ON VEHICLE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Authorized Emergency Vehicle must, in addition to any other equipment and distinctive markings, be equipped with a siren, exhaust whistle, or bell capable of causing a minimum sound intensity of eighty-five decibels, such siren or signal must be mounted outside of the Authorized Emergency Vehicle or in front of the radiator.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every school bus, except small vehicles such as automobiles, station wagons, suburban, and van-type vehicles having a seating capacity of up to and including sixteen (16) pupils, and every Authorized Emergency Vehicle may be equipped with safety strobe lights and must, in addition to any other equipment and distinctive markings required by this Article, be equipped with:</text>
+          <para>
+            <num>1.</num>
+            <text>signal lamps mounted as high and as widely spaced laterally as practicable, which must be capable of displaying to the front two alternately flashing red lights located at the same level and to the rear two alternately flashing red lights located at the same level, and these lights must have sufficient intensity to be visible at five hundred (500) feet in normal sunlight; and,</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>a stop sign on a control arm that can be activated by the bus driver. The stop sign on the control arm must be located on the left side of the bus; be equipped with a flashing red light; and when activated, extend out from the bus at approximately a ninety-degree angle.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A police Vehicle when used as an Authorized Emergency Vehicle may, but need not, be equipped with alternately red lights specified herein.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.19</num>
+        <heading>SIGNAL LAMPS AND SIGNAL DEVICES.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any Motor Vehicle may be equipped and when required under this Article must be equipped with a stop lamp or lamps on the rear of the Vehicle which shall display a red light visible from a distance of not less than three hundred (300) feet to the rear in normal sunlight, and which shall be activated upon application of the service (foot) brake, and which may, but need not, be incorporated with one or more other rear lamps.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any Motor Vehicle may be equipped and when required under this Article must be equipped with lamps showing to the front and rear for the purpose of indicating an intention to turn either to the right or left. The lamps showing to the front must be located on the same level and as widely spaced laterally as practicable and when in use display a white or amber light, or any shade of color between white and amber, visible from a distance of not less than three hundred (300) feet to the front in normal sunlight, and the lamps showing to the rear must be located at the same level and as widely space laterally as practicable and when in use display a red or amber light, or any shade of color between red and amber, visible from a distance of not less than three hundred (300) feet to the rear in normal sunlight.</text>
+          <text>Any Motor Vehicle or combination of Vehicles eighty (80) inches or more in overall width, and manufactured or assembled after January 1964, must be equipped with the lamps required by the subsection mounted and spaced in the same manner but visible from a distance not less than five hundred (500) feet to the front and rear in normal sunlight. When activated, the lamps must indicate the intended direction of turning by flashing the lights showing to the front and rear on the side toward which the turn is made. Turn signal lamps may, but need not, be incorporated in other lamps on the Vehicle.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No stop lamp or signal may project a glaring light.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.20</num>
+        <heading>VEHICULAR HAZARD WARNING LIGHTS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any Vehicle may be equipped with lamps for the purpose of warning the Drivers of other Vehicles of the presence of a vehicular traffic hazard requiring the exercise of unusual care in approaching, overtaking, or passing.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every bus, truck, truck tractor, trailer, semi-trailer or pole trailer eighty (80) inches or more in overall width or thirty (30) feet or more in overall length must be equipped with lamps meeting the requirements of this section.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Vehicular hazard warning signal lamps used to display warning to the front must be mounted at the same level and as widely spaced laterally as practicable, and must display simultaneously flashing white or amber lights, or any shade of color between white and amber. The lamps used to display warning to the rear must be mounted at the same level and as widely spaced laterally as practicable, and must show simultaneously flashing amber or red lights, or any shade of color between amber and red. These warning lights must be visible from a distance of not less than five hundred (500) feet in normal sunlight.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.21</num>
+        <heading>MULTIPLE BEAM ROAD LIGHTING EQUIPMENT.</heading>
+        <text>Except as hereinafter provided, the headlamps or the auxiliary driving lamp or the auxiliary passing lamp or combination thereof on Motor Vehicles must be so arranged that the Driver may select at will between distributions of light projected to different elevations and these lamps may, in addition, be so arranged that selection can be made automatically, subject to the following limitations:</text>
+        <para>
+          <num>A.</num>
+          <text>There must be an uppermost distribution of light, or composite beam, so aimed and of sufficient intensity to reveal persons and Vehicles at a distance of at least four hundred fifty (450) feet ahead for conditions of loading.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>There must be a lowermost distribution of light, or composite beam, so aimed and of sufficient intensity to reveal persons and Vehicles at a distance of at least one hundred fifty (150) feet ahead; and on a straight level road under any condition of loading none of the high intensity portion of the beam may be directed to strike the eyes of an approaching Driver.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Every Motor Vehicle registered, which has multiple-beam road-lighting equipment must be equipped with a beam indicator, which must be lighted whenever the uppermost distribution of light from the headlamps is in use, and may not otherwise be lighted. The indicator must be so designed and located that when lighted it will be readily visible without glare to the Driver of the Vehicle so equipped.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Subsection C does not apply to those Vehicles manufactured without a factory installed beam indicator.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.22</num>
+        <heading>USE OF MULTIPLE-BEAM ROAD-LIGHTING EQUIPMENT.</heading>
+        <text>Whenever a Motor Vehicle is being operated on a roadway or shoulder adjacent thereto during the times specified in <cite path="PROOF">Section 21-208.1</cite>, the Driver shall use a distribution of light, or composite beam, directed high enough and of sufficient intensity to reveal persons and Vehicles at a safe distance in advance of the Vehicle, subject to the following requirements and limitations:</text>
+        <para>
+          <num>A.</num>
+          <text>When a Driver of a Vehicle approaches an oncoming Vehicle within five hundred (500) feet, such Drivers shall use a distribution of light, or composite beam, so aimed that the glaring rays are not projected into the eyes of the oncoming Driver. The lowermost distribution of light or composite beam must be deemed to avoid glare at all times, regardless of road contour and loading.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>When a Driver of a Vehicle follows another Vehicle within three hundred (300) feet to the rear, the Driver shall use a distribution of light permissible under this Article other than the uppermost distribution of light.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.23</num>
+        <heading>SPECIAL RESTRICTIONS ON LAMPS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any lighted lamp or illuminating device upon a Motor Vehicle, other than headlamps, spot lamps, auxiliary lamps, flashing turn signals, emergency warning lamps and school bus warning lamps, which projects a beam of light of an intensity greater than three hundred candle power must be so directed that no part of the high intensity portion of the beam will strike the level of the roadway on which the Vehicle stands at a distance of more than seventy-five (75) feet from the Vehicle.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No person may drive or move any Vehicle or equipment upon any roadway with any lamp or device thereon displaying a blue, red or green light visible from directly in front of the center thereof. This section does not apply to any Vehicle upon which a red light visible from the front is expressly authorized or required by this Article.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Flashing lights are prohibited except on an Authorized Emergency Vehicle, school bus, debris removing equipment or on any Vehicle as a means of indicating a right or left turn, or the presence of a vehicular traffic hazard requiring unusual care in approaching, overtaking, or passing.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.24</num>
+        <heading>BRAKE EQUIPMENT REQUIRED.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Motor Vehicle, other than a motorcycle or motor-driven cycle, when operated upon a roadway must be equipped with brakes adequate to control the movement of and to stop and hold such Vehicle, including two separate means of applying the brakes, each of which means must be effective to apply the brakes to at least two wheels. If these two separate means of applying the brakes are connected in any way, they must be so constructed that failure of anyone part of the operating mechanism does not leave the Motor Vehicle without brakes on at least two wheels.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Every farm tractor, motorcycle, and motor-driven cycle, when operated within this jurisdiction, must be equipped with at least one brake, which may be operated by hand or foot.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Every trailer or semitrailer when operated upon a roadway at a speed in excess of fifteen miles per hour must be equipped with safety chains or brakes adequate to control the movement of and to stop and to hold such Vehicle and so designed as to be applied by the Driver of the towing Motor Vehicle and so designed and connected that in case of an accidental breakaway of the towed vehicle the brakes shall be automatically applied.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>One of the means of brake operation must be parking brakes adequate to hold the Vehicle on any grade on which it is operated, under all conditions of loading on a dry surface or loose material. The parking brakes must be capable of being applied in conformance with the foregoing requirements by the Driver's muscular effort or by spring action or by equivalent means. Their operation may be assisted by the service brakes or other source of power provided that failure of the brake actuation system or other power assisting mechanism will not prevent the parking brakes from being applied in conformance with the foregoing requirements. The parking brakes must be so designed that when once applied they remain applied with the required effectiveness despite exhaustion of any source of energy or leakage of any kind. The same brake drums, brake shoes and lining assemblies, brake shoe anchors, and mechanical brake assemblies may be used for both the service brakes and parking brakes</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.25</num>
+        <heading>MAINTENANCE OF BRAKES.</heading>
+        <text>All brakes must be maintained in good working order and must be so adjusted as to operate as equally as practicable with respect to the wheels on opposite sides of the Vehicle.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.26</num>
+        <heading>HORN AND WARNING DEVICE.</heading>
+        <para>
+          <num>A.</num>
+          <text>While being operated upon a roadway, every Motor Vehicle must be equipped with a horn in good working order and capable of emitting sound audible under normal conditions from a distance of not less than two hundred (200) feet, but no horn or other warning device may emit an unreasonable loud or harsh sound or whistle. Whenever reasonably necessary for safe operation, the Driver of a Motor Vehicle upon a roadway shall give audible warning with his or her horn, but may not otherwise use his or her horn while upon a roadway.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No Vehicle may be equipped with nor may any person use upon any Vehicle any siren, bell, or whistle, except as permitted.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any Vehicle may be equipped with a theft alarm signal device which is so arranged that it cannot be used by the Driver as an ordinary warning signal.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Any Authorized Emergency Vehicle may be equipped with a siren, whistle, or bell, capable of emitting sound audible under normal conditions from a distance of not less than five hundred (500) feet, but the siren may not be used except when the Vehicle is operated in response to an emergency call or in the immediate pursuit of an actual or suspected violator of the law, in which events the Driver of the Vehicle shall sound the siren when reasonable necessary to warn pedestrians and other Drivers of approaching Vehicles.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.27</num>
+        <heading>MUFFLER PREVENTION OF NOISE AND SMOKE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Motor Vehicle must at all times be equipped with a muffler in good working order and in constant operation to prevent excessive or unusual noise and annoying smoke, and no person may use a muffler cutout, bypass, or similar device upon a Motor Vehicle within this jurisdiction.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The engine and power mechanism of every Motor Vehicle must be so equipped and adjusted as to prevent escape of excessive fumes or smoke.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.28</num>
+        <heading>MIRROR.</heading>
+        <text>Every Motor Vehicle, operated singly or when towing any other Vehicle, must be equipped with a mirror so located as to reflect to the Driver a view of the roadway for a distance of at least two hundred (200) feet to the rear of such Motor Vehicles.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.29</num>
+        <heading>WINDSHIELD MUST BE UNOBSTRUCTED AND EQUIPPED WITH WIPERS TINTED WINDOWS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Motor Vehicle must be equipped with a windshield. No person may drive any Motor Vehicle with any sign, poster, or other non-transparent material upon the front windshield, side wings, or side or rear windows which obstructs the Driver's clear view of the roadway or any intersection roadway. This section does not apply to those Vehicles which obviously are not required to have windshields or windows including: motorcycles, motor-driven cycles and golf carts.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The windshield on every Motor Vehicle must be equipped with a device for clearing rain, or other moisture from the windshield, which must be so constructed as to be controlled or operated by the Driver of the Vehicle.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Every windshield wiper upon a Motor Vehicle must be maintained in good working order.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A person may not operate a Motor Vehicle with any object or any material displayed, affixed, or applied on the front windshield or on any side window where the material alters the color or reduces the light transmittance, or reduces the clear and obstructed view through the windshield or window. This section does not apply to windows behind the Driver or to tinted windows or windshields in compliance with the federal Motor Vehicle safety standards No. 205.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.30</num>
+        <heading>RESTRICTION ON TIRE EQUIPMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every solid rubber tire on a Vehicle must have rubber on its entire traction surface at least one inch thick above the edge of the flange of the entire periphery.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No person may operate or move on any roadway any Motor Vehicle, trailer, or semi-trailer having any metal tire in contact with the roadway surface.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.31</num>
+        <heading>RESTRICTIONS TO TIRE EQUIPMENT.</heading>
+        <text>No tire on a Vehicle moved on a roadway may have on its periphery any block, stud, flange, cleat, or spoke or any other protuberance of any material other than rubber which projects beyond the trend of the traction surface of the tire, except that it is permissible to use farm machinery with tires that have protuberances which will not injure the roadway surfaces.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-208.32</num>
+        <heading>CIVIL PENALTIES.</heading>
+        <text>Unless otherwise stated, any person violating a section in this Article shall be issued a Civil Citation and shall be assessed a civil fine of fifty dollars ($50).</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>I</num>
+      <heading>SAFETY BELTS AND RESTRAINTS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-209.1</num>
+        <heading>SAFETY BELT REQUIREMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>Each Driver of a passenger car, van, or truck having a gross weight of six thousand (6,000) pounds or less, commonly referred to as a pickup truck, in this state shall have a safety belt properly fastened about his or her body at all times when the Vehicle is in forward motion. The provisions of this Section shall not apply to those cars, vans, or pickups manufactured prior to January 1, 1981.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A person operating or riding in an automobile shall wear seatbelts while in forward motion.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Except as otherwise provided by law, each front seat occupant of a passenger car, van, or truck having a gross weight of six thousand (6,000) pounds or less, commonly referred to as a pickup truck, shall have a safety belt properly fastened about his or her body at all times when the Vehicle is in forward motion, if a belt for his seating space has been provided by the manufacturer.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>This Section shall not apply to a Motor Vehicle operated by a rural letter carrier of the United States Postal Service while performing his or her duties as a rural letter carrier or to a farm vehicle being operated within five miles of the place of its principal use.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>This Section shall not apply to an occupant of a passenger car or Driver with a physically or mentally disabling condition whose physical or mental disability would prevent appropriate restraint in the safety belt; however, the condition shall be duly certified by a physician who shall state the nature of the handicap, as well as the reason such restraint is inappropriate.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>No Vehicle, Driver or passenger in a Vehicle, shall be inspected, detained, or searched solely because of a violation of or to determine compliance with this Section.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Every owner shall maintain belts and assemblies required by this section in proper condition and in a manner that will enable occupants to use them.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>No person under the age of 18 shall ride on the outside of, or in the back bed of, a pickup truck while the Vehicle is in a forward motion.</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of fifty dollars ($50) per person not in compliance per Vehicle.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-209.2</num>
+        <heading>RESTRAINT DEVICES.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Driver of a Motor Vehicle who transports a child or children under the age of five years in a Motor Vehicle which is equipped with safety belts at the time of manufacture or assembly, or is currently equipped with safety belts, shall have the child properly secured in accordance with the manufacturer's instructions in a child passenger restraint system which meets the applicable federal Motor Vehicle safety standards in effect on the effective date of this Section, except as provided in herein.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The term "Motor Vehicle" as used in this Section, shall not mean the following: bicycle, farm tractor; motorcycle; or motor-driven cycle; truck of manufacturer's rating carrying capacity of over 2000 pounds; ambulance or other emergency vehicle; school bus; church bus; private bus, or recreational vehicle which has a passenger capacity of over ten persons; or for hire commercial truck, van, or taxi.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>If such child is three to five years of age, securing the child in a lap belt or safety belt in a rear seat shall be sufficient to meet the requirements of this Section. If there are no rear seats, a child passenger restraint system shall be used.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>When the number of children under the age of five in the Motor Vehicle exceeds the number of child passenger restraint systems and seat belts available in the Motor Vehicle, the unrestrained children shall be seated in a rear seat.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The provisions of this Section shall not apply when one of the following conditions exists:</text>
+          <para>
+            <num>1.</num>
+            <text>The Motor Vehicle is being used as an Authorized Emergency Vehicle.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>An emergency exists which threatens the life of any person operating a Motor Vehicle to whom this section otherwise would apply or the life of any child who otherwise would be required to be restrained under this Section.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Any child who would otherwise be required to be restrained under this section who is physically unable because of medical reasons to use a child passenger safety system or safety belt.</text>
+          </para>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Violation of this section is not, in itself, evidence of negligence. The fact of a violation of this section is not admissible in any proceeding other than one charging the violation.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of one hundred dollars ($100) per person not in compliance per Vehicle.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>J</num>
+      <heading>EXPLOSIVE AND HAZARDOUS MATERIALS; OTHER SAFETY CONSIDERATIONS.</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.1</num>
+        <heading>VEHICLE TRANSPORTING EXPLOSIVES OR HAZARDOUS MATERIAL.</heading>
+        <text>Any person operating any Vehicle transporting any explosive or hazardous material as a cargo or part of a cargo in this jurisdiction must:</text>
+        <para>
+          <num>A.</num>
+          <text>Obtain permission to do so and identify the cargo and purpose of transporting in this jurisdiction; and,</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Must be in compliance with the current hazardous material regulations of the United States Department of Transportation and the regulations of the State of Oklahoma.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.2</num>
+        <heading>VEHICLE TO BE CONSTRUCTED TO PREVENT SHIFTING OR LEAKING LOADS.</heading>
+        <text>No Vehicle may be driven or moved in this jurisdiction unless it is so constructed or loaded as to prevent its contents from dropping, shifting, leaking, or otherwise escaping therefrom- except that sand may be dropped for the purpose of securing traction, or water or other substance may be sprinkled upon the roadway in cleaning and maintaining the roadway.</text>
+        <text>No person may operate on any roadway any Vehicle with any load unless the load and any covering or load from becoming loose, detached, or in any manner a hazard to other users of the roadway.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.3</num>
+        <heading>DRAWBAR OR CONNECTION BETWEEN VEHICLES.</heading>
+        <text>The drawbar or other connection between two Vehicles, one of which is towing or drawing the other on a roadway, must be of such design, strength and construction so as to prevent unintentional uncoupling of the Vehicles.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.4</num>
+        <heading>AIR CONDITIONING EQUIPMENT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The term "air conditioning equipment" as used or referred to in this section, means mechanical vapor compression refrigeration equipment which is used to cool the Driver's or passengers compartment of any Motor Vehicle.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Air conditioning equipment must be manufactured, installed, and maintained with due regard for the safety of the occupants of the Vehicle and the public and may not contain any refrigerant which is toxic to persons or which is flammable.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No person may operate on any roadway any Motor Vehicle equipped with any air conditioning equipment unless the equipment complies with the requirements of this section.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.5</num>
+        <heading>MODIFICATION OF MOTOR VEHICLE.</heading>
+        <text>Except as otherwise provided in this section, a Driver may not drive upon a roadway a Motor Vehicle of a type required to be registered under the laws of the State of Oklahoma with a weight of seven thousand (7,000) pounds or less with alteration or changes from the manufacturer's original design of the suspension, steering, or braking system of the Motor Vehicle. The weight must be computed on the bases of the unmodified and unloaded weight of the Motor Vehicle, and without regard to any ballast that may be placed in the Vehicle as to bumpers, Motor Vehicle height, and permitted modifications, the following requirements also apply:</text>
+        <para>
+          <num>A.</num>
+          <text>The Motor Vehicle must be equipped with front and rear bumpers.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The maximum body height permitted for the Motor Vehicle is forty-two (42) inches. Measurement of body height is made from level ground surface to the floor of the cargo area.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The maximum bumper height permitted is twenty-seven (27) inches. Measurement of bumper height is made from a level ground surface to the highest point on the bottom of the bumper.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The Vehicle may be modified in accordance with the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Any modifying equipment must meet specialty equipment marketing standards.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>If tires placed on a Motor Vehicle have a diameter greater than that of the tires on the Motor Vehicle as manufactured, those tires must comply with Department of Transportation requirements.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>The maximum outside diameter permitted for tires is forty-four (44) inches.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>A horizontal drop bumper may be used to comply with the bumper height requirement of subsection three above. The horizontal bumper must:</text>
+            <para>
+              <num>a.</num>
+              <text>be at least three inches in vertical width,</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>extend the entire horizontal body width; and,</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>be horizontal, load bearing, and attached to the Vehicle frame to effectively transfer impact when engaged.</text>
+            </para>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>The maximum lift permitted in the suspension system is four inches.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>A person charged with violating this section has the burden of proceeding to show that the modification are permitted under this section.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Vehicles owned by law enforcement agencies, the military, fire fighting agencies, ambulances, and any Authorized Emergency Vehicles may be modified without regard to this section.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.6</num>
+        <heading>SCOPE AND EFFECT OF EQUIPMENT REQUIREMENTS.</heading>
+        <para>
+          <num>A.</num>
+          <text>It is unlawful for any person to drive or move, or for the owner to cause or knowingly permit to be driven or moved, on any roadway or elsewhere within this jurisdiction any Vehicle or combination of Vehicles which the actor knows to be in such unsafe condition as to endanger any person, or which the actor knows does not contain those parts or is not at all times equipped with lamps and other equipment in proper condition and adjustment as required in this Article, or which the actor knows is equipped in any manner in violation of this Article, or for any person to do any act forbidden or fails to perform any act required under this Article. Any person who, in violation of this Article, drives, or any owner who causes or knowingly permits to be driven upon a roadway or elsewhere within this jurisdiction, any Vehicle or combination of Vehicles which that person knows is unsafe or improperly equipped is subject to a Civil Citation.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Nothing contained in this Article may be construed to prohibit the use of additional parts and accessories on any Vehicle not inconsistent with the provisions of this Article.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The provisions of this Article with respect to equipment on Vehicles do not apply to implements of husbandry, road machinery, road rollers, or farm tractors except as specifically made applicable.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The provisions of this Article with respect to equipment required on Vehicles do not apply to motorcycles or motor-driven cycles, except as specifically made applicable.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The provisions of this Article and regulations do not apply to Vehicles moved solely by human power, except as specifically made applicable.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>No person shall drive, or permit or allow any Vehicle owned by them or under their control to be driven on any roadway or elsewhere within this jurisdiction, unless and until such Vehicle bears an inspection tag showing it to have been inspected and approved, if such Vehicle is required to be so inspected.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Any person violating any part this section shall be issued a Civil Citation and shall be assessed a civil fine of fifty dollars ($50).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.7</num>
+        <heading>SLOW MOVING VEHICLES REQUIRED TO DISPLAY IDENTIFICATION EMBLEM.</heading>
+        <para>
+          <num>A.</num>
+          <text>All implements of husbandry and machinery, including all road construction machinery, designed for operation at a speed of 25 mph or less, must display either a triangular slow-moving Vehicle emblem or a rotating or flashing amber light, when traveling upon any roadway or elsewhere in this jurisdiction. The emblem or light must be mounted so as to be visible from a distance of not less than five hundred (500) feet to the rear. No Vehicle, other than those specified in this section, must display a slow-moving emblem, and its use on any type of stationery object is prohibited.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of fifty dollars ($50).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.8</num>
+        <heading>ALTERATION OF ODOMETERS OR OTHER MILEAGERECORDERS HOUR METERS ON TACHOMETERS OR OTHER HOUR RECORDERS.</heading>
+        <para>
+          <num>A.</num>
+          <text>A person may not willfully alter a Motor Vehicle odometer or other mileage recorder, hour meter on tachometer or other hour recorder for the purpose of deceiving another.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person violating this section shall be issued a Civil Citation and shall be assessed a civil fine of two hundred fifty dollars ($250).</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-210.9</num>
+        <heading>EXEMPTION FOR CERTAIN STREET ROD VEHICLES.</heading>
+        <text>The provisions of this Article relating to bumpers, tires, and fenders do not apply to street rod Motor Vehicles. However, a street rod must have all equipment, in operating condition, which was specifically required by law as a condition for its sale when it was first manufactured. A street rod is a modernized Motor Vehicle which was manufactured before 1949 by a recognized manufacturer and which retains the general appearance and original body configuration as manufactured or a Motor Vehicle designed and manufactured to resemble such a Motor Vehicle. A street rod may have improved modifications to the body chassis, engine, brakes, power trains, steering, and suspension systems either by modifying the original equipment or replacing original parts with fabricated parts or those taken from other existing Vehicles.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>K</num>
+      <heading>APPLICATION</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-211.1</num>
+        <heading>TRAFFIC LAWS APPLY TO PERSONS RIDING ANIMALS OR DRIVING ANIMAL-DRAWN VEHICLES.</heading>
+        <text>Any person riding an animal or driving any animal-drawn vehicle upon a roadway shall be granted all of the rights and shall be subject to all of the duties applicable to the Driver of a Motor Vehicle by this Title, except those provisions which by their very nature can have no application.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-211.2</num>
+        <heading>TRAFFIC LAWS APPLY TO PERSONS RIDING BICYCLES.</heading>
+        <text>Every person riding a bicycle upon a roadway is granted all of the rights and is subject to all of the duties applicable to the Driver of a Motor Vehicle except to those provisions which by their nature can have no application.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-211.3</num>
+        <heading>TRAFFIC LAWS APPLY TO PERSONS OPERATING MOTORCYCLES OR MOTORIZED BICYCLES.</heading>
+        <text>Every person operating a motorcycle or motorized bicycle, or motor-scooter is granted all of the rights and is subject to all of the duties applicable to the Driver of any other Motor Vehicle under this Title.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>L</num>
+      <heading>CHEMICAL TESTS</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-212.1</num>
+        <heading>IMPLIED CONSENT TO BREATH TEST, BLOOD TEST OR OTHER TEST FOR DETERMINING PRESENCE OR CONCENTRATION OF ALCOHOL OR OTHER INTOXICATING SUBSTANCE.</heading>
+        <para>
+          <num>A.</num>
+          <para>
+            <num>1.</num>
+            <text>Any Driver who operates a Motor Vehicle upon the public roads, highways, streets, turnpikes or other public place or upon any private road, street, alley or lane which provides access to one or more single or multi-family dwellings within the Chickasaw Nation shall be deemed to have given consent to a test or tests of suchperson's blood or breath, for the purpose of determining the alcohol concentration as defined in <cite path="PROOF">Section 21-212.5</cite> of this Article, and such person's blood, saliva or urine for determining the presence or concentration of any other Intoxicating Substance therein as defined in this section, if arrested for any offense arising out of acts alleged to have been committed while the person was operating or in Actual Physical Control of a Motor Vehicle upon the public roads, highways, streets, turnpikes or other public place or upon any private road, street, alley or lane which provides access to one or more single or multifamily dwellings while under the influence of alcohol or other Intoxicating Substance, or the combined influence of alcohol and any other Intoxicating Substance, or if the person is involved in a traffic accident that resulted in the immediate death or serious injury of any person and is removed from the scene of the accident to a hospital or other health care facility outside the Chickasaw Nation before a Law Enforcement Officer can effect an arrest.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>A Law Enforcement Officer, having reasonable grounds to believe that such Driver was operating or in Actual Physical Control of a Motor Vehicle while under the influence may direct the administration of or administer the test or tests.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Law Enforcement Agency may designate whether blood or breath is to be tested for the alcohol concentration thereof, and whether blood, saliva or urine is to be tested for the presence or concentration of any other Intoxicating Substance therein.</text>
+          <text>In the event the Law Enforcement Agency does not designate the test to be administered, breath shall be the substance tested for alcohol concentration. Blood may also be tested to determine the alcohol concentration thereof in the event that breath cannot be tested to determine the alcohol concentration thereof because of the lack of an approved device or qualified person to administer a breath test or because such breath test for any other reason cannot be administered in accordance with the rules of the Oklahoma Board of Tests for Alcohol and Drug Influence, hereafter referred to in this Article as the "Board."</text>
+          <text>In the event the Law Enforcement Agency does not designate the test to be administered, blood, saliva or urine shall be the substance tested for the presence or concentration of any other Intoxicating Substance or the combination of alcohol and any other Intoxicating Substance.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>In the event the person is incapable of submitting to and successfully completing, by reason of illness or injury or other physical disability, the test to be administered, an alternate test may be administered in accordance with the rules of the Board.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Any person who is unconscious or otherwise incapable of refusing to submit to a test of such person's blood or breath to determine the alcohol concentration thereof, or to a test of such person's blood, saliva or urine to determine the presence or concentration of any other Intoxicating Substance therein, shall be deemed not to have withdrawn the consent provided by subsection A of this section, and such test may be administered as provided herein.</text>
+          <text>An unconscious person who has been issued a citation by a Law Enforcement Officer for one of the offenses listed in subsection A of this section is arrested for purposes of this section. The arresting Officer must leave a copy of the citation with the arrested person which may be accomplished by handing it to the arrested person, or by leaving it with the personal effects of the arrested party, so as to inform the unconscious person of the arrest.</text>
+          <text>Any person who has been arrested for one of the offenses listed in subsection A of this section who is unconscious or injured and who requires immediate medical treatment as determined by a treating physician may be released on the person's own recognizance for medical reasons by the arresting Officer. The arresting Officer who releases an arrested person on the person's own recognizance must indicate the release on the face of the citation. Any person released on his or her own recognizance for medical reasons shall remain at liberty pending the filing of charges.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>In addition to any test designated by the arresting Officer, the arrested person may also designate any additional test to be administered to determine the concentration of alcohol, or the presence or concentration of any other Intoxicating Substance or the combination of alcohol and any other Intoxicating Substance. The cost of such additional test shall be at the expense of the arrested person.</text>
+          <text>A sufficient quantity of any specimen obtained at the designation of the arrested person shall be available to the Law Enforcement Agency employing the arresting Officer. Such specimens shall be treated in accordance with the rules applicable to the specimens obtained by an arresting Officer.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>When a Law Enforcement Officer has determined that the blood alcohol content of an individual is to be tested for the presence or concentration of alcohol, other Intoxicating Substance, or the combination of alcohol and any other Intoxicating Substance, the Law Enforcement Officer shall inform the individual to be tested that the withdrawal of blood shall only be performed by certain medical personnel as provided for in <cite path="PROOF">Section 21-212.2</cite> of this Article.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-212.2</num>
+        <heading>ADMINISTRATION OF TESTS—AUTHORIZATION—LIABILITY—LABORATORIES—INDEPENDENT ANALYSIS—COSTS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Only a person licensed by any state as a medical doctor, osteopathic physician, chiropractic physician, registered nurse, licensed practical nurse, emergency medical technician, or physician's assistant, or an employee of a hospital or other health care facility authorized by the hospital or health care facility to withdraw blood, or other qualified person authorized by the Oklahoma Board of Tests for Alcohol and Drug Influence acting at the request of a Law Enforcement Officer may withdraw blood for purpose of having a determination made of its concentration of alcohol or the presence or concentration of other Intoxicating Substance. Only qualified persons authorized by the Board may collect breath, saliva or urine, or administer tests of breath under the provisions of this Article.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If the person authorized to withdraw blood as specified in subsection A of this section is presented with a written statement:</text>
+          <para>
+            <num>1.</num>
+            <text>Authorizing blood withdrawal signed by the person whose blood is to be withdrawn;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Signed by an Officer that the person whose blood is to be withdrawn has agreed to the withdrawal of blood;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Signed by an Officer that the person whose blood is to be withdrawn has been placed under arrest and that the Officer has probable cause to believe that the person, while intoxicated, has operated a Motor Vehicle in such manner as to have caused the death or serious physical injury of another person, or the person has been involved in a traffic accident and has been removed from the scene of the accident that resulted in the death or great bodily injury of any person, to a hospital or other health care facility outside the Chickasaw Nation before the Officer was able to effect an arrest for such offense; or</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>In the form of an order from the Court that blood be withdrawn, the person authorized to withdraw the blood and the hospital or other health care facility where the withdrawal occurs may rely on such a statement or order as evidence that the person has consented to or has been required to submit to the clinical procedure and shall not require the person to sign any additional consent or waiver form. In such a case, the person authorized to perform the procedure, the employer of such person, and the hospital or other health care facility shall not be liable in any action alleging lack of consent or lack of informed consent.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No person specified in subsection A of this section, no employer of such person, and no hospital or other health care facility where blood is withdrawn shall incur any civil or criminal liability as a result of the proper withdrawal of blood when acting at the request of a Law Enforcement Officer by the provisions of <cite path="PROOF">Section 21-212.1</cite> or <cite path="PROOF">Section 21-212.3</cite> of this Article, or when acting in reliance upon a signed statement or Court order as provided in this section, if the act is performed in a reasonable manner according to generally accepted clinical practice. No person specified in subsection A of this section shall incur any civil or criminal liability as a result of the proper collection of breath, saliva or urine when acting at the request of a Law Enforcement Officer under the provisions of <cite path="PROOF">Section 21-212.1</cite> or <cite path="PROOF">Section 21-212.3</cite> of this Article or when acting pursuant to a Court order.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The blood, breath, saliva or urine specimens obtained shall be tested by the appropriate test as determined by clinically approved standards and practices of the healthcare professional listed in subsection A of this section to determine the alcohol concentration thereof, or the presence or concentration of any other Intoxicating Substance which might have affected the ability of the person tested to operate a Motor Vehicle safely.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>When blood is withdrawn or saliva or urine is collected for testing of its alcohol concentration or other Intoxicating Substance presence or concentration, at the request of a Law Enforcement Officer, a sufficient quantity of the same specimen shall be obtained to enable the tested person, at his or her own option and expense, to have an independent analysis made of such specimen. The excess blood, saliva or urine specimen shall be retained by a laboratory approved by the Board, in accordance with the rules and regulations of the Board, or by a laboratory that is exempt from the Board rules pursuant to <cite path="PROOF">Section 21-212.7</cite> of this Article, for sixty (60) days from the date of collection. At any time within that period, the tested person or his or her attorney may direct that such blood, saliva or urine specimen be sent or delivered to a laboratory of his or her own choosing and approved by the Board for an independent analysis.</text>
+          <text>Neither the tested person, nor any agent of such person, shall have access to the additional blood, saliva or urine specimen prior to the completion of the independent analysis, except the analyst performing the independent analysis and agents of the analyst.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>When a test of breath is performed for the purpose of determining the alcohol concentration thereof, except when such test is performed by means of an automated analyzer as designated by the Board, a sufficient quantity of breath, or of the alcohol content of a fixed or measured quantity of breath, shall be obtained, in accordance with the rules and regulations of the Board, to enable the tested person, at his or her own option and expense, to have an independent analysis made of such specimen. The excess specimen of breath, or of its alcohol content, shall be retained by the law enforcement agency employing the arresting Officer, in accordance with the rules and regulations of the Board, for sixty (60) days from the date of collection. At any time within that period, the tested person, or his or her attorney, may direct that such specimen be sent or delivered to a laboratory of his or her own choosing and approved by the Board for an independent analysis. Neither the tested person, nor any agent of such person, shall have access to the additional specimen of breath, or of its alcohol content, prior to the completion of the independent analysis thereof, except the analyst performing the independent analysis and agents of the analyst.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>The costs of collecting blood, breath, saliva or urine specimens for the purpose of determining the alcohol or other Intoxicating Substance thereof, by or at the direction of a Law Enforcement Officer, shall be borne by the Law Enforcement Agency employing such Officer. The cost of collecting, retaining and sending or delivering to an independent laboratory the excess specimens of blood, breath, saliva or urine for independent analysis at the option of the tested person shall also be borne by such Law Enforcement Agency. The cost of the independent analysis of such specimen of blood, breath, saliva or urine shall be borne by the tested person at whose option such analysis is performed. The tested person, or his or her agent, shall make all necessary arrangements for the performance of such independent analysis other than the forwarding or delivery of such specimen.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>Tests of blood or breath for the purpose of determining the alcohol concentration thereof, and tests of blood, saliva or urine for the purpose of determining the presence or concentration of any other Intoxicating Substance therein, under the provisions of this Article, whether administered by or at the direction of a Law Enforcement Officer or administered independently, at the option of the tested person, on the excess specimen of such person's blood, breath, saliva or urine, to be considered valid and admissible in evidence under the provisions of this Article, shall have been administered or performed in accordance with the rules and regulations of the Board, or performed by a laboratory that is exempt from the Board rules pursuant to <cite path="PROOF">Section 21- 212.7</cite> of this Article.</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>Any person who has been arrested for any offense arising out of acts alleged to have been committed while the person was operating or in actual physical control of a Motor Vehicle while under the influence of alcohol, any other Intoxicating Substance or the combined influence of alcohol and any other Intoxicating Substance who is not requested by a Law Enforcement Officer to submit to a test shall be entitled to have an independent test of his or her blood, breath, saliva or urine which is appropriate as determined by the Board for the purpose of determining its alcohol concentration or the presence or concentration of any other Intoxicating Substance therein, performed by a person of his or her own choosing who is qualified as stipulated in this section. The arrested person shall bear the responsibility for making all necessary arrangements for the administration of such independent test and for the independent analysis of any specimens obtained, and bear all costs thereof. The failure or inability of the arrested person to obtain an independent test shall not preclude the admission of other competent evidence bearing upon the question of whether such person was under the influence of alcohol, or any other Intoxicating Substance or the combined influence of alcohol and any other Intoxicating Substance.</text>
+        </para>
+        <para>
+          <num>J.</num>
+          <text>Any agency or laboratory certified by the Board or any agency or laboratory that is exempt from the Board rules pursuant to <cite path="PROOF">Section 21-212.7</cite> of this Article, which analyses breath, blood, or urine shall make available a written report of the results of the test administered by or at the direction of the Law Enforcement Officer to the tested person, or his or her attorney. The results of the tests provided for in this title shall be admissible in civil actions.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-212.3</num>
+        <heading>REFUSAL TO SUBMIT TO TEST.</heading>
+        <text>If a conscious person under arrest refuses to submit to testing of his or her blood or breath for the purpose of determining the alcohol concentration thereof, or to a test of his or her blood, saliva or urine for the purpose of determining the presence or concentration of any other Intoxicating Substance, or the combined influence of alcohol and any other Intoxicating Substance, none shall be given, unless the investigating Officer has probable cause to believe that the person under arrest, while intoxicated, has operated the Motor Vehicle in such a manner as to have caused the death or serious physical injury of any other person or persons. In such event, such test otherwise authorized by law may be made in the same manner as if a search warrant had been issued for such test or tests. The sample shall be taken in a medically acceptable manner at a hospital or other suitable health care facility.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-212.4</num>
+        <heading>SEIZURE OF LICENSE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any arrested person who is under twenty-one (21) years of age and has any measurable quantity of alcohol in the person's blood or breath, or any person twenty-one (21) years of age or older whose alcohol concentration is eight-hundredths (0.08) or more as shown by a breath test administered according to the provisions of this title, or any arrested person who has refused to submit to a breath or blood test, shall immediately surrender his or her driver license, permit or other evidence of driving privilege to the arresting Law Enforcement Officer. The Officer shall seize any Driver License, permit, or other evidence of driving privilege surrendered by or found on the arrested person during a search.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If the evidence of driving privilege surrendered to or seized by the Officer has not expired and otherwise appears valid, the Officer shall issue to the arrested person a dated receipt for that Driver License, permit, or other evidence of driving privilege.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <para>
+            <num>1.</num>
+            <text>At any hearing held relevant to this section, a report of the findings of the laboratory of the Oklahoma State Bureau of Investigation, any medical examiner's report of investigation or autopsy report, or a laboratory report from a forensic laboratory operated by the State of Oklahoma, operated by the Chickasaw Nation, or a laboratory approved by the Executive Director of the Public Safety Department, which has been made available to the person at least five (5) days prior to the hearing, with reference to all or part of the evidence submitted, when certified as correct by the persons making the report shall be received as evidence of the facts and findings stated, if relevant and otherwise admissible in evidence. If the report is deemed relevant by either party, the Court shall admit the report without the testimony of the person making the report, unless the Court, pursuant to this subsection, orders the person to appear.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>When any alleged controlled dangerous substance has been submitted to the laboratory of the Oklahoma State Bureau of Investigation, a laboratory of the Chickasaw Nation or another laboratory approved by the Executive Director of the Public Safety Department for analysis, and the analysis shows that the submitted material is a controlled dangerous substance, the distribution of which constitutes a crime under the laws of the Chickasaw Nation, no portion of the substance shall be released to any other person or laboratory absent an order of the Court. The defendant shall additionally be required to submit to the Court a procedure for transfer and analysis of the subject material to ensure the integrity of the sample and to prevent the material from being used in any illegal manner.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>The Court, upon motion of either party, shall order the attendance of any person preparing a report submitted as evidence in the hearing when it appears there is a substantial likelihood that material evidence not contained in the report may be produced by the testimony of any person having prepared a report. The hearing shall be held and, if sustained, an order issued not less than five (5) days prior to the time when the testimony shall be required.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>If within five (5) days prior to the hearing or during a hearing, a motion is made pursuant to this section requiring a person having prepared a report to testify, the Court may hear a report or other evidence but shall continue the hearing until such time notice of the motion and hearing is given to the person making the report, the motion is heard, and, if sustained, the testimony ordered can be given.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-212.5</num>
+        <heading>ADMISSION OF EVIDENCE SHOWN BY TESTS.</heading>
+        <para>
+          <num>A.</num>
+          <text>Upon the trial of any criminal action or proceeding arising out of acts alleged to have been committed by any person while driving or in actual physical control of a Motor Vehicle while under the influence of alcohol or any other Intoxicating Substance, or the combined influence of alcohol and any other Intoxicating Substance, evidence of the alcohol concentration in the blood or breath of the person as shown by analysis of the blood or breath of the person performed in accordance with the provisions of Sections 21-212.2 and 21-212.7 of this Article or evidence of the presence or concentration of any other Intoxicating Substance as shown by analysis of such person's blood, breath, saliva, or urine specimens in accordance with the provisions of Sections 21-212.2 and 21-212.7 of this title is admissible. Evidence that the person has refused to submit to either of said analyses is also admissible. For any person charged with Driving under the Influence, <cite path="PROOF">Section 17-800.3</cite>:</text>
+          <para>
+            <num>1.</num>
+            <text>Evidence that there was, at the time of the test, an alcohol concentration of five-hundredths (0.05) or less is prima facie evidence that the person was not under the influence of alcohol;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Evidence that there was, at the time of the test, an alcohol concentration in excess of five-hundredths (0.05) but less than eight-hundredths (0.08) is relevant evidence that the person's ability to operate a Motor Vehicle was impaired by alcohol. However, no person shall be convicted of the offense of operating or being in Actual Physical Control of a Motor Vehicle while such person's ability to operate such vehicle was impaired by alcohol solely because there was, at the time of the test, an alcohol concentration in excess of five-hundredths (0.05) but less than eight-hundredths (0.08) in the blood or breath of the person in the absence of additional evidence that such person's ability to operate such vehicle was affected by alcohol to the extent that the public health and safety was threatened or that said person had violated a statute or local ordinance in the operation of a Motor Vehicle; and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Evidence that there was, at the time of the test, an alcohol concentration of eight-hundredths (0.08) or more shall be admitted as prima facie evidence that the person was under the influence of alcohol.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>For purposes of this title, "alcohol concentration" means grams of alcohol per one hundred (100) milliliters of blood if the blood was tested, or grams of alcohol per two hundred ten (210) liters of breath if the breath was tested.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>To be admissible in a proceeding, the evidence must first be qualified by establishing that the test was administered to the person within two (2) hours after the arrest of the person.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-212.6</num>
+        <heading>OTHER COMPETENT EVIDENCE—ADMISSIBILITY.</heading>
+        <text>The provisions of this Article do not limit the introduction of any other competent evidence bearing on the question of whether the person was under the influence of alcohol or any other Intoxicating Substance, or the combined influence of alcohol and any other Intoxicating Substance.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>21-212.7</num>
+        <heading>BOARD OF TESTS FOR ALCOHOL AND DRUG INFLUENCE.</heading>
+        <para>
+          <num>A.</num>
+          <text>Collection and analysis of a person's blood, breath, saliva or urine, to be considered valid and admissible in evidence, whether performed by or at the direction of a Law Enforcement Officer or at the request of the tested person, shall have been performed in compliance with the rules adopted by the Oklahoma Board of Tests for Alcohol and Drug Influence and by an individual possessing a valid permit issued by the Board for this purpose or shall have been performed by a laboratory accredited in Toxicology by the American Society of Crime Laboratory Directors/Laboratory Accreditation Board (ASCLD/LAB) or accredited by the American Board of Forensic Toxicology (ABFT).</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="2021-04-16" doc="PR38-018">PR38-018, 04/16/2021</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>ADMINISTRATION AND PROCEDURE</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-301.1</num>
+      <heading>AUTHORITY OF LAW ENFORCEMENT AGENCY TO ISSUE CIVIL CITATIONS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Except as otherwise provided by this Act, any Law Enforcement Officer may issue a Civil Citation to any Driver who violates this Act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any Officer shall have the authority to initiate traffic stops of Motor Vehicles in order to issue Civil Citations pursuant to this Act, provided that the Officer has probable cause to believe that the Driver of such Motor Vehicle violated the provisions of this Act.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any Officer may mail, or cause to be mailed, a Civil Citation to the registered owner of any Motor Vehicle if the Driver of such Motor Vehicle evades receipt of a Civil Citation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If an Officer observes a Motor Vehicle that has been or is being operated in violation of this Act, and the Officer determines, in their discretion, that a Civil Citation should be issued, the Officer shall:</text>
+        <para>
+          <num>1.</num>
+          <text>complete a Civil Citation;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>give one copy of the Civil Citation to the Driver, if possible, or leave a copy conspicuously on the Motor Vehicle if not possible; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>forward copies of the Civil Citation to the Chickasaw Nation Prosecutor's Office within five (5) days from the date on which the Civil Citation was issued.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Civil Citation shall include, at a minimum:</text>
+        <para>
+          <num>1.</num>
+          <text>the date, time and place of the violation, and the amount of the fine;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>a description of the vehicle;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>the tag number of the vehicle;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>the name and address of the Driver, if known, or the name of the registered owner of the Motor Vehicle, if the Driver is unknown;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>a statement indicating that the Driver must, within thirty (30) days of receiving the Civil Citation, either pay the fine listed or appear at the Court date listed within the Civil Citation.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>a statement indicating that if the Driver fails to appear at the listed court date and hearing within thirty (30) days of receiving the Civil Citation, the Driver will be found in default and shall be required to pay the amount listed on the Civil Citation to the Clerk of the Chickasaw Nation District Court.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-301.2</num>
+      <heading>DISTRICT COURT PROCEDURES.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Court, by Court rule, shall establish the methods by which the Court Clerk shall file, sort, organize and manage Civil Citations that have been delivered to the Court pursuant to this Act. The Court rule shall include a procedure by which the parent or guardian of any juvenile appearing before the Court on a traffic offense shall be notified of the charge as contained in the citation, the penalty attached to the offense, and the time and place of any court hearing on the matter.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Chickasaw Nation shall be represented by the Prosecutor for any and all actions arising out of this Act.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any Driver who has been issued a Civil Citation shall be given an opportunity to pay the fine listed or shall appear in Court on the date specified in such Civil Citation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Chickasaw Nation has the burden of proving the validity of the Civil Citation by a preponderance of the evidence. Both the Chickasaw Nation and the Driver may subpoena witnesses, and the Driver is entitled to be represented by an attorney at their own expense.</text>
+        <para>
+          <num>1.</num>
+          <text>At the discretion of the District Court, the Officer who issued the Civil Citation may appear telephonically at any hearing. The Driver shall be present in person at all hearings unless otherwise directed by Court Rule or Order. All other witnesses shall appear in person for hearing in order to testify about the matter unless otherwise directed by Court Rule or Order.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If the Chickasaw Nation fails to prove the validity of the Civil Citation by a preponderance of the evidence at such hearing, then the Civil Citation shall be dismissed, and the person shall not be required to pay the amount listed on the Civil Citation.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>If any Driver does not prevail at such hearing, then the Court shall order such person to pay the amount indicated on the Civil Citation. In addition to the fine, the person shall pay the court costs of the matter as determined by the Clerk of the Court. The amount ordered shall become immediately due and enforceable pursuant to this Act. The Chickasaw Nation may report any violations under this Act to any State agency that regulates the Driver's driving privileges.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If any Driver who has been issued a Civil Citation fails to either pay the requirement amount as listed on the Civil Citation or fails to appear in Court on the day specified, the Driver will be deemed to have waived their right to a hearing. The fine indicated in the Civil Citation shall become immediately due and enforceable pursuant to this Act and a bench warrant may be issued as a result.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The District Court may provide a court reporter for a hearing on a Civil Citation.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The decision of the Chickasaw Nation District Court is final.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2021-04-16" doc="PR38-018">PR38-018, 04/16/2021</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-301.3</num>
+      <heading>TOWING AND IMPOUNDMENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any Officer who is notified of a Motor Vehicle that has been Parked on any Roadway in violation of this Act may remove or cause to be removed such Motor Vehicle to a place of impoundment that is consistent with the internal policies and procedures of the Law Enforcement Agency, regardless of the amount of time that such Motor Vehicle has been Parked in that particular location.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Except as otherwise provided by this Act, prior to removing or causing to be removed any such Motor Vehicle as described in this Section, the Officer shall first ensure that a reasonable inquiry to locate the Driver of the Motor Vehicle has been performed. If the Officer is able to make contact with such Driver, the Officer shall, prior to removing or causing to be removed the Driver's Motor Vehicle, request that the Driver take steps to remove the Motor Vehicle.</text>
+        <para>
+          <num>1.</num>
+          <text>If, after an opportunity reasonable under the circumstances, the Driver refuses to remove the Motor Vehicle, either explicitly through words, or implied through inaction, the Officer is authorized to remove or cause to be removed the Motor Vehicle.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If, after an opportunity reasonable under the circumstances, the Driver removes the Motor Vehicle to an appropriate and legal location, the Officer shall not initiate further removal of the Motor Vehicle, but the Officer may issue the Driver a Civil Citation pursuant to the provisions of this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A Law Enforcement Agency shall have authority to cause any Abandoned Motor Vehicle to be moved from any location. Owner shall pay any and all fees associated with the removal of any Abandoned Motor Vehicle. A Law Enforcement Agency shall not be liable for the removal of the Abandoned Motor Vehicle in any capacity. A Law Enforcement Agency shall not pay for any fees associated with the removal of Abandoned Motor Vehicle.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any Motor Vehicle may be removed by an Officer with no duty of such Officer to make reasonable attempts to contact the Driver if that Motor Vehicle:</text>
+        <para>
+          <num>1.</num>
+          <text>has been referenced as the unlawfully Parked Motor Vehicle in two (2) or more Civil Citations, with the fines for such Civil Citations being immediately due and enforceable, and for which payment for two (2) or more Civil Citations is delinquent; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>creates or contributes to a situation that could imperil public safety.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If any Motor Vehicle is removed by an Officer pursuant to this Section, and the Motor Vehicle is associated with fines arising from one or more Civil Citations and the fines associated with such Motor Vehicle are immediately due and enforceable pursuant to <cite path="PROOF">Section 21- 300.2</cite>, then the total amount of fines that are immediately due and enforceable must be paid in full before such Motor Vehicle is returned to the custody and control of the owner of the Motor Vehicle.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The cost and expense associated with retrieving from impound any Motor Vehicle that has been removed pursuant to this Section is the sole responsibility of the owner of the Motor Vehicle.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>In addition to any other costs associated with retrieving a towed Motor Vehicle from impound which shall be paid directly to the entity responsible for the impoundment, the Driver of such Motor Vehicle may also be assessed a processing fee of up to fifty dollars ($50.00) which shall be treated as Court Costs and paid directly to the Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>21-301.4</num>
+      <heading>FAILURE TO PAY FINES AND COSTS.</heading>
+      <para>
+        <num>A.</num>
+        <text>In the event the Driver fails to pay their fine or costs associated with the Civil Citation by the date of the hearing or as ordered by the Court, the Chickasaw Nation may file a civil proceeding for a money judgment against the Driver.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Chickasaw Nation District Court may issue a warrant for the arrest of any Driver for failure to pay the fine associated with their Civil Citation.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

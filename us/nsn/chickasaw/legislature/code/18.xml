@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>18</num>
+  <heading>REAL AND PERSONAL PROPERTY</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.1</num>
+      <heading>TITLE.</heading>
+      <text>Be it enacted by the Chickasaw Tribal Legislature assembled, that this Act shall be cited as the "Chickasaw Nation Real Property Act of 1994".</text>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.2</num>
+      <heading>FINDING.</heading>
+      <text>The Chickasaw Tribal Legislature finds that a need exists to provide a system for the Chickasaw Tribal Legislature to utilize in making decisions pertaining to real property owned by, held or acquired for the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.3</num>
+      <heading>AUTHORITY AND PURPOSE.</heading>
+      <para>
+        <num>A.</num>
+        <text>The basis for authority of this Act is Article VI, Section 1, Article VII, Section 4 and Article VII, Section 7 of the Constitution of the Chickasaw Nation. The Chickasaw Tribal Legislature, with the adoption of this Act, hereby:</text>
+        <para>
+          <num>1.</num>
+          <text>Enacts rules and regulations pertaining to the acquisition, leasing, disposition and management of tribal real property, subject to the governing provisions of federal law.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.4</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of this Act:</text>
+      <para>
+        <num>1.</num>
+        <text>"The Chickasaw Nation" shall mean the government instituted in the Constitution of the Chickasaw Nation, or all Chickasaw Indians by blood whose names appear on the final rolls of the Chickasaw Nation approved pursuant to Section 2 of the Act of April 26, 1906, and their lineal descendants, or it shall mean the actual physical nation itself, depending upon reference;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Chickasaw Tribal Legislature," or "legislature," shall mean that body of not more than 13 members, as created by Articles V, VI, VII, VIII and IX of the Constitution of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Governor" shall mean the chief executive officer of the Chickasaw Nation, as created by Articles X and XI of the Constitution, or whenever proper to so interpret, it may also mean the lieutenant governor, when acting in behalf of the governor in accordance with Article X, Section 2 and in Article XI, Section 5 of the Constitution;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Acquisition" shall mean the act of becoming owner of certain real property in the name of the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Leasing" shall mean that act of entering into a contract by which one owning property grants to another the right to possess, use and enjoy that property for a specified period of time in exchange for periodic payment of a stipulated price;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Disposition" shall mean the act of transferring real property to the care or possession of another or, when practical to so apply the definition, it shall mean the parting with, alienation of, or giving up of real property;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Management" shall mean the control by direction or regulation as it pertains to the policies involved in real property owned by the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Real property"shall mean land, and generally whatever is erected or growing upon or affixed to land, except that for the purposes of sale, industrial growing crops and things attached to or forming part of the land, which are agreed to be severed before sale or under the contract of sale, shall be treated as goods and shall be governed by the processes which normally govern the sale of such goods;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Constitution" means that document which formallyestablished the Chickasaw Nation and its government, as ratified by the eligible registered voters of the Chickasaw Nation on August 27, 1983, and which was approved by the secretary of the U.S. Department of the Interior on July 15, 1983;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Chairperson'' shall mean that officer of the Chickasaw Tribal Legislature as identified at Article VII, Section 1 of the Constitution;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Secretary" shall mean that officer of the Chickasaw Tribal Legislature as identified at Article VII, Section 1 of the Constitution;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Chairman" shall mean the officer heading up any of the committees of the Legislature who is duly elected, appointed or otherwise chosen to fill that position.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.5</num>
+      <heading>REAL PROPERTY, HOW ACQUIRED.</heading>
+      <para>
+        <num>A.</num>
+        <text>Real property may be acquired in the name of the Chickasaw Nation, leased from the Chickasaw Nation, leased in the name of the Chickasaw Nation, or disposed of by the Chickasaw Nation only with the direct approval and authorization of the Legislature as evidenced by the adoption of a resolution which grants the authority to take that action.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Such acquisitions, leasings and/or dispositions shall be subject to gubernatorial veto as contained in Article XI, Section 3 of the Constitution, and such transactions, in order to be complete, shall require the signature of the Governor on behalf of the Chickasaw Nation.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.6</num>
+      <heading>EXECUTIVE TO LEGISLATIVE PROTOCOL.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Executive Department shall exercise its authority and responsibilities relating to the letting of contracts, the approval and acceptance of bids, the approval of all new construction building designs, the naming of buildings, structures or appurtenances relating to real property owned in the name of the Chickasaw Nation, and any other aspect relating to the daily operations and care of such tribal real property, in accordance with and in pursuit of the policies set out in this Act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All new construction of buildings to be located on tribal real property shall be submitted for approval to the Legislature. Such submissions shall include, as a minimum, explanation of each planned structure, its purpose, any revenues to be generated, source of payment associated with costs of construction, and details regarding the structure itself. Buildings which are ancillary to a previously approved construction budget, including, but not limited to, buildings used for maintenance or storage, the funding for which is not deriving from the Development Budget and such building is less than one thousand square feet, shall not require approval of the Legislature. The Legislature shall act upon the request for construction, subject to the concurrence of the Governor.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+        <annotation type="History" effective="2019-09-20" doc="PR36-009">PR36-009, 9/20/2019</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.7</num>
+      <heading>PURCHASE PROTOCOL.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Governor shall exercise his authority in engaging in negotiations for the acquisition of real property which will be titled in the name of the Chickasaw Nation. Such negotiations may be engaged in by the Governor either in person or through a third party or parties, selected by the Governor, or by a combination of both third parties and the Governor; provided, however, that no acquisition may be effected in the name of the Chickasaw Nation without the approval of the Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Once the terms are negotiated to the satisfaction of the Governor, he shall submit to the Legislature a request to acquire that real property in the form of a resolution which includes the legal description of the property. The Governor shall also include with such submission pertinent facts relating to the real property, including any proposed or suggested plans for such real property and its appraised value, asking price or negotiations.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All such information provided by the Governor shall be treated by the Legislature as confidential information pursuant to <cite path="PROOF">Section 16-702</cite> <em>et seq</em>.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Legislature shall, in its next regularly scheduled session, or in special session called by the Governor, take action regarding the acquisition as negotiated by the Governor.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="2005-08-19" doc="PR22-010">PR22-010, 8/19/05</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.8</num>
+      <heading>LEASING PROTOCOL.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Governor shall exercise authority in engaging in negotiations for the leasing of real property, either in the name of the Chickasaw Nation or in the name of a program, department or function which is an essential and internal part or portion of the services provided or operated, whether by contract, by mandate or by grant authority, by the Executive Department.</text>
+        <para>
+          <num>1.</num>
+          <text>In leases which are strictly to be utilized by one of those programs or services and which are not made in the name of the Chickasaw Nation but rather in the name of that particular program or service or in the name of the Executive Department, the Governor shall negotiate and enter into such lease agreements on the basis of his authority as Chief Executive Officer, as contained in Article XI, Section 1 of the Constitution.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Such leases shall be effected when funds to meet expenses of such leases are provided by the program through its funding sources. In such instances, programs or departments may negotiate their own leases subject to the approval of the Governor.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Such leases as are determined to be necessary for the operation of tribal businesses shall also be negotiated and entered into by the Governor as Chief Executive Officer; provided, that such leases are made in the name of that particular business or in the name of the Executive Department.</text>
+        <para>
+          <num>1.</num>
+          <text>Leased property to be utilized by a tribal business shall have been selected by the appropriate authority for that business, with all necessary plans and provisions having been submitted to the Governor, with such plans and provisions including, as a minimum, the intended use of that real property, the method of payment for the terms of the lease regarding that real property, and the term of the lease requested to meet the needs of the business.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Governor shall exercise his authority in negotiating leases to be entered into in the name of the Chickasaw Nation. Such negotiations may be engaged in by the Governor either in person or through a third party or parties, selected by the Governor, or by a combination of both third parties and the Governor.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Once those negotiations are successfully completed by the Governor, he shall notify the Legislature of the completion of those negotiations, including the lease price and the terms of the lease. The Governor shall also include in such notification pertinent facts relating to the property, including any proposed or suggested plans for such real property once the lease is finalized.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Legislature shall, in its next regularly scheduled session, or in special session called by the Governor for that purpose, take action regarding the lease as negotiated by the Governor.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.9</num>
+      <heading>DISPOSAL OF REAL PROPERTY.</heading>
+      <para>
+        <num>A.</num>
+        <text>At any time that it is determined that it is necessary or beneficial to the Chickasaw Nation to dispose of real property which is owned in the name of the Chickasaw Nation, the Legislature shall make known that determination by the adoption of a resolution so indicating.</text>
+        <para>
+          <num>1.</num>
+          <text>Such resolution shall include reasons for the findings which result in that determination and shall request the Governor to begin the process of disposing of that real property, either by sale, assign or by other method; provided, that said method or methods shall be indicated in the resolution.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Said resolution shall empower the Governor to enter into negotiations for the purpose of disposing of that real property with such negotiated selling price being not less than the appraised value of that real property; provided, however, that the Legislature shall reserve the right to approve the sale of such real property should the best selling price negotiated by the Governor be less than the appraised value of that real property.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If any property is determined to be disposed of and that property is held in trust for the Chickasaw Nation by the United States of America, the Governor is empowered with pursuing whatever means are necessary to have that trust status removed prior to the sale of that land, and in accordance with any federal laws, rules or regulations pertaining to the sale or other disposition of such trust lands.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.10</num>
+      <heading>ROUTINE MAINTENANCE.</heading>
+      <text>Normal, routine maintenance and upkeep of all real property shall be done in accordance with the daily and/or special requirements of such property to provide for its protection and security. Such maintenance and upkeep shall be provided in accordance with established procedure by the department or agency of the Executive Department which is charged with such duties, with costs for such services provided for through program costs or other resources for such expenditures; provided, however, that any costs requiring use of tribal funds that are not otherwise budgeted must be approved by the Legislature prior to incurring any such costs.</text>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+        <annotation type="History" effective="2004-04-16" doc="PR21-016">PR21-016, 4/16/04</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-100.11</num>
+      <heading>BUDGETED RECEIPTS.</heading>
+      <text>Any proceeds, including funds, goods, services or other benefits, from any tribal real property realized from the Chickasaw Nation's ownership of that real property, shall be budgeted in the Tribal General Fund for use during the normal budgeting cycle and in accordance with the budgeting procedures; provided, however, that any trust funds realized from the Chickasaw Nation's ownership of any real property are to be budgeted in accordance with the regulations and requirements of the U.S. Department of the Interior, and/or with any applicable federal laws.</text>
+      <annotations>
+        <annotation type="History" effective="1993-12-17" doc="TL11-002">TL11-002, 12/17/93</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>ENCUMBRANCES AND LIENS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.1</num>
+      <heading>DEFINITION.</heading>
+      <text>For the purposes of <cite path="18|2">this Chapter</cite>, "Lien" shall mean a claim or charge on property for payment of some debt, obligation, or duty.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.2</num>
+      <heading>APPLICATION.</heading>
+      <text>Contracts of mortgage and pledge are subject to all provisions of <cite path="18|2">this Chapter</cite>.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.3</num>
+      <heading>CREATION OF A LIEN.</heading>
+      <text>A Lien is created:</text>
+      <para>
+        <num>1.</num>
+        <text>by contract of the parties; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>by operation of law except that no Lien arises by operation of law until the time the act to be secured has lapsed without performance.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.4</num>
+      <heading>LIEN ON FUTURE INTEREST.</heading>
+      <text>An agreement may be made to create a Lien upon future interests in property. In such a case, the Lien attaches at the time the property interest vests.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.5</num>
+      <heading>LIMITATIONS OF LIENS.</heading>
+      <para>
+        <num>A.</num>
+        <text>Notwithstanding any agreement to the contrary, a Lien or a contract for a Lien transfers no title to the property subject to the Lien.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The creation of a Lien does not of itself imply that any person is bound to perform the act for which the Lien is a security.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The existence of a Lien upon property does not entitle the lienholder to a Lien upon the same property for the performance of any other obligations other than that for which the Lien was originally secured.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The lienholder is not entitled to compensation from the property owner for any trouble or expense which he incurs.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.6</num>
+      <heading>PRIORITY OF LIENS.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Lien upon property held by the Chickasaw Nation for the payment of tribal taxes shall not become subordinate to any other Lien.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A mortgage given for the purchase or refinance of real property has priority over all other Liens so long as the mortgage is duly recorded.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Liens have priority according to the time of their creation, so long as the instruments creating the Liens are duly recorded, and unless otherwise accorded a different status under Chickasaw law.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Where one has a Lien upon several things, and other persons have subordinate Liens upon or interests in some but not all of the same things, the person having the prior Lien, if he can do so without the risk of loss to himself or injustice to other persons must, on the demand of any interested party, resort to the property in the following order:</text>
+        <para>
+          <num>1.</num>
+          <text>to the things upon which he has an exclusive Lien;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>to the things which are subject to the fewest subordinate Liens;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>in like manner inversely to the number of subordinate Liens on the same thing; and</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>when several things are within one of the foregoing classes, and subject to the same number of Liens, resort must be had:</text>
+          <para>
+            <num>a.</num>
+            <text>to the things which have not been transferred since the prior Lien was created;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>to the things which have been so transferred without a valuable consideration; and</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>to the things which have been so transferred for a valuable consideration.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.8</num>
+      <heading>HOLDER OF A SUBORDINATE LIEN.</heading>
+      <para>
+        <num>A.</num>
+        <text>"Subordinate Lienholder" shall mean the holder of any Lien, including a subordinate mortgage, perfected subsequent to the recording of a prior lien or a Mortgage under this Act; provided, however, that such terms shall not include the Chickasaw Nation with respect to a claim for a tribal tax.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A Subordinate Lienholder shall have a right:</text>
+        <para>
+          <num>1.</num>
+          <text>to redeem the property in the same manner as its owner might, from a prior Lien; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>to be subrogated to all the benefits of the prior Lien, when necessary for the protection of his interests, upon satisfying the claim secured thereby.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.9</num>
+      <heading>REDEMPTION OF A LIEN.</heading>
+      <text>Redemption from a Lien is made by performing or offering to perform the act for the performance of which it is a security, and paying or offering to pay the damages, if any, to which the holder of the Lien is entitled for delay.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.10</num>
+      <heading>LIMITATION OF TIME.</heading>
+      <text>A Lien is extinguished by the lapse of the time within which, under the provisions of civil procedure, an action can be brought upon the principal obligation.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.11</num>
+      <heading>PARTIAL PERFORMANCE.</heading>
+      <text>The partial performance of an act secured by a Lien does not extinguish the Lien upon any part of the property subject thereto, even if it is divisible.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.12</num>
+      <heading>VOLUNTARY RESTORATION AS EXTINGUISHING LIEN.</heading>
+      <text>The voluntary restoration of property to its owner, by the lienholder, extinguishes the Lien as to such property, unless otherwise agreed by the parties, and extinguishes it, notwithstanding any such agreements, as to creditors of the owner and persons subsequently acquiring title to the property, or a Lien thereon, in good faith and for good consideration.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.13</num>
+      <heading>VENDOR'S LIEN.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon the sale of real property by the owner, the owner/seller has a vendor's Lien for the price that remains unpaid and unsecured subject to the rights of the purchaser.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Where the purchaser of real property gives the seller a written contract for payment of all or part of the price, an absolute transfer of the contract by the seller waives the vendor's Lien to the extent of the sum payable under the contract, but a transfer of such contract in trust to pay debts and return the surplus, is not a waiver of the Lien.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.14</num>
+      <heading>BANKER'S LIEN.</heading>
+      <text>A banker has a Lien, dependent on possession, upon all property in his hands belonging to a customer, for the balance due to him from such customer in the course of the business.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.15</num>
+      <heading>JUDGMENT LIEN.</heading>
+      <text>The Lien of a judgment is provided for in Title 5 of the Code of the Chickasaw Nation.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.16</num>
+      <heading>KEEPER OF INN, HOTEL, OR BOARDINGHOUSE.</heading>
+      <text>The keeper of any inn, hotel, or boardinghouse shall have a Lien on the baggage and other property brought to the same by [or] under the control of his guest or boarders for the proper charges due him from such guests or boarders for accommodation, board, lodging, and for all money paid for or advanced to them. Also included are other extras that are furnished at the request of such guest. The innkeeper, hotelkeeper or boardinghouse keeper shall have the right to detain such baggage and other property until the amount of such charges are paid and the Lien and the cost of satisfying it are paid. The innkeeper, hotelkeeper, or boardinghouse keeper shall retain such baggage and other property upon which he has a Lien for a period of ninety (90) days, at the expiration of which time, if the Lien is not satisfied, he may sell such baggage and other property at public auction, first giving notice of the auction to said guest or boarder at the place of residence designated by the register of the inn or hotel.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-200.17</num>
+      <heading>MATERIALMAN'S LIEN.</heading>
+      <text>A person who furnishes material for the construction, improvement or alteration of a building or other structure has a priority Lien for the balance due to him.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>LANDLORD-TENANT AND LEASING</heading>
+    <text>(RESERVED)</text>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>REAL AND PERSONAL PROPERTY ACTIONS</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-400.1</num>
+      <heading>FINDING.</heading>
+      <text>The Chickasaw Tribal Legislature finds that a need exists for rules and procedures pertaining to the enforcement of mortgages of land within the Chickasaw Nation given to secure loans made by the Chickasaw Nation and other individuals and business entities.</text>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-400.2</num>
+      <heading>AUTHORITY AND PURPOSE.</heading>
+      <text>The basis of authority for this Act is the Constitution of the Chickasaw Nation, Article VI, Section 1, and Article VII, Section 7. The Chickasaw Tribal Legislature, with the adoption of this Act, hereby prescribes rules and procedures relating to priority of lien, recordation, foreclosure and evictions in connection with:</text>
+      <para>
+        <num>1.</num>
+        <text>mortgages given to secure loans made by Mortgagees; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>all Property and parties subject to Mutual Help and Occupancy Agreements pursuant to the Mutual Help Homeownership Opportunity Program administered by the Chickasaw Housing Authority .</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>18-400.3</num>
+      <heading>DEFINITIONS.</heading>
+      <text>The following definition shall apply to this Act:</text>
+      <para>
+        <num>1.</num>
+        <text>"Lease" shall mean a ground lease or other agreement for use of Property on which a Mortgage may be given.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Leasehold Estate" shall mean a leasehold estate established pursuant to a Lease between the Tribe, or an agency of the Tribe, as Lessor, and an individual or a business entity, as Lessee or Tenant.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Lessee" shall mean any person or entity who occupies Property under a Lease.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Lessor" shall mean the Chickasaw Nation or an agency thereof, including the successor(s) or assign(s) of such Lessor.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Mortgage" shall mean a conveyance of Property, or an interest in Property, as security for a loan on the condition that the conveyance becomes void on payment or performance according to the terms of the Mortgage instrument.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Mortgagor" shall mean the Chickasaw Nation, an agency thereof, any citizen of the Chickasaw Nation or any other individual or business entity which has executed a Mortgage, including any heir(s), successor(s), executor(s), administrator(s) or assign(s) of such individual or entity.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Mortgagee" shall mean the lender under any Mortgage made, or any successors or assigns of such lender. This definition also includes, without any consent by the Chickasaw Nation, any subsequent holder, whether by assignment, succession or otherwise, of the original Mortgagee's right, title or interest in and to the Mortgage and/or a Leasehold Estate, together with the improvements.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Mortgage Foreclosure Proceeding" shall mean a proceeding in the Tribal Court:</text>
+        <para>
+          <num>a.</num>
+          <text>to foreclose the interest of the Mortgagor(s), and each person or entity claiming through the Mortgagor(s), in Property on which a Mortgage was made by a Mortgagee; and/or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>to assign such property interest to the Mortgagee or the Mortgagee's successors or assigns.</text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Mutual Help and Occupancy Agreement" or "MHO Agreement" shall mean a lease-purchase agreement between the Chickasaw Housing Authority, as Lessor, and an individual or individuals, as Lessee(s), pursuant to the Mutual Help Home ownership program.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Nuisance" shall mean maintenance on the Property of a condition which:</text>
+        <para>
+          <num>a.</num>
+          <text>unreasonably threatens the health or safety of the public or neighboring land users; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>unreasonably and substantially interferes with the ability of neighboring real property users to enjoy the reasonable use and occupancy of their property.</text>
+        </para>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Program Area" shall mean that land designated by regulations of the U.S. Department of Housing and Urban Development and any other area in which the Chickasaw Nation is authorized to act pursuant to federal and tribal law.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Property" shall mean interests in land that are given as security for a Mortgage loan or are the subject of an MHO Agreement. Such interests shall include Leasehold Estates.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Subordinate Lienholder" shall mean the holder of any Lien, including a subordinate mortgage, perfected subsequent to the recording of a prior lien or a Mortgage under this Act; provided, however, that such terms shall not include the Chickasaw Nation with respect to a claim for a tribal tax.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Tenant" shall mean any person or entity who occupies Property under a Lease.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Tribal Court" shall mean the Court of Indian Offenses or other court authorized by this Act to exercise the powers and functions of a court of law with jurisdiction over matters that have occurred in the territorial jurisdiction of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Unlawful Detainer Action" shall be a suit brought before the Tribal Court to terminate a tenant's interest in property and/or to evict any person from occupancy of such Property.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Waste" shall mean spoil or destruction of land, buildings, gardens, trees or other improvements on a Property which results in substantial injury to a Lessor's or Mortgagee's interest in Property.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Writ of Restitution" is an order of the Tribal Court:</text>
+        <para>
+          <num>a.</num>
+          <text>restoring an owner, Lessor, or Mortgagee (or other successor in interest) to possession of a Property subject to a Mortgage; and/or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>evicting a Tenant or other occupant from a Property.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+      </annotations>
+    </section>
+    <container>
+      <prefix>Article</prefix>
+      <num>A</num>
+      <heading>MORTGAGE REQUIREMENTS AND FORECLOSURE PROCEDURES</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.1</num>
+        <heading>JURISDICTION.</heading>
+        <para>
+          <num>A.</num>
+          <text>The provisions of <cite path="18|4|A">this Article A</cite> shall apply to all Property and parties to Mortgages subject to the jurisdiction of the Chickasaw Nation.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Nothing in this Act shall be construed to be a waiver of the sovereign immunity of the Chickasaw Nation, its officers, employees, agents, political subdivisions, departments, agencies or enterprises, for any purpose whatsoever, or to be a consent to any suit beyond the limits now or hereafter specifically stated by Chickasaw law. The above notwithstanding, leases, contracts, agreements and mortgage instruments to which the Chickasaw Nation, or any agency thereof, is a party may be enforced against the Chickasaw Nation, or such agency thereof, in Tribal Court in accordance with this Act when, and only when, such enforcement is authorized, in writing, as a Limited Waiver of Sovereign Immunity, in the Lease, contract, agreement or mortgage instrument to be enforced. Any such Limited Waiver of Sovereign Immunity must be included in a document that had been authorized by the Tribal Legislature as to form prior to the execution of such document; provided, however, that the Limited Waiver of Sovereign Immunity does not authorize the levy of any judgment, lien, garnishment or attachment upon any property or income of the Chickasaw Nation, or any agency thereof, other than property or income specifically and in writing duly mortgaged, pledged or assigned as collateral for the debts or liabilities of the Chickasaw Nation, or any agency thereof, related to the Lease, contract, agreement or mortgage instrument to be enforced. This limitation does not prohibit or disallow any suit against the Chickasaw Nation, or any agency thereof, for specific performance of any Lease, contract, agreement or mortgage instrument subject to this Act. The authority provided herein is not intended to nor shall it be construed to waive the immunity of the Tribe for any other purpose or with respect to any claim or other matter not specifically mentioned herein, and is not intended to, nor shall it extend to, the benefit of any person other than the parties to such Leases, contracts, agreements or mortgage instruments or their successors or assigns.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The mortgaging of real property title to which is held by the United States in trust for the benefit of the Chickasaw Nation or individual Indians and the taking into such trust status real property which has been pledged as collateral for a mortgage shall only occur to the extent allowed by federal law.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.2</num>
+        <heading>GRANT OF JURISDICTIONAL AUTHORITY EXTENDED TOTHE COURT OF INDIAN OFFENSES AND BIA LAW ENFORCEMENT.</heading>
+        <text>Under authority of sub-part (e) of part 11.100 of Title 25 of the Code of Federal Regulations, the Chickasaw Nation, through its governing body, the Chickasaw Tribal Legislature, extends to the Court of Indian Offenses for the Chickasaw Nation (hereinafter referred to as the "Court") territorial jurisdiction in criminal jurisdiction over the provisions of this, the "Chickasaw Nation Criminal Code Act" (hereinafter referred to as the "Act"), but reserves the right to revoke such jurisdiction at such time that the Chickasaw Nation establishes its own tribal court system. Authority to enforce the provisions of this Act is vested in the Bureau of Indian Affairs Law Enforcement Division (hereinafter referred to as the "BIA Law Enforcement Division") or any other law enforcement office that is operating under a cross-deputization agreement with the BIA, subject to revocation or modification at such time that the Chickasaw Nation establishes its own law enforcement system.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.3</num>
+        <heading>PRIORITY OF LIEN.</heading>
+        <text>A Mortgage recorded in accordance with the procedures set forth in this Act shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim (except a lien or claim arising from a Tribal tax assessed against Property subject to a Mortgage), in accordance with Chapter 2, Title 18 of the Code of the Chickasaw Nation.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.4</num>
+        <heading>RECORDATION.</heading>
+        <text>Mortgages originated pursuant to this Act shall be recorded in the Bureau of Indian Affairs Area Land Titles and Records Office and the county recorder's office in the county and state in which the Properties are located.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.5</num>
+        <heading>MORTGAGE FORECLOSURE PROCEEDINGS.</heading>
+        <text>Upon the default of the Mortgagors and upon expiration of any applicable cure periods under a Mortgage, a Mortgagee or its successors and assigns may commence a Mortgage foreclosure proceeding in the Tribal Court as follows:</text>
+        <para>
+          <num>1.</num>
+          <text>By filing a verified complaint:</text>
+          <para>
+            <num>a.</num>
+            <text>citing authority for jurisdiction of the Tribal Court;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>naming the Mortgagor(s) and each record owner claiming through the Mortgagor(s) subsequent to the recording of the Mortgage, including each Subordinate Lienholder (except the Tribe with respect to a claim for a Tribal tax on the Property subject to the Mortgage), as a defendant;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>describing the Property subject to the Mortgage;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>stating the facts concerning:</text>
+            <para>
+              <num>1.</num>
+              <text>the execution of the Lease, if any, and the Mortgage;</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>the recording of the Mortgage; and</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>the alleged default(s) of the Mortgagor(s) (and any other facts as may be necessary to constitute a cause of action);</text>
+            </para>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>having appended as exhibits true and correct copies of each promissory note, Lease, if any, Mortgage, and if applicable, assignment thereof relating to a Leasehold Estate;</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>including an allegation, if applicable, that all relevant requirements and conditions prescribed in a Lease have been complied with by the Mortgagee or its successors or assigns; and</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>otherwise satisfying the requirements of the Tribal Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>By issuing notice in accordance with the Code of the Chickasaw Nation requiring Mortgagor(s) and each other entity claiming through the Mortgagor, as defendants, to appear for a trial upon the complaint on a date and time specified in such notice. No judgment shall be given in any such proceeding before such time that the defendants have opportunity to respond pursuant to Chapter 22, Title 5 of the Code of the Chickasaw Nation.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.6</num>
+        <heading>SERVICE	OF	PROCESS	AND	TRIBAL COURT PROCEDURES.</heading>
+        <text>Service of process, Tribal Court procedures and the issuance of judgments in any proceeding originated pursuant to this Act shall be in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.7</num>
+        <heading>CURE OF DEFAULT BY SUBORDINATE LIENHOLDER.</heading>
+        <text>Prior to the entry of a judgment of foreclosure of a Mortgage pursuant to this Act, any Mortgagor or any Subordinate Lienholder may cure the default(s) under the Mortgage. Any Subordinate Lienholder who has cured a default shall thereafter have included in its lien the amount of all payments made by such Subordinate Lienholder to cure such default(s), plus interest on such amounts at the rate stated in the promissory note evidencing the subordinate lien.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-401.8</num>
+        <heading>POWER OF THE TRIBAL COURT.</heading>
+        <text>If the alleged default(s) have not been cured, and if the Tribal Court should find for the Mortgagee or its successors or assigns, the Tribal Court shall enforce the provisions of the Lease, if any, and security instrument including:</text>
+        <para>
+          <num>1.</num>
+          <text>foreclosing the interest in Property claimed by the Mortgagor(s) and each other defendant named in the complaint upon whom proper and timely service has been made, including each such Subordinate Lienholder;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>assigning such interest in Property to the Mortgagee or the Mortgagee's assignee; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>assessing the reasonable costs of the proceedings against the party or parties against whom judgment is given.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>B</num>
+      <heading>EVICTION PROCEDURES</heading>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.1</num>
+        <heading>JURISDICTION.</heading>
+        <text>The provisions of <cite path="18|4|B">this Article B</cite> shall apply to all Property and parties to Mortgages subject to the jurisdiction of the Chickasaw Nation and all Property and parties to Mutual Help and Occupancy Agreements pursuant to the Mutual Help Homeownership Opportunity Program administered by the Chickasaw Nation.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.2</num>
+        <heading>UNLAWFUL DETAINER.</heading>
+        <text>A Lessee, Tenant or other occupier of a Property subject to this Act shall be guilty of unlawful detainer if such person shall continue in occupancy of the Property under any of the following situations:</text>
+        <para>
+          <num>1.</num>
+          <text>Without the requirement of any notice by the Chickasaw Nation (or Lessor, if any):</text>
+          <para>
+            <num>a.</num>
+            <text>after the expiration of the term of any Lease;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>if such person has entered onto or remains on the Property of another without having any legal right to possess the Property;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>after a Lessor has terminated such person's tenancy pursuant to procedures providing such person a hearing before such Lessor; or after a right to possession is terminated; or</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>after a Mortgage has been foreclosed in a Mortgage Foreclosure Proceeding in the Tribal Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Lessee, Tenant or other occupier shall remain in possession of such Property contrary to the terms of a notice:</text>
+          <para>
+            <num>a.</num>
+            <text>(1) that he or she is in default in the payment of ground rent and (2) requiring him or her to either pay such rent or surrender possession of the occupied Property and (3) he or she has not surrendered possession of such Property nor paid the rent within a 30-day period following the notice;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>when Lessee, tenant or other occupier of the Property shall continue for 30 days to fail to keep or perform any condition or covenant of a Lease, MHO Agreement or other use agreement under which the Property is held after he or she has been given notice to comply with such condition or covenant or else to surrender the Property; or</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>when such person continues to commit or to permit Waste upon or maintain a Nuisance upon the occupied Property after having been given notice to either cease such Waste or maintenance of Nuisance or to surrender the Property.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.3</num>
+        <heading>PROCEDURES FOR SERVICE OF NOTICE.</heading>
+        <text>Notices required or authorized in the immediately preceding section shall be given in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.4</num>
+        <heading>COMPLAINT AND SUMMONS.</heading>
+        <text>The Lessor or the Mortgagee (including its successors or assigns) shall commence an action for unlawful detainer by filing with the Tribal Court, in writing, the following documents:</text>
+        <para>
+          <num>1.</num>
+          <text>A complaint, signed by the Lessor, the Mortgagee (or its successors or assigns), or an agent or attorney on their behalf, as Plaintiff(s), including the following:</text>
+          <para>
+            <num>a.</num>
+            <text>citing authority for jurisdiction of the Tribal Court;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>naming each record owner and any Mortgagor(s) and each record owner claiming through the Mortgagor(s) subsequent to the recording of a Mortgage or the execution of a Lease or MHO Agreement, including any Subordinate Lienholder (except the Tribe with respect to a claim for a Tribal tax on the Property), as defendant(s);</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>describing the Property subject to a Mortgage, Lease or MHO Agreement;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>stating the facts concerning:</text>
+            <para>
+              <num>1.</num>
+              <text>any Mortgage, Lease or MHO Agreement and its execution;</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>the recording of any Mortgage, Lease or MHO Agreement; and</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>the facts upon which Plaintiff(s) seek(s) to recover;</text>
+            </para>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>stating any claim for damages or compensation due from the person(s) to be evicted; and</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>otherwise satisfying the requirements of the Tribal Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A copy of the summons shall be issued in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.5</num>
+        <heading>SERVICE OF COMPLAINT AND SUMMONS.</heading>
+        <text>A copy of the summons and complaint shall be served upon the defendants in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.6</num>
+        <heading>POWER OF THE TRIBAL COURT.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Tribal Court shall enter a Writ of Restitution if:</text>
+          <para>
+            <num>1.</num>
+            <text>notice of suit and trial is given by service of summons and complaint in accordance with the procedures provided herein; and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the Tribal Court shall find that the occupier of the Property is guilty of an act of unlawful detainer.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Upon issuance of a Writ of Restitution, the Tribal Court shall have the authority to enter against the defendant(s) a judgment for the following:</text>
+          <para>
+            <num>1.</num>
+            <text>back rent, unpaid utilities, and any charges due the Tribe or other Lessor under any Lease or MHO Agreement;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>any and all amounts secured by a Mortgage that are due the Mortgagee (or its successors or assigns); and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>damages caused by the defendant(s) to the Property. The Tribal Court shall have the authority to award costs and reasonable attorney's fees in bringing suit to the prevailing party.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.7</num>
+        <heading>ENFORCEMENT.</heading>
+        <text>Upon issuance of a Writ of Restitution by the Tribal Court, tribal or BIA law enforcement officers shall enforce the Writ of Restitution by evicting the defendants and their property from the Property which is unlawfully occupied. The Writ of Restitution shall be enforced no later than 60 days after the date of issuance of the Writ, subject to <cite path="PROOF">Section 18-402.8</cite> below.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>18-402.8</num>
+        <heading>CONTINUANCES.</heading>
+        <text>Except by agreement of all parties, there shall be no continuances in Unlawful Detainer Actions which will interfere with the requirement that the Writ of Restitution be enforced not later than 60 days from the date of issuance of the Writ of Restitution.</text>
+        <annotations>
+          <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+</container>

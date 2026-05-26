@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" containing-doc="Chickasaw Nation Code">
+  <prefix>Title</prefix>
+  <num>20</num>
+  <heading>UTILITIES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>TRIBAL UTILITY SERVICES</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>20-100.1</num>
+      <heading>TITLE.</heading>
+      <text>Be it enacted by the tribal legislature of the Chickasaw Nation assembled, that this Act may be cited as the "Electrical Services Act of 1992."</text>
+      <annotations>
+        <annotation type="History" effective="1991-11-19" doc="TL9-002">TL9-002, 11/19/91</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>20-100.2</num>
+      <heading>FINDINGS.</heading>
+      <text>The Legislature finds that:</text>
+      <para>
+        <num>1.</num>
+        <text>A need exists for the Chickasaw Nation Tribal Government to exercise its governmental powers and authorities;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the Chickasaw Tribal Utility Authority has the opportunity to expand its services and operations as well as having the potential to provide electrical service to all tribal and trust lands.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1991-11-19" doc="TL9-002">TL9-002, 11/19/91</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>20-100.3</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of this Act:</text>
+      <para>
+        <num>1.</num>
+        <text>"The Chickasaw Nation" means the tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, being duly recognized by the secretary of the United States Department of the Interior, as a self-governing, sovereign government;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Constitution" means the Constitution of the Chickasaw Nation as ratified by the voters of the Chickasaw Nation on August 27,1983;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Chickasaw Tribal Legislature" or "legislature" means the legislative branch of the Chickasaw Nation tribal government as created and empowered by Articles V, VI, VIII and IX of the Constitution;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Governor" means that officer of the Chickasaw Nation tribal government as defined in Article X, Sections 1, 2, 3, 4, 5 and 6, and in Article XI, Sections 1, 2, 3 and 4, of the Constitution;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Chickasaw Tribal Utility Authority," or "CTUA," or "the authority" means the agency of the tribal government created by the legislature in Resolution Number 87-3;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Electrical service" means the provision of electric current as a utility for lighting, heating or other needs;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Tribal trust lands" means any and all lands held in trust by the United States of America for the Chickasaw Nation;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Facilities" or "entities" means any building, structure or company, agency, organization or unit of government;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Tribal jurisdiction" means all lands over which the tribal government may, by authority of federal and tribal law, exercise its rights of self-government, control and/or supervision.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1991-11-19" doc="TL9-002">TL9-002, 11/19/91</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>20-100.4</num>
+      <heading>AUTHORITY.</heading>
+      <text>The basis for authority of this Act is Article VI, Section 1, of the Constitution, wherein the legislature is granted the legislative authority of the Chickasaw Nation, and in Article VII, Section 4, wherein the legislature is granted the power and authority to enact rules and regulations pertaining to the Chickasaw Nation. The Chickasaw Tribal Legislature, with the adoption of this Act, hereby:</text>
+      <para>
+        <num>1.</num>
+        <text>Establishes the policy which requires the CTUA to, whenever possible or available, provide electrical service to all structures, businesses, and entices located on tribal or trust lands;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>establishes the procedures whereby this policy shall be placed into effect.</text>
+      </para>
+      <annotations>
+        <annotation type="History" effective="1991-11-19" doc="TL9-002">TL9-002, 11/19/91</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>20-100.5</num>
+      <heading>PLANS FOR ELECTRICAL SERVICE REQUIRED.</heading>
+      <text>The CTUA shall include in its planning the provision of electrical service to all tribal trust lands which contain facilities requiring electrical service, as well as to all tribal trust lands which have the potential to contain facilities requiring electrical service. The Office of the Governor shall inform the CTUA of all plans involving new construction or the acquisition of structures on land that will be taken into trust for the Chickasaw Nation in sufficient time to allow the CTUA to assess each location for the provision of electrical services. The CTUA shall, within 90 days of notification, provide the Office of the Governor with its assessment on the availability of electrical service through the CTUA. Such assessment shall include an estimated date on which electrical service may be provided to such facilities or locations by the CTUA.</text>
+      <annotations>
+        <annotation type="History" effective="1991-11-19" doc="TL9-002">TL9-002, 11/19/91</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>20-100.6</num>
+      <heading>NOTICE OF SERVICES REQUIRED.</heading>
+      <text>At any time that the authority is prepared to make available electrical service to any area that is within the tribal jurisdiction, the authority shall notify all entities located within that jurisdiction that the CTUA will become the electrical power provider; provided, such notice shall include the effective date when such service shall begin, and shall include all information necessary for the transition from the current power provider to the authority.</text>
+      <annotations>
+        <annotation type="History" effective="1991-11-19" doc="TL9-002">TL9-002, 11/19/91</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
+      <num>20-100.7</num>
+      <heading>POLICIES AND PROCEDURES REQUIRED.</heading>
+      <text>Appropriate policies and procedures shall be devised and emplaced by the CTUA board of trustees to assure compliance with this Act.</text>
+      <annotations>
+        <annotation type="History" effective="1991-11-19" doc="TL9-002">TL9-002, 11/19/91</annotation>
+        <annotation type="Editor's Notes">See also Title 2, Sections 2-1081.1 et seq., Chickasaw Nation Utility Authority See also Title 15, Lands and Natural Resources (Franchises and Easements)</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>PUBLIC UTILITIES AND COMMUNICATIONS (RESERVED)</heading>
+    <annotations>
+      <annotation type="Editor's Notes">See also Title 15, Lands and Natural Resources (Franchises, Licenses and Easements)</annotation>
+    </annotations>
+  </container>
+</container>
