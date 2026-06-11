@@ -16,8 +16,8 @@
       <repositories>
         <repository name="chickasawnation/law-xml" commit="ab3c1be56aa48de2892c235166e072d3217ac4cb"/>
       </repositories>
-      <platform version="2.18.17.dev679" reproducible="false"/>
-      <build-date>2026-06-09</build-date>
+      <platform version="2.20.15" reproducible="false"/>
+      <build-date>2026-06-11</build-date>
       <codified-date>2026-02-20</codified-date>
     </build>
   </meta>
