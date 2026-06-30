@@ -127,7 +127,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>PUBLIC UTILITIES AND COMMUNICATIONS (RESERVED)</heading>
+    <heading>PUBLIC UTILITIES AND COMMUNICATIONS</heading>
+    <reason>Reserved</reason>
     <annotations>
       <annotation type="Editor's Notes">See also Title 15, Lands and Natural Resources (Franchises, Licenses and Easements)</annotation>
     </annotations>

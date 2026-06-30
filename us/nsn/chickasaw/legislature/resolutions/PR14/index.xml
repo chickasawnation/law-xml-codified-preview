@@ -1,7 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR14">
   <heading>Session 14 (FY96-97)</heading>
+  <xi:include href="./PR14-017.xml"/>
+  <xi:include href="./PR14-016.xml"/>
+  <xi:include href="./PR14-015.xml"/>
   <xi:include href="./PR14-014.xml"/>
   <xi:include href="./PR14-011.xml"/>
   <xi:include href="./PR14-009.xml"/>
+  <xi:include href="./PR14-007.xml"/>
+  <xi:include href="./PR14-006.xml"/>
+  <xi:include href="./PR14-005.xml"/>
+  <xi:include href="./PR14-004.xml"/>
+  <xi:include href="./PR14-002.xml"/>
+  <xi:include href="./PR14-001.xml"/>
 </collection>

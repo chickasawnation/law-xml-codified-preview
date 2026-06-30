@@ -1,8 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR15">
   <heading>Session 15 (FY97-98)</heading>
+  <xi:include href="./PR15-030.xml"/>
+  <xi:include href="./PR15-029.xml"/>
+  <xi:include href="./PR15-027.xml"/>
   <xi:include href="./PR15-022.xml"/>
   <xi:include href="./PR15-020.xml"/>
+  <xi:include href="./PR15-019.xml"/>
+  <xi:include href="./PR15-017.xml"/>
+  <xi:include href="./PR15-015.xml"/>
+  <xi:include href="./PR15-014.xml"/>
   <xi:include href="./PR15-012.xml"/>
+  <xi:include href="./PR15-010.xml"/>
+  <xi:include href="./PR15-007.xml"/>
   <xi:include href="./PR15-005.xml"/>
 </collection>

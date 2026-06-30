@@ -10,7 +10,7 @@
     <section>
       <prefix>Section</prefix>
       <num>10-101.1</num>
-      <heading>RESERVED.</heading>
+      <reason>Reserved</reason>
       <annotations>
         <annotation type="History" effective="2005-07-28" doc="PR22-019">PR22-019, 7/28/05</annotation>
         <annotation type="History" effective="2012-08-17" doc="PR29-006">PR29-006, 8/17/12</annotation>
@@ -610,16 +610,16 @@
   <container>
     <prefix>Chapter</prefix>
     <num>4</num>
-    <heading>INDIAN PROCUREMENT PREFERENCE </heading>
-    <text>(RESERVED)</text>
+    <heading>INDIAN PROCUREMENT PREFERENCE</heading>
+    <reason>Reserved</reason>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>SALES TAX</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
     <annotations>
-      <annotation type="History" effective="2005-09-16" doc="Repealed:PR22-021">Repealed: PR22-021, 9/16/05</annotation>
+      <annotation type="History" effective="2005-09-16" doc="PR22-021">Repealed: PR22-021, 9/16/05</annotation>
     </annotations>
   </container>
   <container>
@@ -754,7 +754,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7</num>
-    <heading>TAX COLLECTION AND ENFORCEMENT </heading>
-    <text>(RESERVED)</text>
+    <heading>TAX COLLECTION AND ENFORCEMENT</heading>
+    <reason>Reserved</reason>
   </container>
 </container>

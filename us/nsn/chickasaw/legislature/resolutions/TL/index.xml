@@ -1,15 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="TL">
   <heading>TL Resolutions</heading>
+  <xi:include href="./TL14-002.xml"/>
+  <xi:include href="./TL14-001.xml"/>
   <xi:include href="./TL11-014.xml"/>
   <xi:include href="./TL11-010.xml"/>
   <xi:include href="./TL11-009.xml"/>
+  <xi:include href="./TL11-013.xml"/>
+  <xi:include href="./TL11-004.xml"/>
+  <xi:include href="./TL11-003.xml"/>
+  <xi:include href="./TL11-002.xml"/>
+  <xi:include href="./TL11-001.xml"/>
   <xi:include href="./TL10-005.xml"/>
+  <xi:include href="./TL10-004.xml"/>
+  <xi:include href="./TL9-002.xml"/>
   <xi:include href="./TL9-001.xml"/>
+  <xi:include href="./TL7-003.xml"/>
+  <xi:include href="./TL6-009.xml"/>
+  <xi:include href="./TL6-007.xml"/>
   <xi:include href="./TL6-002.xml"/>
+  <xi:include href="./TL5-005.xml"/>
   <xi:include href="./TL5-004.xml"/>
-  <xi:include href="./TL5-002.xml"/>
   <xi:include href="./TL5-001.xml"/>
+  <xi:include href="./TL5-002.xml"/>
   <xi:include href="./TL4-003.xml"/>
   <xi:include href="./TL4-002.xml"/>
+  <xi:include href="./TL3-002.xml"/>
+  <xi:include href="./TL2-005.xml"/>
 </collection>

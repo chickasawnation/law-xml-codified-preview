@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>EMPLOYMENT PRACTICES AND WORKING CONDITIONS</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
     <annotations>
       <annotation type="Editor's Notes">See also Title 2 for Personnel Rules applicable to employees of the Nation.</annotation>
     </annotations>
@@ -16,7 +16,7 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>JOB TRAINING</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
     <annotations>
       <annotation type="Editor's Notes">See also Title 13, Health and Social Services.</annotation>
     </annotations>
@@ -25,18 +25,18 @@
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>LABOR RELATIONS</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>4</num>
     <heading>WORKERS COMPENSATION</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>EMPLOYMENT SECURITY/COMPENSATION</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
 </container>

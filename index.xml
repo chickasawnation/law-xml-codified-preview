@@ -14,11 +14,11 @@
     </canonical-urls>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="chickasawnation/law-xml" commit="ab3c1be56aa48de2892c235166e072d3217ac4cb"/>
+        <repository name="chickasawnation/law-xml" commit="5d919fb37e412daf4f8b5c4cb20666645193cba3"/>
       </repositories>
-      <platform version="2.20.15" reproducible="false"/>
-      <build-date>2026-06-11</build-date>
-      <codified-date>2026-02-20</codified-date>
+      <platform version="2.20.16.dev475" reproducible="false"/>
+      <build-date>2026-06-30</build-date>
+      <codified-date>2026-05-15</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/chickasaw/legislature/code/index.xml"/>
@@ -56,7 +56,12 @@
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR14/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR13/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR12/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR11/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR10/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR9/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR8/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR7/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/bills/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/GR/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/TL/index.xml"/>
   </collection>

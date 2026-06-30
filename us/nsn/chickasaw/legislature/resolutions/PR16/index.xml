@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR16">
   <heading>Session 16 (FY98-99)</heading>
+  <xi:include href="./PR16-030.xml"/>
+  <xi:include href="./PR16-029.xml"/>
+  <xi:include href="./PR16-028.xml"/>
+  <xi:include href="./PR16-025.xml"/>
+  <xi:include href="./PR16-023.xml"/>
+  <xi:include href="./PR16-022.xml"/>
   <xi:include href="./PR16-021.xml"/>
+  <xi:include href="./PR16-020.xml"/>
+  <xi:include href="./PR16-019.xml"/>
+  <xi:include href="./PR16-018.xml"/>
+  <xi:include href="./PR16-017.xml"/>
+  <xi:include href="./PR16-016.xml"/>
+  <xi:include href="./PR16-015.xml"/>
+  <xi:include href="./PR16-014.xml"/>
+  <xi:include href="./PR16-013.xml"/>
+  <xi:include href="./PR16-011.xml"/>
+  <xi:include href="./PR16-010.xml"/>
+  <xi:include href="./PR16-007.xml"/>
+  <xi:include href="./PR16-006.xml"/>
+  <xi:include href="./PR16-005.xml"/>
+  <xi:include href="./PR16-004.xml"/>
+  <xi:include href="./PR16-003.xml"/>
+  <xi:include href="./PR16-002.xml"/>
 </collection>

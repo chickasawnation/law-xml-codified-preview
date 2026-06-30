@@ -30,9 +30,8 @@
       <text>For the purpose of this Title 8, the following words shall have the meanings respectively ascribed to them in this section unless the context clearly requires otherwise:</text>
       <para>
         <num>1.</num>
-        <text>"Activity Report" means the daily report of returned election ballots.</text>
+        <text>"Activity Report" means the daily report of returned election ballots. These include accepted (valid) ballots, undeliverable ballots (no Current address), unsigned returned envelopes, ballots returned because Voter is deceased, and rejected ballots.</text>
       </para>
-      <aftertext>These include accepted (valid) ballots, undeliverable ballots (no Current address), unsigned returned envelopes, ballots returned because Voter is deceased, and rejected ballots.</aftertext>
       <para>
         <num>2.</num>
         <text>"Candidate" means a registered Voter of Chickasaw descent who meets the qualifications necessary to have his name appear on the ballot for consideration by the Voters in the election of tribal officials. "Candidate/team" means the two (2) Candidates running as a team for the positions of Governor and Lieutenant Governor;</text>
@@ -115,7 +114,7 @@
     <section>
       <prefix>Section</prefix>
       <num>8-100.4</num>
-      <heading>RESERVED.</heading>
+      <reason>Reserved</reason>
       <annotations>
         <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
       </annotations>
@@ -224,7 +223,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Reserved.</text>
+        <reason>Reserved</reason>
       </para>
       <para>
         <num>G.</num>
@@ -244,7 +243,7 @@
     <section>
       <prefix>Section</prefix>
       <num>8-200.5</num>
-      <heading>RESERVED.</heading>
+      <reason>Reserved</reason>
       <annotations>
         <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
         <annotation type="History" effective="2014-03-21" doc="PR31-004">PR31-004, 3/21/14</annotation>
@@ -393,7 +392,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>In accordance with Article VI, Section 4, of the Constitution, each Non-resident Voter shall choose one (1) district for the purpose of voting. The Non-resident Voter may affiliate with the district of his choice, in accordance with the provisions of Subsection A above, and <cite path="8|3|8-300.1">Section 8-300.1</cite> through <cite path="8|3|8-300.3">Section 8-300.3</cite>.</text>
+        <text>In accordance with Article VI, Section 4, of the Constitution, each Non-resident Voter shall choose one (1) district for the purpose of voting. The Non-resident Voter may affiliate with the district of his choice, in accordance with the provisions of <cite path="8|3|8-300.4|A.">Subsection A above</cite>, and <cite path="8|3|8-300.1">Section 8-300.1</cite> through <cite path="8|3|8-300.3">Section 8-300.3</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
@@ -404,7 +403,7 @@
     <section>
       <prefix>Section</prefix>
       <num>8-300.5</num>
-      <heading>RESERVED.</heading>
+      <reason>Reserved</reason>
       <annotations>
         <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
       </annotations>
@@ -412,7 +411,7 @@
     <section>
       <prefix>Section</prefix>
       <num>8-300.6</num>
-      <heading>RESERVED.</heading>
+      <reason>Reserved</reason>
       <annotations>
         <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
       </annotations>
@@ -608,7 +607,7 @@
       <heading>MARKING BALLOTS.</heading>
       <para>
         <num>A.</num>
-        <text>Mailed ballots shall include proper instructions to the Voter regarding the marking and sealing of the ballot. The Voter shall mark and seal the ballot in accordance with the instructions provided with the mail ballot. If the ballot envelope requires a signature, such signature, at the discretion of the Voter, may be notarized in accordance with the provisions of <cite path="8|4|8-400.8">Section 8-400.8</cite> of Title 8 of the Code of the Chickasaw Nation. Such notarization, although not required, is recommended, and information to this effect shall be provided in the instructions sent to the Voter.</text>
+        <text>Mailed ballots shall include proper instructions to the Voter regarding the marking and sealing of the ballot. The Voter shall mark and seal the ballot in accordance with the instructions provided with the mail ballot. If the ballot envelope requires a signature, such signature, at the discretion of the Voter, may be notarized in accordance with the provisions of <cite path="8|4|8-400.8">Section 8-400.8</cite> of <cite path="8">Title 8 of the Code of the Chickasaw Nation.</cite> Such notarization, although not required, is recommended, and information to this effect shall be provided in the instructions sent to the Voter.</text>
       </para>
       <para>
         <num>B.</num>
@@ -669,7 +668,7 @@
       <prefix>Section</prefix>
       <num>8-400.12</num>
       <heading>BALLOT COUNTING.</heading>
-      <text>The Election Commission and the Election Secretary/Tribal Registrar shall conduct and supervise the ballot counting in the Nation's headquarters on the last Tuesday of July of the election year, starting at or about 11:00 a.m. Results of the counting shall be declared and announced in accordance with Sections 8-400.15 and 8-400.18.</text>
+      <text>The Election Commission and the Election Secretary/Tribal Registrar shall conduct and supervise the ballot counting in the Nation's headquarters on the last Tuesday of July of the election year, starting at or about 11:00 a.m. Results of the counting shall be declared and announced in accordance with Sections <cite path="8|4|8-400.15">8-400.15</cite> and <cite path="8|4|8-400.18">8-400.18</cite>.</text>
       <annotations>
         <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
         <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
@@ -783,7 +782,7 @@
       <text>If a watcher objects to the manner in which a ballot is counted, he may make a written note of the objection. The watcher shall sign the note and attach it to that ballot. The Election Secretary/Tribal Registrar and at least three (3) commissioners shall rule on such ballots at their earliest convenience.</text>
       <annotations>
         <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
-        <annotation type="History" effective="2002-04-23" doc="AmendedbyPR19-017">Amended by PR19-017, 4/23/02</annotation>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">Amended by PR19-017, 4/23/02</annotation>
       </annotations>
     </section>
     <section>
@@ -793,7 +792,7 @@
       <text>Watchers shall not divulge any information or give any indication as to the results of the count and shall not leave the counting place without permission from the Election Secretary/Tribal registrar or a member of the Commission until the election count is complete.</text>
       <annotations>
         <annotation type="History" effective="1999-03-19" doc="PR16-011">PR16-011, 3/19/99</annotation>
-        <annotation type="History" effective="2002-04-23" doc="AmendedbyPR19-017">Amended by PR19-017, 4/23/02</annotation>
+        <annotation type="History" effective="2002-04-23" doc="PR19-017">Amended by PR19-017, 4/23/02</annotation>
       </annotations>
     </section>
     <section>
@@ -814,7 +813,7 @@
       <text>Should a tie exist at the completion of the recount, the Election Commission shall decide the winner by the toss of a coin. The Candidate whose name appears first on the ballot shall make the call for the coin toss.</text>
       <annotations>
         <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
-        <annotation type="History" effective="" doc="PR21-0142/27/04">PR21-014 2/27/04</annotation>
+        <annotation type="History" effective="" doc="PR21-014">PR21-014 2/27/04</annotation>
         <annotation type="History" effective="2007-03-16" doc="PR24-004">PR24-004, 3/16/07</annotation>
         <annotation type="History" effective="2015-02-20" doc="PR32-005">PR32-005, 2/20/15</annotation>
       </annotations>
@@ -857,7 +856,7 @@
     <section>
       <prefix>Section</prefix>
       <num>8-400.31</num>
-      <heading>RESERVED.</heading>
+      <reason>Reserved</reason>
       <annotations>
         <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
       </annotations>
@@ -1226,7 +1225,7 @@
     <section>
       <prefix>Section</prefix>
       <num>8-1000.6</num>
-      <heading>RESERVED.</heading>
+      <reason>Reserved</reason>
       <annotations>
         <annotation type="History" effective="2002-04-23" doc="PR19-017">PR19-017, 4/23/02</annotation>
       </annotations>

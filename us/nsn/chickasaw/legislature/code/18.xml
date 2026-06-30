@@ -145,7 +145,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>All such information provided by the Governor shall be treated by the Legislature as confidential information pursuant to <cite path="PROOF">Section 16-702</cite> <em>et seq</em>.</text>
+        <text>All such information provided by the Governor shall be treated by the Legislature as confidential information pursuant to <cite path="PROOF 16|7|16-702">Section 16-702</cite> <em>et seq</em>.</text>
       </para>
       <para>
         <num>D.</num>
@@ -452,7 +452,7 @@
       <prefix>Section</prefix>
       <num>18-200.15</num>
       <heading>JUDGMENT LIEN.</heading>
-      <text>The Lien of a judgment is provided for in Title 5 of the Code of the Chickasaw Nation.</text>
+      <text>The Lien of a judgment is provided for in <cite path="5">Title 5 of the Code of the Chickasaw Nation.</cite></text>
       <annotations>
         <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
       </annotations>
@@ -480,7 +480,7 @@
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>LANDLORD-TENANT AND LEASING</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -654,7 +654,7 @@
         <prefix>Section</prefix>
         <num>18-401.3</num>
         <heading>PRIORITY OF LIEN.</heading>
-        <text>A Mortgage recorded in accordance with the procedures set forth in this Act shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim (except a lien or claim arising from a Tribal tax assessed against Property subject to a Mortgage), in accordance with Chapter 2, Title 18 of the Code of the Chickasaw Nation.</text>
+        <text>A Mortgage recorded in accordance with the procedures set forth in this Act shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim (except a lien or claim arising from a Tribal tax assessed against Property subject to a Mortgage), in accordance with Chapter 2, <cite path="18">Title 18 of the Code of the Chickasaw Nation.</cite></text>
         <annotations>
           <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
         </annotations>
@@ -719,7 +719,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>By issuing notice in accordance with the Code of the Chickasaw Nation requiring Mortgagor(s) and each other entity claiming through the Mortgagor, as defendants, to appear for a trial upon the complaint on a date and time specified in such notice. No judgment shall be given in any such proceeding before such time that the defendants have opportunity to respond pursuant to Chapter 22, Title 5 of the Code of the Chickasaw Nation.</text>
+          <text>By issuing notice in accordance with the Code of the Chickasaw Nation requiring Mortgagor(s) and each other entity claiming through the Mortgagor, as defendants, to appear for a trial upon the complaint on a date and time specified in such notice. No judgment shall be given in any such proceeding before such time that the defendants have opportunity to respond pursuant to Chapter 22, <cite path="5">Title 5 of the Code of the Chickasaw Nation.</cite></text>
         </para>
         <annotations>
           <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
@@ -729,7 +729,7 @@
         <prefix>Section</prefix>
         <num>18-401.6</num>
         <heading>SERVICE	OF	PROCESS	AND	TRIBAL COURT PROCEDURES.</heading>
-        <text>Service of process, Tribal Court procedures and the issuance of judgments in any proceeding originated pursuant to this Act shall be in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+        <text>Service of process, Tribal Court procedures and the issuance of judgments in any proceeding originated pursuant to this Act shall be in accordance with <cite path="5">Title 5 of the Code of the Chickasaw Nation.</cite></text>
         <annotations>
           <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
         </annotations>
@@ -827,7 +827,7 @@
         <prefix>Section</prefix>
         <num>18-402.3</num>
         <heading>PROCEDURES FOR SERVICE OF NOTICE.</heading>
-        <text>Notices required or authorized in the immediately preceding section shall be given in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+        <text>Notices required or authorized in the immediately preceding section shall be given in accordance with <cite path="5">Title 5 of the Code of the Chickasaw Nation.</cite></text>
         <annotations>
           <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
         </annotations>
@@ -879,7 +879,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>A copy of the summons shall be issued in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+          <text>A copy of the summons shall be issued in accordance with <cite path="5">Title 5 of the Code of the Chickasaw Nation.</cite></text>
         </para>
         <annotations>
           <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
@@ -889,7 +889,7 @@
         <prefix>Section</prefix>
         <num>18-402.5</num>
         <heading>SERVICE OF COMPLAINT AND SUMMONS.</heading>
-        <text>A copy of the summons and complaint shall be served upon the defendants in accordance with Title 5 of the Code of the Chickasaw Nation.</text>
+        <text>A copy of the summons and complaint shall be served upon the defendants in accordance with <cite path="5">Title 5 of the Code of the Chickasaw Nation.</cite></text>
         <annotations>
           <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
         </annotations>
@@ -934,7 +934,7 @@
         <prefix>Section</prefix>
         <num>18-402.7</num>
         <heading>ENFORCEMENT.</heading>
-        <text>Upon issuance of a Writ of Restitution by the Tribal Court, tribal or BIA law enforcement officers shall enforce the Writ of Restitution by evicting the defendants and their property from the Property which is unlawfully occupied. The Writ of Restitution shall be enforced no later than 60 days after the date of issuance of the Writ, subject to <cite path="PROOF">Section 18-402.8</cite> below.</text>
+        <text>Upon issuance of a Writ of Restitution by the Tribal Court, tribal or BIA law enforcement officers shall enforce the Writ of Restitution by evicting the defendants and their property from the Property which is unlawfully occupied. The Writ of Restitution shall be enforced no later than 60 days after the date of issuance of the Writ, subject to <cite path="18|4|B|18-402.8">Section 18-402.8</cite> below.</text>
         <annotations>
           <annotation type="History" effective="1996-11-15" doc="TL14-001">TL14-001, 11/15/96</annotation>
         </annotations>

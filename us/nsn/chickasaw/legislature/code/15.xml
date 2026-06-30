@@ -17,7 +17,7 @@
         <heading>CHICKASAW COUNCIL HOUSE LEASE.</heading>
         <text>The Chickasaw Council House and Museum is leased to the Oklahoma Historical Society for twenty-five years, beginning November 1, 1991.</text>
         <annotations>
-          <annotation type="History" effective="1991-10-23" doc="GR92-12">GR92-12, 10/23/91</annotation>
+          <annotation type="History" effective="1991-10-23" doc="GR92-012">GR92-12, 10/23/91</annotation>
         </annotations>
       </section>
       <section>
@@ -26,7 +26,7 @@
         <heading>CHICKASAW NATION JAIL LEASE.</heading>
         <text>The Chickasaw Nation Jail Building is leased to the Johnston County Board of Commissioners for two years, beginning June 1, 1992. The lease may be extended for an additional two years beginning June 1, 1994 and expiring on May 31, 1996, unless renewed. The Johnston County Board of Commissioners agree to construct a privacy fence on the south, east, and west sides of the property.</text>
         <annotations>
-          <annotation type="History" effective="1992-05-15" doc="GR92-91">GR92-91, 5/15/92</annotation>
+          <annotation type="History" effective="1992-05-15" doc="GR92-091">GR92-91, 5/15/92</annotation>
           <annotation type="Editor's Notes">See also Title 9, Tribal Enterprises.</annotation>
           <annotation type="Editor's Notes">See also Title 10, Sales of Tribal Property</annotation>
         </annotations>
@@ -36,19 +36,19 @@
       <prefix>Article</prefix>
       <num>B</num>
       <heading>TRIBAL CEMETERY</heading>
-      <text>(RESERVED)</text>
+      <reason>Reserved</reason>
     </container>
     <container>
       <prefix>Article</prefix>
       <num>C</num>
       <heading>PUBLIC WORKS AND IMPROVEMENTS</heading>
-      <text>(RESERVED)</text>
+      <reason>Reserved</reason>
     </container>
     <container>
       <prefix>Article</prefix>
       <num>D</num>
       <heading>LAND ACQUISITION AND RIGHTS OF WAY</heading>
-      <text>(RESERVED)</text>
+      <reason>Reserved</reason>
       <annotation type="Editor's Notes">See also Title 18, Real and Personal Property (Eminent Domain)</annotation>
     </container>
   </container>
@@ -56,7 +56,7 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>PARKS AND MONUMENTS</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
     <annotations>
       <annotation type="Editor's Notes">See also Title 13, Health and Social Services (Recreational Services)</annotation>
     </annotations>
@@ -169,25 +169,26 @@
         <num>2.</num>
         <text>Promptly arrange for interment of remains and disposition of artifacts to be consistent with accepted Chickasaw tribal traditions, customs and religion, giving due consideration to the significance of the age, identity, traditions, customs and religion observed by the deceased person if the same can be ascertained.</text>
       </para>
+      <annotations/>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>4</num>
     <heading>MINING AND MINERAL RIGHTS</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>OIL AND GAS</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>6</num>
     <heading>ENVIRONMENT AND OTHER NATURAL RESOURCES</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -195,13 +196,13 @@
     <heading>WATER AND WATER RIGHTS</heading>
     <annotations>
       <annotation type="History" effective="2001-08-03" doc="PR18-036">PR18-036, 8/3/01</annotation>
-      <annotation type="History" effective="2002-12-20" doc="RepealedbyPR20-004">Repealed by PR20-004, 12/20/02</annotation>
+      <annotation type="History" effective="2002-12-20" doc="PR20-004">Repealed by PR20-004, 12/20/02</annotation>
     </annotations>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>8</num>
     <heading>AGRICULTURE</heading>
-    <text>(RESERVED)</text>
+    <reason>Reserved</reason>
   </container>
 </container>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR7">
+  <heading>Session 7 (FY89-90)</heading>
+  <xi:include href="./PR7-013.xml"/>
+  <xi:include href="./PR7-011.xml"/>
+  <xi:include href="./PR7-010.xml"/>
+  <xi:include href="./PR7-008.xml"/>
+  <xi:include href="./PR7-005.xml"/>
+  <xi:include href="./PR7-004.xml"/>
+  <xi:include href="./PR7-002.xml"/>
+  <xi:include href="./PR7-001.xml"/>
+</collection>

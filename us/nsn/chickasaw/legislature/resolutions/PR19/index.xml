@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR19">
   <heading>Session 19 (FY01-02)</heading>
+  <xi:include href="./PR19-024.xml"/>
+  <xi:include href="./PR19-023.xml"/>
+  <xi:include href="./PR19-021.xml"/>
+  <xi:include href="./PR19-020.xml"/>
+  <xi:include href="./PR19-019.xml"/>
+  <xi:include href="./PR19-018.xml"/>
+  <xi:include href="./PR19-017.xml"/>
+  <xi:include href="./PR19-016.xml"/>
+  <xi:include href="./PR19-015.xml"/>
+  <xi:include href="./PR19-014.xml"/>
   <xi:include href="./PR19-013.xml"/>
+  <xi:include href="./PR19-012.xml"/>
+  <xi:include href="./PR19-011.xml"/>
+  <xi:include href="./PR19-010.xml"/>
+  <xi:include href="./PR19-009.xml"/>
+  <xi:include href="./PR19-008.xml"/>
+  <xi:include href="./PR19-007.xml"/>
+  <xi:include href="./PR19-005.xml"/>
+  <xi:include href="./PR19-004.xml"/>
+  <xi:include href="./PR19-001.xml"/>
 </collection>

@@ -1,6 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR21">
   <heading>Session 21 (FY03-04)</heading>
+  <xi:include href="./PR21-026.xml"/>
   <xi:include href="./PR21-025.xml"/>
+  <xi:include href="./PR21-024.xml"/>
+  <xi:include href="./PR21-023.xml"/>
+  <xi:include href="./PR21-022.xml"/>
+  <xi:include href="./PR21-021.xml"/>
+  <xi:include href="./PR21-020.xml"/>
+  <xi:include href="./PR21-019.xml"/>
+  <xi:include href="./PR21-018.xml"/>
+  <xi:include href="./PR21-016.xml"/>
+  <xi:include href="./PR21-015.xml"/>
   <xi:include href="./PR21-014.xml"/>
+  <xi:include href="./PR21-013.xml"/>
+  <xi:include href="./PR21-012.xml"/>
+  <xi:include href="./PR21-011.xml"/>
+  <xi:include href="./PR21-010.xml"/>
+  <xi:include href="./PR21-009.xml"/>
+  <xi:include href="./PR21-008.xml"/>
+  <xi:include href="./PR21-007.xml"/>
+  <xi:include href="./PR21-006.xml"/>
+  <xi:include href="./PR21-004.xml"/>
+  <xi:include href="./PR21-003.xml"/>
+  <xi:include href="./PR21-002.xml"/>
+  <xi:include href="./PR21-001.xml"/>
 </collection>

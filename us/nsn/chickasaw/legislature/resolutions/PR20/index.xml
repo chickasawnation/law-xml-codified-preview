@@ -1,10 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" name="PR20">
   <heading>Session 20 (FY02-03)</heading>
+  <xi:include href="./PR20-029.xml"/>
   <xi:include href="./PR20-028.xml"/>
-  <xi:include href="./PR20-010.xml"/>
+  <xi:include href="./PR20-027.xml"/>
+  <xi:include href="./PR20-026.xml"/>
+  <xi:include href="./PR20-023.xml"/>
+  <xi:include href="./PR20-022.xml"/>
+  <xi:include href="./PR20-021.xml"/>
+  <xi:include href="./PR20-020.xml"/>
+  <xi:include href="./PR20-019.xml"/>
+  <xi:include href="./PR20-018.xml"/>
+  <xi:include href="./PR20-017.xml"/>
+  <xi:include href="./PR20-016.xml"/>
+  <xi:include href="./PR20-015.xml"/>
+  <xi:include href="./PR20-014.xml"/>
+  <xi:include href="./PR20-013.xml"/>
+  <xi:include href="./PR20-012.xml"/>
   <xi:include href="./PR20-011.xml"/>
+  <xi:include href="./PR20-010.xml"/>
+  <xi:include href="./PR20-009.xml"/>
+  <xi:include href="./PR20-008.xml"/>
+  <xi:include href="./PR20-007.xml"/>
   <xi:include href="./PR20-006.xml"/>
+  <xi:include href="./PR20-005.xml"/>
+  <xi:include href="./PR20-004.xml"/>
   <xi:include href="./PR20-003.xml"/>
+  <xi:include href="./PR20-002.xml"/>
   <xi:include href="./PR20-001.xml"/>
 </collection>
