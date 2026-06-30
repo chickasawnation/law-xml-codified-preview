@@ -132,6 +132,7 @@
         <num>17-201.2</num>
         <heading>PREAMBLE.</heading>
         <text>Tribal nations are affected by violent crime and sex offenses from both Indian and non-Indian Perpetrators. Consequently, the conduct and presence of Convicted Sex Offenders in Indian Country threatens the political integrity, economic security, health and welfare of tribal nations.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -149,18 +150,21 @@
           <num>C.</num>
           <text>The purpose of this Act is to implement the federal Sex Offender Registration and Notification Act of 2007 and this code shall be interpreted liberally to comply with the terms and conditions of the federal act as presently written or hereafter amended.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>17-201.4</num>
         <heading>CONSTITUTIONAL AUTHORITY.</heading>
         <text>The Chickasaw Tribal Legislature has the power to enact ordinances governing criminal law and criminal procedures in the Chickasaw Nation. (Article II, Section 1 and 2, Constitution of the Chickasaw Nation.)</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
         <num>17-201.5</num>
         <heading>NO WAIVER OF SOVEREIGN IMMUNITY.</heading>
         <text>In order to implement this Act to its fullest, the Nation is hereby authorized to work cooperatively with necessary state, federal, or tribal agencies. However, in doing so, the Nation does not and shall not waive any sovereign rights, including sovereign immunity.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -195,6 +199,7 @@
         <num>17-201.7</num>
         <heading>APPLICABILITY.</heading>
         <text>The following persons who have been Convicted of the offenses listed in this Act, are subject to the provisions herein: Sex Offenders who reside in, are employed in or attend school in Indian Country within the territorial jurisdiction of the Chickasaw Nation.</text>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -208,6 +213,7 @@
           <num>B.</num>
           <text>Any violation of a provision of this Act by a Sex Offender who is not an Indian shall be considered a civil violation subject to enforcement by any means not prohibited by federal law, including but not limited to the issuance of fines, forfeitures, civil contempt, and banishment.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -3704,6 +3710,7 @@
             <text>"Limousine" shall mean chauffeur-driven motor vehicle, other than a bus or taxicab, designed and used for transportation of persons for compensation.</text>
           </para>
         </para>
+        <annotations/>
       </section>
     </container>
     <container>
@@ -4162,6 +4169,7 @@
           <num>D.</num>
           <text>"Harm or Threatened Harm" and "Harm or Threaten to Harm" mean any real or threatened physical, mental, or emotional injury or damage to the body or mind that is not accidental including but not limited to Sexual Abuse, Sexual Exploitation, and Child Neglect.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -4211,6 +4219,7 @@
           <num>C.</num>
           <text>Child Neglect has a statute of limitations of twelve (12) years. A child may request prosecution of the charge of Child Neglect for five (5) years after his or her eighteenth (18th) birthday if a criminal charge has not previously been filed and the twelve (12) year statute of limitations has passed.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -4428,6 +4437,7 @@
           <num>3.</num>
           <text>"Harm" means any real or threatened physical, mental, or emotional injury or damage to the health, safety, or welfare of body or mind that is not accidental, including but not limited to, sexual abuse, sexual exploitation, and neglect.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -4441,6 +4451,7 @@
           <num>B.</num>
           <text>Abuse of a Vulnerable Adult shall be punishable by a fine not to exceed fifteen thousand dollars ($15,000), by a term of imprisonment not to exceed three (3) years, or by both such fine and imprisonment.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -4486,6 +4497,7 @@
           <num>B.</num>
           <text>Neglect of a Vulnerable Adult shall be punishable by a fine not to exceed fifteen thousand dollars ($15,000), by a term of imprisonment not to exceed three (3) years, or by both such fine and imprisonment.</text>
         </para>
+        <annotations/>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -6714,6 +6726,7 @@
         <num>B.</num>
         <text>Attempt shall be punishable by the same penalties as those prescribed for the offense the commission of which was the object of the attempt.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -6727,6 +6740,7 @@
         <num>B.</num>
         <text>Conspiracy shall be punishable by the same penalties as those prescribed for the offense, the commission of which was the object of the attempt.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -6740,12 +6754,14 @@
         <num>B.</num>
         <text>Solicitation shall be punishable by the same penalties as those prescribed for the offense, the commission of which was the object of the attempt.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>17-701.4</num>
       <heading>MISPRISION.</heading>
       <text>Whoever, having knowledge of the actual commission of a criminal offense with a maximum term of imprisonment of one (1) year or greater cognizable by a court of the Chickasaw Nation, conceals and does not as soon as possible make known the same to some judge or other person in authority under the Chickasaw Nation, shall be punishable by a fine not to exceed fifteen thousand ($15,000.00), by a term of imprisonment not to exceed three (3) years, or by both such fine and imprisonment.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -6787,6 +6803,7 @@
           <text>Any person who is eighteen (18) years of age or older, who intentionally Uses a Minor to commit a Crime of Violence for which such person may be prosecuted in a court of the Chickasaw Nation, or to assist in avoiding detection or apprehension for such an offense, shall be subject to thrice the maximum term of imprisonment and thrice the maximum fine, or both such fine and imprisonment, that would otherwise be authorized for the offense, up to the maximum allowed within the Chickasaw Nation for a single offense.</text>
         </para>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -6842,6 +6859,7 @@
         <num>B.</num>
         <text>The criminal provisions under <cite path="17|8">this Chapter 8</cite> shall be governed by the court rules and criminal procedures provided under <cite path="5">Title 5 of the Chickasaw Nation Code.</cite></text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -6885,6 +6903,7 @@
         <num>B.</num>
         <text>Reckless Operation of a Motor Vehicle shall be punishable by a fine not to exceed five thousand dollars ($5,000.00), by a term of imprisonment not to exceed one (1) year, or both.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -6898,6 +6917,7 @@
         <num>B.</num>
         <text>Aggravated Reckless Operation of a Motor Vehicle shall be punishable by a fine not to exceed fifteen thousand ($15,000.00), by a term of imprisonment not to exceed three (3) years, or both.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>

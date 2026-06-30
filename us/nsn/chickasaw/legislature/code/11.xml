@@ -12,18 +12,21 @@
       <num>11-101.1</num>
       <heading>TITLE.</heading>
       <text>This legislation is hereby enacted by the Chickasaw Tribal Legislature and shall be known and cited as the "Chickasaw Nation Wildlife Conservation Act of 2022" or the "Act" in this title.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>11-102</num>
       <heading>REPEAL PROVISION.</heading>
       <text>The act previously titled herein as the "Chickasaw Nation Wildlife Conservation Act of 2021," previously located in Title 11 is hereby repealed in its entirety and replaced with this Act.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>11-103</num>
       <heading>PURPOSE.</heading>
       <text>The Chickasaw Tribal Legislature hereby establishes a framework for the Chickasaw Nation's management and conservation of fish and Game. The goal of such management and conservation is the long-term sustainability of Chickasaw Nation resources, and to that end, this Act establishes guidelines for permitting Hunting and Fishing within the Chickasaw Nation, for controlling access to Chickasaw Nation Lands for purposes of Hunting and Fishing, and for establishing species-specific limits on the taking of Wildlife through Hunting and Fishing. Pursuant to the powers vested in it by Article 10 § 1 of the Chickasaw Nation Constitution, the Executive Department will carry out all administrative functions necessary and proper for the implementation of this Act, including policies the Executive Department promulgates.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -45,6 +48,7 @@
         <num>4.</num>
         <text>Any person who violates a prohibition of this Section shall be subject to sanctions as provided in Chapter 3 of this Act.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -66,6 +70,7 @@
         <num>4.</num>
         <text>Nothing herein waives the Chickasaw Nation's jurisdiction, immunities, or rights in any matter, and the Chickasaw Nation expressly reserves the right to exercise any inherent jurisdiction it may possess or other jurisdiction which may be recognized under or delegated by federal law or provided for in a compact or other agreement with the State of Oklahoma or another Tribal Nation.</text>
       </para>
+      <annotations/>
     </section>
     <annotations>
       <annotation type="History" effective="2022-02-18" doc="PR39-005">PR39-005, 2/18/2022</annotation>
@@ -144,6 +149,7 @@
         <num>13.</num>
         <text>"Tag" means a species-specific authorization to take fish or Game and an identification mechanism required to be attached to Game taken by Hunting on Chickasaw Nation Lands, as specified in Executive Department Policies.</text>
       </para>
+      <annotations/>
     </section>
   </container>
   <container>
@@ -190,6 +196,7 @@
           <text>any and all other administrative actions necessary to fully implement this Act and associated Executive Department policies, in accord with applicable law.</text>
         </para>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -231,6 +238,7 @@
           </para>
         </para>
       </para>
+      <annotations/>
     </section>
   </container>
   <container>
@@ -273,6 +281,7 @@
         <num>4.</num>
         <text>No person who engages in Hunting or Fishing on his or her own private land, whether held in individual trust or restricted or unrestricted fee, shall be required under this Act to obtain a License, though such persons shall remain subject to applicable Bag Limits and Tag requirements.</text>
       </para>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -294,6 +303,7 @@
         <num>4.</num>
         <text>Clarity of rules across jurisdictions and cooperation with other jurisdictions in accord with the long-term sustainability of Chickasaw Nation resources should be considered in the implementation of this Section."</text>
       </para>
+      <annotations/>
     </section>
   </container>
 </container>

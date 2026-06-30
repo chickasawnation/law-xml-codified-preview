@@ -36,12 +36,14 @@
       <num>7-201.2</num>
       <heading>EFFECTIVE DATE.</heading>
       <text>This Act shall become effective immediately.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>7-201.3</num>
       <heading>PURPOSE.</heading>
       <text>The purpose of this Act shall be to promote excellence in higher education among Chickasaw students by rewarding achievement, consolidating and streamlining the application process, providing flexibility in the assignment of scholarship funds according to the needs of each school year and promoting clarity in the selection and award process.</text>
+      <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
@@ -55,6 +57,7 @@
         <num>B.</num>
         <text>The funding for the clothing grants shall be allocated from the Railroad Station Grounds Clothing Grant funds line item. If necessary, funding for this grant may be supplemented from the tribal general fund.</text>
       </para>
+      <annotations/>
     </section>
   </container>
 </container>
