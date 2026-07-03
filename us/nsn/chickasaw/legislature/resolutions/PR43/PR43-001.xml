@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-001">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-001" codify:doc="Chickasaw Nation Code">
   <num>PR43-001</num>
   <heading>Amendments to Title 2, Chapter 7 of the Chickasaw Nation Code (Chickasaw Nation Ethics Commission and Ethics in Government Act)</heading>
   <meta>
@@ -12,4 +12,305 @@
       <citation type="res" url="./adopted/PR43-001.pdf">PR43-001</citation>
     </citations>
   </meta>
+  <codify:replace path="2|7|A|2-701.1" codified:doc="Chickasaw Nation Code" codified:path="§2-701.1">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-701.1</num>
+      <heading>COMMISSION CREATED.</heading>
+      <para>
+        <num>A.</num>
+        <text>There is hereby created a Chickasaw Nation Ethics Commission ("Commission"). The Commission shall be comprised of three (3) members who shall elect a Chairperson from among their number at their first meeting in each calendar year. Members shall be Chickasaw Citizens in accordance with tribal membership provisions included in Article II, Section 1 of the Constitution. Commissioners shall be nominated and confirmed in accordance with Title 2, Chapters 10 &amp; 11, Article A of the Code of the Chickasaw Nation, and Article XI, Section 2 of the Constitution. The Commission shall be within the Executive Department; however, the Commission shall make its decisions without interference from any of the three departments of tribal government, any officer or employee thereof, or any other person not sitting on the Commission.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Commissioners shall serve for a term of three (3) years with an anniversary date of October 1. Commissioners shall be reappointed, or a replacement shall be appointed, at least sixty (60) days prior to the expiration of the term. Once the full Commission is seated, Commissioners shall draw lots to determine which of the members shall serve a one (1) year term, to be called Seat 1, two (2) year term, to be called Seat 2, or three (3) year term, to be called Seat 3. Thereafter, all members shall serve full three (3) year terms, with one (1) seat becoming vacant each subsequent year.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Members of the Commission may resign at any time but may be removed only for cause. Vacancies occurring on the Commission shall be filled in the same manner as described and defined in <cite path="2|7|A|2-701.1|A." doc="PR43-001">Subsection A above</cite>. Vacancies shall be filled for the remainder of the respective term.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>No current public official or employee of the Nation shall serve on the Commission. No Commissioner shall be eligible for elected office for one (1) year after completing his term.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2|7|A|2-701.2" codified:doc="Chickasaw Nation Code" codified:path="§2-701.2">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-701.2</num>
+      <heading>APPROPRIATION, COMPENSATION, STAFF.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commission shall receive an annual appropriation included in the annual tribal budget sufficient to enable it to perform its duties as set forth herein. Any funds appropriated to the Commission which remain unspent at the end of the fiscal year shall be returned to the General Fund.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commission shall present its proposed budget through the Executive Department to the office of Governor of the Chickasaw Nation in accordance with established protocol.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Commissioners shall receive reimbursement for travel, lodging and meals while on official business as provided by Chickasaw Nation policy; otherwise, Commissioners shall not be compensated.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Commission may employ or retain staff sufficient to support and maintain an office in a location provided by the Judicial Department.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2|7|A|2-701.3" codified:doc="Chickasaw Nation Code" codified:path="§2-701.3">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-701.3</num>
+      <heading>DUTIES AND RESPONSIBILITIES.</heading>
+      <text>In accordance with all powers and authority as provided in this Act and elsewhere in the Chickasaw Nation Code, the Commission shall have the specific duties, responsibilities and authority to:</text>
+      <para>
+        <num>1.</num>
+        <text>Provide written advisory opinions, when required by law or deemed by the Commission to be necessary; to guide conduct and address specific questions when requested by those within its purview and provide written decisions when hearing complaints, challenges or any other matter as provided by Chickasaw law.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Conduct administrative hearings to hear complaints and determine violations or noncompliance with the Chickasaw Nation Ethics in Government Act of 2002 and other ethics laws as prescribed by the Chickasaw Code.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Dismiss any complaint which the Commission determines has insufficient facts to constitute a violation of, or is in noncompliance with, the Chickasaw Nation Ethics in Government Act of 2002 Act or other Chickasaw law; or provides insufficient evidence to support the allegations; or is otherwise outside the authority of the Commission.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Impose or recommend any sanctions, civil damages, restitution, or other penalties against those found in violation as provided herein or as otherwise prescribed in the Chickasaw Nation Code, as well as recommend or direct corrective, mitigating, or preventative actions as it deems necessary and appropriate.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Issue a written opinion or decision detailing the finding of facts and reasoning, or lack thereof, of any issue heard by the Commission to the Complainant and other interested parties including the Governor and Legislature.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>When it deems appropriate, refer matters to other Governmental Bodies for investigation, prosecution, or other resolution.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Adopt miles, policies or procedures to fulfill its duties and support its operations as necessary.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2|7|A|2-701.4" codified:doc="Chickasaw Nation Code" codified:path="§2-701.4">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-701.4</num>
+      <heading>GENERAL RULES OF PROCEDURE.</heading>
+      <para>
+        <num>A.</num>
+        <text>Unless otherwise provided by Chickasaw law, no action shall be brought more than two (2) years after such cause of action has occurred or been discovered, whichever occurs later.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All Commission matters are confidential unless otherwise required or allowed by law or deemed by the Commission to be in the best interest of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Complaints must be submitted to the Commission in writing and include the following: the Complainant's name and contact information; a statement of the facts; the date(s) of the alleged violation(s); a reference to the ethics provision(s) believed to have been violated; the name of the Respondent(s); the name and contact information of any potential witnesses and a brief statement of their knowledge; and certification from the Complainant that they have personal knowledge of the facts alleged and the information provided in the complaint is true and accurate to the best of their ability.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Commission shall provide notice of an administrative hearing to the parties to a hearing via certified mail, return receipt requested and posted no later than ten (10) business days in advance of the hearing. The notice shall include the hearing date, time and location, as well as the reason for the hearing.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Failure to appear at a scheduled hearing without good cause may result in a dismissal of the complaint or the entering of a decision without further proceedings.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A Complainant or their legal representative shall present the complaint. Complainant(s) and Respondent(s) who are the subject of ethics complaint(s) have the right to present evidence, to testify on their own behalf, question witnesses against them and call witnesses to testify in support of their respective causes.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The burden of proof shall be on the Complainant and decisions will be made according to preponderance of the evidence.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Two (2) Commissioners shall constitute a quorum; decisions shall be made by majority vote. In the event only two (2) Commissioners are present, decisions shall be made by unanimous vote. When a required Recusal of one or more Commissioners inhibits the Commission's ability to function, the Governor may invoke a necessity exception, either allowing the participation of any recused Commissioner in the matter or temporarily appointing one or more alternate Commissioners to address the specific matter.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2|7|A|2-701.5" codified:doc="Chickasaw Nation Code" codified:path="§2-701.5">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-701.5</num>
+      <heading>ENFORCEMENT.</heading>
+      <text>All decisions issued by the Commission shall be enforced by the appropriate department.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="2|7|A|2-701.6" codified:doc="Chickasaw Nation Code" codified:path="§2-701.6">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-701.6</num>
+      <heading>APPEALS.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Chickasaw Nation District Court shall have jurisdiction to hear all appeals from decisions of the Commission.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Pursuant to the procedures for appeal provided by Title 5, Chapter 1, Articles B, <cite path="5|1|5-102.1" doc="PR43-001">Section 5-102.1</cite> of the Chickasaw Nation Code, a Notice of Intent to Appeal and Petition for Appeal, as defined in <cite path="5|1|B" doc="PR43-001">Title 5, Chapter 1, Article B of the Chickasaw Nation Code</cite>, shall be filed with the District Court within thirty (30) days of the issuance of a decision of the Commission or such appeal will be barred.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All appeals to the Court shall be heard <em>de novo</em>.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2|7|B|2-702.3" codified:doc="Chickasaw Nation Code" codified:path="§2-702.3">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-702.3</num>
+      <heading>LEGISLATIVE PURPOSE AND INTENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose.</text>
+        <text>The government of the Chickasaw Nation is founded upon the consent of the governed and Chickasaw Citizens are entitled to have complete confidence in the loyalty and integrity of their government. The purpose of this Act, therefore, is to increase accountability to Chickasaw Citizens by their elected, appointed and assigned Public Officials and Employees of the Nation in exercising the authority vested or to be vested with them as a matter of public trust, by:</text>
+        <para>
+          <num>1.</num>
+          <text>Establishing and requiring adherence to standards of conduct to avoid conflict of interest, or appearance of conflict of interest, as the use of Public Offices, Employment or property, tribal or U.S. Government, for private gain, the granting and exchange of favored treatment to persons, Businesses or organizations; and the conduct of activities by Public Officials and Employees of the Nation which permits opportunities for private gain or advantage to influence government decisions; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Requiring Public Officials and Employees of the Nation to Recuse from using any function of their office or duties in a manner which could place, or appear to place, their personal economic or special interests before the interests of the Chickasaw Nation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Intent.</text>
+        <text>It is the intent of the Chickasaw Tribal Legislature that the provisions of this Act be construed and applied in each instance so as to accomplish its purposes of protecting Chickasaw Citizens from government decisions and actions resulting from, or affected by, undue influences or conflict of interest.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2|7|B|2-702.4" codified:doc="Chickasaw Nation Code" codified:path="§2-702.4">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-702.4</num>
+      <heading>DEFINITIONS.</heading>
+      <text>As used in <cite path="2|7" doc="PR43-001">this Chapter</cite>:</text>
+      <para>
+        <num>1.</num>
+        <text>"Affinity" means the relation among a person and the family of such person's spouse because of marriage. The degrees of Affinity are computed as are the degrees of Consanguinity.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Business" includes any enterprise, organization, trade, occupation or profession whether or not operated as a legal entity for profit, including any Business, trust, holding company, corporation, partnership, joint venture, or sole proprietorship, Consultant or other self-employed enterprise. "Business" also includes any Business in which a person subject to this Act or a member of such person's Immediate Family is a director, officer, partner, trustee or Employee, holds any position of management or receives Compensation or Income in any form such as wages, commission, direct or indirect investment worth more than $1,000 or holds any ownership, security or other beneficial interest, individually or combined, amounting to more than ten percent (10%) of said Business.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Candidate" shall include any person who has publicly announced an intent to campaign for Public Office, initiated fundraising activities or received funds for such campaign, authorized promotion for such campaign, or filed a declaration of candidacy or a petition to appear on the ballot for election for Public Office.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Chickasaw Nation" or "Nation" means the tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, being duly recognized by the Secretary of Interior of the United States of America, as a self governing, sovereign government. "Chickasaw Nation" or "Nation" is used herein to describe the lands and people of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Citizens" means any Chickasaw Indians by blood, whose names appear on the final rolls of the Chickasaw Nation approved pursuant to Section 2 of the Act of April 26, 1906 (34 Stat. 137) and their lineal descendants.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Commission" means the Chickasaw Nation Ethics Commission.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Compensation" or "Income" means any money or thing of value received, or to be received as a claim on future services, whether in the form of a fee, salary, expense, allowance, forbearance, forgiveness, interest, dividend, royalty, rent, capital gain, or any other form of recompense or any combination thereof.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Complainant" means the person or entity that files a complaint with the Commission alleging violations of this Act or other provisions within the purview of the Commission.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Confidential Information" means information which by law or practice is not available to the public at large or is deemed Confidential by a Governmental Body.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Conflict of Interest" means the reasonable foreseeability or appearance that any personal interest or Economic Interest of a Public Official or Employee of the Nation will be affected in any materially different manner from the interest of the general public, by any decision, enactment, agreement, award or other official action or function of any Governmental Body or political subdivision of the Nation.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Consanguinity" means relationship by blood; kinship.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Consultant" means a person who gives professional or expert advice or services for Compensation or Income.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Constitution" means the Constitution of the Chickasaw Nation as ratified by the voters of the Chickasaw Nation on August 27, 1983, and amendments thereto.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Court" means the Chickasaw Nation District Court or Chickasaw Nation Supreme Court, whichever is the court of competent jurisdiction at the time the cause of action is first presented to the Commission.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Employee" means any person or entity working for, or rendering or exchanging any services or performing any act for or on behalf of another person, organization or entity in return for any form of pay or other Compensation or Income or any other thing of value received or to be received anytime temporarily, permanently or indefinitely, in any capacity; whether as agent, servant, representative, Consultant, advisor, independent contractor or otherwise.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Employment" means the status or relationship existing or created by and between a person designated or acting as an Employee and the person, organization, group or other entity for whom or on whose behalf any such work, acts, services or other benefit has been, is being or will be rendered or performed for pay or any other form of Compensation or Income.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Economic Interest" means an interest held by a person subject to this Act and/or members of such person's Immediate Family which is:</text>
+        <para>
+          <num>a.</num>
+          <text>any ownership, Compensation or Income, investment, security or other beneficial interest in a Business, or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>any Employment or prospective Employment for which negotiations have already begun.</text>
+        </para>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Gift" includes any gratuity, special discount, favor, hospitality, payment, loan, subscription, economic opportunity, advance, deposit of money, services, or other benefit received without equivalent consideration.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"Governmental Body" means any branch, entity, enterprise, authority, division, department, office, commission, council, board, bureau, committee, legislative body, agency, and any other establishment of the Executive, Legislative, and/or Judicial Department of the Nation.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Immediate Family" includes spouse, father, mother, child, brother or sister or other person when identified as such by tribal customs and traditions or by proper and appropriate authorities.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"Ministerial Action" means an action that a Public Official or Employee of the Nation performs in a given state of facts in a prescribed manner in obedience to a mandate of legal authority, without regard to, or in the exercise of, such person's own judgment upon the propriety of the action being taken.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"Official Act or Official Action" means any function of any Governmental Body, vote, decision, recommendation, approval, disapproval, enactment, agreement, award, or other action, including inaction, that involves the use of discretionary authority. "Official Act" or "Official Action" does not include Ministerial Action.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"Pecuniary" means monetary; relating to money; financial; consisting of money or that which can be valued in money.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"Public Office" means those offices and positions which are elective or appointed in any Governmental Body of the Nation.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"Public Official" means any person holding a Public Office; and any person who has been nominated by a Public Official or Governmental Body for appointment to serve in any public capacity, position or office, but who has not yet been seated in such public capacity, position or office.</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>"Recuse or Recusal" means to remove oneself from all participation in a matter, including but not limited to, deliberation, discussion, deciding or voting on, sponsoring, influencing or attempting to influence a matter.</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text>"Respondent" means an individual or entity against whom a complaint is filed.</text>
+      </para>
+      <para>
+        <num>28.</num>
+        <text>"Special Interest Organization" includes a Business, group, or other organization seeking to or intending to influence Governmental Body policies, legislation, or Official Acts.</text>
+      </para>
+    </section>
+  </codify:replace>
 </document>

@@ -105,9 +105,18 @@
         <num>16.</num>
         <text>"Contractual or Fiduciary Funds" shall include grants and other federal funding, the Chickasaw Nation self-insurance Fund and other accounts with Funds from assets that the Chickasaw Nation holds as a trustee and that it cannot use to fund its own programs.</text>
       </para>
+      <para>
+        <num>17.</num>
+        <text>"Development Budget" shall mean a budget devised by the Governor for projects intended to develop tribal real property or develop Housing Projects as defined herein.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Housing" or "Housing Project(s)" shall mean the construction or renovation of residential dwelling places, such as apartments, duplexes, townhouses or other single or multifamily homes and shall include all necessary items including but not limited to surveys, environmental assessments, architecture, design, and any and all ancillary items related to the development of residential Housing including but not limited to utilities, infrastructure, parking, lighting, fencing, landscaping, parks, and security.</text>
+      </para>
       <annotations>
         <annotation type="History" effective="2012-08-17" doc="PR29-006">PR29-006, 8/17/12</annotation>
         <annotation type="History" effective="2015-12-18" doc="PR33-001">PR33-001, 12/18/15</annotation>
+        <annotation app="2026-03-23" doc="PR43-003" eff="2026-03-23" path="" target-path="10|1|10-101.4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -374,29 +383,33 @@
       <prefix>Section</prefix>
       <num>10-201.4</num>
       <heading>DEVELOPMENT BUDGET.</heading>
-      <text>Projects intended to develop tribal real property shall be contained in a Development Budget, devised by the Governor and submitted to the Legislature apart and separate from the Consolidated Governmental Budget. The Governor may submit modifications or amendments as special need or circumstances dictate.</text>
+      <text>Projects intended to develop tribal real property shall be contained in a Development Budget, devised by the Governor and submitted to the Legislature apart and separate from the Consolidated Governmental Budget. The Governor may submit modifications or amendments as special need or circumstances dictate. Projects intended to develop Housing that are not located on tribal real property may also be included in a Development Budget.</text>
       <para>
         <num>1.</num>
-        <text>The Budget shall include a scope of work and projected time frame for completion of any work involved, as well as justification for that work. An estimate of cost shall be provided for each project and shall be identified as to source of funding.</text>
+        <text>The Development Budget shall include a scope of work and projected time frame for completion of any work involved, as well as justification for that work. An estimate of cost shall be provided for each project and shall be identified as to source of funding.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>When the Legislature shall have approved the Development Budget, the requirements of Section 18.100.6(B) shall be deemed to have been met, and authorization shall be granted for the performance of activities and authorization for expending Funds to complete the projects identified in the Development Budget. Completion of a project may not be limited to a single fiscal year; approval of a project includes approval until such time as the project is completed.</text>
+        <text>When the Legislature approves the Development Budget for projects intended to develop tribal real property, the requirements of Section 18.100.6(B) shall be deemed to have been met, and authorization shall be granted for the performance of activities and authorization for expending Funds to complete the projects identified in the Development Budget. Completion of a project may not be limited to a single fiscal year; approval of a project includes approval until such time as the project is completed.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Total expenditures for any single project may not exceed more than 10% over the budgeted amount of that project; however, should it become apparent that completion of the project shall exceed such amount, the Governor shall submit a revised project budget to the Legislature for approval.</text>
+        <text>When the Legislature approves the Development Budget for Housing Projects that are not located on tribal real property the requirements of <cite path="10|2|10-201.1" doc="PR43-003">Section 10-201.1</cite> (A) shall be deemed met, and authorization shall be granted for the performance of activities and authorization for expending Funds to complete Housing Projects identified in the Development Budget. Completion of a Housing Project may not be limited to a single fiscal year; approval of a Housing Project includes approval until such time as the project is completed.</text>
       </para>
       <para>
         <num>4.</num>
-        <text>A report of all ongoing projects approved in the Development Budget shall be provided to the Legislature by the Governor on a monthly basis. Such report shall include the status of each project, the status of each project budget's expenditures to-date and the balance of each project's allocated expenditure. As a project is completed, it shall be removed from that report; as new projects are added, they shall be included on the report to the Legislature.</text>
+        <text>Total expenditures for any single project may not exceed more than 10% over the budgeted amount of that project; however, should it become apparent that completion of the project shall exceed such amount, the Governor shall submit a revised project budget to the Legislature for approval.</text>
       </para>
       <para>
         <num>5.</num>
-        <text>As a report indicates the completion of a project, the project shall be removed from the Development Budget. When a new project is proposed, the Governor shall submit a budget revision to the Legislature for its approval. Once approved, the new project will be added to the Development Budget and, until the project's completion, its progress shall be reported monthly by the Governor to the Legislature.</text>
+        <text>A report of all ongoing projects approved in the Development Budget shall be provided to the Legislature by the Governor on a monthly basis. Such report shall include the status of each project, the status of each project budget's expenditures to-date and the balance of each project's allocated expenditure. As a project is completed, it shall be removed from that report; as new projects are added, they shall be included on the report to the Legislature.</text>
       </para>
       <para>
         <num>6.</num>
+        <text>As a report indicates the completion of a project, the project shall be removed from the Development Budget. When a new project is proposed, the Governor shall submit a budget revision to the Legislature for its approval. Once approved, the new project will be added to the Development Budget and, until the project's completion, its progress shall be reported monthly by the Governor to the Legislature.</text>
+      </para>
+      <para>
+        <num>7.</num>
         <text>Buildings which are ancillary to a previously approved construction budget, including, but not limited to, buildings used for maintenance or storage, the funding for which is not deriving from the Development Budget and such building is less than one thousand square feet, shall not be subject to this Section.</text>
       </para>
       <annotations>
@@ -404,6 +417,7 @@
         <annotation type="History" effective="2005-07-28" doc="PR22-019">PR22-019, 7/28/05</annotation>
         <annotation type="History" effective="2012-08-17" doc="PR29-006">PR29-006, 8/17/12</annotation>
         <annotation type="History" effective="2019-09-22" doc="PR36-009">PR36-009, 9/22/2019</annotation>
+        <annotation app="2026-03-23" doc="PR43-003" eff="2026-03-23" path="" target-path="10|2|10-201.4" type="History"/>
       </annotations>
     </section>
     <section>

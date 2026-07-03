@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-006">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-006" codify:doc="Chickasaw Nation Code">
   <num>PR43-006</num>
   <heading>Amendment to Title 2, Chapter 10, Article A of the Chickasaw Nation Code (Tribal Boards, Commissions and Agencies)</heading>
   <meta>
@@ -12,4 +12,23 @@
       <citation type="res" url="./adopted/PR43-006.pdf">PR43-006</citation>
     </citations>
   </meta>
+  <codify:replace path="2|10|A|2-1001.3" codified:doc="Chickasaw Nation Code" codified:path="§2-1001.3">
+    <section>
+      <prefix>Section</prefix>
+      <num>2-1001.3</num>
+      <heading>PAYMENT.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each non-employee member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="2|10|A|2-1001.1" doc="PR43-006">Section 2-1001.1</cite>, shall be eligible for payment in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any time that such board, commission or agency shall meet to conduct its regular or special meetings, all attending members shall be entitled to reimbursement for expenses in accordance with Executive Department travel policies.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Members of boards, commissions and agencies which are, as a course of their normal duties and/or functions, involved in meetings or tasks are entitled to an additional payment in the form of a stipend for their time, which shall be equivalent to an hourly rate as approved by the Governor, in addition to any payment which might be received in the form of per diem and travel expenses. The administrative staff assigned to each such board, agency or commission shall be responsible for completion of paperwork for such payment in accordance with the normal procedures used for regular, full-time tribal employees. Should no such staff be assigned to such board, agency or commission, the Office of the Governor shall provide such services for those affected members.</text>
+      </para>
+    </section>
+  </codify:replace>
 </document>

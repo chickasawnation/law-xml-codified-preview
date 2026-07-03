@@ -5657,6 +5657,54 @@
         <para>
           <num>F.</num>
           <text>The Stalking Warning Letter, as required by the provisions of <cite path="17|5|F|17-506.6|E.">Subsection E of this section</cite>, shall be utilized by law enforcement agencies throughout the Chickasaw Nation and shall be in substantially the following form:</text>
+          <include>
+            <text class="center">Stalking Warning Letter</text>
+            <text class="center">The Chickasaw Nation</text>
+            <text>________________________________________</text>
+            <text>(Name of law enforcement agency)</text>
+            <text>RE: ____________________ (Complainant)</text>
+            <text>Stalking Warning Letter served to: ______________________________</text>
+            <text>______________________________</text>
+            <text>(Home Address)</text>
+            <text>______________________________</text>
+            <text>(Date of Birth)</text>
+            <text>The above-named law enforcement agency has recently investigated a complaint about your behavior towards the above-named individual. The behavior you have engaged in could be interpreted as "stalking" as provided for in Title 17, Section 17-506.6, of the Chickasaw Nation Code. Stalking can be described as intentionally engaging in a course of conduct directed at a specific person that would cause a reasonable person under the same circumstances to suffer serious emotional distress, or place the specific person in reasonable fear of bodily injury. Your behavior has induced such fear or distress in the above-named individual. Stalking is a criminal offense under the laws of the Chickasaw Nation. The Chickasaw Nation and law enforcement agencies take this law very seriously.</text>
+            <text>Please consider this a formal warning that any future conduct by you toward the above-named individual could result in arrest by law enforcement and prosecution by the Chickasaw Nation.</text>
+            <text>__________________________________________</text>
+            <text>Print Name of Chief of Law Enforcement Agency</text>
+            <text>__________________________________________</text>
+            <text>Signature of Chief of Law Enforcement Agency</text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td>Served in hand</td>
+                    <td>________________________</td>
+                    <td>by</td>
+                    <td>________________________</td>
+                  </tr>
+                  <tr>
+                    <td/>
+                    <td>(Date and Time)</td>
+                    <td/>
+                    <td>(Office and Badge Number)</td>
+                  </tr>
+                  <tr>
+                    <td>On behalf of</td>
+                    <td>________________________</td>
+                    <td>at</td>
+                    <td>________________________</td>
+                  </tr>
+                  <tr>
+                    <td/>
+                    <td>(Law Enforcement Agency)</td>
+                    <td/>
+                    <td>(Location of Service)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </include>
         </para>
         <annotations>
           <annotation type="History" effective="2023-04-17" doc="PR40-010">PR40-010, 04/17/2023</annotation>

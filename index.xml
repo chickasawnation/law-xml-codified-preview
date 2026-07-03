@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="chickasawnation/law-xml" commit="5d919fb37e412daf4f8b5c4cb20666645193cba3"/>
+        <repository name="chickasawnation/law-xml" commit="7cfc2267e32ca7ea8cf74877123ad7e7f4d8f99a"/>
       </repositories>
-      <platform version="2.20.16.dev475" reproducible="false"/>
-      <build-date>2026-06-30</build-date>
+      <platform version="2.19.5.dev402" reproducible="false"/>
+      <build-date>2026-07-03</build-date>
       <codified-date>2026-05-15</codified-date>
     </build>
   </meta>
@@ -64,5 +64,12 @@
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/bills/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/GR/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/TL/index.xml"/>
+    <annotations>
+      <annotation type="Editor's Notes">
+        <text>
+          <em>Any incomplete or unavailable historical source record is an archival matter and does not impair the validity of the codified law.</em>
+        </text>
+      </annotation>
+    </annotations>
   </collection>
 </library>

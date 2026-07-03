@@ -6264,6 +6264,66 @@
         <num>6-204.3</num>
         <heading>PETITION FORM.</heading>
         <text>The Prosecutor shall sign and file all petitions alleging a Child to be Deprived. Such petitions and all subsequent court documents in such proceedings shall contain a heading and title in substantially the following form:</text>
+        <include>
+          <text>IN THE DISTRICT COURT OF THE CHICKASAW NATION</text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td data-width="423076">the Chickasaw Nation</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">In the Interest of:</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">________________, DOB: __/__/__,</td>
+                  <td data-width="38461">)</td>
+                  <td data-width="538461">Case No. JFJ-__-__</td>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076">Alleged Deprived Child</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">And Concerning:</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">________________, Respondent Mother; and</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">________________, Respondent Father.</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text class="center">
+            <strong>
+              <u>PETITION</u>
+            </strong>
+          </text>
+          <text>COMES NOW . . . .</text>
+        </include>
         <annotations/>
       </section>
       <section>
@@ -6285,6 +6345,72 @@
         <num>6-204.5</num>
         <heading>SUMMONS.</heading>
         <text>Upon filing of a petition the Court Clerk shall issue a summons to the respondents as in other civil cases. The summons shall be in substantially the following form:</text>
+        <include>
+          <heading>IN THE DISTRICT COURT OF THE CHICKASAW NATION</heading>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>the Chickasaw Nation</td>
+                  <td proof="needed"/>
+                  <td>)</td>
+                </tr>
+                <tr>
+                  <td>In the Interest of:</td>
+                  <td proof="needed"/>
+                  <td>)</td>
+                </tr>
+                <tr>
+                  <td proof="needed"/>
+                  <td proof="needed"/>
+                  <td>)</td>
+                </tr>
+                <tr>
+                  <td>________________, DOB: __/__/__,</td>
+                  <td>)</td>
+                  <td>Case No. JFJ-__-__</td>
+                </tr>
+                <tr>
+                  <td data-width="423076">Alleged Deprived Child</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">And Concerning:</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">________________, Respondent Mother; and</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">________________, Respondent Father.</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text class="center">
+            <strong>
+              <u>SUMMONS</u>
+            </strong>
+          </text>
+          <text>the Chickasaw Nation to:	________________, Respondent</text>
+          <text>YOU ARE HEREBY NOTIFIED that a petition has been filed in the Court alleging that the above named minor child is a Deprived Child and that, as the parent of said Child, you have been named as the Respondent, all as more fully set out in the attached petition.</text>
+          <text>YOU ARE THEREFORE ORDERED TO APPEAR at the courtroom of the Chickasaw Nation District Court, 821 N. Mississippi, Ada, Oklahoma, on the______ day of _________________, 20__., at the hour of __ o'clock _.M. and to there remain subject to the call of the Court until discharged so that you may be advised of the allegations contained in the petition and may answer that you admit or deny the allegations of the petition.</text>
+          <text>You may seek the advice of an attorney on any matter relating to this action at your own expense, or upon application to the Court, you may be eligible for a court-appointed attorney.</text>
+          <text>FAILURE TO RESPOND TO THIS SUMMONS OR TO APPEAR AT THIS HEARING CONSTITUTES CONSENT TO THE CHILD AS A DEPRIVED CHILD AND MAY ULTIMATELY RESULT IN LOSS OF CUSTODY OF THIS CHILD OR THE TERMINATION OF PARENTAL RIGHTS TO THIS CHILD.</text>
+          <text>[SEAL]</text>
+          <text>__________________________________________________________________ CLERK OF THE CHICKASAW NATION DISTRICT COURT (Return as in other civil cases.)</text>
+        </include>
         <annotations/>
       </section>
       <section>
@@ -8814,6 +8940,80 @@
         <num>6-307.3</num>
         <heading>PETITION FORM.</heading>
         <text>The Prosecutor shall verify, sign and file all petitions alleging a Child to be Delinquent. Such petitions and all subsequent court documents in such proceedings shall contain a heading and title in substantially the following form:</text>
+        <include>
+          <text>IN THE DISTRICT COURT OF THE CHICKASAW NATION</text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td data-width="423076">The Chickasaw Nation</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">In The Interest Of:</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076">________________</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td data-width="538461">Case No. ____________________</td>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">An Alleged Delinquent Child,</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">And Concerning</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076">________________</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076">________________</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">Respondent(s)</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text class="center">
+            <strong>
+              <u>DELINQUENT CHILD PETITION</u>
+            </strong>
+          </text>
+        </include>
         <annotations/>
       </section>
       <section>
@@ -8835,6 +9035,88 @@
         <num>6-307.5</num>
         <heading>SUMMONS.</heading>
         <text>Upon filing of a petition the clerk of the Court shall issue a summons to the respondent Parent(s), Guardian(s) or Custodian(s) and the Child. The summons shall be in substantially the following form:</text>
+        <include>
+          <text>IN THE DISTRICT COURT OF THE CHICKASAW NATION</text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td data-width="423076">The Chickasaw Nation</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">In The Interest Of:</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076">________________</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td data-width="538461">Case No. ____________________</td>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">An Alleged Delinquent Child,</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">And Concerning</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076">________________</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076">________________</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td proof="needed" data-width="423076"/>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+                <tr>
+                  <td data-width="423076">Respondent(s)</td>
+                  <td data-width="38461">)</td>
+                  <td proof="needed" data-width="538461"/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text class="center">
+            <strong>DELINQUENT CHILD SUMMONS</strong>
+          </text>
+          <text>The District Court of the Chickasaw Nation to:</text>
+          <text>________________, Respondents</text>
+          <text>YOU ARE HEREBY NOTIFIED, that a petition has been filed in the Court alleging that the above named ________________ is a delinquent child and that as the (parent) (guardian) (custodian) of said child you have been named as the Respondent, all as more fully set out in the attached petition.</text>
+          <text>YOU ARE THEREFORE ORDERED TO APPEAR at the courtroom of the District Court of the Chickasaw Nation, 821 N. Mississippi, Ada, Oklahoma, on the _____________ day of ________________, 20__, at the hour of __ o'clock ____ p.m. and to there remain subject to the call of the Court until discharged so that you may be advised of the allegations contained in the petition and may answer that you admit or deny the allegations of the petition.</text>
+          <text>YOU ARE FURTHER ORDERED, if the above named child is in your physical custody or subject to your control, to bring the child to Court with you.</text>
+          <text>YOU MAY SEEK THE ADVICE OF AN ATTORNEY on any matter relating to this action at your own expense. Upon application to the Court, and after a finding of indigency, the child may qualify for Court-appointed counsel.</text>
+          <text>YOUR FAILURE TO RESPOND TO THIS SUMMONS OR TO APPEAR AT THIS HEARING CONSTITUTES YOUR CONSENT TO THE CHILD BEING ADJUDICATED A DELINQUENT CHILD, AND A BENCH WARRANT MAY BE ISSUED.</text>
+          <text>_______________________________  Court Clerk</text>
+          <text>[Seal]</text>
+          <text>[Return.]</text>
+        </include>
         <annotations/>
       </section>
       <section>
@@ -11407,11 +11689,13 @@
       <para>
         <num>B.</num>
         <text>Such nomination shall be in writing and shall be signed by the Person making such nomination. The nomination shall be substantially in the following form:</text>
-        <text>"Nomination of Guardian by an Adult</text>
-        <text>I, ______________, being of sound mind and not acting under any duress, menace, fraud, or other undue influence do hereby nominate ______________(Name, current residence, and relationship, if any, of the nominee) to serve as the Guardian of my (Person, Property, both) in the event that after the date of this instrument I become incapacitated.</text>
-        <text>Executed at 	______________, ______________(city, state) on this ______________day of ______________, ______________.</text>
-        <text>______________</text>
-        <text>Signature"</text>
+        <include>
+          <heading>"Nomination of Guardian by an Adult</heading>
+          <text>I, ______________, being of sound mind and not acting under any duress, menace, fraud, or other undue influence do hereby nominate ______________(Name, current residence, and relationship, if any, of the nominee) to serve as the Guardian of my ______________(Person, Property, both) in the event that after the date of this instrument I become incapacitated.</text>
+          <text>Executed at 	______________, ______________(city, state) on this ______________day of ______________, ______________.</text>
+          <text>______________</text>
+          <text>Signature"</text>
+        </include>
       </para>
       <para>
         <num>C.</num>
@@ -11938,8 +12222,10 @@
       <para>
         <num>D.</num>
         <text>The notice to the Subject of the Proceeding shall set forth the date, time, place, and purpose of the hearing to which the notice refers. Such notice shall be substantially in the following form:</text>
-        <text>"NOTICE OF HEARING TO:______________</text>
-        <text>Service Address ______________. You are hereby notified that a petition has been filed alleging that you are an __ Incapacitated, __ Partially Incapacitated Person and are incapable of __ caring for yourself, __ managing your Property. The petition requests that a __ Guardian, __ Limited Guardian be appointed by the Court to make decisions for you regarding __ yourself, __ your Property. A copy of the petition is attached. The hearing on the petition will be held on __, __, __ at ______________(PM) (AM). At the hearing, a ( ) Guardian, ( ) Limited Guardian may be appointed for your ( ) Person, ( ) Property. The Judge will explain to you the nature, purpose and effect of the proceedings. You have the right to attend the hearing. You may confront and cross-examine all witnesses and present your own witnesses. You have the right to request that your hearing be closed to the public. You may request that an expert be appointed to examine you and if the Judge believes that an examination is necessary, the Judge will order an Evaluation to be done. You have the right to hire an attorney of your choice to represent you. If you do not have an attorney and you wish to be represented by an attorney at the hearing, the Court will appoint one for you. You may request the appointment of an attorney orally or in writing prior to the hearing or at the hearing. If you are able, you will be required to pay the cost of an attorney appointed by the Court."</text>
+        <include>
+          <heading>"NOTICE OF HEARING TO:______________</heading>
+          <text>Service Address ____________________________. You are hereby notified that a petition has been filed alleging that you are an __ Incapacitated, __ Partially Incapacitated Person and are incapable of __ caring for yourself, __ managing your Property. The petition requests that a __ Guardian, __ Limited Guardian be appointed by the Court to make decisions for you regarding __ yourself, __ your Property. A copy of the petition is attached. The hearing on the petition will be held on ______________, __, __ at ______________(PM) (AM). At the hearing, a ( ) Guardian, ( ) Limited Guardian may be appointed for your ( ) Person, ( ) Property. The Judge will explain to you the nature, purpose and effect of the proceedings. You have the right to attend the hearing. You may confront and cross-examine all witnesses and present your own witnesses. You have the right to request that your hearing be closed to the public. You may request that an expert be appointed to examine you and if the Judge believes that an examination is necessary, the Judge will order an Evaluation to be done. You have the right to hire an attorney of your choice to represent you. If you do not have an attorney and you wish to be represented by an attorney at the hearing, the Court will appoint one for you. You may request the appointment of an attorney orally or in writing prior to the hearing or at the hearing. If you are able, you will be required to pay the cost of an attorney appointed by the Court."</text>
+        </include>
       </para>
       <annotations/>
     </section>
@@ -12320,6 +12606,32 @@
         <para>
           <num>2.</num>
           <text>Each such plan shall be substantially in the following form:</text>
+          <include>
+            <heading>"Plan for the Care and Treatment of a Ward</heading>
+            <text>I, ____________________________, the (Guardian, Limited Guardian) for ____________________________ (Name and address of the Ward) hereby submit this (initial, annual or as ordered by the Court) Guardianship Plan for the care and treatment of said Ward.</text>
+            <para>
+              <num>1.</num>
+              <text>I believe the services necessary for the physical health and safety of the Ward are:</text>
+              <text>_____________________________________________________________.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Those services will be obtained or provided as follows:</text>
+              <text>_____________________________________________________________.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>The Guardian (or Conservator) of the Property (Name or indicate as not applicable) of the Ward, the Ward, and I plan to cooperate and share decision-making authority with regard to the Ward within the provisions of the dispositional order as follows:</text>
+              <text>_____________________________________________________________.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>I believe the following services will assist in fulfilling the needs of the Ward, implementing the terms of the most recent dispositional order applying to me as (Guardian or Limited Guardian):</text>
+              <text>_____________________________________________________________.</text>
+            </para>
+            <text>Date: 	______________,</text>
+            <text>___________________________________________ (Signature of Guardian or Limited Guardian)"</text>
+          </include>
         </para>
       </para>
       <para>
@@ -12331,7 +12643,7 @@
     <section>
       <prefix>Section</prefix>
       <num>6-501.62</num>
-      <heading>DUTY TO KEEP PROPERTY OF WARD SAFE;  FIDUCIARY DUTIES.</heading>
+      <heading>DUTY TO KEEP PROPERTY OF WARD SAFE; FIDUCIARY DUTIES.</heading>
       <para>
         <num>A.</num>
         <text>A Guardian of the Property must keep safe the Property of his Ward and shall act as a fiduciary as provided by this Act. Subject to the order and the Guardianship Plan for the management of the financial resources of the Ward, a Guardian or Limited Guardian of the Property of the Ward:</text>
@@ -12405,6 +12717,32 @@
       <para>
         <num>C.</num>
         <text>Each such plan shall be substantially in the following form:</text>
+        <include>
+          <heading>"Plan for the Management of the Property of the Ward</heading>
+          <text>I, _______________________, the (petitioner, Guardian or Limited Guardian) for ______________________________________________ (Name and address) hereby submit this (initial, annual or as ordered by the Court) Guardianship Plan.</text>
+          <para>
+            <num>1.</num>
+            <text>I believe the services necessary to manage the Property of the Ward which is subject to this Plan are as follows:</text>
+            <text>_____________________________________________________________.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Those services will be provided in the following manner:</text>
+            <text>_____________________________________________________________.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>The Guardian (or Limited Guardian) of the Person, (Name, or indicate as not applicable) the Ward, and I plan to cooperate and share decision-making authority with regard to the Ward within the provisions of the dispositional order as follows:</text>
+            <text>_____________________________________________________________.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>I believe the following services will assist in the management of the Property of the Ward subject to my control, implementing the terms of the most recent dispositional order applying to me as (Guardian or Limited Guardian) of the Property:</text>
+            <text>_____________________________________________________________.</text>
+          </para>
+          <text>Date: _______________________,</text>
+          <text>___________________________________________ (Signature of Guardian or Limited Guardian)"</text>
+        </include>
       </para>
       <annotations/>
     </section>
@@ -12810,6 +13148,86 @@
       <para>
         <num>B.</num>
         <text>The report shall be substantially in the following form:</text>
+        <include>
+          <heading>"Report on the Guardianship of a Person</heading>
+          <text>I, (Name) the (Guardian/Limited Guardian of the Person) for (Name) , an (Incapacitated/Partially Incapacitated) Person hereby submit this (annual, court-ordered) Guardianship Report.</text>
+          <para>
+            <num>1.</num>
+            <text>The present place of abode of the Ward is:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The type of home or facility in which the Ward lives is _______________________ and the name of the Person in charge of the home or facility is _______________________.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>My present street address and telephone number is:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>During the last year, I have seen the Ward ___ times. I otherwise or also have become or remained familiar with the needs and care of the Ward as follows:</text>
+            <text>___________________________________________.</text>
+            <text>The nature of my visits to the Ward have been:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>The following services are currently being provided to the Ward:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>These services (are, are not) provided for in the current Guardianship Plan. The reason they are not shown in the current Guardianship Plan is:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>The Ward was last seen by a physician on: _______________________, _______. The purpose of the visit was:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>I (have, have not) observed any major change in the Ward's physical or mental condition during the last year. (If so,) these are my observations:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>I (have, have not) taken any significant action for or on behalf of the Ward since the last time I submitted a Guardianship Report. (If so,) I took the following actions:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>10.</num>
+            <text>There (have, have not) been any significant problems relating to the Ward or to my Guardianship of the Ward since the last time I submitted a Guardianship Report or, if this is an initial report, since the issuance of my Letters. (If so,) I have observed these problems:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>11.</num>
+            <text>It is my opinion that the Guardianship (should, should not) be continued. (If so,) the basis for my belief is as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>12.</num>
+            <text>I believe the Ward (would, would not) be able to manage essential requirements for physical health and safety with fewer restrictions on the Ward's ability to act for himself or herself. (If so,) the basis for my belief is as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>13.</num>
+            <text>My opinion of the present care being provided to the Ward is as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>14.</num>
+            <text>The place of abode of the Ward (has, has not) changed since the last Guardianship Report. (If so,) the place of abode of the Ward was changed for the following reasons:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <text>I hereby swear that the answers set forth above are true and correct to the best knowledge and belief of the undersigned, subject to the penalties of making a false affidavit or declaration.</text>
+          <text>Date: _______________________, _______</text>
+          <text>___________________________________________</text>
+          <text>(Signature of Guardian or Limited Guardian)</text>
+          <text>Telephone: _______________________"</text>
+        </include>
       </para>
       <para>
         <num>C.</num>
@@ -12870,10 +13288,81 @@
       <para>
         <num>B.</num>
         <text>If the Ward is an Incapacitated or Partially Incapacitated Person, reports on the Guardianship of the Property shall be substantially in the following form:</text>
+        <include>
+          <heading>"Report on the Guardianship of Property</heading>
+          <text>I, (Name) the (Guardian or Limited Guardian of the Property) of (Name) , an Incapacitated (or a Partially Incapacitated) Person, hereby submit this (annual, court-ordered) Report.</text>
+          <para>
+            <num>1.</num>
+            <text>List any significant changes in the capacity of the Ward to manage his or her financial resources:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The services currently being provided to the Ward are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>These services (are, are not) provided for in the current Guardianship Plan as approved by the Court. The reason these services are not shown in the current plan are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>I (have, have not) taken any significant actions for or on behalf of the Ward since the last time I submitted a Guardianship Report. (If so:) These actions are as follows:</text>
+            <text>__________________________________________________.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>There (have, have not) been any significant problems relating to the Guardianship since the last time I submitted a Guardianship Report. (If so:) The problems are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>In my opinion, the Guardianship (should, should not) be continued. The reasons for my belief are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>It is my belief that the Ward (would, would not) be able to manage his or her financial resources with fewer restrictions on the Ward's ability to act for him or herself. The reasons for my belief are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <text>I hereby swear that the answers set forth above are true and correct to the best knowledge and belief of the undersigned, subject to the penalties of making a false affidavit or declaration.</text>
+          <text>Date: _______________________, _______</text>
+          <text>___________________________________________</text>
+          <text>(Signature of Guardian or Limited Guardian)"</text>
+        </include>
       </para>
       <para>
         <num>C.</num>
         <text>If the Ward is a Minor, reports on the Guardianship of the Property shall be substantially in the following form:</text>
+        <include>
+          <heading>"Report on the Guardianship of a Minor</heading>
+          <text>I, (Name) the (Guardian or Limited Guardian of the Property) of (Name) , a Minor, hereby submit this (annual, court-ordered) Report.</text>
+          <para>
+            <num>1.</num>
+            <text>The services currently being provided to the Ward are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>These services (are, are not) provided for in the current Guardianship Plan as approved by the Court. The reason these services are not shown in the current plan are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>I (have, have not) taken any significant actions for or on behalf of the Ward since the last time I submitted a Guardianship Report. (If so:) These actions are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>There (have, have not) been any significant problems relating to the Guardianship since the last time I submitted a Guardianship Report. (If so:) The problems are as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <text>I hereby swear that the answers set forth above are true and correct to the best knowledge and belief of the undersigned, subject to the penalties of making a false affidavit or declaration.</text>
+          <text>Date: _______________________, _______</text>
+          <text>___________________________________________</text>
+          <text>(Signature of Guardian or Limited Guardian)"</text>
+        </include>
       </para>
       <para>
         <num>D.</num>

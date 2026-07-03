@@ -585,8 +585,11 @@
       <para>
         <num>B.</num>
         <text>The envelopes mailed to the Voters shall have imprinted on the back of the envelope the following information:</text>
-        <text>"I hereby certify that I am a citizen of the Chickasaw Nation, and that I am entitled to vote in the Chickasaw Tribal Election for the Candidates herein marked. I further certify that I marked the enclosed ballot in secret:"</text>
-        <text>Voter's Signature</text>
+        <include>
+          <text>"I hereby certify that I am a citizen of the Chickasaw Nation, and that I am entitled to vote in the Chickasaw Tribal Election for the Candidates herein marked. I further certify that I marked the enclosed ballot in secret:"</text>
+          <text>_____________________________</text>
+          <text>Voter's Signature</text>
+        </include>
       </para>
       <para>
         <num>C.</num>

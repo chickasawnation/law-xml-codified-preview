@@ -845,6 +845,89 @@
         <para>
           <num>C.</num>
           <text>The notice will appear substantially as follows:</text>
+          <include>
+            <text>In the District Court of the Chickasaw Nation</text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td data-width="423076">In the Matter of ____________________</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">An Alleged Adult Person In Need of Treatment</td>
+                    <td data-width="38461">)</td>
+                    <td data-width="538461">CIV-__-__</td>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+            <text class="center">
+              <strong>
+                <u>NOTICE ON HEARING ON THE PETITION ALLEGING AN ADULT TO BE A PERSON IN NEED OF TREATMENT</u>
+              </strong>
+            </text>
+            <text>Comes now, the Nation, and gives NOTICE that hearing on the Petition Alleging an Adult to Be a Person in Need of Treatment shall be heard on the ___________ day of ______, 20__ at __ o'clock a.m/p.m.. The Nation further submits the following:</text>
+            <para>
+              <num>1.</num>
+              <text>That the above named adult person has been alleged to be a Person having a Mental Illness which is defined by Section 13-701.6 of the Chickasaw Nation Code as having a substantial disorder of a person's thought, mood, perception, psychological orientation or memory that demonstrably and significantly impairs judgment, behavior or capacity to recognize reality or the ability to meet the ordinary demands of life. "Mental Illness" also includes alcohol and/or substance abuse, which is the use, without compelling medical reason, of alcohol or any substance which results in a psychological or physiological dependency as a function of continued use in such a manner as to induce mental, emotional, or physical impairment and cause socially dysfunctional or socially disordering behavior; and/or</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>That the above named adult person has been alleged to be a Person in Need of Treatment which is defined by Section 13-701.6 of the Chickasaw Nation Code as one that is at "Risk of Harm" which is defined as having at least one of the following:</text>
+              <para>
+                <num>a.</num>
+                <text>a substantial risk of immediate physical harm to self as manifested by evidence of serious threats of or attempts at suicide or other self-inflicted or bodily harm;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>a substantial risk of immediate physical harm to another individual or individuals as manifested by serious threats of, or evidence of violent behavior directed toward another individual or individuals;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>a reasonable certainty that without immediate treatment, severe impairment or injury will result to the Adult alleged to be a Person In Need of Treatment as manifested by the inability of the Adult to avoid or protect self from such impairment or injury; or</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>a substantial risk of serious physical harm to injury to self as manifested by evidence that the Adult is unable to provide for and/or is not providing for the basic physical needs of the Adult and that appropriate provision for those needs cannot be made immediately available in the community.</text>
+              </para>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>That the Court has ordered the examination of the above named person by two licensed mental health professionals (LMHPs) for the purpose of conducting an evaluation of the person alleged to have a mental illness and being a person in need of treatment. The LMHPs shall execute and submit a Certificate of Evaluation as to their findings.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>That upon the request of the above named person the hearing on the petition may be conducted by jury trial and the jury shall be composed of six (6) individuals having the qualifications required of jurors in the Nation.</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>That the witnesses identified in the petition may offer testimony under oath at the hearing.</text>
+            </para>
+            <para>
+              <num>6.</num>
+              <text>That, if indigent, the Court may appoint an attorney for the above named person who shall represent the person until final disposition of the case.</text>
+            </para>
+            <para>
+              <num>7.</num>
+              <text>That if the above named person is found at hearing to have a mental illness or to be a person in need of treatment, the Court shall take evidence and make findings of fact concerning the personal competency to consent or to refuse the treatment that is ordered, including, but not limited to, the right of the person to refuse psychotropic medications.</text>
+            </para>
+            <para>
+              <num>8.</num>
+              <text>That the above named person shall be afforded all rights as guaranteed by the Chickasaw Nation Code and federal law.</text>
+            </para>
+            <text>Dated:____________________</text>
+            <text>ATTEST:</text>
+            <text>COURT CLERK CHICKASAW NATION</text>
+            <text>___________________________________________</text>
+            <text>By: Deputy Court Clerk</text>
+          </include>
         </para>
         <para>
           <num>D.</num>

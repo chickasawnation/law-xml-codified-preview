@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-004">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-004" codify:doc="Chickasaw Nation Code">
   <num>PR43-004</num>
   <heading>Amendments to Title 5, Chapter 1, Appendix A of the Chickasaw Nation Code (Rules of Professional Conduct for Attorneys)</heading>
   <meta>
@@ -12,4 +12,116 @@
       <citation type="res" url="./adopted/PR43-004.pdf">PR43-004</citation>
     </citations>
   </meta>
+  <codify:replace path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|DEFINITIONS|A." codified:doc="Chickasaw Nation Code" codified:path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|DEFINITIONS|A.">
+    <para>
+      <num>A.</num>
+      <text>In the construction of this Act, the following rules of construction and definitions shall be observed unless inconsistent with the manifest intent of the Legislature or the context clearly requires otherwise:</text>
+      <para>
+        <num>1.</num>
+        <text>"Belief" or "Believes" denotes that the person involved actually supposed the fact in question to be true. A person's Belief may be inferred from circumstances.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Consult" or "Consultation" denotes communication of information Reasonably sufficient to permit the client to appreciate the significance of the matter in question.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Firm" or "Law Firm" denotes a lawyer or lawyers in a private Firm, lawyers employed in the legal department of a corporation or other organization and lawyers employed in a legal services organization.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Fraud" or "Fraudulent" denotes conduct having a purpose to deceive and not merely negligent misrepresentation or failure to apprise another of relevant information.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Knowingly," "Known," or "Knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Office of Tribal Justice Administration" is the Chickasaw Nation Executive Department office charged with enforcement, application, and supervision of the Chickasaw Nation criminal laws and houses the Office of the Chickasaw Nation Prosecutor created in Section 5-202.34 of the Chickasaw Nation Code.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Office of the Chickasaw Nation Public Defender" is the office created by Section 5-202.36 of the Chickasaw Nation Code.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Partner" denotes a member of a partnership and a shareholder in a Law Firm organized as a professional corporation.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Reasonable" or "Reasonably," when used in relation to conduct by a lawyer, denotes the conduct of a Reasonably prudent and competent lawyer.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Reasonable Belief" or "Reasonably Believes," when used in reference to a lawyer, denotes that the lawyer Believes the matter in question and that the circumstances are such that the Belief is Reasonable.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Reasonably Should Know," when used in reference to a lawyer, denotes that a lawyer of Reasonable prudence and competence would ascertain the matter in question.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Substantial," when used in reference to degree or extent, denotes a material matter of clear and weighty importance.</text>
+      </para>
+    </para>
+  </codify:replace>
+  <codify:insert path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.5" codified:doc="Chickasaw Nation Code" codified:path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.5|F.">
+    <para>
+      <num>F.</num>
+      <text>The salaries, benefits, and other forms of employment compensation, of lawyers who are employees of the Chickasaw Nation including but not limited to the Office of Tribal Justice Administration and the Office of the Chickasaw Nation Public Defender, shall not constitute fees for purposes of this Appendix A and Appendix B.</text>
+    </para>
+  </codify:insert>
+  <codify:replace path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.10" codified:doc="Chickasaw Nation Code" codified:path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.10">
+    <section>
+      <prefix>Rule</prefix>
+      <num>1.10</num>
+      <heading>Imputed Disqualification: General Rule.</heading>
+      <para>
+        <num>A.</num>
+        <text>While lawyers are associated in a Firm, none of them shall Knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7, 1.8, 1.9, 1.12 or 2.2, unless:</text>
+        <para>
+          <num>1.</num>
+          <text>The prohibition is based on the personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the Firm; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The prohibition is based upon Rule l.9(a) or (b) and arises out of the disqualified lawyer's association with a prior Firm; and</text>
+          <para>
+            <num>i.</num>
+            <text>The disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Written notice is promptly given to any affected former client to enable the former client to ascertain compliance with the provisions of this Rule, which shall include a description of the screening procedures employed; a statement of the Firm's and of the screened lawyer's compliance with these Rules; and an agreement by the Firm to respond promptly to any written inquiries or objections by the former client about the screening procedures; and</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>Certifications of compliance with these Rules and with the screening procedures are provided to the former client by the screened lawyer and by a Supervisory Lawyer or Partner of the Firm at reasonable intervals upon the former client's written request and upon termination of the screening procedures.</text>
+          </para>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Exception. For purposes of this Rule 1.1 OA, an in-house legal department of a government agency, a government agency providing indigent defense services, including a public defender's office or similar appointed-counsel's office, or a prosecutor's office, shall not be considered a "Firm" for purposes of imputed disqualification. A conflict of interest arising with respect to one lawyer in such an office shall not automatically be imputed to all</text>
+        </para>
+        <text>other lawyers in that office, provided that adequate procedures are in place to ensure that the conflicted lawyer is adequately screened, confidential information is not shared, and that representation of client(s) remains free from material limitation. The conflict of interest of a lawyer performing services as an independent contractor for an inhouse legal department of a government agency, a government agency providing indigent defense services, or a prosecutor's office shall not be automatically imputed to the legal department for which the conflicted lawyer is performing work. The lawyer performing contract services shall be subject to the same screening procedures set forth in this Rule 1.10, as appropriate, when a conflict of interest exists between the lawyer performing contract services and a client of the in-house legal department of a government agency, a government agency providing indigent defense services, or a prosecutor's office for which the lawyer is performing services.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When a lawyer has terminated an association with a Firm, the Firm is not prohibited from thereafter representing a person with interests materially adverse to those of a client represented by the former associated lawyer and not currently represented by the Firm, unless:</text>
+        <para>
+          <num>1.</num>
+          <text>the matter is the same or Substantially related to that in which the formerly associated lawyer represented the client; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>any lawyer remaining in the Firm has information protected by Rules 1.6 and 1.9.C that is material to the matter.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A disqualification prescribed by this rule may be waived by the affected client under the conditions stated in Rule 1.7.</text>
+      </para>
+    </section>
+  </codify:replace>
 </document>
