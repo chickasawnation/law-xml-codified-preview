@@ -1428,7 +1428,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>The Court shall determine child support by referring the parties to the Chickasaw Nation Child Support Enforcement Department (CSE) to act as referee to determine child support pursuant to guidelines established by Title 6 <cite path="6|1|B|6-102">Section 6-102</cite> <em>et seq</em>.</text>
+          <text>The Court shall determine child support by referring the parties to the Chickasaw Nation Child Support Enforcement Department (CSE) to act as referee to determine child support pursuant to guidelines established by <cite path="6|1|B">Title 6, Chapter 1, Article B.</cite></text>
         </para>
         <para>
           <num>C.</num>
@@ -6178,7 +6178,7 @@
     <container>
       <prefix>Article</prefix>
       <num>D</num>
-      <heading>ADJUDICATION (PR30-007, 5/17/13)</heading>
+      <heading>ADJUDICATION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-204.1</num>
@@ -6839,11 +6839,14 @@
           <annotation type="History" effective="2021-06-18" doc="PR38-030">PR38-030, 6/18/2021</annotation>
         </annotations>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
       <num>E</num>
-      <heading>DISPOSITION (PR30-007, 5/17/13)</heading>
+      <heading>DISPOSITION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-205.1</num>
@@ -7067,6 +7070,9 @@
         </para>
         <annotations/>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
@@ -7708,7 +7714,7 @@
     <container>
       <prefix>Article</prefix>
       <num>H</num>
-      <heading>FOSTER CARE (PR30-007, 5/17/13)</heading>
+      <heading>FOSTER CARE</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-208.1</num>
@@ -7815,6 +7821,9 @@
         </para>
         <annotations/>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
   </container>
   <container>
@@ -8156,7 +8165,7 @@
     <container>
       <prefix>Article</prefix>
       <num>B</num>
-      <heading>CONFIDENTIAL RECORDS (PR30-007, 5/17/13)</heading>
+      <heading>CONFIDENTIAL RECORDS</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-302.1</num>
@@ -8350,6 +8359,9 @@
         </para>
         <annotations/>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
@@ -8866,7 +8878,7 @@
     <container>
       <prefix>Article</prefix>
       <num>G</num>
-      <heading>ADJUDICATION (PR30-007, 5/17/13)</heading>
+      <heading>ADJUDICATION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-307.1</num>
@@ -9227,11 +9239,14 @@
         <text>The Court may have the Child examined by a physician, psychiatrist, psychologist, or other treatment professional, and the Court may place the Child in a hospital or other suitable facility for this purpose.</text>
         <annotations/>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
       <num>H</num>
-      <heading>DISPOSITION (PR30-007, 5/17/13)</heading>
+      <heading>DISPOSITION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-308.1</num>
@@ -9521,6 +9536,9 @@
         </para>
         <annotations/>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
@@ -10851,7 +10869,7 @@
       <prefix>Section</prefix>
       <num>6-501.10</num>
       <heading>APPOINTMENT OF SPECIAL GUARDIAN.</heading>
-      <text>A Special Guardian may be appointed by the Court pursuant to <cite path="6|3|H|6-308.57">Section 6-308.57</cite> of this Act.</text>
+      <text>A Special Guardian may be appointed by the Court pursuant to <cite path="6|5|6-501.57">Section 6-501.57</cite> of this Act.</text>
       <annotations/>
     </section>
     <section>
@@ -11674,7 +11692,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>A Guardianship Plan or plans substantially in the form required by <cite path="6|3|H|6-308.61">Section 6-308.61</cite> or <cite path="6|3|H|6-308.63">Section 6-308.63</cite> of this Act or both, as appropriate, may be attached to the petition at the time it is filed or may be submitted to the Court at the time of the hearing.</text>
+        <text>A Guardianship Plan or plans substantially in the form required by <cite path="6|5|6-501.61">Section 6-501.61</cite> or <cite path="6|5|6-501.63">Section 6-501.63</cite> of this Act or both, as appropriate, may be attached to the petition at the time it is filed or may be submitted to the Court at the time of the hearing.</text>
       </para>
       <annotations/>
     </section>
@@ -12764,7 +12782,7 @@
       <prefix>Section</prefix>
       <num>6-501.66</num>
       <heading>APPLICABLE ONLY TO HOMESTEAD; CUMULATIVE.</heading>
-      <text>Sections <cite path="PROOF 6|3|H|6-308.66">6-308.66</cite> and <cite path="PROOF 6|3|H|6-308.67">6-308.67</cite> of this Act apply only to the homestead and are cumulative and in addition to any such procedures now provided or permissible under existing statutes.</text>
+      <text>Sections <cite path="6|5|6-501.66">6-501.66</cite> and <cite path="6|5|6-501.67">6-501.67</cite> of this Act apply only to the homestead and are cumulative and in addition to any such procedures now provided or permissible under existing statutes.</text>
       <annotations/>
     </section>
     <section>
@@ -12860,14 +12878,14 @@
       <prefix>Section</prefix>
       <num>6-501.77</num>
       <heading>APPOINTMENT OF GUARDIAN OF MORE THAN FIVE WARDS PROHIBITED; EXCEPTIONS.</heading>
-      <text>No Person shall be appointed Guardian of any Minor or Incapacitated or Partially Incapacitated Person, who is, at the time of the hearing of the application for appointment, the Guardian of as many as five Persons, other than his own family or relatives. The provisions of this Section and <cite path=" 6|3|H|6-308.78">Section 6-308.78</cite> of this Act shall not apply to boards of control and superintendents of eleemosynary or charitable institutions, under the control and charge of the state, where under the law such boards of control and superintendents may be appointed as Guardians of the Estates, or of the Persons, of those Committed to their charge or safekeeping. The provisions of this Section shall not prohibit the appointment of officers or managers of fraternal or benevolent orders or homes and church orphanages as to inmates of such institutions.</text>
+      <text>No Person shall be appointed Guardian of any Minor or Incapacitated or Partially Incapacitated Person, who is, at the time of the hearing of the application for appointment, the Guardian of as many as five Persons, other than his own family or relatives. The provisions of this Section and <cite path="6|5|6-501.78">Section 6-501.78</cite> of this Act shall not apply to boards of control and superintendents of eleemosynary or charitable institutions, under the control and charge of the state, where under the law such boards of control and superintendents may be appointed as Guardians of the Estates, or of the Persons, of those Committed to their charge or safekeeping. The provisions of this Section shall not prohibit the appointment of officers or managers of fraternal or benevolent orders or homes and church orphanages as to inmates of such institutions.</text>
       <annotations/>
     </section>
     <section>
       <prefix>Section</prefix>
       <num>6-501.78</num>
       <heading>VIOLATIONS; PUNISHMENT.</heading>
-      <text>Any Person or official violating the provisions of <cite path=" 6|3|H|6-308.77">Section 6-308.77</cite> of this Act shall be guilty of a misdemeanor.</text>
+      <text>Any Person or official violating the provisions of <cite path="6|5|6-501.77">Section 6-501.77</cite> of this Act shall be guilty of a misdemeanor.</text>
       <annotations/>
     </section>
     <section>
@@ -13944,7 +13962,7 @@
       <prefix>Section</prefix>
       <num>6-501.118</num>
       <heading>PROCEEDS OF SALE TO BE APPLIED FOR CERTAIN PURPOSES; INVESTMENT; MAINTENANCE.</heading>
-      <text>If the Property is sold for the purposes mentioned in Sections <cite path="PROOF 6|3|H|6-308.116">6-308.116</cite> and <cite path="PROOF 6|3|H|6-308.117">6-308.117</cite> of this Act, the Guardian must apply the proceeds of the sale to such purposes, as far as necessary, and put out the residue, if any, on interest, or invest it in the best manner in his power as provided in this Act, until the capital is needed for the maintenance of the Ward and his family, or the education of his Children, or for the education of the Ward when a Minor, in which case the capital may be used for that purpose, as far as may be necessary, in like manner as if it had been Personal Estate of the Ward.</text>
+      <text>If the Property is sold for the purposes mentioned in Sections <cite path="6|5|6-501.116">6-501.116</cite> and <cite path="6|5|6-501.117">6-501.117</cite> of this Act, the Guardian must apply the proceeds of the sale to such purposes, as far as necessary, and put out the residue, if any, on interest, or invest it in the best manner in his power as provided in this Act, until the capital is needed for the maintenance of the Ward and his family, or the education of his Children, or for the education of the Ward when a Minor, in which case the capital may be used for that purpose, as far as may be necessary, in like manner as if it had been Personal Estate of the Ward.</text>
       <annotations/>
     </section>
     <section>
@@ -13958,7 +13976,7 @@
       <prefix>Section</prefix>
       <num>6-501.120</num>
       <heading>SALE OF WARD'S PROPERTY; HEARING; NOTICE ORDER.</heading>
-      <text>If it appears to the Court, from the petition, that it is necessary or would be beneficial to the Ward or the Estate of the Ward that the real or Personal Estate, or some part of such Estate, should be sold, the Court shall thereupon make an order directing all Persons entitled to notice pursuant to <cite path="6|3|H|6-308.26">Section 6-308.26</cite> of this Act for Minors or <cite path="6|3|H|6-308.53">Section 6-308.53</cite> of this Act for Adults to appear before the Court, at a time and place therein specified in the order and notice, not less than ten (10) nor more than thirty (30) days from the time of making such order, unless notice is waived, as provided in <cite path="6|3|H|6-308.121">Section 6-308.121</cite> of this Act, to show cause why an order should not be granted for the sale of such Estate. If it appear that it is necessary or would be beneficial to the Ward to sell the Personal Estate or some part of it, the Court must order the sale to be made.</text>
+      <text>If it appears to the Court, from the petition, that it is necessary or would be beneficial to the Ward or the Estate of the Ward that the real or Personal Estate, or some part of such Estate, should be sold, the Court shall thereupon make an order directing all Persons entitled to notice pursuant to <cite path="6|5|6-501.26">Section 6-501.26</cite> of this Act for Minors or <cite path="6|5|6-501.53">Section 6-501.53</cite> of this Act for Adults to appear before the Court, at a time and place therein specified in the order and notice, not less than ten (10) nor more than thirty (30) days from the time of making such order, unless notice is waived, as provided in <cite path="6|5|6-501.121">Section 6-501.121</cite> of this Act, to show cause why an order should not be granted for the sale of such Estate. If it appear that it is necessary or would be beneficial to the Ward to sell the Personal Estate or some part of it, the Court must order the sale to be made.</text>
       <annotations/>
     </section>
     <section>
@@ -14059,7 +14077,7 @@
       <prefix>Section</prefix>
       <num>6-501.133</num>
       <heading>EXCHANGE OF PROPERTY HELD BY WARD OR WARDS IN COMMON; NOTICE.</heading>
-      <text>When it shall appear to the Court to be to the advantage or best interests of the Ward, or Wards, to exchange an interest in real estate held by such Ward or Wards in common with another, or others, for other real estate also held in common by such Ward or Wards with another or others, to be owned solely by said Ward or Wards, after such exchange, a Guardian of the Ward's Estate may be authorized by the Court, after hearing and appraisement, to effectuate such exchange and to give or accept cash in part consideration. The provisions of <cite path=" 6|3|H|6-308.121">Section 6-308.121</cite> of this Act governing the giving of notice of hearing of a petition for an order to sell, and</text>
+      <text>When it shall appear to the Court to be to the advantage or best interests of the Ward, or Wards, to exchange an interest in real estate held by such Ward or Wards in common with another, or others, for other real estate also held in common by such Ward or Wards with another or others, to be owned solely by said Ward or Wards, after such exchange, a Guardian of the Ward's Estate may be authorized by the Court, after hearing and appraisement, to effectuate such exchange and to give or accept cash in part consideration. The provisions of <cite path="6|5|6-501.121">Section 6-501.121</cite> of this Act governing the giving of notice of hearing of a petition for an order to sell, and</text>
       <text>appraisement, shall apply and govern an order authorizing an exchange of real estate of a Ward or Wards by his Guardian.</text>
       <annotations/>
     </section>
@@ -14419,7 +14437,7 @@
         <prefix>Section</prefix>
         <num>6-602.7</num>
         <heading>CONCURRENT JURISDICTION.</heading>
-        <text>No Indian domiciled in the territorial jurisdiction of the Chickasaw Nation may change his name except as provided in <cite path="6|6|B">this Chapter 6, Article B</cite>, or by marriage (<cite path="PROOF 6|1|C">Title 6, Chapter 1 Article C of the Chickasaw Nation Code</cite>), or by decree of divorce (<cite path="6|1|A">Title 6, Chapter 1 Article A of the Chickasaw Nation Code</cite>), or by adoption (<cite path="6|4">Title 6, Chapter 4 of the Chickasaw Nation Code</cite>), or by the courts of the State of Oklahoma pursuant to the Oklahoma Statutes.</text>
+        <text>No Indian domiciled in the territorial jurisdiction of the Chickasaw Nation may change his name except as provided in <cite path="6|6|B">this Chapter 6, Article B</cite>, or by marriage (<cite path="6|1">Title 6, Chapter 1</cite>), or by decree of divorce (<cite path="6|1|A">Title 6, Chapter 1 Article A of the Chickasaw Nation Code</cite>), or by adoption (<cite path="6|4">Title 6, Chapter 4 of the Chickasaw Nation Code</cite>), or by the courts of the State of Oklahoma pursuant to the Oklahoma Statutes.</text>
         <annotations>
           <annotation type="History" effective="2014-09-19" doc="PR31-007">PR31-007, 9/19/14</annotation>
         </annotations>

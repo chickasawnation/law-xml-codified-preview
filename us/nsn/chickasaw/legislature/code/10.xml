@@ -643,7 +643,11 @@
     <container>
       <prefix>Article</prefix>
       <num>A</num>
-      <heading>MOTOR FUEL TAX Repealed: (PR13-17, 8/16/96)</heading>
+      <heading>MOTOR FUEL TAX</heading>
+      <reason>Repealed</reason>
+      <annotations>
+        <annotation type="History" effective="1996-08-16" doc="PR13-017">Repealed: PR13-17, 8/16/96</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
