@@ -17,7 +17,7 @@
       <prefix>Section</prefix>
       <num>3-201.1</num>
       <heading>TITLE</heading>
-      <text>Be it enacted by the Tribal Legislature of the Chickasaw Nation assembled, that this Act may be cited as the "Beverage Control Act of 2007" (hereinafter "Act"), as amended. This Act is enacted by the Chickasaw Tribal Legislature under the authority of Article VI, Section 1 and Article VII, Section 4 of the Constitution of the Chickasaw Nation, wherein the Legislature is required to prescribe procedures and regulations pertaining to the Chickasaw Nation.</text>
+      <text>Be it enacted by the Tribal Legislature of the Chickasaw Nation assembled, that this Act may be cited as the "Beverage Control Act of 2007" (hereinafter "Act"), as amended. This Act is enacted by the Chickasaw Tribal Legislature under the authority of <cite doc="Chickasaw Nation Constitution" path="VI|§1">Article VI, Section 1</cite> and <cite doc="Chickasaw Nation Constitution" path="VII|§4">Article VII, Section 4 of the Constitution of the Chickasaw Nation</cite>, wherein the Legislature is required to prescribe procedures and regulations pertaining to the Chickasaw Nation.</text>
       <annotations>
         <annotation type="History" effective="2006-10-20" doc="PR24-001">PR24-001, 10/20/06</annotation>
         <annotation type="History" effective="2015-09-21" doc="PR32-008">PR32-008, 9/21/15</annotation>
@@ -64,7 +64,7 @@
       </para>
       <para>
         <num>5.</num>
-        <text>"Chickasaw Nation Tax Commission" means the commission created by the Legislature as found in <cite path="2|10|H|2-1008.2">Section 2-1071</cite> in the Code of Laws of the Chickasaw Nation;</text>
+        <text>"Chickasaw Nation Tax Commission" means the commission created by the Legislature as found in <cite path="2|10|H|2-1008.2">Section 2-1008.2</cite> in the Code of Laws of the Chickasaw Nation;</text>
       </para>
       <para>
         <num>6.</num>
@@ -398,7 +398,7 @@
           </para>
           <para>
             <num>2.</num>
-            <text>a need exists to create authorities with attendant powers to achieve objectives allowed under the provisions of the Constitution of the Chickasaw Nation;</text>
+            <text>a need exists to create authorities with attendant powers to achieve objectives allowed under the provisions of <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>;</text>
           </para>
           <para>
             <num>3.</num>
@@ -433,7 +433,7 @@
         <prefix>Section</prefix>
         <num>3-3102</num>
         <heading>BASIS FOR AUTHORITY.</heading>
-        <text>The basis for authority of this Act is Article VI, Section 1, and Article VII, Section 4 of the Constitution of the Chickasaw Nation.</text>
+        <text>The basis for authority of this Act is <cite doc="Chickasaw Nation Constitution" path="VI|§1">Article VI, Section 1</cite>, and <cite doc="Chickasaw Nation Constitution" path="VII|§4">Article VII, Section 4 of the Constitution of the Chickasaw Nation</cite>.</text>
         <annotations>
           <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
         </annotations>
@@ -447,7 +447,7 @@
           <text>For the purpose of this Act:</text>
           <para>
             <num>1.</num>
-            <text>"The Chickasaw Nation" shall mean the government instituted in the Constitution of the Chickasaw Nation, or all Chickasaw Indians by blood whose names appear on the final rolls of the Chickasaw Nation approved pursuant to Section 2 of the Act of April 26, 1906, and their lineal descendants, or it shall mean the actual physical nation itself, depending upon reference;</text>
+            <text>"The Chickasaw Nation" shall mean the government instituted in <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>, or all Chickasaw Indians by blood whose names appear on the final rolls of the Chickasaw Nation approved pursuant to Section 2 of the Act of April 26, 1906, and their lineal descendants, or it shall mean the actual physical nation itself, depending upon reference;</text>
           </para>
           <para>
             <num>2.</num>
@@ -467,19 +467,19 @@
           </para>
           <para>
             <num>6.</num>
-            <text>"Legislature," shall mean the Chickasaw Tribal Legislature which is that body of not more than 13 members, as created by Articles V, VI, VII, VIII and IX of the Constitution of the Chickasaw Nation;</text>
+            <text>"Legislature," shall mean the Chickasaw Tribal Legislature which is that body of not more than 13 members, as created by Articles <cite doc="Chickasaw Nation Constitution" path="V">V</cite>, <cite doc="Chickasaw Nation Constitution" path="VI">VI</cite>, <cite doc="Chickasaw Nation Constitution" path="VII">VII</cite>, <cite doc="Chickasaw Nation Constitution" path="VIII">VIII</cite> and <cite doc="Chickasaw Nation Constitution" path="IX">IX</cite> of <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>;</text>
           </para>
           <para>
             <num>7.</num>
-            <text>"Governor" shall mean the chief executive officer of the Chickasaw Nation, as created by Articles X and XI of the Constitution;</text>
+            <text>"Governor" shall mean the chief executive officer of the Chickasaw Nation, as created by Articles <cite doc="Chickasaw Nation Constitution" path="X">X</cite> and <cite doc="Chickasaw Nation Constitution" path="XI">XI</cite> of <cite doc="Chickasaw Nation Constitution">the Constitution</cite>;</text>
           </para>
           <para>
             <num>8.</num>
             <text>"Constitution" means that document which formally established the Chickasaw Nation and its government, as ratified by the eligible registered voters of the Chickasaw Nation on August 27, 1983, and which was approved by the secretary of the U.S. Department of the Interior on July 15, 1983;</text>
-            <para>
-              <num>9.</num>
-              <text>"general business manager" shall mean the person within the Executive Department who is charged with overseeing and/or managing the gaming enterprises of the Chickasaw Nation.</text>
-            </para>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>"general business manager" shall mean the person within the Executive Department who is charged with overseeing and/or managing the gaming enterprises of the Chickasaw Nation.</text>
           </para>
         </para>
         <annotations>
@@ -923,7 +923,7 @@
         <prefix>Section</prefix>
         <num>3-3402</num>
         <heading>VACANCY PROVISION.</heading>
-        <text>At any time when a vacancy occurs in the office of Commissioner, the office shall be filled by appointment by the Governor, by and with the advice and consent of the Legislature in accordance with Article XI, Section 2 of the Constitution. Once the office of Commissioner is vacated, the Governor shall, within 60 days of that vacancy, name an appointee to fill the position and shall so notify the Legislature. Once that notification is made or before, the Governor shall cause the process to be initiated to clear that person as Commissioner through the requirements and provisions contained in this Act. Should that person clear the background check and investigations required, the Governor shall submit his gamete the legislature as his appointee as Commissioner. If the person does not clear the process, then the Governor shall submit the name of another person to be considered, who must then undergo the same process.</text>
+        <text>At any time when a vacancy occurs in the office of Commissioner, the office shall be filled by appointment by the Governor, by and with the advice and consent of the Legislature in accordance with <cite doc="Chickasaw Nation Constitution" path="XI|§2">Article XI, Section 2 of the Constitution</cite>. Once the office of Commissioner is vacated, the Governor shall, within 60 days of that vacancy, name an appointee to fill the position and shall so notify the Legislature. Once that notification is made or before, the Governor shall cause the process to be initiated to clear that person as Commissioner through the requirements and provisions contained in this Act. Should that person clear the background check and investigations required, the Governor shall submit his gamete the legislature as his appointee as Commissioner. If the person does not clear the process, then the Governor shall submit the name of another person to be considered, who must then undergo the same process.</text>
         <text>This procedure shall be continued until a person is cleared, appointed and consent is given to that appointment by the Legislature.</text>
         <annotations>
           <annotation type="History" effective="1994-01-24" doc="TL11-004">TL11-004, 1/24/94</annotation>
@@ -1405,7 +1405,7 @@
       <text>For the purpose of <cite path="3|4">this chapter</cite>, the following terms shall have the meanings respectively ascribed to them in this section unless the context clearly requires otherwise:</text>
       <para>
         <num>1.</num>
-        <text>"Chickasaw Nation" means the tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, adopted August 27, 1983, being duly recognized by the Secretary of the Interior of the United States of America and other agencies of the United States of America and other governments, as a self-governing, sovereign government; sometimes hereinafter referred to as "tribe."</text>
+        <text>"Chickasaw Nation" means the tribe of Indians located within the boundaries set forth in <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>, adopted August 27, 1983, being duly recognized by the Secretary of the Interior of the United States of America and other agencies of the United States of America and other governments, as a self-governing, sovereign government; sometimes hereinafter referred to as "tribe."</text>
       </para>
       <para>
         <num>2.</num>
@@ -1523,7 +1523,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>a need exists to create authorities with attendant powers to achieve objectives allowed under the provisions of the Constitution of the Chickasaw Nation;</text>
+        <text>a need exists to create authorities with attendant powers to achieve objectives allowed under the provisions of <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>;</text>
       </para>
       <para>
         <num>C.</num>
@@ -1539,7 +1539,7 @@
       <prefix>Section</prefix>
       <num>3-501.3</num>
       <heading>BASIS OF AUTHORITY.</heading>
-      <text>The basis of authority of this Act is Article VI, Section 1, and Article VII, Section 4 of the Constitution of the Chickasaw Nation.</text>
+      <text>The basis of authority of this Act is <cite doc="Chickasaw Nation Constitution" path="VI|§1">Article VI, Section 1</cite>, and <cite doc="Chickasaw Nation Constitution" path="VII|§4">Article VII, Section 4 of the Constitution of the Chickasaw Nation</cite>.</text>
       <annotations/>
     </section>
     <section>
@@ -1627,7 +1627,7 @@
         </para>
         <para>
           <num>20.</num>
-          <text>"Nation's Jurisdiction" means the scope of the Chickasaw Nation's territorial, subject matter, and personal jurisdiction, as such scope is defined by the preamble to the Chickasaw Nation Constitution and Sections <cite path="1|1|1-101.5">1-105.5</cite> and <cite path="5|2|A|5-201.3">5-201.3</cite> of the Chickasaw Nation Code.</text>
+          <text>"Nation's Jurisdiction" means the scope of the Chickasaw Nation's territorial, subject matter, and personal jurisdiction, as such scope is defined by the preamble to <cite doc="Chickasaw Nation Constitution">the Chickasaw Nation Constitution</cite> and Sections <cite path="1|1|1-101.5">1-101.5</cite> and <cite path="5|2|A|5-201.3">5-201.3</cite> of the Chickasaw Nation Code.</text>
         </para>
         <para>
           <num>21.</num>

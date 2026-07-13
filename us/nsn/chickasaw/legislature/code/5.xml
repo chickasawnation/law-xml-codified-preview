@@ -27,7 +27,7 @@
         <heading>MEMBERSHIP.</heading>
         <para>
           <num>A.</num>
-          <text>The Judicial Department of the Chickasaw Nation was originally defined by Article XII of the Constitution of the Chickasaw Nation 1983, and restructured by Amendment V to the Constitution of the Chickasaw Nation on November 21, 1994. Amendment V created the Supreme Court hereinafter called "Court" for the purpose of reference.</text>
+          <text>The Judicial Department of the Chickasaw Nation was originally defined by <cite doc="Chickasaw Nation Constitution" path="XII">Article XII of the Constitution of the Chickasaw Nation</cite> 1983, and restructured by <cite doc="Chickasaw Nation Constitution" path="amendments|V">Amendment V to the Constitution of the Chickasaw Nation</cite> on November 21, 1994. Amendment V created the Supreme Court hereinafter called "Court" for the purpose of reference.</text>
         </para>
         <para>
           <num>B.</num>
@@ -89,7 +89,7 @@
         <para>
           <num>B.</num>
           <text>All persons authorized under this Section shall become members of the Chickasaw Bar Association and their names shall be added to the roll of attorneys for the Chickasaw Supreme Court upon paying an annual fifty dollar ($50) membership fee, and such other additional fees as the Supreme Court may assess, to the Clerk of the Court and taking and signing the following oath before the Clerk of the Court:</text>
-          <text>"You do solemnly swear that you will support, protect and defend the Constitution of the United States and the Constitution of the Chickasaw Nation; that you will do no falsehood or consent that any be done in court, and if you know of any you will give knowledge thereof to the Judges of the Court, or some one of them, that it may be reformed; you will not wittingly, willingly or knowingly promote, sue or procure to be sued, any false or unlawful suit, or give aid or consent to the same; you will delay no man for lucre or malice, but will act in the office of attorney in this Court according to your best learning and	discretion, with all good fidelity as well to the Court as to your client, so help you God."</text>
+          <text>"You do solemnly swear that you will support, protect and defend <cite doc="Chickasaw Nation Constitution">the Constitution</cite> of the United States and <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>; that you will do no falsehood or consent that any be done in court, and if you know of any you will give knowledge thereof to the Judges of the Court, or some one of them, that it may be reformed; you will not wittingly, willingly or knowingly promote, sue or procure to be sued, any false or unlawful suit, or give aid or consent to the same; you will delay no man for lucre or malice, but will act in the office of attorney in this Court according to your best learning and	discretion, with all good fidelity as well to the Court as to your client, so help you God."</text>
         </para>
         <para>
           <num>C.</num>
@@ -2491,7 +2491,7 @@
         <prefix>Section</prefix>
         <num>5-102.7</num>
         <heading>RULE 7: LAW TO BE APPLIED.</heading>
-        <text>The Court shall apply the Chickasaw Nation Constitution, and the provisions of all statutory law heretofore or hereafter adopted by the Chickasaw Nation. In matters not covered by Tribal Statute, the Court shall apply traditional tribal customs and usages, which shall be called the Common Law. When in doubt as to the Tribal Common Law, the Court may request the advice of counselors and tribal elders familiar with them. In any dispute not covered by the Chickasaw Nation Constitution, Tribal Statute, or Tribal Common Law, the Court may apply any laws of the United States or any state which would be cognizable in the courts of general jurisdiction therein, and any regulation of the Department of Interior which may be of general or specific applicability. Upon this Code becoming effective, neither Part 11 of Title 25 of the Code of Federal Regulations, except those Sections thereof which are effective when the Chickasaw Nation receives certain funding from the Bureau of Indian Affairs, nor state law shall be binding upon the Court unless specifically incorporated into tribal law by Tribal Statute or by a decision of the Tribal Courts adopting some federal or state law as Tribal Common Law.</text>
+        <text>The Court shall apply <cite doc="Chickasaw Nation Constitution">the Chickasaw Nation Constitution</cite>, and the provisions of all statutory law heretofore or hereafter adopted by the Chickasaw Nation. In matters not covered by Tribal Statute, the Court shall apply traditional tribal customs and usages, which shall be called the Common Law. When in doubt as to the Tribal Common Law, the Court may request the advice of counselors and tribal elders familiar with them. In any dispute not covered by <cite doc="Chickasaw Nation Constitution">the Chickasaw Nation Constitution</cite>, Tribal Statute, or Tribal Common Law, the Court may apply any laws of the United States or any state which would be cognizable in the courts of general jurisdiction therein, and any regulation of the Department of Interior which may be of general or specific applicability. Upon this Code becoming effective, neither Part 11 of Title 25 of the Code of Federal Regulations, except those Sections thereof which are effective when the Chickasaw Nation receives certain funding from the Bureau of Indian Affairs, nor state law shall be binding upon the Court unless specifically incorporated into tribal law by Tribal Statute or by a decision of the Tribal Courts adopting some federal or state law as Tribal Common Law.</text>
         <annotations>
           <annotation type="History" effective="2003-12-19" doc="PR21-006">PR21-006, 12/19/03</annotation>
           <annotation type="History" effective="2004-01-16" doc="PR21-013">PR21-013, 1/16/04</annotation>
@@ -3061,7 +3061,7 @@
         <prefix>Section</prefix>
         <num>5-103.2</num>
         <heading>COMPOSITION OF THE SUPREME COURT IN APPEALS FROM DISTRICT COURT.</heading>
-        <text>The Supreme Court shall be composed of members as provided for under the Constitution of the Chickasaw Nation.</text>
+        <text>The Supreme Court shall be composed of members as provided for under <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>.</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
         </annotations>
@@ -3070,7 +3070,7 @@
         <prefix>Section</prefix>
         <num>5-103.3</num>
         <heading>MINIMUM QUALIFICATIONS OF JUSTICES.</heading>
-        <text>The Supreme Court Qualifications shall be as provided for under the Constitution of the Chickasaw Nation.</text>
+        <text>The Supreme Court Qualifications shall be as provided for under <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>.</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
         </annotations>
@@ -3079,7 +3079,7 @@
         <prefix>Section</prefix>
         <num>5-103.4</num>
         <heading>SELECTION OF JUSTICES.</heading>
-        <text>Justices shall be selected in accordance with the Constitution of the Chickasaw Nation.</text>
+        <text>Justices shall be selected in accordance with <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>.</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
         </annotations>
@@ -3088,7 +3088,7 @@
         <prefix>Section</prefix>
         <num>5-103.5</num>
         <heading>TERM OF OFFICE.</heading>
-        <text>All Justices of the Supreme Court shall serve terms of office in accordance with the Constitution of the Chickasaw Nation.</text>
+        <text>All Justices of the Supreme Court shall serve terms of office in accordance with <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>.</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
         </annotations>
@@ -3097,7 +3097,7 @@
         <prefix>Section</prefix>
         <num>5-103.6</num>
         <heading>OATH OF OFFICE.</heading>
-        <text>Before assuming office each Justice shall take an oath to support and protect the Constitution of the Chickasaw Nation.</text>
+        <text>Before assuming office each Justice shall take an oath to support and protect <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>.</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
         </annotations>
@@ -3151,7 +3151,7 @@
         <prefix>Section</prefix>
         <num>5-103.9</num>
         <heading>COMPENSATION OF JUSTICES.</heading>
-        <text>The compensation of all Justices of the Supreme Court shall be set by legislation in accordance with the Constitution and laws of the Tribe.</text>
+        <text>The compensation of all Justices of the Supreme Court shall be set by legislation in accordance with <cite doc="Chickasaw Nation Constitution">the Constitution</cite> and laws of the Tribe.</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
         </annotations>
@@ -3199,7 +3199,7 @@
         <heading>RULES OF THE COURT.</heading>
         <para>
           <num>A.</num>
-          <text>The Supreme Court shall establish rules concerning the administration of the Courts and conduct in the Supreme and District Courts not inconsistent with Tribal law or the Chickasaw Nation Constitution. Such rules shall govern the conduct, demeanor and decorum of those in the Court as well as the form and filing of appeals, briefs, pleadings, and other matters which will make the Court function more efficiently.</text>
+          <text>The Supreme Court shall establish rules concerning the administration of the Courts and conduct in the Supreme and District Courts not inconsistent with Tribal law or <cite doc="Chickasaw Nation Constitution">the Chickasaw Nation Constitution</cite>. Such rules shall govern the conduct, demeanor and decorum of those in the Court as well as the form and filing of appeals, briefs, pleadings, and other matters which will make the Court function more efficiently.</text>
         </para>
         <para>
           <num>B.</num>
@@ -3595,7 +3595,7 @@
         <prefix>Section</prefix>
         <num>5-201.1</num>
         <heading>AUTHORIZATION.</heading>
-        <text>There is hereby established, ordained, and activated pursuant to Amendment V of the Chickasaw Nation Constitution, a lower Court known as the Tribal District Court of the Chickasaw Nation, herein referred to as the "District Court."</text>
+        <text>There is hereby established, ordained, and activated pursuant to <cite doc="Chickasaw Nation Constitution" path="amendments|V">Amendment V of the Chickasaw Nation Constitution</cite>, a lower Court known as the Tribal District Court of the Chickasaw Nation, herein referred to as the "District Court."</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
         </annotations>
@@ -3607,7 +3607,7 @@
         <text>The following words have the meanings given below when used in this Title:</text>
         <para>
           <num>1.</num>
-          <text>"Chickasaw Nation or Nation" shall mean the Tribe of Indians located within the boundaries set forth in the Constitution of the Chickasaw Nation, being duly recognized by the Secretary of the United States Department of the Interior as a self governing, sovereign government. "Chickasaw Nation" shall be used to describe the lands and people of the Chickasaw Tribe.</text>
+          <text>"Chickasaw Nation or Nation" shall mean the Tribe of Indians located within the boundaries set forth in <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>, being duly recognized by the Secretary of the United States Department of the Interior as a self governing, sovereign government. "Chickasaw Nation" shall be used to describe the lands and people of the Chickasaw Tribe.</text>
         </para>
         <para>
           <num>2.</num>
@@ -3627,7 +3627,7 @@
         </para>
         <para>
           <num>6.</num>
-          <text>"Constitution" shall mean the Constitution of the Chickasaw Nation.</text>
+          <text>"Constitution" shall mean <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>.</text>
         </para>
         <para>
           <num>7.</num>
@@ -3659,7 +3659,7 @@
         </para>
         <para>
           <num>14.</num>
-          <text>"Indian Country" shall mean the land within the Chickasaw Nation boundaries described in the Chickasaw Nation Constitution, as amended, and as defined in 18 U.S.C.</text>
+          <text>"Indian Country" shall mean the land within the Chickasaw Nation boundaries described in <cite doc="Chickasaw Nation Constitution">the Chickasaw Nation Constitution</cite>, as amended, and as defined in 18 U.S.C.</text>
         </para>
         <para>
           <num>15.</num>
@@ -3742,7 +3742,7 @@
         <prefix>Section</prefix>
         <num>5-201.4</num>
         <heading>SUBJECT MATTER JURISDICTION.</heading>
-        <text>The Court shall have jurisdiction over all civil and criminal actions arising under the Constitution, laws, or treaties of the Chickasaw Nation, including the Tribal Common Law or by virtue of Executive or Legislative Order and enactment, or declaration or regulation of State or Federal Law, or a declaration or order of any Court of competent jurisdiction.</text>
+        <text>The Court shall have jurisdiction over all civil and criminal actions arising under <cite doc="Chickasaw Nation Constitution">the Constitution</cite>, laws, or treaties of the Chickasaw Nation, including the Tribal Common Law or by virtue of Executive or Legislative Order and enactment, or declaration or regulation of State or Federal Law, or a declaration or order of any Court of competent jurisdiction.</text>
         <annotations>
           <annotation type="History" effective="2021-02-22" doc="PR38-014">PR38-014, 02/22/2021</annotation>
         </annotations>
@@ -3763,7 +3763,7 @@
           <text>In all cases, the Court shall apply law from the following sources, in descending order of priority:</text>
           <para>
             <num>1.</num>
-            <text>the Constitution of the Chickasaw Nation; and if not applicable, then</text>
+            <text><cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>; and if not applicable, then</text>
           </para>
           <para>
             <num>2.</num>
@@ -3914,7 +3914,7 @@
         <prefix>Section</prefix>
         <num>5-202.5</num>
         <heading>OATH OF OFFICE.</heading>
-        <text>Before assuming office each Judge, special appointment magistrate and Special Judge shall take an oath to support and protect the Constitution of the Chickasaw Nation and to administer justice in all causes coming before him with integrity and fairness, without regard to the persons before him to be administered by the Chief Justice or the next ranking available Justice of the Supreme Court.</text>
+        <text>Before assuming office each Judge, special appointment magistrate and Special Judge shall take an oath to support and protect <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite> and to administer justice in all causes coming before him with integrity and fairness, without regard to the persons before him to be administered by the Chief Justice or the next ranking available Justice of the Supreme Court.</text>
         <annotations>
           <annotation type="History" effective="2001-10-19" doc="PR18-044">PR18-044, 10/19/01</annotation>
           <annotation type="History" effective="2021-02-21" doc="PR38-014">PR38-014, 02/21/2021</annotation>
@@ -6699,11 +6699,11 @@
         <heading>JURISDICTION IN CIVIL ACTIONS.</heading>
         <para>
           <num>A.</num>
-          <text>The Court may exercise jurisdiction over any person or subject matter on any basis, including but not limited to waiver and stipulation, as is consistent with the Constitution of the Chickasaw Nation, the Indian Civil Rights Act of 1968, as amended, and any specific restrictions or prohibitions contained in the Chickasaw Nation Code and federal law.</text>
+          <text>The Court may exercise jurisdiction over any person or subject matter on any basis, including but not limited to waiver and stipulation, as is consistent with <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>, the Indian Civil Rights Act of 1968, as amended, and any specific restrictions or prohibitions contained in the Chickasaw Nation Code and federal law.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>The Jurisdiction of the Courts shall extend to all territory as defined in Article I of the Constitution and to all territory described as Indian Country within the meaning of Section 1151 of Title 18 of the United States Code over which the Chickasaw Nation has authority, including tribal or individual, trust, non-trust and restricted land, and including all land owned by Chickasaw agencies in their own name, all waters, minerals and wildlife, and any other such land or interest in land acquired by virtue of a Congressional Act, Executive Order, a declaration or regulation of the United States Department of Interior, a declaration or order of a court of competent jurisdiction, by purchase, gift, relinquishment, or by any other lawful means.</text>
+          <text>The Jurisdiction of the Courts shall extend to all territory as defined in <cite doc="Chickasaw Nation Constitution" path="I">Article I of the Constitution</cite> and to all territory described as Indian Country within the meaning of Section 1151 of Title 18 of the United States Code over which the Chickasaw Nation has authority, including tribal or individual, trust, non-trust and restricted land, and including all land owned by Chickasaw agencies in their own name, all waters, minerals and wildlife, and any other such land or interest in land acquired by virtue of a Congressional Act, Executive Order, a declaration or regulation of the United States Department of Interior, a declaration or order of a court of competent jurisdiction, by purchase, gift, relinquishment, or by any other lawful means.</text>
         </para>
         <annotations/>
       </section>
@@ -6711,7 +6711,7 @@
         <prefix>Section</prefix>
         <num>5-208.4</num>
         <heading>FORCE OF THE CHICKASAW COMMON LAW.</heading>
-        <text>The customs and traditions of the Chickasaw Nation, to be known as the Chickasaw common law, as modified by the Constitution of the Chickasaw Nation and statutory law, judicial decisions, and the condition and wants of the people, shall remain in full force and effect within the Jurisdiction of the Chickasaw Nation in like force with any statute of the Chickasaw Nation insofar as the common law is not so modified, but all Chickasaw Nation laws shall be liberally construed to promote their objective.</text>
+        <text>The customs and traditions of the Chickasaw Nation, to be known as the Chickasaw common law, as modified by <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite> and statutory law, judicial decisions, and the condition and wants of the people, shall remain in full force and effect within the Jurisdiction of the Chickasaw Nation in like force with any statute of the Chickasaw Nation insofar as the common law is not so modified, but all Chickasaw Nation laws shall be liberally construed to promote their objective.</text>
         <annotations/>
       </section>
       <section>
@@ -6725,7 +6725,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>"Chickasaw Nation Jurisdiction" or "Jurisdiction of the Chickasaw Nation" means all territory as defined in the Constitution and to all territory described as Indian Country within the meaning of Section 1151 of Title 18 of the United States Code over which the Chickasaw Nation has authority, including tribal or individual, trust, non-trust and restricted land, and including all land owned by Chickasaw agencies in their own name, all waters, minerals and wildlife, and any other such land or interest in land acquired by virtue of a Congressional Act, Executive Order, a declaration or regulation of the United States Department of Interior, a declaration or order of a court of competent jurisdiction, by purchase, gift, relinquishment, or by any other lawful means.</text>
+          <text>"Chickasaw Nation Jurisdiction" or "Jurisdiction of the Chickasaw Nation" means all territory as defined in <cite doc="Chickasaw Nation Constitution">the Constitution</cite> and to all territory described as Indian Country within the meaning of Section 1151 of Title 18 of the United States Code over which the Chickasaw Nation has authority, including tribal or individual, trust, non-trust and restricted land, and including all land owned by Chickasaw agencies in their own name, all waters, minerals and wildlife, and any other such land or interest in land acquired by virtue of a Congressional Act, Executive Order, a declaration or regulation of the United States Department of Interior, a declaration or order of a court of competent jurisdiction, by purchase, gift, relinquishment, or by any other lawful means.</text>
         </para>
         <para>
           <num>3.</num>
@@ -6817,7 +6817,7 @@
           <text>In all civil cases, the Court shall apply:</text>
           <para>
             <num>1.</num>
-            <text>the Constitution, laws and common law of the Chickasaw Nation not prohibited by applicable federal law; and, if none, then</text>
+            <text><cite doc="Chickasaw Nation Constitution">the Constitution</cite>, laws and common law of the Chickasaw Nation not prohibited by applicable federal law; and, if none, then</text>
           </para>
           <para>
             <num>2.</num>
@@ -7844,7 +7844,7 @@
         <para>
           <num>D.</num>
           <heading>Intervention by the Chickasaw Nation.</heading>
-          <text>In any action, suit, or proceeding to which the Chickasaw Nation or any agency, officer, or employee thereof is not a party in their official capacity, wherein the constitutionality or enforceability of any statute of the Chickasaw Nation affecting the public interest is drawn in question, the parties, and upon their failure to do so, the Court shall certify such fact to the Governor of the Chickasaw Nation, the prosecutor, and Chickasaw Tribal Legislature and the Court shall permit the Chickasaw Nation to intervene for presentation of evidence, if the evidence is otherwise admissible in the case, and for argument on the question of constitutionality or enforceability of the Chickasaw Nation laws at issue. It shall be the duty of the party raising such issue to promptly give notice thereof to the Court either orally upon the record in open Court and served upon all parties, and to state in said notice when and how notice of the pending question will be or has been certified to the Chickasaw Nation as provided above.</text>
+          <text>In any action, suit, or proceeding to which the Chickasaw Nation or any agency, officer, or employee thereof is not a party in their official capacity, wherein <cite doc="Chickasaw Nation Constitution">the constitution</cite>ality or enforceability of any statute of the Chickasaw Nation affecting the public interest is drawn in question, the parties, and upon their failure to do so, the Court shall certify such fact to the Governor of the Chickasaw Nation, the prosecutor, and Chickasaw Tribal Legislature and the Court shall permit the Chickasaw Nation to intervene for presentation of evidence, if the evidence is otherwise admissible in the case, and for argument on the question of constitutionality or enforceability of the Chickasaw Nation laws at issue. It shall be the duty of the party raising such issue to promptly give notice thereof to the Court either orally upon the record in open Court and served upon all parties, and to state in said notice when and how notice of the pending question will be or has been certified to the Chickasaw Nation as provided above.</text>
         </para>
         <annotations/>
       </section>
@@ -8827,7 +8827,7 @@
         <para>
           <num>A.</num>
           <heading>Right Preserved.</heading>
-          <text>The right of a trial by jury as declared by the Constitution or a statute of the Chickasaw Nation or the Indian Civil Rights Act of 1968 shall be preserved inviolate. In all actions regarding a forcible entry and detainer or arising in contract or tort where the amount in controversy, or the value of the property to be recovered, as stated in the prayer for relief or an affidavit of a party or as found by the Court where the amount in controversy is questioned by the affidavit of the adverse party exceeds ten thousand dollars ($10,000), except as otherwise specifically provided by law and in tax cases and in all actions for the involuntary removal of children from the custody of their parents or custodian and the involuntary termination of parental rights, the action may be tried to a jury upon demand of any party. All other actions and issues of fact shall be tried to the Court.</text>
+          <text>The right of a trial by jury as declared by <cite doc="Chickasaw Nation Constitution">the Constitution</cite> or a statute of the Chickasaw Nation or the Indian Civil Rights Act of 1968 shall be preserved inviolate. In all actions regarding a forcible entry and detainer or arising in contract or tort where the amount in controversy, or the value of the property to be recovered, as stated in the prayer for relief or an affidavit of a party or as found by the Court where the amount in controversy is questioned by the affidavit of the adverse party exceeds ten thousand dollars ($10,000), except as otherwise specifically provided by law and in tax cases and in all actions for the involuntary removal of children from the custody of their parents or custodian and the involuntary termination of parental rights, the action may be tried to a jury upon demand of any party. All other actions and issues of fact shall be tried to the Court.</text>
         </para>
         <para>
           <num>B.</num>
@@ -8860,7 +8860,7 @@
           </para>
           <para>
             <num>2.</num>
-            <text>the Court upon motion or of its own initiative finds that a right of trial by jury of some or all of those issues does not exist under the Constitution and laws of the Chickasaw Nation or under the Indian Civil Rights Act of 1968.</text>
+            <text>the Court upon motion or of its own initiative finds that a right of trial by jury of some or all of those issues does not exist under <cite doc="Chickasaw Nation Constitution">the Constitution</cite> and laws of the Chickasaw Nation or under the Indian Civil Rights Act of 1968.</text>
           </para>
         </para>
         <para>
@@ -8906,7 +8906,7 @@
         <para>
           <num>B.</num>
           <heading>Separate Trials.</heading>
-          <text>The Court, in furtherance of convenience or to avoid prejudice or when separate trials will be conducive to expedition and economy, may order a separate trial of any Claim, cross-claim, counterclaim, or third-party Claim, or of any separate issue or of any number of Claims, cross-claims, counterclaims, or third-party claims, or issues, always preserving inviolate the right to trial by jury as declared by the Constitution or a statute of the Chickasaw Nation or the Indian Civil Rights Act of 1968, as amended.</text>
+          <text>The Court, in furtherance of convenience or to avoid prejudice or when separate trials will be conducive to expedition and economy, may order a separate trial of any Claim, cross-claim, counterclaim, or third-party Claim, or of any separate issue or of any number of Claims, cross-claims, counterclaims, or third-party claims, or issues, always preserving inviolate the right to trial by jury as declared by <cite doc="Chickasaw Nation Constitution">the Constitution</cite> or a statute of the Chickasaw Nation or the Indian Civil Rights Act of 1968, as amended.</text>
         </para>
         <annotations/>
       </section>
@@ -11459,7 +11459,7 @@
           <text>In a Criminal Proceeding in which the Defendant may be subjected to a term of imprisonment greater than one (1) year for a single offense, the Chickasaw Nation shall provide to the Defendant those rights set forth in the Tribal Law and Order Act of 2010 (25 U.S.C. § 1302(c)), as amended, including all of the following:</text>
           <para>
             <num>1.</num>
-            <text>the right to effective assistance of counsel at least equal to that guaranteed by the Constitution of the United States;</text>
+            <text>the right to effective assistance of counsel at least equal to that guaranteed by <cite doc="Chickasaw Nation Constitution">the Constitution</cite> of the United States;</text>
           </para>
           <para>
             <num>2.</num>
@@ -15152,6 +15152,15 @@
     </section>
     <section>
       <prefix>Section</prefix>
+      <num>5-1201.10</num>
+      <heading>VICTIM CONFIDENTIALITY.</heading>
+      <reason>Reserved</reason>
+      <annotations>
+        <annotation type="History" effective="2020-02-20" doc="PR38-014">PR38-014</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>Section</prefix>
       <num>5-1201.11</num>
       <heading>VIOLATION OF ORDER; WARRANTLESS ARREST; PRESUMPTION OF VALIDITY OF ORDERS.</heading>
       <para>
@@ -16006,11 +16015,11 @@
         <heading>SECRETS OF THE CHICKASAW GOVERNMENT AND  OTHER OFFICIAL INFORMATION;	GOVERNMENTAL PRIVILEGES.</heading>
         <para>
           <num>A.</num>
-          <text>If the law of the United States creates a governmental privilege that the courts of this Nation must recognize under the Constitution and statutes of the United States, the privilege may be claimed as provided by the law of the United States.</text>
+          <text>If the law of the United States creates a governmental privilege that the courts of this Nation must recognize under <cite doc="Chickasaw Nation Constitution">the Constitution</cite> and statutes of the United States, the privilege may be claimed as provided by the law of the United States.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>No other special governmental privilege is recognized except as created by the Constitution or statutes of the Chickasaw Nation, including <cite path="5|13|E">this Article E.</cite></text>
+          <text>No other special governmental privilege is recognized except as created by <cite doc="Chickasaw Nation Constitution">the Constitution</cite> or statutes of the Chickasaw Nation, including <cite path="5|13|E">this Article E.</cite></text>
         </para>
         <para>
           <num>C.</num>
@@ -17569,7 +17578,7 @@
       <heading>CREATION AND PURPOSE.</heading>
       <para>
         <num>A.</num>
-        <text>Pursuant to Amendment V of the Constitution of the Chickasaw Nation, there is hereby established a Chickasaw Nation Peacemaking Court which shall be a division of the Chickasaw Nation District Court and which shall operate in accordance with the provisions of the customary and traditional law of the Nation.</text>
+        <text>Pursuant to <cite doc="Chickasaw Nation Constitution" path="amendments|V">Amendment V of the Constitution of the Chickasaw Nation</cite>, there is hereby established a Chickasaw Nation Peacemaking Court which shall be a division of the Chickasaw Nation District Court and which shall operate in accordance with the provisions of the customary and traditional law of the Nation.</text>
       </para>
       <para>
         <num>B.</num>

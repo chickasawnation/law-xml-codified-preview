@@ -144,7 +144,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Having elected to function as a registration jurisdiction on May 18, 2007 by Tribal Legislative resolution GR-24-039, the Chickasaw Nation bears the responsibility of implementing Sex Offender registration and notification decisions and for assuring compliance with the federal Sex Offender Registration and Notification Act of 2007, the Chickasaw Constitution and this ordinance.</text>
+          <text>Having elected to function as a registration jurisdiction on May 18, 2007 by Tribal Legislative resolution GR-24-039, the Chickasaw Nation bears the responsibility of implementing Sex Offender registration and notification decisions and for assuring compliance with the federal Sex Offender Registration and Notification Act of 2007, <cite doc="Chickasaw Nation Constitution">the Chickasaw Constitution</cite> and this ordinance.</text>
         </para>
         <para>
           <num>C.</num>
@@ -156,7 +156,7 @@
         <prefix>Section</prefix>
         <num>17-201.4</num>
         <heading>CONSTITUTIONAL AUTHORITY.</heading>
-        <text>The Chickasaw Tribal Legislature has the power to enact ordinances governing criminal law and criminal procedures in the Chickasaw Nation. (Article II, Section 1 and 2, Constitution of the Chickasaw Nation.)</text>
+        <text>The Chickasaw Tribal Legislature has the power to enact ordinances governing criminal law and criminal procedures in the Chickasaw Nation. (<cite doc="Chickasaw Nation Constitution" path="II|§1">Article II, Section 1</cite> and 2, Constitution of the Chickasaw Nation.)</text>
         <annotations/>
       </section>
       <section>
@@ -226,11 +226,11 @@
         </para>
         <para>
           <num>B.</num>
-          <text>"Chickasaw Nation" or "Nation" shall mean the Government of the Chickasaw Nation or all Chickasaw Indians by blood whose names appear on the final rolls of the Chickasaw Nation as approved pursuant to Section 2 of the Act of April 26, 1906, (34 Stat. 137), and their lineal descendants as stated in Section 1, Article II of the Constitution of the Chickasaw Nation.</text>
+          <text>"Chickasaw Nation" or "Nation" shall mean the Government of the Chickasaw Nation or all Chickasaw Indians by blood whose names appear on the final rolls of the Chickasaw Nation as approved pursuant to Section 2 of the Act of April 26, 1906, (34 Stat. 137), and their lineal descendants as stated in <cite doc="Chickasaw Nation Constitution" path="II|§1">Section 1, Article II of the Constitution of the Chickasaw Nation</cite>.</text>
         </para>
         <para>
           <num>C.</num>
-          <text>"Chickasaw Nation Sex Offender Registration Office" shall mean the office designated by the Chickasaw Nation to register Sexual Offenders, and maintain the Sex Offender Registry, pursuant to the provisions of the Chickasaw Constitution and applicable laws of the Chickasaw Nation.</text>
+          <text>"Chickasaw Nation Sex Offender Registration Office" shall mean the office designated by the Chickasaw Nation to register Sexual Offenders, and maintain the Sex Offender Registry, pursuant to the provisions of <cite doc="Chickasaw Nation Constitution">the Chickasaw Constitution</cite> and applicable laws of the Chickasaw Nation.</text>
         </para>
         <para>
           <num>D.</num>
@@ -3666,7 +3666,7 @@
           <text>Nothing in this Section shall be construed to criminalize possession of an Alcoholic Beverage by a person who is at least eighteen (18) years of age and who is in possession of an Alcoholic Beverage solely and exclusively for the purpose of serving such Alcoholic Beverage within the scope of a license from the Chickasaw Nation Tax Commission.</text>
         </para>
         <annotations>
-          <annotation type="History" effective="0154-09-21" doc="PR32-008">PR32-008, 9/21/154</annotation>
+          <annotation type="History" effective="154-09-21" doc="PR32-008">PR32-008, 9/21/154</annotation>
           <annotation type="History" effective="2022-05-20" doc="PR39-007">PR39-007, 05/20/2022</annotation>
         </annotations>
       </section>
