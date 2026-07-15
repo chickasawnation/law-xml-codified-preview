@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="chickasawnation/law-xml" commit="a7812a2fb9c417af800b489f973b261dc89c453e"/>
+        <repository name="chickasawnation/law-xml" commit="f2cab6927527e239c3ba25525de9d448cf95b89f"/>
       </repositories>
       <platform version="2.19.5.dev402" reproducible="false"/>
-      <build-date>2026-07-14</build-date>
+      <build-date>2026-07-15</build-date>
       <codified-date>2026-05-15</codified-date>
     </build>
   </meta>
